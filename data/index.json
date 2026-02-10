@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-02-10T16:45:14.977535+00:00",
+  "generated_at": "2026-02-10T19:10:15.493117+00:00",
   "range": {
-    "from": "2026-02-05",
-    "to": "2026-02-06"
+    "from": "2026-02-09",
+    "to": "2026-02-10"
   },
   "types": [
+    "auctions",
+    "contracts",
+    "notices",
+    "payments",
     "requests"
   ],
   "counts": {
-    "requests": 5569
+    "auctions": 860,
+    "contracts": 935,
+    "notices": 599,
+    "payments": 1775,
+    "requests": 2906
   },
-  "total": 5569,
-  "sum_amount_eur": 951857898.66,
-  "sum_amount_text": "951,857,898.66 €"
+  "total": 7075,
+  "sum_amount_eur": 793689933.37,
+  "sum_amount_text": "793,689,933.37 €"
 }
