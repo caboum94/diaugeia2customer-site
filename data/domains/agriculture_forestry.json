@@ -1,0 +1,4401 @@
+{
+  "domain": "Agriculture & Forestry",
+  "count": 17,
+  "items": [
+    {
+      "title": "Προμήθεια τροφίμων&λοιπών ειδών για τις ανάγκες σίτισης του Ηρακλείδιου Αχίλλειου Γηροκομείου Αγιάς",
+      "referenceNumber": "26REQ018459486",
+      "previousRequestReferenceNumber": "26REQ018459349",
+      "signedDate": "2026-02-10",
+      "lastUpdateDate": "2026-02-10T00:00:00",
+      "submissionDate": "2026-02-10T14:34:34.425",
+      "procurementDeliveryDate": "2026-02-20",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "1760",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "099711740",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6003",
+        "value": "ΔΗΜΟΣ ΑΓΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL612",
+        "value": "Λάρισα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε82202.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100006155",
+          "value": "ΔΙΑΤΑΚΤΗΣ"
+        },
+        "signers": {
+          "key": "100006156",
+          "value": "ΑΝΤΩΝΗΣ Ν. ΓΚΟΥΝΤΑΡΑΣ - Δήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 14679.36,
+      "totalCostWithoutVAT": 12988.4,
+      "objectDetails": [
+        {
+          "quantity": 1770,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 2190.67,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΜΗΜΑ 3 : ΕΙΔΗ ΟΠΩΡΟΠΩΛΕΙΟΥ ",
+          "cpvs": [
+            {
+              "key": "03221200-8",
+              "value": "Οπωροκηπευτικά"
+            }
+          ]
+        },
+        {
+          "quantity": 2500,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2650,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΜΗΜΑ 1 : ΕΙΔΗ ΑΡΤΟΠΟΙΕΙΟΥ ",
+          "cpvs": [
+            {
+              "key": "15612500-6",
+              "value": "Προϊόντα αρτοποιίας"
+            }
+          ]
+        },
+        {
+          "quantity": 10,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 22.41,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΛΟΙΠΑ ΕΙΔΗ ΠΑΝΤΟΠΩΛΕΙΟΥ",
+          "cpvs": [
+            {
+              "key": "39830000-9",
+              "value": "Προϊόντα καθαρισμού"
+            }
+          ]
+        },
+        {
+          "quantity": 1514,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 3162.52,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΡΟΦΙΜΑ ",
+          "cpvs": [
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            }
+          ]
+        },
+        {
+          "quantity": 40,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 915.6,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΜΗΜΑ 4 : ΕΛΑΙΟΛΑΔΟ ",
+          "cpvs": [
+            {
+              "key": "15411110-6",
+              "value": "Ελαιόλαδο"
+            }
+          ]
+        },
+        {
+          "quantity": 650,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 4047.2,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΜΗΜΑ 2 : ΕΙΔΗ ΚΡΕΟΠΩΛΕΙΟΥ ",
+          "cpvs": [
+            {
+              "key": "15110000-2",
+              "value": "Κρέας"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "03221200",
+        "15612500",
+        "39830000",
+        "15000000",
+        "15411110",
+        "15110000"
+      ],
+      "cpv_divisions": [
+        "03",
+        "15",
+        "39"
+      ],
+      "all_domains": [
+        "Agriculture & Forestry",
+        "Food & Catering",
+        "Furniture & Cleaning Products"
+      ],
+      "primary_domain": "Food & Catering"
+    },
+    {
+      "title": "Προμήθεια τροφίμων&λοιπών ειδών για τις ανάγκες σίτισης του Ηρακλείδιου Αχίλλειου Γηροκομείου Αγιάς",
+      "referenceNumber": "26REQ018459349",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-10",
+      "lastUpdateDate": "2026-02-10T00:00:00",
+      "submissionDate": "2026-02-10T14:24:25.125",
+      "procurementDeliveryDate": "2026-02-20",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "1732",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "099711740",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6003",
+        "value": "ΔΗΜΟΣ ΑΓΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL612",
+        "value": "Λάρισα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε82202.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100099636",
+          "value": "ΤΜΗΜΑ ΚΟΙΝΩΝΙΚΗΣ ΠΟΛΙΤΙΚΗΣ, ΙΣΟΤΗΤΑΣ ΤΩΝ ΦΥΛΩΝ, ΕΘΕΛΟΝΤΙΣΜΟΥ ΚΑΙ ΔΗΜΟΣΙΑΣ ΥΓΕΙΑΣ"
+        },
+        "signers": {
+          "key": "100099843",
+          "value": "ΜΙΛΤΙΑΔΗΣ ΖΙΑΚΑΣ - Αναπληρωτής Προϊστάμενος"
+        }
+      },
+      "totalCostWithVAT": 14679.36,
+      "totalCostWithoutVAT": 12988.4,
+      "objectDetails": [
+        {
+          "quantity": 10,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 22.41,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΛΟΙΠΑ ΕΙΔΗ ΠΑΝΤΟΠΩΛΕΙΟΥ",
+          "cpvs": [
+            {
+              "key": "39830000-9",
+              "value": "Προϊόντα καθαρισμού"
+            }
+          ]
+        },
+        {
+          "quantity": 650,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 4047.2,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΜΗΜΑ 2 : ΕΙΔΗ ΚΡΕΟΠΩΛΕΙΟΥ ",
+          "cpvs": [
+            {
+              "key": "15110000-2",
+              "value": "Κρέας"
+            }
+          ]
+        },
+        {
+          "quantity": 2500,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2650,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΜΗΜΑ 1 : ΕΙΔΗ ΑΡΤΟΠΟΙΕΙΟΥ ",
+          "cpvs": [
+            {
+              "key": "15612500-6",
+              "value": "Προϊόντα αρτοποιίας"
+            }
+          ]
+        },
+        {
+          "quantity": 40,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 915.6,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΜΗΜΑ 4 : ΕΛΑΙΟΛΑΔΟ ",
+          "cpvs": [
+            {
+              "key": "15411110-6",
+              "value": "Ελαιόλαδο"
+            }
+          ]
+        },
+        {
+          "quantity": 1770,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 2190.67,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΜΗΜΑ 3 : ΕΙΔΗ ΟΠΩΡΟΠΩΛΕΙΟΥ ",
+          "cpvs": [
+            {
+              "key": "03221200-8",
+              "value": "Οπωροκηπευτικά"
+            }
+          ]
+        },
+        {
+          "quantity": 1514,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 3162.52,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΡΟΦΙΜΑ ",
+          "cpvs": [
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018459486"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "39830000",
+        "15110000",
+        "15612500",
+        "15411110",
+        "03221200",
+        "15000000"
+      ],
+      "cpv_divisions": [
+        "39",
+        "15",
+        "03"
+      ],
+      "all_domains": [
+        "Furniture & Cleaning Products",
+        "Food & Catering",
+        "Agriculture & Forestry"
+      ],
+      "primary_domain": "Food & Catering"
+    },
+    {
+      "title": "Προμήθεια υλικών επισκευής εγκαταστάσεων ζωολογικού πάρκου Φλώρινας",
+      "referenceNumber": "26REQ018458715",
+      "previousRequestReferenceNumber": "26REQ018453687",
+      "signedDate": "2026-02-10",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-10T13:41:06.019",
+      "procurementDeliveryDate": "2026-02-28",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "3517/2026",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "998565702",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6309",
+        "value": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL533",
+        "value": "Φλώρινα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε81701.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "91527",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100050335",
+          "value": "Κωνσταντίνος Βασιλείου - Πρόεδρος Επιτροπής"
+        }
+      },
+      "totalCostWithVAT": 8466.77,
+      "totalCostWithoutVAT": 6828.04,
+      "objectDetails": [
+        {
+          "quantity": 257,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 6828.04,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια ξυλείας και συναφών υλικών για την συντήρηση και κατασκευή ξύλινων κατασκευών (παγκάκια, περιφράξεις, πέργκολες, κιόσκια) και μεταλλικών περιφράξεων ",
+          "cpvs": [
+            {
+              "key": "44212400-3",
+              "value": "Πάσσαλοι"
+            },
+            {
+              "key": "03411000-4",
+              "value": "Ξυλεία από κωνοφόρα δέντρα"
+            },
+            {
+              "key": "44112110-2",
+              "value": "Μέρη υποστέγων"
+            },
+            {
+              "key": "44313000-7",
+              "value": "Μεταλλικά πλέγματα"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "44212400",
+        "03411000",
+        "44112110",
+        "44313000"
+      ],
+      "cpv_divisions": [
+        "44",
+        "03"
+      ],
+      "all_domains": [
+        "Construction Materials & Structures",
+        "Agriculture & Forestry"
+      ],
+      "primary_domain": "Construction Materials & Structures"
+    },
+    {
+      "title": "ΑΑΥ   Δαπάνη  της διοργάνωσης Αποκριάτικων εκδηλώσεων έτους 2026 στο Δήμο Κόνιτσας",
+      "referenceNumber": "26REQ018457031",
+      "previousRequestReferenceNumber": "26REQ018456970",
+      "signedDate": "2026-02-10",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-10T12:03:29.773",
+      "procurementDeliveryDate": "2026-02-21",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "922",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "800161749",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6156",
+        "value": "ΔΗΜΟΣ ΚΟΝΙΤΣΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL543",
+        "value": "Ιωάννινα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε81806.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81788",
+          "value": "ΔΗΜΟΣ ΚΟΝΙΤΣΑΣ"
+        },
+        "signers": {
+          "key": "100002308",
+          "value": "ΑΝΔΡΕΑΣ ΠΑΠΑΣΠΥΡΟΥ - Δήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 2089.63,
+      "totalCostWithoutVAT": 1811.07,
+      "objectDetails": [
+        {
+          "quantity": 38,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 201.78,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΛΙΕΣ",
+          "cpvs": [
+            {
+              "key": "03222400-7",
+              "value": "Ελιές"
+            }
+          ]
+        },
+        {
+          "quantity": 45,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 597.15,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΧΑΛΒΑΣ ΜΠΑΣΤΟΥΝΙ ΒΑΝΙΛΙΑ ΚΑΙ ΚΑΚΑΟ",
+          "cpvs": [
+            {
+              "key": "15842300-5",
+              "value": "Προϊόντα ζαχαροπλαστικής"
+            }
+          ]
+        },
+        {
+          "quantity": 36,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 392.04,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΚΡΑΣΙ ΛΕΥΚΟ ΣΕ ΣΥΣΚΕΥΑΣΙΑ 5 ΛΙΤΡΩΝ",
+          "cpvs": [
+            {
+              "key": "15931200-5",
+              "value": "Επιτραπέζιο κρασί"
+            }
+          ]
+        },
+        {
+          "quantity": 90,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 238.5,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΦΑΣΟΛΙΑ",
+          "cpvs": [
+            {
+              "key": "03221210-1",
+              "value": "Φασόλια"
+            }
+          ]
+        },
+        {
+          "quantity": 240,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 381.6,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΝΑΨΥΚΤΙΚΑ (ΠΟΡΤΟΚΑΛΑΔΕΣ, ΛΕΜΟΝΑΔΕΣ, ΚΟΚΑ ΚΟΛΑ)",
+          "cpvs": [
+            {
+              "key": "15982000-5",
+              "value": "Αναψυκτικά"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [
+        "26PROC018457653"
+      ],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "03222400",
+        "15842300",
+        "15931200",
+        "03221210",
+        "15982000"
+      ],
+      "cpv_divisions": [
+        "03",
+        "15"
+      ],
+      "all_domains": [
+        "Agriculture & Forestry",
+        "Food & Catering"
+      ],
+      "primary_domain": "Food & Catering"
+    },
+    {
+      "title": "ΕΓΚΡΙΣΗ  ΔΑΠΑΝΗΣ ΔΙΟΡΓΑΝΩΣΗΣ ΕΚΔΗΛΩΣΕΩΝ ΕΟΡΤΑΣΜΟΥ ΕΠΕΤΕΙΩΝ 25ης ΜΑΡΤΙΟΥ & 28ης ΟΚΤΩΒΡΙΟΥ ΡΕΘΥΜΝΟ",
+      "referenceNumber": "26REQ018457021",
+      "previousRequestReferenceNumber": "25REQ018253480",
+      "signedDate": "2026-01-01",
+      "lastUpdateDate": "2025-12-30T00:00:00",
+      "submissionDate": "2026-02-10T12:03:00.646",
+      "procurementDeliveryDate": "2026-03-23",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "422650",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997579388",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "5010",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL43",
+        "value": "Κρήτη"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.F01328.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100065910",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΠΟΛΙΤΙΣΜΟΥ ΚΑΙ ΑΘΛΗΤΙΣΜΟΥ"
+        },
+        "signers": {
+          "key": "111549",
+          "value": "ΜΑΡΙΑ ΛΙΟΝΗ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+        }
+      },
+      "totalCostWithVAT": 12099.92,
+      "totalCostWithoutVAT": 10009.21,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 5806.4,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Οι παραπάνω ενέργειες είναι απαραίτητες για να γίνουν με επιτυχία οι εκδηλώσεις για τoν εορτασμό της εθνικής επετείου της  25ης Μαρτίου και της 28ης Οκτωβρίου 2026  στο Ρέθυμνο.",
+          "cpvs": [
+            {
+              "key": "51313000-9",
+              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 403.22,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Οι παραπάνω ενέργειες είναι απαραίτητες για να γίνουν με επιτυχία οι εκδηλώσεις για τoν εορτασμό της εθνικής επετείου της  25ης Μαρτίου και της 28ης Οκτωβρίου 2026  στο Ρέθυμνο.",
+          "cpvs": [
+            {
+              "key": "79822500-7",
+              "value": "Υπηρεσίες γραφικού σχεδιασμού"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 564.52,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Οι παραπάνω ενέργειες είναι απαραίτητες για να γίνουν με επιτυχία οι εκδηλώσεις για τoν εορτασμό της εθνικής επετείου της  25ης Μαρτίου και της 28ης Οκτωβρίου 2026  στο Ρέθυμνο.",
+          "cpvs": [
+            {
+              "key": "70200000-3",
+              "value": "Υπηρεσίες ενοικίασης ή χρηματοδοτικής μίσθωσης ιδιόκτητων ακινήτων"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 403.22,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Οι παραπάνω ενέργειες είναι απαραίτητες για να γίνουν με επιτυχία οι εκδηλώσεις για τoν εορτασμό της εθνικής επετείου της  25ης Μαρτίου και της 28ης Οκτωβρίου 2026  στο Ρέθυμνο.",
+          "cpvs": [
+            {
+              "key": "79810000-5",
+              "value": "Υπηρεσίες εκτύπωσης"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1238.94,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Οι παραπάνω ενέργειες είναι απαραίτητες για να γίνουν με επιτυχία οι εκδηλώσεις για τoν εορτασμό της εθνικής επετείου της  25ης Μαρτίου και της 28ης Οκτωβρίου 2026  στο Ρέθυμνο.",
+          "cpvs": [
+            {
+              "key": "55300000-3",
+              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 707.96,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Οι παραπάνω ενέργειες είναι απαραίτητες για να γίνουν με επιτυχία οι εκδηλώσεις για τoν εορτασμό της εθνικής επετείου της  25ης Μαρτίου και της 28ης Οκτωβρίου 2026  στο Ρέθυμνο.",
+          "cpvs": [
+            {
+              "key": "55100000-1",
+              "value": "Υπηρεσίες ξενοδοχείων"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 884.95,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Οι παραπάνω ενέργειες είναι απαραίτητες για να γίνουν με επιτυχία οι εκδηλώσεις για τoν εορτασμό της εθνικής επετείου της  25ης Μαρτίου και της 28ης Οκτωβρίου 2026  στο Ρέθυμνο.",
+          "cpvs": [
+            {
+              "key": "03121000-5",
+              "value": "Φυτοκομικά προϊόντα"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "2",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "mixedContract": true,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "51313000",
+        "79822500",
+        "70200000",
+        "79810000",
+        "55300000",
+        "55100000",
+        "03121000"
+      ],
+      "cpv_divisions": [
+        "51",
+        "79",
+        "70",
+        "55",
+        "03"
+      ],
+      "all_domains": [
+        "Installation Services (Non-Software)",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Real Estate",
+        "Hospitality, Retail & Catering Services",
+        "Agriculture & Forestry"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "ΠΡΟΜΗΘΕΙΑ ΕΙΔΗ ΠΑΝΤΟΠΩΛΕΙΟΥ",
+      "referenceNumber": "26REQ018456980",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-09",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-10T12:01:05.176",
+      "procurementDeliveryDate": "2026-02-24",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "4251",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "996978666",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "99221997",
+        "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΒΕΝΙΖΕΛΕΙΟ ΠΑΝΑΝΕΙΟ"
+      },
+      "nutsCode": {
+        "key": "EL431",
+        "value": "Ηράκλειο"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1015.Ε00212.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "72139",
+          "value": "ΝΟΣΟΚΟΜΕΙΟ"
+        },
+        "signers": {
+          "key": "100098661",
+          "value": "ΜΑΡΙΝΑ ΚΑΛΟΓΡΙΔΑΚΗ - Αναπληρωτής Διοικητής"
+        }
+      },
+      "totalCostWithVAT": 10015.53,
+      "totalCostWithoutVAT": 8863.3,
+      "objectDetails": [
+        {
+          "quantity": 5,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 56.2,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΞΥΝΟ ΣΕ ΣΚΟΝΗ",
+          "cpvs": [
+            {
+              "key": "15870000-7",
+              "value": "Καρυκεύματα και αρτύματα"
+            }
+          ]
+        },
+        {
+          "quantity": 30,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 3728.1,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΟΥΡΕΣ ΣΕ ΝΙΦΑΔΕΣ 25 KG",
+          "cpvs": [
+            {
+              "key": "03212000-0",
+              "value": "Πατάτες και αφυδατωμένα λαχανικά"
+            }
+          ]
+        },
+        {
+          "quantity": 10,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 35.18,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΑΡΑΜΟΣΑΛΑΤΑ 1 KG",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 5,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 118.77,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΔΑΦΝΟΦΥΛΛΑ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 5,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 183.45,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΜΟΣΧΟΚΑΡΥΔΟ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 5,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 61.72,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΔΥΟΣΜΟΣ ΣΕ ΣΥΣΚΕΥΑΣΙΑ ΤΟΥ ΚΙΛΟΥ",
+          "cpvs": [
+            {
+              "key": "15872000-1",
+              "value": "Αρωματικά βότανα και μπαχαρικά"
+            }
+          ]
+        },
+        {
+          "quantity": 12,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 56.93,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΡΙΓΑΝΗ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 3600,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 4573.44,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΡΥΖΙ ΤΥΠΟΥ ΑΜΕΡΙΚΗΣ (ΜΠΟΝΕΤ)",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 3,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 3.19,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΣΙΜΙΓΔΑΛΙ ΨΙΛΟ ",
+          "cpvs": [
+            {
+              "key": "15625000-5",
+              "value": "Σιμιγδάλι"
+            }
+          ]
+        },
+        {
+          "quantity": 10,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 46.32,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΙΠΕΡΙ ΜΑΥΡΟ ΣΕ ΣΚΟΝΗ ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99221997",
+        "15870000",
+        "03212000",
+        "15800000",
+        "15872000",
+        "15625000"
+      ],
+      "cpv_divisions": [
+        "15",
+        "03"
+      ],
+      "all_domains": [
+        "Food & Catering",
+        "Agriculture & Forestry"
+      ],
+      "primary_domain": "Food & Catering"
+    },
+    {
+      "title": "Δαπάνη  της διοργάνωσης Αποκριάτικων εκδηλώσεων έτους 2026 στο Δήμο Κόνιτσας",
+      "referenceNumber": "26REQ018456970",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-10",
+      "lastUpdateDate": "2026-02-10T00:00:00",
+      "submissionDate": "2026-02-10T12:00:39.218",
+      "procurementDeliveryDate": "2026-02-21",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "919",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "800161749",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6156",
+        "value": "ΔΗΜΟΣ ΚΟΝΙΤΣΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL543",
+        "value": "Ιωάννινα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε81806.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81788",
+          "value": "ΔΗΜΟΣ ΚΟΝΙΤΣΑΣ"
+        },
+        "signers": {
+          "key": "100041590",
+          "value": "ΧΡΗΣΤΟΣ ΜΑΡΓΑΡΙΤΗΣ - Προϊστάμενος Υπηρεσίας"
+        }
+      },
+      "totalCostWithVAT": 2089.63,
+      "totalCostWithoutVAT": 1811.07,
+      "objectDetails": [
+        {
+          "quantity": 45,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 597.15,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΧΑΛΒΑΣ ΜΠΑΣΤΟΥΝΙ ΒΑΝΙΛΙΑ ΚΑΙ ΚΑΚΑΟ",
+          "cpvs": [
+            {
+              "key": "15842300-5",
+              "value": "Προϊόντα ζαχαροπλαστικής"
+            }
+          ]
+        },
+        {
+          "quantity": 90,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 238.5,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΦΑΣΟΛΙΑ",
+          "cpvs": [
+            {
+              "key": "03221210-1",
+              "value": "Φασόλια"
+            }
+          ]
+        },
+        {
+          "quantity": 38,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 201.78,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΛΙΕΣ",
+          "cpvs": [
+            {
+              "key": "03222400-7",
+              "value": "Ελιές"
+            }
+          ]
+        },
+        {
+          "quantity": 240,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 381.6,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΝΑΨΥΚΤΙΚΑ (ΠΟΡΤΟΚΑΛΑΔΕΣ, ΛΕΜΟΝΑΔΕΣ, ΚΟΚΑ ΚΟΛΑ)",
+          "cpvs": [
+            {
+              "key": "15982000-5",
+              "value": "Αναψυκτικά"
+            }
+          ]
+        },
+        {
+          "quantity": 36,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 392.04,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΚΡΑΣΙ ΛΕΥΚΟ ΣΕ ΣΥΣΚΕΥΑΣΙΑ 5 ΛΙΤΡΩΝ",
+          "cpvs": [
+            {
+              "key": "15931200-5",
+              "value": "Επιτραπέζιο κρασί"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018457031"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "15842300",
+        "03221210",
+        "03222400",
+        "15982000",
+        "15931200"
+      ],
+      "cpv_divisions": [
+        "15",
+        "03"
+      ],
+      "all_domains": [
+        "Food & Catering",
+        "Agriculture & Forestry"
+      ],
+      "primary_domain": "Food & Catering"
+    },
+    {
+      "title": "Πρωτογενές αίτημα για την προμήθεια τροφίμων",
+      "referenceNumber": "26REQ018456442",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-10",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-10T11:30:38.735",
+      "procurementDeliveryDate": "2026-04-15",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "1296",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "998525359",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6281",
+        "value": "ΔΗΜΟΣ ΣΚΥΔΡΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL524",
+        "value": "Πέλλα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε81004.0001 ",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81692",
+          "value": "ΔΗΜΑΡΧΟΣ"
+        },
+        "signers": {
+          "key": "100002238",
+          "value": "ΑΙΚΑΤΕΡΙΝΗ ΙΓΝΑΤΙΑΔΟΥ - Δήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 56949.74,
+      "totalCostWithoutVAT": 50398.0,
+      "objectDetails": [
+        {
+          "quantity": 75,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2625,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια ελαιόλαδου",
+          "cpvs": [
+            {
+              "key": "15411110-6",
+              "value": "Ελαιόλαδο"
+            }
+          ]
+        },
+        {
+          "quantity": 1160,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 12222,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια κρέατος",
+          "cpvs": [
+            {
+              "key": "15110000-2",
+              "value": "Κρέας"
+            }
+          ]
+        },
+        {
+          "quantity": 9535,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 10611,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια οπωρολαχανικών",
+          "cpvs": [
+            {
+              "key": "03220000-9",
+              "value": "Λαχανικά"
+            }
+          ]
+        },
+        {
+          "quantity": 6375,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 16542,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια ειδών παντοπωλείου",
+          "cpvs": [
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            }
+          ]
+        },
+        {
+          "quantity": 9200,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 7048,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια αρτοσκευασμάτων",
+          "cpvs": [
+            {
+              "key": "15810000-9",
+              "value": "Αρτοσκευάσματα"
+            }
+          ]
+        },
+        {
+          "quantity": 25,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 300,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια αραβοσιτέλαιου",
+          "cpvs": [
+            {
+              "key": "15621000-7",
+              "value": "Αραβοσιτέλαιο"
+            }
+          ]
+        },
+        {
+          "quantity": 3500,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1050,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια αυγών",
+          "cpvs": [
+            {
+              "key": "03142500-3",
+              "value": "Αυγά"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "15411110",
+        "15110000",
+        "03220000",
+        "15000000",
+        "15810000",
+        "15621000",
+        "03142500"
+      ],
+      "cpv_divisions": [
+        "15",
+        "03"
+      ],
+      "all_domains": [
+        "Food & Catering",
+        "Agriculture & Forestry"
+      ],
+      "primary_domain": "Food & Catering"
+    },
+    {
+      "title": "Προμήθεια τροφίμων για τις ανάγκες δομών της Διεύθυνσης Κοινωνικής Προστασίας καιΥγείας Δήμου Ιλίου",
+      "referenceNumber": "26REQ018455842",
+      "previousRequestReferenceNumber": "24REQ014719854",
+      "signedDate": "2024-05-08",
+      "lastUpdateDate": "2025-01-20T00:00:00",
+      "submissionDate": "2026-02-10T10:55:27.818",
+      "procurementDeliveryDate": "2026-10-14",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "31133",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": "oroumana@ilion.gr",
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090076918",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6123",
+        "value": "ΔΗΜΟΣ ΙΛΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL302",
+        "value": "Δυτικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E84705.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78721",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100004859",
+          "value": "ΑΝΔΡΙΑΝΑ ΑΛΕΒΙΖΟΥ - Δήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 135181.9,
+      "totalCostWithoutVAT": 119630.0,
+      "objectDetails": [
+        {
+          "quantity": 200,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 240,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "4η ΟΜΑΔΑ: Τρόφιμα για τις ανάγκες των Κ.Α.Π.Η. - Είδη παντοπωλείου - καντίνας - α/α 14. Τσάι του βουνού - συσκευασία βάρους 70-80 γραμ. (δέκα (10) εμβαπτιζόμενα φακελάκια).",
+          "cpvs": [
+            {
+              "key": "15860000-4",
+              "value": "Καφές"
+            }
+          ]
+        },
+        {
+          "quantity": 50,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 50,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "4η ΟΜΑΔΑ: Τρόφιμα για τις ανάγκες των Κ.Α.Π.Η. - Είδη παντοπωλείου - καντίνας - α/α 11. Ανθός Αραβοσίτου βανίλια - συσκευασία καθαρού βάρους 160 γραμ.",
+          "cpvs": [
+            {
+              "key": "15612000-1",
+              "value": "Άλευρα δημητριακών ή φυτικά άλευρα και συναφή προϊόντα"
+            }
+          ]
+        },
+        {
+          "quantity": 400,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 480,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "4η ΟΜΑΔΑ: Τρόφιμα για τις ανάγκες των Κ.Α.Π.Η. - Είδη παντοπωλείου - καντίνας - α/α 17. Ζάχαρη λευκή κρυσταλλική - συσκευασία 1 κιλού.",
+          "cpvs": [
+            {
+              "key": "15831000-2",
+              "value": "Ζάχαρη"
+            }
+          ]
+        },
+        {
+          "quantity": 350,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 350,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "4η ΟΜΑΔΑ: Τρόφιμα για τις ανάγκες των Κ.Α.Π.Η. - Είδη παντοπωλείου - καντίνας - α/α 15. Γάλα συμπυκνωμένο (εβαπορέ) - συσκευασία 410 γραμ.",
+          "cpvs": [
+            {
+              "key": "15511600-9",
+              "value": "Συμπυκνωμένο γάλα"
+            }
+          ]
+        },
+        {
+          "quantity": 1500,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 10170,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "3η ΟΜΑΔΑ: Τρόφιμα για τη λειτουργία του Κοινωνικού Παντοπωλείου - Είδη κρεοπωλείου - α/α 10. Χοιρινό νωπό κρέας (μπριζόλες καρέ με κόκκαλο), σε συσκευασία του ενός κιλού.",
+          "cpvs": [
+            {
+              "key": "15113000-3",
+              "value": "Χοιρινό κρέας"
+            }
+          ]
+        },
+        {
+          "quantity": 6000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 8400,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "2η ΟΜΑΔΑ: Τρόφιμα για τη λειτουργία του Κοινωνικού Παντοπωλείου - Είδη παντοπωλείου - α/α 9. Φασόλια μέτρια - συκευασία 500 γραμ.",
+          "cpvs": [
+            {
+              "key": "03212220-8",
+              "value": "Όσπρια"
+            }
+          ]
+        },
+        {
+          "quantity": 6000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 7200,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "2η ΟΜΑΔΑ: Τρόφιμα για τη λειτουργία του Κοινωνικού Παντοπωλείου - Είδη παντοπωλείου - α/α 8. Φακές - συσκευασία 500 γραμ.",
+          "cpvs": [
+            {
+              "key": "03212220-8",
+              "value": "Όσπρια"
+            }
+          ]
+        },
+        {
+          "quantity": 6000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 4800,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "2η ΟΜΑΔΑ: Τρόφιμα για τη λειτουργία του Κοινωνικού Παντοπωλείου - Είδη παντοπωλείου - α/α 4. Ζυμαρικά (Κριθαράκι) - συσκευασία 500 γραμ.",
+          "cpvs": [
+            {
+              "key": "15851100-9",
+              "value": "Μη μαγειρεμένα ζυμαρικά"
+            }
+          ]
+        },
+        {
+          "quantity": 40,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 32,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "4η ΟΜΑΔΑ: Τρόφιμα για τις ανάγκες των Κ.Α.Π.Η. - Είδη παντοπωλείου - καντίνας - α/α 16. Ρύζι τύπου Γλασέ - συσκευασία 1 κιλού.",
+          "cpvs": [
+            {
+              "key": "03211300-6",
+              "value": "Ρύζι"
+            }
+          ]
+        },
+        {
+          "quantity": 25,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 40,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "4η ΟΜΑΔΑ: Τρόφιμα για τις ανάγκες των Κ.Α.Π.Η. - Είδη παντοπωλείου - καντίνας - α/α 12. Ζελέ - συσκευασία καθαρού βάρους 200 γραμ.",
+          "cpvs": [
+            {
+              "key": "15332200-6",
+              "value": "Μαρμελάδες? ζελέδες φρούτων? πουρέδες και πολτοί φρούτων ή ξηρών καρπών"
+            }
+          ]
+        },
+        {
+          "quantity": 6000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 9600,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "2η ΟΜΑΔΑ: Τρόφιμα για τη λειτουργία του Κοινωνικού Παντοπωλείου - Είδη παντοπωλείου - α/α 7. Τοματοπολτός - συσκευασία 410 γραμ.",
+          "cpvs": [
+            {
+              "key": "15331425-2",
+              "value": "Τοματοπολτός"
+            }
+          ]
+        },
+        {
+          "quantity": 15000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 15000,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "2η ΟΜΑΔΑ: Τρόφιμα για τη λειτουργία του Κοινωνικού Παντοπωλείου - Είδη παντοπωλείου - α/α 2. Γάλα συμπυκνωμένο (εβαπορέ) - συσκευασία 410 γραμ.",
+          "cpvs": [
+            {
+              "key": "15511600-9",
+              "value": "Συμπυκνωμένο γάλα"
+            }
+          ]
+        },
+        {
+          "quantity": 5000,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 6000,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "2η ΟΜΑΔΑ: Τρόφιμα για τη λειτουργία του Κοινωνικού Παντοπωλείου - Είδη παντοπωλείου - α/α 3. Ζάχαρη λευκή κρυσταλλική - συσκευασία 1 κιλού.",
+          "cpvs": [
+            {
+              "key": "15831000-2",
+              "value": "Ζάχαρη"
+            }
+          ]
+        },
+        {
+          "quantity": 6000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 5400,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "2η ΟΜΑΔΑ: Τρόφιμα για τη λειτουργία του Κοινωνικού Παντοπωλείου - Είδη παντοπωλείου - α/α 6. Ρύζι τύπου Καρολίνα - συσκευασία 500 γραμ.",
+          "cpvs": [
+            {
+              "key": "03211300-6",
+              "value": "Ρύζι"
+            }
+          ]
+        },
+        {
+          "quantity": 20,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 18,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "4η ΟΜΑΔΑ: Τρόφιμα για τις ανάγκες των Κ.Α.Π.Η. - Είδη παντοπωλείου - καντίνας - α/α 18. Άμυλο καλαμποκιού (κορν φλάουρ) - συσκευασία 200 γραμ.",
+          "cpvs": [
+            {
+              "key": "15612000-1",
+              "value": "Άλευρα δημητριακών ή φυτικά άλευρα και συναφή προϊόντα"
+            }
+          ]
+        },
+        {
+          "quantity": 12500,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 10000,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "2η ΟΜΑΔΑ: Τρόφιμα για τη λειτουργία του Κοινωνικού Παντοπωλείου - Είδη παντοπωλείου - α/α 5. Ζυμαρικά (Μακαρόνια Νο 6) - συσκευασία 500 γραμ.",
+          "cpvs": [
+            {
+              "key": "15851100-9",
+              "value": "Μη μαγειρεμένα ζυμαρικά"
+            }
+          ]
+        },
+        {
+          "quantity": 4500,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 6750,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "4η ΟΜΑΔΑ: Τρόφιμα για τις ανάγκες των Κ.Α.Π.Η. - Είδη παντοπωλείου - καντίνας - α/α 19. Αναψυκτικά - συσκευασία 1,5 λίτρου.",
+          "cpvs": [
+            {
+              "key": "15982000-5",
+              "value": "Αναψυκτικά"
+            }
+          ]
+        },
+        {
+          "quantity": 500,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 24320,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "1η ΟΜΑΔΑ: Τρόφιμα για τη λειτουργία του Κοινωνικού Παντοπωλείου - Έλαια - α/α 1. Ελαιόλαδο - Εξαιρετικό (EXTRA) Παρθένο - συσκευασία 5 λίτρων.",
+          "cpvs": [
+            {
+              "key": "15411110-6",
+              "value": "Ελαιόλαδο"
+            }
+          ]
+        },
+        {
+          "quantity": 770,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 10780,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "4η ΟΜΑΔΑ: Τρόφιμα για τις ανάγκες των Κ.Α.Π.Η. - Είδη παντοπωλείου - καντίνας - α/α 13. Καφές τύπου ελληνικός - συσκευασία καθαρού βάρους 950 - 1.000 γραμ.",
+          "cpvs": [
+            {
+              "key": "15860000-4",
+              "value": "Καφές"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "15860000",
+        "15612000",
+        "15831000",
+        "15511600",
+        "15113000",
+        "03212220",
+        "15851100",
+        "03211300",
+        "15332200",
+        "15331425",
+        "15982000",
+        "15411110"
+      ],
+      "cpv_divisions": [
+        "15",
+        "03"
+      ],
+      "all_domains": [
+        "Food & Catering",
+        "Agriculture & Forestry"
+      ],
+      "primary_domain": "Food & Catering"
+    },
+    {
+      "title": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΤΡΟΦΙΜΩΝ",
+      "referenceNumber": "26REQ018455664",
+      "previousRequestReferenceNumber": "26REQ018449739",
+      "signedDate": "2026-02-06",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-10T10:44:57.995",
+      "procurementDeliveryDate": "2026-02-13",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "11",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "999070198",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "99221888",
+        "value": "Γ.Ν. ΛΑΣΙΘΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL432",
+        "value": "Λασίθι"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1015.Ε00956.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "76058",
+          "value": "ΤΜΗΜΑ ΠΡΟΜΗΘΕΙΩΝ"
+        },
+        "signers": {
+          "key": "100096948",
+          "value": "ΕΥΑΓΓΕΛΙΑ ΦΑΝΟΥΡΑΚΗ - Διοικητής"
+        }
+      },
+      "totalCostWithVAT": 2711.74,
+      "totalCostWithoutVAT": 2399.77,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2399.77,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΤΡΟΦΙΜΩΝ",
+          "cpvs": [
+            {
+              "key": "03221200-8",
+              "value": "Οπωροκηπευτικά"
+            },
+            {
+              "key": "15300000-1",
+              "value": "Φρούτα"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [
+        "26AWRD018455708"
+      ],
+      "cpv_codes_extracted": [
+        "99221888",
+        "03221200",
+        "15300000"
+      ],
+      "cpv_divisions": [
+        "03",
+        "15"
+      ],
+      "all_domains": [
+        "Agriculture & Forestry",
+        "Food & Catering"
+      ],
+      "primary_domain": "Food & Catering"
+    },
+    {
+      "title": "ΠΡΟΜΗΘΕΙΑ",
+      "referenceNumber": "26REQ018454925",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-09",
+      "lastUpdateDate": "2026-02-10T00:00:00",
+      "submissionDate": "2026-02-10T09:57:34.106",
+      "procurementDeliveryDate": "2026-02-24",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "4252",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "996978666",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "99221997",
+        "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΒΕΝΙΖΕΛΕΙΟ ΠΑΝΑΝΕΙΟ"
+      },
+      "nutsCode": {
+        "key": "EL431",
+        "value": "Ηράκλειο"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1015.Ε00212.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "72139",
+          "value": "ΝΟΣΟΚΟΜΕΙΟ"
+        },
+        "signers": {
+          "key": "100098661",
+          "value": "ΜΑΡΙΝΑ ΚΑΛΟΓΡΙΔΑΚΗ - Αναπληρωτής Διοικητής"
+        }
+      },
+      "totalCostWithVAT": 14994.69,
+      "totalCostWithoutVAT": 13269.64,
+      "objectDetails": [
+        {
+          "quantity": 120,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 49.91,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΛΑΤΙ ΣΥΣΚΕΥΑΣΙΑ ΚΙΛΟΥ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 90,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 568.3,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΧΑΜΟΜΗΛΟ 100 ΦΑΚΕΛΩΝ ΣΕ ΚΟΥΤΙ ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 200,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 295.92,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΦΑΚΕΣ ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 20000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 3306,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΒΟΥΤΥΡΟ ΑΤΟΜ.ΣΥΣΚ.10 ΓΡΑΜ.",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 150,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 311.07,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΡΕΒΥΘΙΑ ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 400,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1498.88,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΝΕΡΟ ΕΜΦΙΑΛΩΜΕΝΟ 18,9 ΛΙΤΡΑ ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 30,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 350.86,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΝΤΟΜΑΤΟΠΕΛΤΕΣ 5 ΚΙΛΩΝ ΣΕ ΤΕΜΑΧΙΑ ",
+          "cpvs": [
+            {
+              "key": "15331427-6",
+              "value": "Τοματοπελτές"
+            }
+          ]
+        },
+        {
+          "quantity": 100,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 200.83,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΦΑΒΑ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 100,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 794.87,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΜΑΝΙΤΑΡΙΑ ΚΟΝΣΕΡΒΑ 3 ΚΙΛΑ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 100,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 991.42,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΖΕΛΕ ΦΡΟΥΤΩΝ 2 KG ΣΚΟΝΗ",
+          "cpvs": [
+            {
+              "key": "15332240-8",
+              "value": "Ζελέδες φρούτων"
+            }
+          ]
+        },
+        {
+          "quantity": 10000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1805,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΥΓΑ",
+          "cpvs": [
+            {
+              "key": "03142500-3",
+              "value": "Αυγά"
+            }
+          ]
+        },
+        {
+          "quantity": 350,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 118.76,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΞΥΔΙ ΦΙΑΛΗ 350 ΜL",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 11,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 49.14,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΧΑΛΒΑΣ 2,5 ΚΙΛΩΝ ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 300,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 78.27,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΛΕΜΟΝΙ ΧΥΜΟΣ 330 ML ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 2,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 4.07,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΣΟΔΑ ΦΑΓΗΤΟΥ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 60,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 874.19,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΑΝΤΖΑΡΙΑ ΚΟΝΣΕΡΒΑ 5 ΚΙΛ",
+          "cpvs": [
+            {
+              "key": "15331460-9",
+              "value": "Κονσερβοποιημένα λαχανικά"
+            }
+          ]
+        },
+        {
+          "quantity": 90,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 500.34,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΣΑΙ ΜΑΥΡΟ 100 ΦΑΚΕΛΩΝ ΣΕ ΚΟΥΤΙ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 200,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 302.66,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΦΑΣΟΛΙΑ ΨΙΛΑ (ΞΕΡΑ)",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 36,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 7.73,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΝΕΡΟ ΕΜΦΙΑΛΩΜΕΝΟ 1.5 LIT",
+          "cpvs": [
+            {
+              "key": "41110000-3",
+              "value": "Πόσιμο νερό"
+            }
+          ]
+        },
+        {
+          "quantity": 40,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 283.5,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΝΘΟΣ ΑΡΑΒΟΣΙΤΟΥ 1,5 KG",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 2,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 25.89,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΚΥΜΙΝΟ ΣΕ ΣΥΣΚΕΥΑΣΙΑ ΤΟΥ ΚΙΛΟΥ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 2,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 17.72,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΚΑΝΕΛΛΑ ΤΡΙΜ.",
+          "cpvs": [
+            {
+              "key": "15872000-1",
+              "value": "Αρωματικά βότανα και μπαχαρικά"
+            }
+          ]
+        },
+        {
+          "quantity": 70,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 151.96,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΛΕΜΟΝΙ ΧΥΜΟΣ 5 LT",
+          "cpvs": [
+            {
+              "key": "15321300-7",
+              "value": "Χυμός λεμονιού"
+            }
+          ]
+        },
+        {
+          "quantity": 150,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 108.35,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΛΕΥΡΙ Τ.Π ΣΥΣΚΕΥΑΣΙΑΣ ΚΙΛΟΥ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 100,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 441.2,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΦΑΣΟΛΙΑ ΓΙΓΑΝΤΕΣ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 1000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 132.8,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΝΕΡΟ ΕΜΦΙΑΛΩΜΕΝΟ 0,5 LIT",
+          "cpvs": [
+            {
+              "key": "41110000-3",
+              "value": "Πόσιμο νερό"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99221997",
+        "15800000",
+        "15331427",
+        "15332240",
+        "03142500",
+        "15331460",
+        "41110000",
+        "15872000",
+        "15321300"
+      ],
+      "cpv_divisions": [
+        "15",
+        "03",
+        "41"
+      ],
+      "all_domains": [
+        "Food & Catering",
+        "Agriculture & Forestry",
+        "Water"
+      ],
+      "primary_domain": "Water"
+    },
+    {
+      "title": "Προμήθεια σπόρων, φυτών, δενδρυλλίων & προφυτευμένου χλοοτάπητα",
+      "referenceNumber": "26REQ018454685",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-10",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-10T09:41:02.311",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "6623",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090001251",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6132",
+        "value": "ΔΗΜΟΣ ΚΑΛΛΙΘΕΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL304",
+        "value": "Νότιος Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε84801.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78919",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ"
+        },
+        "signers": {
+          "key": "100084770",
+          "value": "ΒΑΣΙΛΕΙΟΣ ΠΑΠΑΧΡΗΣΤΟΣ - Αντιδήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 33900.0,
+      "totalCostWithoutVAT": 30000.0,
+      "objectDetails": [
+        {
+          "quantity": 1383,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 12877,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια θάμνων",
+          "cpvs": [
+            {
+              "key": "03451300-9",
+              "value": "Θάμνοι"
+            }
+          ]
+        },
+        {
+          "quantity": 300,
+          "type": {
+            "key": "MTK",
+            "value": "m 2"
+          },
+          "costWithoutVAT": 2625,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια προφυτευμένου χλοοτάπητα",
+          "cpvs": [
+            {
+              "key": "03441000-3",
+              "value": "Διακοσμητικά φυτά"
+            }
+          ]
+        },
+        {
+          "quantity": 126,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 14498,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "προμήθεια δέντρων",
+          "cpvs": [
+            {
+              "key": "03452000-3",
+              "value": "Δένδρα"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "03451300",
+        "03441000",
+        "03452000"
+      ],
+      "cpv_divisions": [
+        "03"
+      ],
+      "all_domains": [
+        "Agriculture & Forestry"
+      ],
+      "primary_domain": "Agriculture & Forestry"
+    },
+    {
+      "title": "ΤΡΟΦΟΔΟΣΙΑ 7100048456",
+      "referenceNumber": "26REQ018454622",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-10",
+      "lastUpdateDate": "2026-02-10T00:00:00",
+      "submissionDate": "2026-02-10T09:36:28.543",
+      "procurementDeliveryDate": "2027-02-10",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "7100048456",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090153025",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1011.2040000.0000.0031.",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "83478",
+          "value": "ΓΕΑ/251ΓΝΑ"
+        },
+        "signers": {
+          "key": "100095083",
+          "value": "ΑΝΤΩΝΙΟΣ ΧΕΙΜΩΝΑΣ - Διοικητής"
+        }
+      },
+      "totalCostWithVAT": 29907.37,
+      "totalCostWithoutVAT": 26466.7,
+      "objectDetails": [
+        {
+          "quantity": 25,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 187.5,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πιπέρι",
+          "cpvs": [
+            {
+              "key": "15872100-2",
+              "value": "Πιπέρι"
+            }
+          ]
+        },
+        {
+          "quantity": 100,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1057,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Τοματοπολτός",
+          "cpvs": [
+            {
+              "key": "15331425-2",
+              "value": "Τοματοπολτός"
+            }
+          ]
+        },
+        {
+          "quantity": 60,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 204,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ζωμός",
+          "cpvs": [
+            {
+              "key": "15891600-6",
+              "value": "Ζωμός"
+            }
+          ]
+        },
+        {
+          "quantity": 24000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1920,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Φρυγανιές",
+          "cpvs": [
+            {
+              "key": "15821110-3",
+              "value": "Φρυγανιές"
+            }
+          ]
+        },
+        {
+          "quantity": 4800,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 576,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Φυσικό μέλι",
+          "cpvs": [
+            {
+              "key": "03142100-9",
+              "value": "Φυσικό μέλι"
+            }
+          ]
+        },
+        {
+          "quantity": 20000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 3600,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αυγά",
+          "cpvs": [
+            {
+              "key": "03142500-3",
+              "value": "Αυγά"
+            }
+          ]
+        },
+        {
+          "quantity": 10000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 300,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ζάχαρη και συναφή προϊόντα",
+          "cpvs": [
+            {
+              "key": "15830000-5",
+              "value": "Ζάχαρη και συναφή προϊόντα"
+            }
+          ]
+        },
+        {
+          "quantity": 25,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 125,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Μουστάρδα",
+          "cpvs": [
+            {
+              "key": "15871250-1",
+              "value": "Μουστάρδα"
+            }
+          ]
+        },
+        {
+          "quantity": 4200,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2358,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Μη μαγειρεμένα ζυμαρικά",
+          "cpvs": [
+            {
+              "key": "15851100-9",
+              "value": "Μη μαγειρεμένα ζυμαρικά"
+            }
+          ]
+        },
+        {
+          "quantity": 25,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 110,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Μπαχαρικά",
+          "cpvs": [
+            {
+              "key": "15872200-3",
+              "value": "Μπαχαρικά"
+            }
+          ]
+        },
+        {
+          "quantity": 1600,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1120,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ρύζι",
+          "cpvs": [
+            {
+              "key": "03211300-6",
+              "value": "Ρύζι"
+            }
+          ]
+        },
+        {
+          "quantity": 4800,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1920,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Επιδόρπια",
+          "cpvs": [
+            {
+              "key": "15833100-7",
+              "value": "Επιδόρπια"
+            }
+          ]
+        },
+        {
+          "quantity": 2000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2120,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Φακές",
+          "cpvs": [
+            {
+              "key": "03212211-2",
+              "value": "Φακές"
+            }
+          ]
+        },
+        {
+          "quantity": 2400,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2112,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Συμπυκνωμένο γάλα",
+          "cpvs": [
+            {
+              "key": "15511600-9",
+              "value": "Συμπυκνωμένο γάλα"
+            }
+          ]
+        },
+        {
+          "quantity": 300,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 69,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ξίδι και υποκατάστατα του ξιδιού",
+          "cpvs": [
+            {
+              "key": "15871100-5",
+              "value": "Ξίδι και υποκατάστατα του ξιδιού"
+            }
+          ]
+        },
+        {
+          "quantity": 200,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 10,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Φυτά για αφεψήματα",
+          "cpvs": [
+            {
+              "key": "03131000-8",
+              "value": "Φυτά για αφεψήματα"
+            }
+          ]
+        },
+        {
+          "quantity": 160,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 83.2,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αλάτι",
+          "cpvs": [
+            {
+              "key": "15872400-5",
+              "value": "Αλάτι"
+            }
+          ]
+        },
+        {
+          "quantity": 25,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 62,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Καλαμποκάλευρο",
+          "cpvs": [
+            {
+              "key": "15612210-6",
+              "value": "Καλαμποκάλευρο"
+            }
+          ]
+        },
+        {
+          "quantity": 2000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2200,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Επεξεργασμένα όσπρια",
+          "cpvs": [
+            {
+              "key": "15331150-3",
+              "value": "Επεξεργασμένα όσπρια"
+            }
+          ]
+        },
+        {
+          "quantity": 25,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 105,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αφυδατωμένα οσπριώδη φυτά και όσπρια",
+          "cpvs": [
+            {
+              "key": "03212200-2",
+              "value": "Αφυδατωμένα οσπριώδη φυτά και όσπρια"
+            }
+          ]
+        },
+        {
+          "quantity": 200,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 8,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Μαύρο τσάι",
+          "cpvs": [
+            {
+              "key": "15863200-7",
+              "value": "Μαύρο τσάι"
+            }
+          ]
+        },
+        {
+          "quantity": 300,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 60,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Χυμός λεμονιού",
+          "cpvs": [
+            {
+              "key": "15321300-7",
+              "value": "Χυμός λεμονιού"
+            }
+          ]
+        },
+        {
+          "quantity": 4000,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 5200,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": " Διατηρημένα φρούτα",
+          "cpvs": [
+            {
+              "key": "15332400-8",
+              "value": "Διατηρημένα φρούτα"
+            }
+          ]
+        },
+        {
+          "quantity": 4800,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 960,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Μαρμελάδες",
+          "cpvs": [
+            {
+              "key": "15332290-3",
+              "value": "Μαρμελάδες"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "15872100",
+        "15331425",
+        "15891600",
+        "15821110",
+        "03142100",
+        "03142500",
+        "15830000",
+        "15871250",
+        "15851100",
+        "15872200",
+        "03211300",
+        "15833100",
+        "03212211",
+        "15511600",
+        "15871100",
+        "03131000",
+        "15872400",
+        "15612210",
+        "15331150",
+        "03212200",
+        "15863200",
+        "15321300",
+        "15332400",
+        "15332290"
+      ],
+      "cpv_divisions": [
+        "15",
+        "03"
+      ],
+      "all_domains": [
+        "Food & Catering",
+        "Agriculture & Forestry"
+      ],
+      "primary_domain": "Food & Catering"
+    },
+    {
+      "title": "Προμήθεια προϊόντων βιολογικής φυτοπροστασίας",
+      "referenceNumber": "26REQ018454482",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-10",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-10T09:26:22.798",
+      "procurementDeliveryDate": "2026-11-30",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "6624",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090001251",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6132",
+        "value": "ΔΗΜΟΣ ΚΑΛΛΙΘΕΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL304",
+        "value": "Νότιος Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε84801.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78919",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ"
+        },
+        "signers": {
+          "key": "100084770",
+          "value": "ΒΑΣΙΛΕΙΟΣ ΠΑΠΑΧΡΗΣΤΟΣ - Αντιδήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 37198.35,
+      "totalCostWithoutVAT": 29998.67,
+      "objectDetails": [
+        {
+          "quantity": 482,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 29998.67,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια προϊόντων βιολογικής φυτοπροστασίας",
+          "cpvs": [
+            {
+              "key": "03100000-2",
+              "value": "Προϊόντα γεωργίας και κηπευτικής"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "03100000"
+      ],
+      "cpv_divisions": [
+        "03"
+      ],
+      "all_domains": [
+        "Agriculture & Forestry"
+      ],
+      "primary_domain": "Agriculture & Forestry"
+    },
+    {
+      "title": "ΠΡΟΜΗΘΕΙΑ",
+      "referenceNumber": "26REQ018453882",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-09",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-10T08:36:59.961",
+      "procurementDeliveryDate": "2026-02-24",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "4268",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "996978666",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "99221997",
+        "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΒΕΝΙΖΕΛΕΙΟ ΠΑΝΑΝΕΙΟ"
+      },
+      "nutsCode": {
+        "key": "EL431",
+        "value": "Ηράκλειο"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1015.Ε00212.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "72139",
+          "value": "ΝΟΣΟΚΟΜΕΙΟ"
+        },
+        "signers": {
+          "key": "100098661",
+          "value": "ΜΑΡΙΝΑ ΚΑΛΟΓΡΙΔΑΚΗ - Αναπληρωτής Διοικητής"
+        }
+      },
+      "totalCostWithVAT": 15981.84,
+      "totalCostWithoutVAT": 14143.22,
+      "objectDetails": [
+        {
+          "quantity": 400,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 422.48,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΜΑΝΤΑΡΙΝΙΑ",
+          "cpvs": [
+            {
+              "key": "03221200-8",
+              "value": "Οπωροκηπευτικά"
+            }
+          ]
+        },
+        {
+          "quantity": 250,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 133.25,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΚΑΡΟΤΑ ΦΡΕΣΚΑ",
+          "cpvs": [
+            {
+              "key": "15300000-1",
+              "value": "Φρούτα"
+            }
+          ]
+        },
+        {
+          "quantity": 100,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 108.63,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΙΠΕΡΙΕΣ",
+          "cpvs": [
+            {
+              "key": "15300000-1",
+              "value": "Φρούτα"
+            }
+          ]
+        },
+        {
+          "quantity": 150,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 56.46,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΝΙΘΟΣ",
+          "cpvs": [
+            {
+              "key": "15300000-1",
+              "value": "Φρούτα"
+            }
+          ]
+        },
+        {
+          "quantity": 600,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 884.28,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΧΛΑΔΙΑ",
+          "cpvs": [
+            {
+              "key": "03222322-6",
+              "value": "Αχλάδια"
+            }
+          ]
+        },
+        {
+          "quantity": 400,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 277.76,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΟΡΤΟΚΑΛΙΑ",
+          "cpvs": [
+            {
+              "key": "15300000-1",
+              "value": "Φρούτα"
+            }
+          ]
+        },
+        {
+          "quantity": 800,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 1204.56,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΚΟΛΟΚΥΘΙΑ",
+          "cpvs": [
+            {
+              "key": "15300000-1",
+              "value": "Φρούτα"
+            }
+          ]
+        },
+        {
+          "quantity": 6000,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 8220,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΑΤΑΤΕΣ ΑΠΟΦΛΟΙΩΜΕΝΕΣ ΣΥΣΚΕΥΑΣΙΑΣ",
+          "cpvs": [
+            {
+              "key": "03212100-1",
+              "value": "Πατάτες"
+            }
+          ]
+        },
+        {
+          "quantity": 300,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 154.05,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΑΤΑΤΕΣ",
+          "cpvs": [
+            {
+              "key": "15300000-1",
+              "value": "Φρούτα"
+            }
+          ]
+        },
+        {
+          "quantity": 1400,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 1628.9,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΜΗΛΑ",
+          "cpvs": [
+            {
+              "key": "15300000-1",
+              "value": "Φρούτα"
+            }
+          ]
+        },
+        {
+          "quantity": 150,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 223.56,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΓΓΟΥΡΙΑ ΦΡΕΣΚΑ",
+          "cpvs": [
+            {
+              "key": "15300000-1",
+              "value": "Φρούτα"
+            }
+          ]
+        },
+        {
+          "quantity": 100,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 52.65,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΚΡΕΜΥΔΙΑ ΞΕΡΑ",
+          "cpvs": [
+            {
+              "key": "15300000-1",
+              "value": "Φρούτα"
+            }
+          ]
+        },
+        {
+          "quantity": 300,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 138.03,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΜΑΡΟΥΛΙΑ",
+          "cpvs": [
+            {
+              "key": "03221000-6",
+              "value": "Λαχανικά"
+            }
+          ]
+        },
+        {
+          "quantity": 800,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 329.6,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΛΑΧΑΝΑ",
+          "cpvs": [
+            {
+              "key": "15300000-1",
+              "value": "Φρούτα"
+            }
+          ]
+        },
+        {
+          "quantity": 100,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 104.65,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΜΕΛΙΤΖΑΝΕΣ",
+          "cpvs": [
+            {
+              "key": "15300000-1",
+              "value": "Φρούτα"
+            }
+          ]
+        },
+        {
+          "quantity": 100,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 34.51,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΣΕΛΙΝΟ",
+          "cpvs": [
+            {
+              "key": "15300000-1",
+              "value": "Φρούτα"
+            }
+          ]
+        },
+        {
+          "quantity": 120,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 102.18,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΝΤΟΜΑΤΕΣ ΦΡΕΣΚΕΣ",
+          "cpvs": [
+            {
+              "key": "15300000-1",
+              "value": "Φρούτα"
+            }
+          ]
+        },
+        {
+          "quantity": 4,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 12.17,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΣΚΟΡΔΑ ΞΕΡΑ",
+          "cpvs": [
+            {
+              "key": "15300000-1",
+              "value": "Φρούτα"
+            }
+          ]
+        },
+        {
+          "quantity": 150,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 55.5,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΜΑΙΔΑΝΟΣ",
+          "cpvs": [
+            {
+              "key": "15300000-1",
+              "value": "Φρούτα"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99221997",
+        "03221200",
+        "15300000",
+        "03222322",
+        "03212100",
+        "03221000"
+      ],
+      "cpv_divisions": [
+        "03",
+        "15"
+      ],
+      "all_domains": [
+        "Agriculture & Forestry",
+        "Food & Catering"
+      ],
+      "primary_domain": "Food & Catering"
+    },
+    {
+      "title": "ΑΙΤΗΜΑ ΠΡΟΜΗΘΕΙΑΣ ΞΥΛΕΙΑΣ",
+      "referenceNumber": "26REQ018453694",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-09",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-10T08:14:40.936",
+      "procurementDeliveryDate": "2026-02-10",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "1163",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090169846",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "99200384",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΔΗΜΟΣΙΑΣ ΤΑΞΗΣ ΚΑΙ  ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ"
+      },
+      "nutsCode": {
+        "key": "EL61",
+        "value": "Θεσσαλία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1057.2020000000.0004",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "76002",
+          "value": "ΕΑΚΚΝ ΚΑΣΣΑΒΕΤΕΙΑΣ"
+        },
+        "signers": {
+          "key": "100094987",
+          "value": "ΘΩΜΑΣ ΧΑΧΑΜΗΣ - Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 4910.4,
+      "totalCostWithoutVAT": 3960.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 3960,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΜΗΘΕΙ ΞΥΛΕΙΑΣ",
+          "cpvs": [
+            {
+              "key": "03419000-0",
+              "value": "Ξυλεία"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99200384",
+        "03419000"
+      ],
+      "cpv_divisions": [
+        "03"
+      ],
+      "all_domains": [
+        "Agriculture & Forestry"
+      ],
+      "primary_domain": "Agriculture & Forestry"
+    },
+    {
+      "title": "Προμήθεια υλικών επισκευής εγκαταστάσεων ζωολογικού πάρκου Φλώρινας",
+      "referenceNumber": "26REQ018453687",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-10",
+      "lastUpdateDate": "2026-02-10T00:00:00",
+      "submissionDate": "2026-02-10T08:13:20.529",
+      "procurementDeliveryDate": "2026-02-28",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "3458",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "998565702",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6309",
+        "value": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL533",
+        "value": "Φλώρινα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε81701.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "91521",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΤΟΠΙΚΗΣ ΟΙΚΟΝΟΜΙΚΗΣ ΑΝΑΠΤΥΞΗΣ"
+        },
+        "signers": {
+          "key": "100049946",
+          "value": "Μιχαήλ Χάτζιος - Πρόεδρος Δ.Σ."
+        }
+      },
+      "totalCostWithVAT": 8466.77,
+      "totalCostWithoutVAT": 6828.04,
+      "objectDetails": [
+        {
+          "quantity": 257,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 6828.04,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια ξυλείας και συναφών υλικών για την συντήρηση και κατασκευή ξύλινων κατασκευών (παγκάκια, περιφράξεις, πέργκολες, κιόσκια) και μεταλλικών περιφράξεων ",
+          "cpvs": [
+            {
+              "key": "03411000-4",
+              "value": "Ξυλεία από κωνοφόρα δέντρα"
+            },
+            {
+              "key": "44212400-3",
+              "value": "Πάσσαλοι"
+            },
+            {
+              "key": "44112110-2",
+              "value": "Μέρη υποστέγων"
+            },
+            {
+              "key": "44313000-7",
+              "value": "Μεταλλικά πλέγματα"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018458715"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "03411000",
+        "44212400",
+        "44112110",
+        "44313000"
+      ],
+      "cpv_divisions": [
+        "03",
+        "44"
+      ],
+      "all_domains": [
+        "Agriculture & Forestry",
+        "Construction Materials & Structures"
+      ],
+      "primary_domain": "Construction Materials & Structures"
+    }
+  ]
+}
