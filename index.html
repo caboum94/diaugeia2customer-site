@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Tender Watcher â€” Browse</title>
+  <title>Tender Watcher - Browse</title>
   <style>
     :root{
       --bg:#0b1020; --panel:#121a33; --text:#e8ecff; --muted:#aeb8e6;
@@ -116,14 +116,14 @@
         </div>
       </div>
       <div class="controls">
-        <input id="q" placeholder="Search (title/org/CPV/ADA)..." />
+        <input id="q" placeholder="Search (title/authority/recipient/CPV/ADA)..." />
         <select id="sort">
           <option value="date_desc">Sort: Date (newest)</option>
           <option value="date_asc">Sort: Date (oldest)</option>
           <option value="amount_desc">Sort: Amount (high)</option>
           <option value="amount_asc">Sort: Amount (low)</option>
-          <option value="title_asc">Sort: Title (Aâ†’Z)</option>
-          <option value="title_desc">Sort: Title (Zâ†’A)</option>
+          <option value="title_asc">Sort: Title (A->Z)</option>
+          <option value="title_desc">Sort: Title (Z->A)</option>
         </select>
         <button id="clear">Clear</button>
       </div>
@@ -158,7 +158,6 @@
 </main>
 
 <script>
-  // datasets: must match folders under site/data/<type>/
   const DATASETS = [
     { key: "requests", label: "Requests" },
     { key: "contracts", label: "Contracts" },
@@ -203,12 +202,42 @@
     return null;
   }
 
+  function objToText(v){
+    if(v == null) return "";
+    if(typeof v === "string") return v;
+    if(typeof v === "number") return String(v);
+    if(typeof v === "boolean") return v ? "true" : "false";
+    if(Array.isArray(v)) return v.map(objToText).filter(Boolean).slice(0,3).join(" | ");
+    if(typeof v === "object"){
+      for(const k of ["name","title","label","value","displayName","legalName","companyName","orgName","fullName"]){
+        if(v[k]) return String(v[k]);
+      }
+      for(const kk of ["organization","org","issuer","authority","buyer","supplier","contractor","payee","recipient","beneficiary"]){
+        if(v[kk] != null){
+          const s = objToText(v[kk]);
+          if(s) return s;
+        }
+      }
+      try{
+        const s = JSON.stringify(v);
+        return s.length > 140 ? s.slice(0,140) + "..." : s;
+      } catch { return ""; }
+    }
+    return "";
+  }
+
   function getTitle(it){
-    return String(pick(it, ["title","subject","name","summary","perigrafi","titlos"]) || "(no title)");
+    return objToText(pick(it, ["title","subject","name","summary","perigrafi","titlos"])) || "(no title)";
   }
-  function getOrg(it){
-    return String(pick(it, ["organization","org","issuer","authority","buyer","contracting_authority","foreas"]) || "");
+
+  function getAuthority(it){
+    return objToText(pick(it, ["authority","issuer","buyer","contracting_authority","organization","foreas","org"])) || "";
   }
+
+  function getRecipient(it){
+    return objToText(pick(it, ["recipient","payee","beneficiary","supplier","contractor","winner","awardedTo"])) || "";
+  }
+
   function getDate(it){
     const raw = pick(it, ["date","publishedAt","published_at","decisionDate","timestamp","created_at"]);
     if(!raw) return null;
@@ -216,8 +245,9 @@
     if(!isNaN(d1.getTime())) return d1;
     return null;
   }
+
   function getAmount(it){
-    const raw = pick(it, ["amount","value","budget","cost","price","contractValue","poso","amount_eur"]);
+    const raw = pick(it, ["amount","value","budget","cost","price","contractValue","poso","amount_eur","paymentAmount","paidAmount","totalAmount"]);
     if(raw == null) return null;
     if(typeof raw === "number") return raw;
     const s = String(raw).replace(/\s/g,"");
@@ -225,12 +255,15 @@
     const num = Number(cleaned.replace(/[^0-9.\-]/g,""));
     return isFinite(num) ? num : null;
   }
+
   function getLink(it){
-    return pick(it, ["url","link","href","documentUrl","diavgeiaUrl","source_url"]) || null;
+    return pick(it, ["url","link","href","documentUrl","diavgeiaUrl","source_url","permalink"]) || null;
   }
+
   function getAda(it){
-    return String(pick(it, ["ada","ADA","diavgeiaAda","id","uid","protocol"]) || "");
+    return objToText(pick(it, ["ada","ADA","diavgeiaAda","id","uid","protocol","identifier"])) || "";
   }
+
   function getCpvs(it){
     const arr = pick(it, ["cpv_codes_extracted","cpvs","cpv","cpvCodes","cpv_codes"]);
     if(!arr) return [];
@@ -239,6 +272,7 @@
     const matches = s.match(/\b\d{8}\b/g);
     return matches ? matches : [];
   }
+
   function fmtDate(d){ return d ? d.toISOString().slice(0,10) : ""; }
   function fmtMoney(n){
     if(n == null) return "";
@@ -326,10 +360,11 @@
     if(q){
       rows = rows.filter(it => {
         const title = getTitle(it).toLowerCase();
-        const org = getOrg(it).toLowerCase();
+        const auth = getAuthority(it).toLowerCase();
+        const rec = getRecipient(it).toLowerCase();
         const ada = getAda(it).toLowerCase();
         const cpvs = getCpvs(it).join(" ").toLowerCase();
-        return title.includes(q) || org.includes(q) || ada.includes(q) || cpvs.includes(q);
+        return title.includes(q) || auth.includes(q) || rec.includes(q) || ada.includes(q) || cpvs.includes(q);
       });
     }
 
@@ -366,7 +401,8 @@
 
     elCards.innerHTML = slice.map(it => {
       const title = escapeHtml(getTitle(it));
-      const org = escapeHtml(getOrg(it));
+      const authority = escapeHtml(getAuthority(it));
+      const recipient = escapeHtml(getRecipient(it));
       const ada = escapeHtml(getAda(it));
       const link = getLink(it);
       const date = fmtDate(getDate(it));
@@ -375,7 +411,8 @@
       const cpvs = getCpvs(it);
 
       const chips = [];
-      if(org) chips.push('<span class="chip">' + org + '</span>');
+      if(authority) chips.push('<span class="chip">Authority: ' + authority + '</span>');
+      if(recipient) chips.push('<span class="chip">Recipient: ' + recipient + '</span>');
       if(date) chips.push('<span class="chip">Date: ' + escapeHtml(date) + '</span>');
       if(money) chips.push('<span class="chip money">Amount: ' + escapeHtml(money) + '</span>');
       if(ada) chips.push('<span class="chip">ADA: ' + ada + '</span>');
@@ -399,16 +436,12 @@
   async function init(){
     renderTabs();
 
-    // hash format: dataset::file
     const hash = decodeURIComponent((location.hash || "").replace("#",""));
     if(hash.includes("::")){
-      const [ds, file] = hash.split("::");
-      if(DATASETS.find(x => x.key === ds)){
-        activeDataset = ds;
-      }
+      const [ds] = hash.split("::");
+      if(DATASETS.find(x => x.key === ds)) activeDataset = ds;
     }
 
-    // re-render tabs with correct active state
     renderTabs();
     await loadDataset();
 
