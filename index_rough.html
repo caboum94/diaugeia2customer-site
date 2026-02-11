@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Tender Watcher</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 28px; }
+    header { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+    input, select { padding: 8px; font-size: 14px; }
+    input { min-width: 320px; }
+    table { border-collapse: collapse; width: 100%; margin-top: 14px; }
+    th, td { border: 1px solid #ddd; padding: 8px; vertical-align: top; }
+    th { background: #f4f4f4; text-align: left; }
+    .muted { color: #666; font-size: 12px; }
+    .pill { display: inline-block; padding: 2px 8px; border: 1px solid #ddd; border-radius: 999px; font-size: 12px; }
+    a { text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<h1>Tender Watcher</h1>
+
+<header>
+  <input id="q" type="search" placeholder="Search title / org / cpv…" />
+  <select id="type">
+    <option value="all">All types</option>
+    <option value="requests">requests</option>
+    <option value="notices">notices</option>
+    <option value="auctions">auctions</option>
+    <option value="contracts">contracts</option>
+    <option value="payments">payments</option>
+  </select>
+  <span class="muted" id="count"></span>
+</header>
+
+<div class="muted" id="meta"></div>
+
+<table>
+  <thead>
+    <tr>
+      <th style="width:140px">Date</th>
+      <th style="width:110px">Type</th>
+      <th style="width:240px">Organization</th>
+      <th>Title</th>
+      <th style="width:140px">Amount</th>
+      <th style="width:90px">Link</th>
+    </tr>
+  </thead>
+  <tbody id="rows"></tbody>
+</table>
+
+<script>
+const DATA_FILE = "data/latest.json"; // combined feed
+let ALL = [];
+
+function esc(s) {
+  return (s ?? "").toString()
+    .replaceAll("&","&amp;").replaceAll("<","&lt;")
+    .replaceAll(">","&gt;")
+    .replaceAll('"',"&quot;")
+    .replaceAll("'","&#039;");
+}
+function fmtDate(iso) { return iso ? iso.slice(0,10) : ""; }
+
+function render() {
+  const q = document.getElementById("q").value.trim().toLowerCase();
+  const t = document.getElementById("type").value;
+
+  let items = ALL;
+  if (t !== "all") items = items.filter(x => x.type === t);
+  if (q) items = items.filter(x => (x.search_text || "").includes(q));
+
+  document.getElementById("count").textContent = `${items.length} shown`;
+  const tbody = document.getElementById("rows");
+  tbody.innerHTML = "";
+
+  for (const x of items.slice(0, 500)) {
+    const tr = document.createElement("tr");
+    tr.innerHTML = `
+      <td>${esc(fmtDate(x.date))}</td>
+      <td><span class="pill">${esc(x.type)}</span></td>
+      <td>${esc(x.org)}</td>
+      <td>
+        <div>${esc(x.title)}</div>
+        ${x.items_summary ? `<div class="muted">${esc(x.items_summary)}</div>` : ``}
+        ${x.cpv_tags?.length ? `<div class="muted">CPV: ${esc(x.cpv_tags.slice(0,4).join(", "))}</div>` : ``}
+      </td>
+      <td>${esc(x.amount_text || "")}</td>
+      <td>${x.url ? `<a href="${esc(x.url)}" target="_blank">open</a>` : ""}</td>
+    `;
+    tbody.appendChild(tr);
+  }
+}
+
+(async function main(){
+  // cache-bust so you always see latest
+  ALL = await (await fetch(DATA_FILE + "?t=" + Date.now())).json();
+  document.getElementById("meta").innerHTML =
+    `Loaded: <span class="pill">${esc(DATA_FILE)}</span> · Total: <b>${ALL.length}</b>`;
+  render();
+  document.getElementById("q").addEventListener("input", render);
+  document.getElementById("type").addEventListener("change", render);
+})().catch(err => {
+  console.error(err);
+  document.body.insertAdjacentHTML("beforeend", `<p style="color:red">Failed to load ${esc(DATA_FILE)}</p>`);
+});
+</script>
+
+<!-- GoatCounter analytics -->
+<script data-goatcounter="https://caboum94.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+</body>
+</html>
