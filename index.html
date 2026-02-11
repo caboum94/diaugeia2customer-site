@@ -1,115 +1,416 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Tender Watcher</title>
+  <title>Tender Watcher â€” Categories</title>
   <style>
-    body { font-family: Arial, sans-serif; margin: 28px; }
-    header { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
-    input, select { padding: 8px; font-size: 14px; }
-    input { min-width: 320px; }
-    table { border-collapse: collapse; width: 100%; margin-top: 14px; }
-    th, td { border: 1px solid #ddd; padding: 8px; vertical-align: top; }
-    th { background: #f4f4f4; text-align: left; }
-    .muted { color: #666; font-size: 12px; }
-    .pill { display: inline-block; padding: 2px 8px; border: 1px solid #ddd; border-radius: 999px; font-size: 12px; }
-    a { text-decoration: none; }
+    :root{
+      --bg:#0b1020; --panel:#121a33; --panel2:#0f1730; --text:#e8ecff; --muted:#aeb8e6;
+      --line:#22305f; --accent:#7aa2ff; --good:#3ddc97;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0; font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+      background: radial-gradient(1200px 700px at 20% -10%, #172558 0%, transparent 60%),
+                  radial-gradient(1000px 600px at 120% 0%, #1a2f66 0%, transparent 50%),
+                  var(--bg);
+      color:var(--text);
+    }
+    header{
+      position:sticky; top:0;
+      background: rgba(11,16,32,0.75);
+      backdrop-filter: blur(10px);
+      border-bottom:1px solid rgba(34,48,95,0.6);
+      z-index:10;
+    }
+    .wrap{max-width:1200px; margin:0 auto; padding:16px;}
+    .topbar{display:flex; gap:12px; align-items:center; justify-content:space-between; flex-wrap:wrap;}
+    .brand{display:flex; align-items:center; gap:12px;}
+    .logo{
+      width:38px;height:38px;border-radius:12px;
+      background: linear-gradient(135deg, #6ea8ff, #9b7bff);
+      box-shadow: 0 10px 30px rgba(122,162,255,0.25);
+    }
+    h1{font-size:18px; margin:0}
+    .sub{color:var(--muted); font-size:13px; margin-top:2px}
+    .controls{display:flex; gap:10px; align-items:center; flex-wrap:wrap;}
+    input, select, button{
+      background: rgba(18,26,51,0.9);
+      border:1px solid rgba(34,48,95,0.8);
+      color:var(--text);
+      border-radius:12px;
+      padding:10px 12px;
+      outline:none;
+    }
+    input{min-width:260px}
+    button{
+      cursor:pointer;
+      background: linear-gradient(180deg, rgba(122,162,255,0.25), rgba(18,26,51,0.9));
+    }
+    button:hover{border-color: rgba(122,162,255,0.75)}
+    main{padding:18px 0 36px}
+    .grid{display:grid; grid-template-columns:320px 1fr; gap:16px; align-items:start;}
+    @media (max-width: 980px){ .grid{grid-template-columns:1fr} input{min-width:200px} }
+    .panel{
+      background: rgba(18,26,51,0.75);
+      border:1px solid rgba(34,48,95,0.65);
+      border-radius:18px;
+      padding:14px;
+      box-shadow: 0 14px 40px rgba(0,0,0,0.25);
+    }
+    .panel h2{
+      margin:0 0 10px 0; font-size:14px; letter-spacing:0.3px;
+      color:var(--muted); text-transform:uppercase;
+    }
+    .catlist{display:flex; flex-direction:column; gap:8px; max-height:70vh; overflow:auto; padding-right:6px;}
+    .catbtn{
+      display:flex; justify-content:space-between; align-items:center;
+      width:100%; padding:10px 12px; border-radius:14px;
+      border:1px solid rgba(34,48,95,0.65);
+      background: rgba(15,23,48,0.65);
+      cursor:pointer; color:var(--text); text-align:left; gap:10px;
+    }
+    .catbtn:hover{border-color: rgba(122,162,255,0.6)}
+    .catbtn.active{
+      border-color: rgba(122,162,255,0.9);
+      box-shadow: 0 10px 25px rgba(122,162,255,0.12);
+      background: rgba(27,39,80,0.85);
+    }
+    .pill{
+      font-size:12px; color:var(--muted);
+      background: rgba(27,39,80,0.9);
+      border:1px solid rgba(34,48,95,0.8);
+      padding:4px 8px; border-radius:999px; white-space:nowrap;
+    }
+    .contentTop{
+      display:flex; align-items:flex-end; justify-content:space-between;
+      gap:10px; flex-wrap:wrap; margin-bottom:10px;
+    }
+    .titleBlock h3{margin:0; font-size:18px}
+    .titleBlock .meta{margin-top:4px; color:var(--muted); font-size:13px}
+    .cards{display:grid; grid-template-columns:1fr; gap:10px;}
+    .card{
+      background: rgba(15,23,48,0.65);
+      border:1px solid rgba(34,48,95,0.65);
+      border-radius:16px;
+      padding:12px;
+    }
+    .card h4{margin:0; font-size:15px; line-height:1.25}
+    .small{color:var(--muted); font-size:12px; margin-top:6px}
+    .chips{display:flex; gap:6px; flex-wrap:wrap; margin-top:10px}
+    .chip{
+      font-size:12px; color:var(--muted);
+      background: rgba(22,32,68,0.8);
+      border:1px solid rgba(34,48,95,0.7);
+      padding:4px 8px; border-radius:999px;
+    }
+    .money{color:var(--good)}
+    a{color:var(--accent); text-decoration:none}
+    a:hover{text-decoration:underline}
+    .empty{
+      padding:18px; text-align:center; color:var(--muted);
+      border:1px dashed rgba(34,48,95,0.8);
+      border-radius:16px;
+      background: rgba(15,23,48,0.35);
+    }
+    .footerNote{margin-top:10px; color:var(--muted); font-size:12px}
   </style>
 </head>
 <body>
-
-<h1>Tender Watcher</h1>
-
 <header>
-  <input id="q" type="search" placeholder="Search title / org / cpv…" />
-  <select id="type">
-    <option value="all">All types</option>
-    <option value="requests">requests</option>
-    <option value="notices">notices</option>
-    <option value="auctions">auctions</option>
-    <option value="contracts">contracts</option>
-    <option value="payments">payments</option>
-  </select>
-  <span class="muted" id="count"></span>
+  <div class="wrap">
+    <div class="topbar">
+      <div class="brand">
+        <div class="logo"></div>
+        <div>
+          <h1>Tender Watcher</h1>
+          <div class="sub">Click a category to view tenders. Data is updated automatically.</div>
+        </div>
+      </div>
+      <div class="controls">
+        <input id="q" placeholder="Search (title/org/CPV/ADA)..." />
+        <select id="sort">
+          <option value="date_desc">Sort: Date (newest)</option>
+          <option value="date_asc">Sort: Date (oldest)</option>
+          <option value="amount_desc">Sort: Amount (high)</option>
+          <option value="amount_asc">Sort: Amount (low)</option>
+          <option value="title_asc">Sort: Title (Aâ†’Z)</option>
+          <option value="title_desc">Sort: Title (Zâ†’A)</option>
+        </select>
+        <button id="clear">Clear</button>
+      </div>
+    </div>
+  </div>
 </header>
 
-<div class="muted" id="meta"></div>
+<main class="wrap">
+  <div class="grid">
+    <aside class="panel">
+      <h2>Categories</h2>
+      <div id="catlist" class="catlist"></div>
+      <div class="footerNote">Source: <code>data/domains_index.json</code> and <code>data/domains/*.json</code></div>
+    </aside>
 
-<table>
-  <thead>
-    <tr>
-      <th style="width:140px">Date</th>
-      <th style="width:110px">Type</th>
-      <th style="width:240px">Organization</th>
-      <th>Title</th>
-      <th style="width:140px">Amount</th>
-      <th style="width:90px">Link</th>
-    </tr>
-  </thead>
-  <tbody id="rows"></tbody>
-</table>
+    <section class="panel">
+      <div class="contentTop">
+        <div class="titleBlock">
+          <h3 id="currentTitle">Choose a category</h3>
+          <div class="meta" id="currentMeta">...</div>
+        </div>
+        <div>
+          <span class="pill" id="shownCount">0 shown</span>
+          <span class="pill" id="totalCount">0 total</span>
+        </div>
+      </div>
+
+      <div id="cards" class="cards">
+        <div class="empty">Pick a category on the left.</div>
+      </div>
+    </section>
+  </div>
+</main>
 
 <script>
-const DATA_FILE = "data/latest.json"; // combined feed
-let ALL = [];
+  const INDEX_URL = "data/domains_index.json";
+  const DOMAINS_DIR = "data/domains";
 
-function esc(s) {
-  return (s ?? "").toString()
-    .replaceAll("&","&amp;").replaceAll("<","&lt;")
-    .replaceAll(">","&gt;")
-    .replaceAll('"',"&quot;")
-    .replaceAll("'","&#039;");
-}
-function fmtDate(iso) { return iso ? iso.slice(0,10) : ""; }
+  let categories = [];
+  let current = null;
 
-function render() {
-  const q = document.getElementById("q").value.trim().toLowerCase();
-  const t = document.getElementById("type").value;
+  const elCatlist = document.getElementById("catlist");
+  const elCards = document.getElementById("cards");
+  const elTitle = document.getElementById("currentTitle");
+  const elMeta = document.getElementById("currentMeta");
+  const elShown = document.getElementById("shownCount");
+  const elTotal = document.getElementById("totalCount");
+  const elQ = document.getElementById("q");
+  const elSort = document.getElementById("sort");
 
-  let items = ALL;
-  if (t !== "all") items = items.filter(x => x.type === t);
-  if (q) items = items.filter(x => (x.search_text || "").includes(q));
+  document.getElementById("clear").addEventListener("click", () => {
+    elQ.value = "";
+    elSort.value = "date_desc";
+    applyFilterSortRender();
+  });
 
-  document.getElementById("count").textContent = `${items.length} shown`;
-  const tbody = document.getElementById("rows");
-  tbody.innerHTML = "";
+  elQ.addEventListener("input", () => applyFilterSortRender());
+  elSort.addEventListener("change", () => applyFilterSortRender());
 
-  for (const x of items.slice(0, 500)) {
-    const tr = document.createElement("tr");
-    tr.innerHTML = `
-      <td>${esc(fmtDate(x.date))}</td>
-      <td><span class="pill">${esc(x.type)}</span></td>
-      <td>${esc(x.org)}</td>
-      <td>
-        <div>${esc(x.title)}</div>
-        ${x.items_summary ? `<div class="muted">${esc(x.items_summary)}</div>` : ``}
-        ${x.cpv_tags?.length ? `<div class="muted">CPV: ${esc(x.cpv_tags.slice(0,4).join(", "))}</div>` : ``}
-      </td>
-      <td>${esc(x.amount_text || "")}</td>
-      <td>${x.url ? `<a href="${esc(x.url)}" target="_blank">open</a>` : ""}</td>
-    `;
-    tbody.appendChild(tr);
+  async function fetchJson(url){
+    const r = await fetch(url, { cache: "no-store" });
+    if(!r.ok) throw new Error("Failed: " + url + " (" + r.status + ")");
+    return await r.json();
   }
-}
 
-(async function main(){
-  // cache-bust so you always see latest
-  ALL = await (await fetch(DATA_FILE + "?t=" + Date.now())).json();
-  document.getElementById("meta").innerHTML =
-    `Loaded: <span class="pill">${esc(DATA_FILE)}</span> · Total: <b>${ALL.length}</b>`;
-  render();
-  document.getElementById("q").addEventListener("input", render);
-  document.getElementById("type").addEventListener("change", render);
-})().catch(err => {
-  console.error(err);
-  document.body.insertAdjacentHTML("beforeend", `<p style="color:red">Failed to load ${esc(DATA_FILE)}</p>`);
-});
+  function pick(obj, keys){
+    for(const k of keys){
+      if(obj && obj[k] != null && String(obj[k]).trim() !== "") return obj[k];
+    }
+    return null;
+  }
+
+  function getTitle(it){
+    return String(pick(it, ["title","subject","name","summary","perigrafi","titlos"]) || "(no title)");
+  }
+
+  function getOrg(it){
+    return String(pick(it, ["organization","org","issuer","authority","buyer","contracting_authority","foreas"]) || "");
+  }
+
+  function getDate(it){
+    const raw = pick(it, ["date","publishedAt","published_at","decisionDate","timestamp","created_at"]);
+    if(!raw) return null;
+    const d1 = new Date(String(raw));
+    if(!isNaN(d1.getTime())) return d1;
+    const s = String(raw);
+    const m = s.match(/^(\d{1,2})[\/\.-](\d{1,2})[\/\.-](\d{4})/);
+    if(m){
+      const dd = Number(m[1]), mm = Number(m[2])-1, yy = Number(m[3]);
+      const d2 = new Date(Date.UTC(yy,mm,dd));
+      if(!isNaN(d2.getTime())) return d2;
+    }
+    return null;
+  }
+
+  function getAmount(it){
+    const raw = pick(it, ["amount","value","budget","cost","price","contractValue","poso","amount_eur"]);
+    if(raw == null) return null;
+    if(typeof raw === "number") return raw;
+    const s = String(raw).replace(/\s/g,"");
+    const cleaned = s.replace(/[â‚¬]/g,"").replace(/\./g,"").replace(/,/g,".");
+    const num = Number(cleaned.replace(/[^0-9.\-]/g,""));
+    return isFinite(num) ? num : null;
+  }
+
+  function getLink(it){
+    return pick(it, ["url","link","href","documentUrl","diavgeiaUrl","source_url"]) || null;
+  }
+
+  function getAda(it){
+    return String(pick(it, ["ada","ADA","diavgeiaAda","id","uid","protocol"]) || "");
+  }
+
+  function getCpvs(it){
+    const arr = pick(it, ["cpv_codes_extracted","cpvs","cpv","cpvCodes","cpv_codes"]);
+    if(!arr) return [];
+    if(Array.isArray(arr)) return arr.map(String);
+    const s = String(arr);
+    const matches = s.match(/\b\d{8}\b/g);
+    return matches ? matches : [];
+  }
+
+  function fmtDate(d){
+    if(!d) return "";
+    return d.toISOString().slice(0,10);
+  }
+
+  function fmtMoney(n){
+    if(n == null) return "";
+    try{
+      return new Intl.NumberFormat(undefined, { style:"currency", currency:"EUR", maximumFractionDigits:2 }).format(n);
+    }catch{
+      return String(n) + " EUR";
+    }
+  }
+
+  function escapeHtml(s){
+    return String(s ?? "").replace(/[&<>"']/g, c => ({
+      "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
+    }[c]));
+  }
+  function escapeAttr(s){
+    return String(s ?? "").replace(/"/g, "&quot;");
+  }
+
+  function renderCategories(){
+    elCatlist.innerHTML = "";
+    for(const cat of categories){
+      const btn = document.createElement("button");
+      btn.className = "catbtn";
+      btn.dataset.file = cat.file;
+      btn.innerHTML = '<span>' + escapeHtml(cat.domain) + '</span><span class="pill">' + cat.count + '</span>';
+      btn.addEventListener("click", () => openCategory(cat.file));
+      elCatlist.appendChild(btn);
+    }
+  }
+
+  async function openCategory(file){
+    document.querySelectorAll(".catbtn").forEach(b => {
+      b.classList.toggle("active", b.dataset.file === file);
+    });
+
+    const cat = categories.find(c => c.file === file);
+    if(!cat) return;
+
+    const j = await fetchJson(DOMAINS_DIR + "/" + file);
+    const list = Array.isArray(j.items) ? j.items : [];
+
+    current = { label: j.domain || cat.domain, file, items: list };
+    elTitle.textContent = current.label;
+    elMeta.textContent = "File: " + file;
+    elTotal.textContent = list.length + " total";
+
+    applyFilterSortRender();
+    location.hash = encodeURIComponent(file);
+  }
+
+  function applyFilterSortRender(){
+    if(!current){
+      elCards.innerHTML = '<div class="empty">Pick a category on the left.</div>';
+      return;
+    }
+
+    const q = (elQ.value || "").trim().toLowerCase();
+    const sort = elSort.value;
+
+    let rows = current.items.slice();
+
+    if(q){
+      rows = rows.filter(it => {
+        const title = getTitle(it).toLowerCase();
+        const org = getOrg(it).toLowerCase();
+        const ada = getAda(it).toLowerCase();
+        const cpvs = getCpvs(it).join(" ").toLowerCase();
+        return title.includes(q) || org.includes(q) || ada.includes(q) || cpvs.includes(q);
+      });
+    }
+
+    rows.sort((a,b) => {
+      if(sort.startsWith("date")){
+        const da = (getDate(a)?.getTime() ?? 0);
+        const db = (getDate(b)?.getTime() ?? 0);
+        return sort === "date_desc" ? (db-da) : (da-db);
+      }
+      if(sort.startsWith("amount")){
+        const aa = (getAmount(a) ?? -Infinity);
+        const ab = (getAmount(b) ?? -Infinity);
+        return sort === "amount_desc" ? (ab-aa) : (aa-ab);
+      }
+      if(sort.startsWith("title")){
+        const ta = getTitle(a).toLowerCase();
+        const tb = getTitle(b).toLowerCase();
+        return sort === "title_asc" ? ta.localeCompare(tb) : tb.localeCompare(ta);
+      }
+      return 0;
+    });
+
+    elShown.textContent = rows.length + " shown";
+    renderCards(rows);
+  }
+
+  function renderCards(items){
+    if(!items.length){
+      elCards.innerHTML = '<div class="empty">No results.</div>';
+      return;
+    }
+
+    const MAX = 250;
+    const slice = items.slice(0, MAX);
+
+    elCards.innerHTML = slice.map(it => {
+      const title = escapeHtml(getTitle(it));
+      const org = escapeHtml(getOrg(it));
+      const ada = escapeHtml(getAda(it));
+      const link = getLink(it);
+      const date = fmtDate(getDate(it));
+      const amount = getAmount(it);
+      const money = amount != null ? fmtMoney(amount) : "";
+      const cpvs = getCpvs(it);
+
+      const chips = [];
+      if(org) chips.push('<span class="chip">' + org + '</span>');
+      if(date) chips.push('<span class="chip">Date: ' + escapeHtml(date) + '</span>');
+      if(money) chips.push('<span class="chip money">Amount: ' + escapeHtml(money) + '</span>');
+      if(ada) chips.push('<span class="chip">ADA: ' + ada + '</span>');
+      if(cpvs.length) chips.push('<span class="chip">CPV: ' + escapeHtml(cpvs.slice(0,4).join(", ")) + (cpvs.length>4 ? "..." : "") + '</span>');
+
+      const titleHtml = link
+        ? '<a href="' + escapeAttr(link) + '" target="_blank" rel="noopener">' + title + '</a>'
+        : title;
+
+      return '<div class="card"><h4>' + titleHtml + '</h4>' +
+             '<div class="small">' + escapeHtml(it.primary_domain || "") + '</div>' +
+             '<div class="chips">' + chips.join("") + '</div></div>';
+    }).join("");
+
+    if(items.length > slice.length){
+      elCards.innerHTML += '<div class="empty">Showing first <b>' + slice.length +
+                           '</b> of <b>' + items.length + '</b>. Use search to narrow down.</div>';
+    }
+  }
+
+  async function init(){
+    const idx = await fetchJson(INDEX_URL);
+    categories = Array.isArray(idx) ? idx : (idx.categories || []);
+    categories.sort((a,b) => (b.count||0) - (a.count||0));
+    renderCategories();
+
+    const hash = decodeURIComponent((location.hash || "").replace("#",""));
+    const first = hash && categories.find(c => c.file === hash) ? hash : (categories[0]?.file);
+    if(first) await openCategory(first);
+  }
+
+  window.addEventListener("load", init);
 </script>
-
-<!-- GoatCounter analytics -->
-<script data-goatcounter="https://caboum94.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
-
 </body>
 </html>
