@@ -1,0 +1,136 @@
+{
+  "domain": "Water",
+  "count": 1,
+  "items": [
+    {
+      "title": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ Β10/2026",
+      "referenceNumber": "26PAY018457563",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-05T00:00:00",
+      "submissionDate": "2026-02-10T12:30:31.888",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.F00430.0001",
+      "paymentCommitmentCode": "228",
+      "organizationVatNumber": "090030037",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "50369",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ Δ.Ε.Υ.Α. ΗΡΑΚΛΕΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL431",
+        "value": "Ηράκλειο"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "83141",
+          "value": "ΓΕΝΙΚΟΣ ΔΙΕΥΘΥΝΤΗΣ Δ.Ε.Υ.Α.Η."
+        },
+        "signers": {
+          "key": "100078063",
+          "value": "ΕΜΜΑΝΟΥΗΛ ΚΟΣΜΑΔΑΚΗΣ - Γενικός Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "62.02.0003",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 542778.9,
+      "totalCostWithoutVAT": 480335.31,
+      "objectDetails": [
+        {
+          "quantity": 2500000,
+          "type": {
+            "key": "MTQ",
+            "value": "m 3"
+          },
+          "costWithoutVAT": 480335.31,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΠΟΦΑΣΗ ΕΓΚΡΙΣΗΣ ΣΧΕΔΙΟΥ ΣΥΜΒΑΣΗΣ ΜΕΤΑΞΥ Δ.Ε.Υ.Α.Η. ΚΑΙ Ο.Α.Κ. ",
+          "cpvs": [
+            {
+              "key": "41110000-3",
+              "value": "Πόσιμο νερό"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΗΡΑΚΛΕΙΟ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "997321341",
+          "greekVatNo": false,
+          "name": "ΟΡΓΑΝΙΣΜΟΣ ΑΜΝΑΠΤΥΞΗΣ ΚΡΗΤΗΣ Α.Ε. ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV017102812",
+      "cpv_codes_extracted": [
+        "41110000"
+      ],
+      "cpv_divisions": [
+        "41"
+      ],
+      "all_domains": [
+        "Water"
+      ],
+      "primary_domain": "Water"
+    }
+  ]
+}

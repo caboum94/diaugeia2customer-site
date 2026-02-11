@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Tender Watcher â€” Categories</title>
+  <title>Tender Watcher â€” Browse</title>
   <style>
     :root{
-      --bg:#0b1020; --panel:#121a33; --panel2:#0f1730; --text:#e8ecff; --muted:#aeb8e6;
+      --bg:#0b1020; --panel:#121a33; --text:#e8ecff; --muted:#aeb8e6;
       --line:#22305f; --accent:#7aa2ff; --good:#3ddc97;
     }
     *{box-sizing:border-box}
@@ -34,6 +34,17 @@
     }
     h1{font-size:18px; margin:0}
     .sub{color:var(--muted); font-size:13px; margin-top:2px}
+    .tabs{display:flex; gap:8px; flex-wrap:wrap; margin-top:10px}
+    .tab{
+      border:1px solid rgba(34,48,95,0.7);
+      background: rgba(18,26,51,0.8);
+      color:var(--text);
+      padding:8px 10px;
+      border-radius:999px;
+      cursor:pointer;
+      font-size:13px;
+    }
+    .tab.active{border-color:rgba(122,162,255,0.9); box-shadow:0 10px 25px rgba(122,162,255,0.10);}
     .controls{display:flex; gap:10px; align-items:center; flex-wrap:wrap;}
     input, select, button{
       background: rgba(18,26,51,0.9);
@@ -44,10 +55,7 @@
       outline:none;
     }
     input{min-width:260px}
-    button{
-      cursor:pointer;
-      background: linear-gradient(180deg, rgba(122,162,255,0.25), rgba(18,26,51,0.9));
-    }
+    button{cursor:pointer;background: linear-gradient(180deg, rgba(122,162,255,0.25), rgba(18,26,51,0.9));}
     button:hover{border-color: rgba(122,162,255,0.75)}
     main{padding:18px 0 36px}
     .grid{display:grid; grid-template-columns:320px 1fr; gap:16px; align-items:start;}
@@ -59,10 +67,7 @@
       padding:14px;
       box-shadow: 0 14px 40px rgba(0,0,0,0.25);
     }
-    .panel h2{
-      margin:0 0 10px 0; font-size:14px; letter-spacing:0.3px;
-      color:var(--muted); text-transform:uppercase;
-    }
+    .panel h2{margin:0 0 10px 0; font-size:14px; letter-spacing:0.3px; color:var(--muted); text-transform:uppercase;}
     .catlist{display:flex; flex-direction:column; gap:8px; max-height:70vh; overflow:auto; padding-right:6px;}
     .catbtn{
       display:flex; justify-content:space-between; align-items:center;
@@ -83,38 +88,19 @@
       border:1px solid rgba(34,48,95,0.8);
       padding:4px 8px; border-radius:999px; white-space:nowrap;
     }
-    .contentTop{
-      display:flex; align-items:flex-end; justify-content:space-between;
-      gap:10px; flex-wrap:wrap; margin-bottom:10px;
-    }
+    .contentTop{display:flex; align-items:flex-end; justify-content:space-between; gap:10px; flex-wrap:wrap; margin-bottom:10px;}
     .titleBlock h3{margin:0; font-size:18px}
     .titleBlock .meta{margin-top:4px; color:var(--muted); font-size:13px}
     .cards{display:grid; grid-template-columns:1fr; gap:10px;}
-    .card{
-      background: rgba(15,23,48,0.65);
-      border:1px solid rgba(34,48,95,0.65);
-      border-radius:16px;
-      padding:12px;
-    }
+    .card{background: rgba(15,23,48,0.65); border:1px solid rgba(34,48,95,0.65); border-radius:16px; padding:12px;}
     .card h4{margin:0; font-size:15px; line-height:1.25}
     .small{color:var(--muted); font-size:12px; margin-top:6px}
     .chips{display:flex; gap:6px; flex-wrap:wrap; margin-top:10px}
-    .chip{
-      font-size:12px; color:var(--muted);
-      background: rgba(22,32,68,0.8);
-      border:1px solid rgba(34,48,95,0.7);
-      padding:4px 8px; border-radius:999px;
-    }
+    .chip{font-size:12px; color:var(--muted); background: rgba(22,32,68,0.8); border:1px solid rgba(34,48,95,0.7); padding:4px 8px; border-radius:999px;}
     .money{color:var(--good)}
     a{color:var(--accent); text-decoration:none}
     a:hover{text-decoration:underline}
-    .empty{
-      padding:18px; text-align:center; color:var(--muted);
-      border:1px dashed rgba(34,48,95,0.8);
-      border-radius:16px;
-      background: rgba(15,23,48,0.35);
-    }
-    .footerNote{margin-top:10px; color:var(--muted); font-size:12px}
+    .empty{padding:18px; text-align:center; color:var(--muted); border:1px dashed rgba(34,48,95,0.8); border-radius:16px; background: rgba(15,23,48,0.35);}
   </style>
 </head>
 <body>
@@ -125,7 +111,8 @@
         <div class="logo"></div>
         <div>
           <h1>Tender Watcher</h1>
-          <div class="sub">Click a category to view tenders. Data is updated automatically.</div>
+          <div class="sub">Browse everything by category (Requests, Contracts, Payments, Notices, Auctions).</div>
+          <div class="tabs" id="tabs"></div>
         </div>
       </div>
       <div class="controls">
@@ -149,7 +136,6 @@
     <aside class="panel">
       <h2>Categories</h2>
       <div id="catlist" class="catlist"></div>
-      <div class="footerNote">Source: <code>data/domains_index.json</code> and <code>data/domains/*.json</code></div>
     </aside>
 
     <section class="panel">
@@ -165,19 +151,27 @@
       </div>
 
       <div id="cards" class="cards">
-        <div class="empty">Pick a category on the left.</div>
+        <div class="empty">Pick a dataset (tab) and category.</div>
       </div>
     </section>
   </div>
 </main>
 
 <script>
-  const INDEX_URL = "data/domains_index.json";
-  const DOMAINS_DIR = "data/domains";
+  // datasets: must match folders under site/data/<type>/
+  const DATASETS = [
+    { key: "requests", label: "Requests" },
+    { key: "contracts", label: "Contracts" },
+    { key: "payments", label: "Payments" },
+    { key: "notices", label: "Notices" },
+    { key: "auctions", label: "Auctions" }
+  ];
 
+  let activeDataset = "requests";
   let categories = [];
   let current = null;
 
+  const elTabs = document.getElementById("tabs");
   const elCatlist = document.getElementById("catlist");
   const elCards = document.getElementById("cards");
   const elTitle = document.getElementById("currentTitle");
@@ -212,26 +206,16 @@
   function getTitle(it){
     return String(pick(it, ["title","subject","name","summary","perigrafi","titlos"]) || "(no title)");
   }
-
   function getOrg(it){
     return String(pick(it, ["organization","org","issuer","authority","buyer","contracting_authority","foreas"]) || "");
   }
-
   function getDate(it){
     const raw = pick(it, ["date","publishedAt","published_at","decisionDate","timestamp","created_at"]);
     if(!raw) return null;
     const d1 = new Date(String(raw));
     if(!isNaN(d1.getTime())) return d1;
-    const s = String(raw);
-    const m = s.match(/^(\d{1,2})[\/\.-](\d{1,2})[\/\.-](\d{4})/);
-    if(m){
-      const dd = Number(m[1]), mm = Number(m[2])-1, yy = Number(m[3]);
-      const d2 = new Date(Date.UTC(yy,mm,dd));
-      if(!isNaN(d2.getTime())) return d2;
-    }
     return null;
   }
-
   function getAmount(it){
     const raw = pick(it, ["amount","value","budget","cost","price","contractValue","poso","amount_eur"]);
     if(raw == null) return null;
@@ -241,15 +225,12 @@
     const num = Number(cleaned.replace(/[^0-9.\-]/g,""));
     return isFinite(num) ? num : null;
   }
-
   function getLink(it){
     return pick(it, ["url","link","href","documentUrl","diavgeiaUrl","source_url"]) || null;
   }
-
   function getAda(it){
     return String(pick(it, ["ada","ADA","diavgeiaAda","id","uid","protocol"]) || "");
   }
-
   function getCpvs(it){
     const arr = pick(it, ["cpv_codes_extracted","cpvs","cpv","cpvCodes","cpv_codes"]);
     if(!arr) return [];
@@ -258,28 +239,33 @@
     const matches = s.match(/\b\d{8}\b/g);
     return matches ? matches : [];
   }
-
-  function fmtDate(d){
-    if(!d) return "";
-    return d.toISOString().slice(0,10);
-  }
-
+  function fmtDate(d){ return d ? d.toISOString().slice(0,10) : ""; }
   function fmtMoney(n){
     if(n == null) return "";
-    try{
-      return new Intl.NumberFormat(undefined, { style:"currency", currency:"EUR", maximumFractionDigits:2 }).format(n);
-    }catch{
-      return String(n) + " EUR";
-    }
+    try{ return new Intl.NumberFormat(undefined,{style:"currency",currency:"EUR",maximumFractionDigits:2}).format(n); }
+    catch{ return String(n) + " EUR"; }
   }
-
   function escapeHtml(s){
     return String(s ?? "").replace(/[&<>"']/g, c => ({
       "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
     }[c]));
   }
-  function escapeAttr(s){
-    return String(s ?? "").replace(/"/g, "&quot;");
+  function escapeAttr(s){ return String(s ?? "").replace(/"/g, "&quot;"); }
+
+  function renderTabs(){
+    elTabs.innerHTML = "";
+    for(const d of DATASETS){
+      const b = document.createElement("button");
+      b.className = "tab" + (d.key === activeDataset ? " active" : "");
+      b.textContent = d.label;
+      b.addEventListener("click", async () => {
+        activeDataset = d.key;
+        document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
+        b.classList.add("active");
+        await loadDataset();
+      });
+      elTabs.appendChild(b);
+    }
   }
 
   function renderCategories(){
@@ -294,31 +280,43 @@
     }
   }
 
+  async function loadDataset(){
+    current = null;
+    elTitle.textContent = "Choose a category";
+    elMeta.textContent = "Dataset: " + activeDataset;
+    elCards.innerHTML = '<div class="empty">Pick a category.</div>';
+    elShown.textContent = "0 shown";
+    elTotal.textContent = "0 total";
+
+    const indexUrl = "data/" + activeDataset + "/domains_index.json";
+    const idx = await fetchJson(indexUrl);
+    categories = Array.isArray(idx) ? idx : (idx.categories || []);
+    categories.sort((a,b) => (b.count||0) - (a.count||0));
+    renderCategories();
+
+    const first = categories[0]?.file;
+    if(first) await openCategory(first);
+  }
+
   async function openCategory(file){
     document.querySelectorAll(".catbtn").forEach(b => {
       b.classList.toggle("active", b.dataset.file === file);
     });
 
-    const cat = categories.find(c => c.file === file);
-    if(!cat) return;
-
-    const j = await fetchJson(DOMAINS_DIR + "/" + file);
+    const j = await fetchJson("data/" + activeDataset + "/domains/" + file);
     const list = Array.isArray(j.items) ? j.items : [];
 
-    current = { label: j.domain || cat.domain, file, items: list };
+    current = { label: j.domain || file, file, items: list };
     elTitle.textContent = current.label;
-    elMeta.textContent = "File: " + file;
+    elMeta.textContent = "Dataset: " + activeDataset + " | File: " + file;
     elTotal.textContent = list.length + " total";
 
     applyFilterSortRender();
-    location.hash = encodeURIComponent(file);
+    location.hash = encodeURIComponent(activeDataset + "::" + file);
   }
 
   function applyFilterSortRender(){
-    if(!current){
-      elCards.innerHTML = '<div class="empty">Pick a category on the left.</div>';
-      return;
-    }
+    if(!current){ return; }
 
     const q = (elQ.value || "").trim().toLowerCase();
     const sort = elSort.value;
@@ -363,7 +361,6 @@
       elCards.innerHTML = '<div class="empty">No results.</div>';
       return;
     }
-
     const MAX = 250;
     const slice = items.slice(0, MAX);
 
@@ -400,14 +397,27 @@
   }
 
   async function init(){
-    const idx = await fetchJson(INDEX_URL);
-    categories = Array.isArray(idx) ? idx : (idx.categories || []);
-    categories.sort((a,b) => (b.count||0) - (a.count||0));
-    renderCategories();
+    renderTabs();
 
+    // hash format: dataset::file
     const hash = decodeURIComponent((location.hash || "").replace("#",""));
-    const first = hash && categories.find(c => c.file === hash) ? hash : (categories[0]?.file);
-    if(first) await openCategory(first);
+    if(hash.includes("::")){
+      const [ds, file] = hash.split("::");
+      if(DATASETS.find(x => x.key === ds)){
+        activeDataset = ds;
+      }
+    }
+
+    // re-render tabs with correct active state
+    renderTabs();
+    await loadDataset();
+
+    if(hash.includes("::")){
+      const [ds, file] = hash.split("::");
+      if(ds === activeDataset && categories.find(c => c.file === file)){
+        await openCategory(file);
+      }
+    }
   }
 
   window.addEventListener("load", init);
