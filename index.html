@@ -3,457 +3,296 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Tender Watcher - Browse</title>
+  <title>Tender Watcher â€” Browse</title>
   <style>
     :root{
       --bg:#0b1020; --panel:#121a33; --text:#e8ecff; --muted:#aeb8e6;
-      --line:#22305f; --accent:#7aa2ff; --good:#3ddc97;
+      --line:#22305f; --accent:#7aa2ff;
+      --good:#3ddc97; --bad:#ff6b6b;
     }
     *{box-sizing:border-box}
     body{
       margin:0; font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
-      background: radial-gradient(1200px 700px at 20% -10%, #172558 0%, transparent 60%),
-                  radial-gradient(1000px 600px at 120% 0%, #1a2f66 0%, transparent 50%),
-                  var(--bg);
       color:var(--text);
+      background:
+        radial-gradient(1200px 700px at 20% -10%, #172558 0%, transparent 60%),
+        radial-gradient(1000px 600px at 120% 0%, #1a2f66 0%, transparent 55%),
+        var(--bg);
     }
-    header{
-      position:sticky; top:0;
-      background: rgba(11,16,32,0.75);
-      backdrop-filter: blur(10px);
-      border-bottom:1px solid rgba(34,48,95,0.6);
-      z-index:10;
-    }
-    .wrap{max-width:1200px; margin:0 auto; padding:16px;}
-    .topbar{display:flex; gap:12px; align-items:center; justify-content:space-between; flex-wrap:wrap;}
-    .brand{display:flex; align-items:center; gap:12px;}
-    .logo{
-      width:38px;height:38px;border-radius:12px;
-      background: linear-gradient(135deg, #6ea8ff, #9b7bff);
-      box-shadow: 0 10px 30px rgba(122,162,255,0.25);
-    }
-    h1{font-size:18px; margin:0}
-    .sub{color:var(--muted); font-size:13px; margin-top:2px}
-    .tabs{display:flex; gap:8px; flex-wrap:wrap; margin-top:10px}
-    .tab{
-      border:1px solid rgba(34,48,95,0.7);
-      background: rgba(18,26,51,0.8);
-      color:var(--text);
-      padding:8px 10px;
-      border-radius:999px;
-      cursor:pointer;
-      font-size:13px;
-    }
-    .tab.active{border-color:rgba(122,162,255,0.9); box-shadow:0 10px 25px rgba(122,162,255,0.10);}
-    .controls{display:flex; gap:10px; align-items:center; flex-wrap:wrap;}
-    input, select, button{
-      background: rgba(18,26,51,0.9);
-      border:1px solid rgba(34,48,95,0.8);
-      color:var(--text);
-      border-radius:12px;
-      padding:10px 12px;
-      outline:none;
-    }
-    input{min-width:260px}
-    button{cursor:pointer;background: linear-gradient(180deg, rgba(122,162,255,0.25), rgba(18,26,51,0.9));}
-    button:hover{border-color: rgba(122,162,255,0.75)}
-    main{padding:18px 0 36px}
-    .grid{display:grid; grid-template-columns:320px 1fr; gap:16px; align-items:start;}
-    @media (max-width: 980px){ .grid{grid-template-columns:1fr} input{min-width:200px} }
-    .panel{
-      background: rgba(18,26,51,0.75);
-      border:1px solid rgba(34,48,95,0.65);
-      border-radius:18px;
-      padding:14px;
-      box-shadow: 0 14px 40px rgba(0,0,0,0.25);
-    }
-    .panel h2{margin:0 0 10px 0; font-size:14px; letter-spacing:0.3px; color:var(--muted); text-transform:uppercase;}
-    .catlist{display:flex; flex-direction:column; gap:8px; max-height:70vh; overflow:auto; padding-right:6px;}
-    .catbtn{
-      display:flex; justify-content:space-between; align-items:center;
-      width:100%; padding:10px 12px; border-radius:14px;
-      border:1px solid rgba(34,48,95,0.65);
-      background: rgba(15,23,48,0.65);
-      cursor:pointer; color:var(--text); text-align:left; gap:10px;
-    }
-    .catbtn:hover{border-color: rgba(122,162,255,0.6)}
-    .catbtn.active{
-      border-color: rgba(122,162,255,0.9);
-      box-shadow: 0 10px 25px rgba(122,162,255,0.12);
-      background: rgba(27,39,80,0.85);
-    }
+    .wrap{max-width:1200px;margin:0 auto;padding:20px}
+    header{display:flex;gap:14px;align-items:center;justify-content:space-between;margin-bottom:14px}
+    .brand h1{margin:0;font-size:20px}
+    .sub{color:var(--muted);font-size:13px;margin-top:2px}
     .pill{
-      font-size:12px; color:var(--muted);
-      background: rgba(27,39,80,0.9);
-      border:1px solid rgba(34,48,95,0.8);
-      padding:4px 8px; border-radius:999px; white-space:nowrap;
+      padding:8px 10px;border-radius:999px;border:1px solid var(--line);
+      background:rgba(255,255,255,0.03); color:var(--muted); font-size:12px; white-space:nowrap;
     }
-    .contentTop{display:flex; align-items:flex-end; justify-content:space-between; gap:10px; flex-wrap:wrap; margin-bottom:10px;}
-    .titleBlock h3{margin:0; font-size:18px}
-    .titleBlock .meta{margin-top:4px; color:var(--muted); font-size:13px}
-    .cards{display:grid; grid-template-columns:1fr; gap:10px;}
-    .card{background: rgba(15,23,48,0.65); border:1px solid rgba(34,48,95,0.65); border-radius:16px; padding:12px;}
-    .card h4{margin:0; font-size:15px; line-height:1.25}
-    .small{color:var(--muted); font-size:12px; margin-top:6px}
-    .chips{display:flex; gap:6px; flex-wrap:wrap; margin-top:10px}
-    .chip{font-size:12px; color:var(--muted); background: rgba(22,32,68,0.8); border:1px solid rgba(34,48,95,0.7); padding:4px 8px; border-radius:999px;}
-    .money{color:var(--good)}
-    a{color:var(--accent); text-decoration:none}
-    a:hover{text-decoration:underline}
-    .empty{padding:18px; text-align:center; color:var(--muted); border:1px dashed rgba(34,48,95,0.8); border-radius:16px; background: rgba(15,23,48,0.35);}
+    .panel{
+      background:rgba(18,26,51,0.88); border:1px solid var(--line); border-radius:16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+    }
+    .controls{display:flex;flex-wrap:wrap;gap:10px;padding:12px;align-items:center;justify-content:space-between}
+    .tabs{display:flex;flex-wrap:wrap;gap:8px}
+    .tab{
+      border:1px solid var(--line); background:rgba(255,255,255,0.04); color:var(--text);
+      padding:8px 12px; border-radius:12px; cursor:pointer; font-weight:700; font-size:13px;
+    }
+    .tab.active{border-color:var(--accent); box-shadow:0 0 0 3px rgba(122,162,255,0.18) inset;}
+    .right{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+    .select,.input{
+      border:1px solid var(--line); background:rgba(255,255,255,0.04); color:var(--text);
+      padding:9px 12px; border-radius:12px; outline:none;
+    }
+    .input{min-width:260px}
+    .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:12px;padding:12px}
+    .card{grid-column:span 12;padding:14px;border-radius:14px;border:1px solid var(--line);background:rgba(255,255,255,0.03)}
+    @media (min-width: 860px){ .card{grid-column:span 6;} }
+    @media (min-width: 1120px){ .card{grid-column:span 4;} }
+    .title{margin:0 0 10px 0;font-size:14px;line-height:1.35;font-weight:800}
+    .meta{display:grid;gap:6px;font-size:12px;color:var(--muted)}
+    .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+    .k{opacity:.9}
+    .v{color:var(--text);font-weight:750}
+    .tags{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+    .tag{
+      font-size:12px;border:1px solid var(--line);background:rgba(255,255,255,0.03);
+      padding:6px 10px;border-radius:999px;color:var(--muted);
+      max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap
+    }
+    .actions{margin-top:12px;display:flex;gap:10px;flex-wrap:wrap}
+    .btn{
+      display:inline-block;padding:8px 12px;border-radius:12px;border:1px solid var(--line);
+      color:var(--text);text-decoration:none;background:rgba(255,255,255,0.04);font-weight:800;font-size:12px;
+    }
+    .btn:hover{border-color:var(--accent)}
+    .btn.good{border-color:rgba(61,220,151,0.5)}
+    .empty{padding:18px;color:var(--muted);text-align:center;grid-column:1/-1}
+    .mono{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;}
+    .footer{padding:12px 16px;color:var(--muted);font-size:12px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
   </style>
 </head>
 <body>
-<header>
   <div class="wrap">
-    <div class="topbar">
+    <header>
       <div class="brand">
-        <div class="logo"></div>
-        <div>
-          <h1>Tender Watcher</h1>
-          <div class="sub">Browse everything by category (Requests, Contracts, Payments, Notices, Auctions).</div>
-          <div class="tabs" id="tabs"></div>
-        </div>
+        <h1>Tender Watcher</h1>
+        <div class="sub">KHMDHS OpenData â€” browse domain buckets</div>
       </div>
-      <div class="controls">
-        <input id="q" placeholder="Search (title/authority/recipient/CPV/ADA)..." />
-        <select id="sort">
-          <option value="date_desc">Sort: Date (newest)</option>
-          <option value="date_asc">Sort: Date (oldest)</option>
-          <option value="amount_desc">Sort: Amount (high)</option>
-          <option value="amount_asc">Sort: Amount (low)</option>
-          <option value="title_asc">Sort: Title (A->Z)</option>
-          <option value="title_desc">Sort: Title (Z->A)</option>
-        </select>
-        <button id="clear">Clear</button>
-      </div>
-    </div>
-  </div>
-</header>
-
-<main class="wrap">
-  <div class="grid">
-    <aside class="panel">
-      <h2>Categories</h2>
-      <div id="catlist" class="catlist"></div>
-    </aside>
+      <div class="pill" id="statusPill">Loadingâ€¦</div>
+    </header>
 
     <section class="panel">
-      <div class="contentTop">
-        <div class="titleBlock">
-          <h3 id="currentTitle">Choose a category</h3>
-          <div class="meta" id="currentMeta">...</div>
-        </div>
-        <div>
-          <span class="pill" id="shownCount">0 shown</span>
-          <span class="pill" id="totalCount">0 total</span>
+      <div class="controls">
+        <div class="tabs" id="tabs"></div>
+        <div class="right">
+          <select id="bucket" class="select"></select>
+          <input id="q" class="input" placeholder="Search title / reference / org / CPVâ€¦" />
+          <span class="pill" id="countPill">0 items</span>
         </div>
       </div>
 
-      <div id="cards" class="cards">
-        <div class="empty">Pick a dataset (tab) and category.</div>
+      <div class="grid" id="grid"></div>
+
+      <div class="footer">
+        <div><span class="k">Data:</span> <span class="v mono">/data/&lt;category&gt;/&lt;bucket&gt;.json</span></div>
+        <div id="footerInfo"></div>
       </div>
     </section>
   </div>
-</main>
 
 <script>
-  const DATASETS = [
-    { key: "requests", label: "Requests" },
-    { key: "contracts", label: "Contracts" },
-    { key: "payments", label: "Payments" },
-    { key: "notices", label: "Notices" },
-    { key: "auctions", label: "Auctions" }
-  ];
+const CATEGORIES = [
+  { key:"requests",  label:"Requests"  },
+  { key:"notices",   label:"Notices"   },
+  { key:"auctions",  label:"Auctions"  },
+  { key:"contracts", label:"Contracts" },
+  { key:"payments",  label:"Payments"  },
+];
 
-  let activeDataset = "requests";
-  let categories = [];
-  let current = null;
+const KHMDHS_BASE = "https://cerpp.eprocurement.gov.gr/khmdhs-opendata";
+function attachmentUrl(categoryKey, referenceNumber){
+  const map = { requests:"request", notices:"notice", auctions:"auction", contracts:"contract", payments:"payment" };
+  const resource = map[categoryKey];
+  if (!resource || !referenceNumber) return null;
+  return `${KHMDHS_BASE}/${resource}/attachment/${encodeURIComponent(referenceNumber)}`;
+}
 
-  const elTabs = document.getElementById("tabs");
-  const elCatlist = document.getElementById("catlist");
-  const elCards = document.getElementById("cards");
-  const elTitle = document.getElementById("currentTitle");
-  const elMeta = document.getElementById("currentMeta");
-  const elShown = document.getElementById("shownCount");
-  const elTotal = document.getElementById("totalCount");
-  const elQ = document.getElementById("q");
-  const elSort = document.getElementById("sort");
+const elTabs = document.getElementById("tabs");
+const elGrid = document.getElementById("grid");
+const elQ = document.getElementById("q");
+const elBucket = document.getElementById("bucket");
+const elStatus = document.getElementById("statusPill");
+const elCount = document.getElementById("countPill");
+const elFooter = document.getElementById("footerInfo");
 
-  document.getElementById("clear").addEventListener("click", () => {
-    elQ.value = "";
-    elSort.value = "date_desc";
-    applyFilterSortRender();
-  });
+const state = { cat:"requests", bucketFile:null, items:[], filtered:[], manifest:null };
 
-  elQ.addEventListener("input", () => applyFilterSortRender());
-  elSort.addEventListener("change", () => applyFilterSortRender());
+function escapeHtml(s){
+  return String(s ?? "")
+    .replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;")
+    .replaceAll('"',"&quot;").replaceAll("'","&#039;");
+}
 
-  async function fetchJson(url){
-    const r = await fetch(url, { cache: "no-store" });
-    if(!r.ok) throw new Error("Failed: " + url + " (" + r.status + ")");
-    return await r.json();
+async function fetchJson(url){
+  const r = await fetch(url, { cache:"no-store" });
+  if (!r.ok) throw new Error(`HTTP ${r.status} for ${url}`);
+  return await r.json();
+}
+
+function setStatus(ok, txt){
+  elStatus.textContent = txt;
+  elStatus.style.borderColor = ok ? "rgba(61,220,151,0.45)" : "rgba(255,107,107,0.45)";
+}
+
+function renderTabs(){
+  elTabs.innerHTML = "";
+  for (const c of CATEGORIES){
+    const b = document.createElement("button");
+    b.className = "tab" + (state.cat === c.key ? " active" : "");
+    b.textContent = c.label;
+    b.onclick = () => { state.cat = c.key; updateHash(); loadCategory(); };
+    elTabs.appendChild(b);
   }
+}
 
-  function pick(obj, keys){
-    for(const k of keys){
-      if(obj && obj[k] != null && String(obj[k]).trim() !== "") return obj[k];
-    }
-    return null;
-  }
+function updateHash(){
+  const hash = `#${encodeURIComponent(state.cat)}::${encodeURIComponent(state.bucketFile || "")}`;
+  history.replaceState(null, "", hash);
+}
 
-  function objToText(v){
-    if(v == null) return "";
-    if(typeof v === "string") return v;
-    if(typeof v === "number") return String(v);
-    if(typeof v === "boolean") return v ? "true" : "false";
-    if(Array.isArray(v)) return v.map(objToText).filter(Boolean).slice(0,3).join(" | ");
-    if(typeof v === "object"){
-      for(const k of ["name","title","label","value","displayName","legalName","companyName","orgName","fullName"]){
-        if(v[k]) return String(v[k]);
-      }
-      for(const kk of ["organization","org","issuer","authority","buyer","supplier","contractor","payee","recipient","beneficiary"]){
-        if(v[kk] != null){
-          const s = objToText(v[kk]);
-          if(s) return s;
-        }
-      }
-      try{
-        const s = JSON.stringify(v);
-        return s.length > 140 ? s.slice(0,140) + "..." : s;
-      } catch { return ""; }
-    }
-    return "";
-  }
+function parseHash(){
+  const h = (location.hash || "").replace(/^#/, "");
+  if (!h) return;
+  const parts = h.split("::").map(decodeURIComponent);
+  if (parts[0]) state.cat = parts[0];
+  if (parts[1]) state.bucketFile = parts[1];
+}
 
-  function getTitle(it){
-    return objToText(pick(it, ["title","subject","name","summary","perigrafi","titlos"])) || "(no title)";
-  }
+function organizationName(item){
+  return item.organization?.value || item.contractingData?.unitsOperator?.value || "";
+}
+function cpvList(item){
+  const od0 = item.objectDetails?.[0];
+  const cpvs = od0?.cpvs || [];
+  return cpvs.map(x => x?.key || x?.value).filter(Boolean);
+}
 
-  function getAuthority(it){
-    return objToText(pick(it, ["authority","issuer","buyer","contracting_authority","organization","foreas","org"])) || "";
-  }
-
-  function getRecipient(it){
-    return objToText(pick(it, ["recipient","payee","beneficiary","supplier","contractor","winner","awardedTo"])) || "";
-  }
-
-  function getDate(it){
-    const raw = pick(it, ["date","publishedAt","published_at","decisionDate","timestamp","created_at"]);
-    if(!raw) return null;
-    const d1 = new Date(String(raw));
-    if(!isNaN(d1.getTime())) return d1;
-    return null;
-  }
-
-  function getAmount(it){
-    const raw = pick(it, ["amount","value","budget","cost","price","contractValue","poso","amount_eur","paymentAmount","paidAmount","totalAmount"]);
-    if(raw == null) return null;
-    if(typeof raw === "number") return raw;
-    const s = String(raw).replace(/\s/g,"");
-    const cleaned = s.replace(/[â‚¬]/g,"").replace(/\./g,"").replace(/,/g,".");
-    const num = Number(cleaned.replace(/[^0-9.\-]/g,""));
-    return isFinite(num) ? num : null;
-  }
-
-  function getLink(it){
-    return pick(it, ["url","link","href","documentUrl","diavgeiaUrl","source_url","permalink"]) || null;
-  }
-
-  function getAda(it){
-    return objToText(pick(it, ["ada","ADA","diavgeiaAda","id","uid","protocol","identifier"])) || "";
-  }
-
-  function getCpvs(it){
-    const arr = pick(it, ["cpv_codes_extracted","cpvs","cpv","cpvCodes","cpv_codes"]);
-    if(!arr) return [];
-    if(Array.isArray(arr)) return arr.map(String);
-    const s = String(arr);
-    const matches = s.match(/\b\d{8}\b/g);
-    return matches ? matches : [];
-  }
-
-  function fmtDate(d){ return d ? d.toISOString().slice(0,10) : ""; }
-  function fmtMoney(n){
-    if(n == null) return "";
-    try{ return new Intl.NumberFormat(undefined,{style:"currency",currency:"EUR",maximumFractionDigits:2}).format(n); }
-    catch{ return String(n) + " EUR"; }
-  }
-  function escapeHtml(s){
-    return String(s ?? "").replace(/[&<>"']/g, c => ({
-      "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
-    }[c]));
-  }
-  function escapeAttr(s){ return String(s ?? "").replace(/"/g, "&quot;"); }
-
-  function renderTabs(){
-    elTabs.innerHTML = "";
-    for(const d of DATASETS){
-      const b = document.createElement("button");
-      b.className = "tab" + (d.key === activeDataset ? " active" : "");
-      b.textContent = d.label;
-      b.addEventListener("click", async () => {
-        activeDataset = d.key;
-        document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
-        b.classList.add("active");
-        await loadDataset();
-      });
-      elTabs.appendChild(b);
-    }
-  }
-
-  function renderCategories(){
-    elCatlist.innerHTML = "";
-    for(const cat of categories){
-      const btn = document.createElement("button");
-      btn.className = "catbtn";
-      btn.dataset.file = cat.file;
-      btn.innerHTML = '<span>' + escapeHtml(cat.domain) + '</span><span class="pill">' + cat.count + '</span>';
-      btn.addEventListener("click", () => openCategory(cat.file));
-      elCatlist.appendChild(btn);
-    }
-  }
-
-  async function loadDataset(){
-    current = null;
-    elTitle.textContent = "Choose a category";
-    elMeta.textContent = "Dataset: " + activeDataset;
-    elCards.innerHTML = '<div class="empty">Pick a category.</div>';
-    elShown.textContent = "0 shown";
-    elTotal.textContent = "0 total";
-
-    const indexUrl = "data/" + activeDataset + "/domains_index.json";
-    const idx = await fetchJson(indexUrl);
-    categories = Array.isArray(idx) ? idx : (idx.categories || []);
-    categories.sort((a,b) => (b.count||0) - (a.count||0));
-    renderCategories();
-
-    const first = categories[0]?.file;
-    if(first) await openCategory(first);
-  }
-
-  async function openCategory(file){
-    document.querySelectorAll(".catbtn").forEach(b => {
-      b.classList.toggle("active", b.dataset.file === file);
+function applyFilter(){
+  const q = (elQ.value || "").trim().toLowerCase();
+  if (!q) state.filtered = state.items.slice();
+  else {
+    state.filtered = state.items.filter(item => {
+      const parts = [
+        item.title, item.referenceNumber, item.protocolNumber,
+        organizationName(item), item.nutsCode?.value,
+        ...(cpvList(item))
+      ].filter(Boolean).map(x => String(x).toLowerCase());
+      return parts.some(p => p.includes(q));
     });
-
-    const j = await fetchJson("data/" + activeDataset + "/domains/" + file);
-    const list = Array.isArray(j.items) ? j.items : [];
-
-    current = { label: j.domain || file, file, items: list };
-    elTitle.textContent = current.label;
-    elMeta.textContent = "Dataset: " + activeDataset + " | File: " + file;
-    elTotal.textContent = list.length + " total";
-
-    applyFilterSortRender();
-    location.hash = encodeURIComponent(activeDataset + "::" + file);
   }
+  elCount.textContent = `${state.filtered.length} items`;
+  renderGrid();
+}
 
-  function applyFilterSortRender(){
-    if(!current){ return; }
-
-    const q = (elQ.value || "").trim().toLowerCase();
-    const sort = elSort.value;
-
-    let rows = current.items.slice();
-
-    if(q){
-      rows = rows.filter(it => {
-        const title = getTitle(it).toLowerCase();
-        const auth = getAuthority(it).toLowerCase();
-        const rec = getRecipient(it).toLowerCase();
-        const ada = getAda(it).toLowerCase();
-        const cpvs = getCpvs(it).join(" ").toLowerCase();
-        return title.includes(q) || auth.includes(q) || rec.includes(q) || ada.includes(q) || cpvs.includes(q);
-      });
-    }
-
-    rows.sort((a,b) => {
-      if(sort.startsWith("date")){
-        const da = (getDate(a)?.getTime() ?? 0);
-        const db = (getDate(b)?.getTime() ?? 0);
-        return sort === "date_desc" ? (db-da) : (da-db);
-      }
-      if(sort.startsWith("amount")){
-        const aa = (getAmount(a) ?? -Infinity);
-        const ab = (getAmount(b) ?? -Infinity);
-        return sort === "amount_desc" ? (ab-aa) : (aa-ab);
-      }
-      if(sort.startsWith("title")){
-        const ta = getTitle(a).toLowerCase();
-        const tb = getTitle(b).toLowerCase();
-        return sort === "title_asc" ? ta.localeCompare(tb) : tb.localeCompare(ta);
-      }
-      return 0;
-    });
-
-    elShown.textContent = rows.length + " shown";
-    renderCards(rows);
+function renderGrid(){
+  elGrid.innerHTML = "";
+  if (!state.filtered.length){
+    elGrid.innerHTML = `<div class="empty">No items found.</div>`;
+    return;
   }
+  for (const item of state.filtered){
+    const ref = item.referenceNumber || "";
+    const title = item.title || "(no title)";
+    const org = organizationName(item);
+    const signed = item.signedDate || "";
+    const submitted = item.submissionDate || "";
 
-  function renderCards(items){
-    if(!items.length){
-      elCards.innerHTML = '<div class="empty">No results.</div>';
-      return;
-    }
-    const MAX = 250;
-    const slice = items.slice(0, MAX);
+    const cpvs = cpvList(item).slice(0,4);
+    const cpvTags = cpvs.length ? cpvs.map(c => `<span class="tag mono">${escapeHtml(c)}</span>`).join("") : `<span class="tag">No CPV</span>`;
 
-    elCards.innerHTML = slice.map(it => {
-      const title = escapeHtml(getTitle(it));
-      const authority = escapeHtml(getAuthority(it));
-      const recipient = escapeHtml(getRecipient(it));
-      const ada = escapeHtml(getAda(it));
-      const link = getLink(it);
-      const date = fmtDate(getDate(it));
-      const amount = getAmount(it);
-      const money = amount != null ? fmtMoney(amount) : "";
-      const cpvs = getCpvs(it);
+    const aUrl = attachmentUrl(state.cat, ref);
+    const aBtn = aUrl ? `<a class="btn good" href="${aUrl}" target="_blank" rel="noopener">ðŸ“„ Open file (KHMDHS)</a>` : "";
 
-      const chips = [];
-      if(authority) chips.push('<span class="chip">Authority: ' + authority + '</span>');
-      if(recipient) chips.push('<span class="chip">Recipient: ' + recipient + '</span>');
-      if(date) chips.push('<span class="chip">Date: ' + escapeHtml(date) + '</span>');
-      if(money) chips.push('<span class="chip money">Amount: ' + escapeHtml(money) + '</span>');
-      if(ada) chips.push('<span class="chip">ADA: ' + ada + '</span>');
-      if(cpvs.length) chips.push('<span class="chip">CPV: ' + escapeHtml(cpvs.slice(0,4).join(", ")) + (cpvs.length>4 ? "..." : "") + '</span>');
-
-      const titleHtml = link
-        ? '<a href="' + escapeAttr(link) + '" target="_blank" rel="noopener">' + title + '</a>'
-        : title;
-
-      return '<div class="card"><h4>' + titleHtml + '</h4>' +
-             '<div class="small">' + escapeHtml(it.primary_domain || "") + '</div>' +
-             '<div class="chips">' + chips.join("") + '</div></div>';
-    }).join("");
-
-    if(items.length > slice.length){
-      elCards.innerHTML += '<div class="empty">Showing first <b>' + slice.length +
-                           '</b> of <b>' + items.length + '</b>. Use search to narrow down.</div>';
-    }
+    const card = document.createElement("div");
+    card.className = "card";
+    card.innerHTML = `
+      <div class="title">${escapeHtml(title)}</div>
+      <div class="meta">
+        <div class="row"><span class="k">Ref:</span> <span class="v mono">${escapeHtml(ref)}</span></div>
+        ${org ? `<div class="row"><span class="k">Org:</span> <span class="v">${escapeHtml(org)}</span></div>` : ""}
+        ${signed ? `<div class="row"><span class="k">Signed:</span> <span class="v mono">${escapeHtml(signed)}</span></div>` : ""}
+        ${submitted ? `<div class="row"><span class="k">Submitted:</span> <span class="v mono">${escapeHtml(submitted)}</span></div>` : ""}
+      </div>
+      <div class="tags">${cpvTags}</div>
+      <div class="actions">${aBtn}</div>
+    `;
+    elGrid.appendChild(card);
   }
+}
 
-  async function init(){
-    renderTabs();
-
-    const hash = decodeURIComponent((location.hash || "").replace("#",""));
-    if(hash.includes("::")){
-      const [ds] = hash.split("::");
-      if(DATASETS.find(x => x.key === ds)) activeDataset = ds;
-    }
-
-    renderTabs();
-    await loadDataset();
-
-    if(hash.includes("::")){
-      const [ds, file] = hash.split("::");
-      if(ds === activeDataset && categories.find(c => c.file === file)){
-        await openCategory(file);
-      }
-    }
+async function loadBucket(){
+  if (!state.bucketFile && state.manifest?.buckets?.length){
+    state.bucketFile = state.manifest.buckets[0].file;
+    updateHash();
   }
+  const url = `/data/${state.cat}/${state.bucketFile}`;
+  setStatus(true, "Loadingâ€¦");
+  elFooter.textContent = "";
+  const items = await fetchJson(url);
+  state.items = Array.isArray(items) ? items : (items.data || items.content || []);
+  state.filtered = state.items.slice();
+  elFooter.textContent = `${state.manifest?.generatedAt ? "generatedAt: " + state.manifest.generatedAt + " â€¢ " : ""}file: ${url}`;
+  setStatus(true, `Loaded ${state.cat}`);
+  applyFilter();
+}
 
-  window.addEventListener("load", init);
+function renderBuckets(){
+  elBucket.innerHTML = "";
+  const buckets = state.manifest?.buckets || [];
+  for (const b of buckets){
+    const opt = document.createElement("option");
+    opt.value = b.file;
+    opt.textContent = `${b.label} â€” ${b.count}`;
+    elBucket.appendChild(opt);
+  }
+  if (state.bucketFile){
+    elBucket.value = state.bucketFile;
+  } else if (buckets.length){
+    state.bucketFile = buckets[0].file;
+    elBucket.value = state.bucketFile;
+  }
+}
+
+async function loadCategory(){
+  renderTabs();
+  setStatus(true, "Loading manifestâ€¦");
+  try {
+    state.manifest = await fetchJson(`/data/${state.cat}/index.json`);
+    renderBuckets();
+
+    // if hash requested a bucket file, keep it; else default
+    if (!state.bucketFile && state.manifest?.buckets?.length){
+      state.bucketFile = state.manifest.buckets[0].file;
+    }
+    elBucket.onchange = () => { state.bucketFile = elBucket.value; updateHash(); loadBucket(); };
+
+    await loadBucket();
+  } catch (e){
+    console.error(e);
+    setStatus(false, "Load failed");
+    elGrid.innerHTML = `<div class="empty">
+      <div style="font-weight:800;margin-bottom:6px;">Couldn't load data for "${escapeHtml(state.cat)}".</div>
+      <div class="mono">${escapeHtml(e.message || String(e))}</div>
+    </div>`;
+    elCount.textContent = "0 items";
+  }
+}
+
+elQ.addEventListener("input", applyFilter);
+window.addEventListener("hashchange", () => { state.bucketFile=null; parseHash(); loadCategory(); });
+
+parseHash();
+loadCategory();
 </script>
 </body>
 </html>
