@@ -1,14 +1,256 @@
 ﻿{
     "category":  "auctions",
-    "generatedAt":  "2026-02-12T16:28:24Z",
-    "sourceFile":  "auctions_2026-02-10_to_2026-02-11.json",
-    "totalCount":  792,
+    "generatedAt":  "2026-02-12T21:03:47Z",
+    "sources":  [
+                    "auctions_2026-02-10_to_2026-02-11"
+                ],
+    "totalCount":  873,
     "buckets":  [
                     {
-                        "file":  "r_d_other.json",
-                        "key":  "r_d_other",
-                        "label":  "Other / No CPV",
-                        "count":  792
+                        "file":  "medical_pharma.json",
+                        "key":  "Medical \u0026 Pharma",
+                        "label":  "Medical \u0026 Pharma",
+                        "count":  231
+                    },
+                    {
+                        "file":  "business_services_legal_marketing_recruitment_security_print.json",
+                        "key":  "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+                        "label":  "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+                        "count":  94
+                    },
+                    {
+                        "file":  "repair_maintenance.json",
+                        "key":  "Repair \u0026 Maintenance",
+                        "label":  "Repair \u0026 Maintenance",
+                        "count":  68
+                    },
+                    {
+                        "file":  "construction_works.json",
+                        "key":  "Construction \u0026 Works",
+                        "label":  "Construction \u0026 Works",
+                        "count":  44
+                    },
+                    {
+                        "file":  "construction_materials_structures.json",
+                        "key":  "Construction Materials \u0026 Structures",
+                        "label":  "Construction Materials \u0026 Structures",
+                        "count":  30
+                    },
+                    {
+                        "file":  "environmental_cleaning_waste_services.json",
+                        "key":  "Environmental, Cleaning \u0026 Waste Services",
+                        "label":  "Environmental, Cleaning \u0026 Waste Services",
+                        "count":  30
+                    },
+                    {
+                        "file":  "transport_vehicles.json",
+                        "key":  "Transport \u0026 Vehicles",
+                        "label":  "Transport \u0026 Vehicles",
+                        "count":  29
+                    },
+                    {
+                        "file":  "furniture_cleaning_products.json",
+                        "key":  "Furniture \u0026 Cleaning Products",
+                        "label":  "Furniture \u0026 Cleaning Products",
+                        "count":  27
+                    },
+                    {
+                        "file":  "office_computing_non_software.json",
+                        "key":  "Office \u0026 Computing (Non-Software)",
+                        "label":  "Office \u0026 Computing (Non-Software)",
+                        "count":  25
+                    },
+                    {
+                        "file":  "it_services.json",
+                        "key":  "IT Services",
+                        "label":  "IT Services",
+                        "count":  23
+                    },
+                    {
+                        "file":  "architecture_engineering_inspection.json",
+                        "key":  "Architecture, Engineering \u0026 Inspection",
+                        "label":  "Architecture, Engineering \u0026 Inspection",
+                        "count":  23
+                    },
+                    {
+                        "file":  "energy_fuels.json",
+                        "key":  "Energy \u0026 Fuels",
+                        "label":  "Energy \u0026 Fuels",
+                        "count":  22
+                    },
+                    {
+                        "file":  "recreation_culture_sports_services.json",
+                        "key":  "Recreation, Culture \u0026 Sports Services",
+                        "label":  "Recreation, Culture \u0026 Sports Services",
+                        "count":  20
+                    },
+                    {
+                        "file":  "food_catering.json",
+                        "key":  "Food \u0026 Catering",
+                        "label":  "Food \u0026 Catering",
+                        "count":  19
+                    },
+                    {
+                        "file":  "r_d_related_consulting.json",
+                        "key":  "R\u0026D \u0026 Related Consulting",
+                        "label":  "R\u0026D \u0026 Related Consulting",
+                        "count":  19
+                    },
+                    {
+                        "file":  "electrical_equipment_lighting.json",
+                        "key":  "Electrical Equipment \u0026 Lighting",
+                        "label":  "Electrical Equipment \u0026 Lighting",
+                        "count":  19
+                    },
+                    {
+                        "file":  "community_personal_services.json",
+                        "key":  "Community \u0026 Personal Services",
+                        "label":  "Community \u0026 Personal Services",
+                        "count":  14
+                    },
+                    {
+                        "file":  "industrial_machinery.json",
+                        "key":  "Industrial Machinery",
+                        "label":  "Industrial Machinery",
+                        "count":  12
+                    },
+                    {
+                        "file":  "chemicals.json",
+                        "key":  "Chemicals",
+                        "label":  "Chemicals",
+                        "count":  11
+                    },
+                    {
+                        "file":  "printing_publishing.json",
+                        "key":  "Printing \u0026 Publishing",
+                        "label":  "Printing \u0026 Publishing",
+                        "count":  10
+                    },
+                    {
+                        "file":  "health_social_work_services.json",
+                        "key":  "Health \u0026 Social Work Services",
+                        "label":  "Health \u0026 Social Work Services",
+                        "count":  10
+                    },
+                    {
+                        "file":  "hospitality_retail_catering_services.json",
+                        "key":  "Hospitality, Retail \u0026 Catering Services",
+                        "label":  "Hospitality, Retail \u0026 Catering Services",
+                        "count":  10
+                    },
+                    {
+                        "file":  "postal_telecommunications_services.json",
+                        "key":  "Postal \u0026 Telecommunications Services",
+                        "label":  "Postal \u0026 Telecommunications Services",
+                        "count":  9
+                    },
+                    {
+                        "file":  "lab_optical_precision_equipment.json",
+                        "key":  "Lab, Optical \u0026 Precision Equipment",
+                        "label":  "Lab, Optical \u0026 Precision Equipment",
+                        "count":  9
+                    },
+                    {
+                        "file":  "sports_toys_recreation_goods.json",
+                        "key":  "Sports, Toys \u0026 Recreation Goods",
+                        "label":  "Sports, Toys \u0026 Recreation Goods",
+                        "count":  8
+                    },
+                    {
+                        "file":  "textiles_plastics_rubber.json",
+                        "key":  "Textiles, Plastics \u0026 Rubber",
+                        "label":  "Textiles, Plastics \u0026 Rubber",
+                        "count":  8
+                    },
+                    {
+                        "file":  "software_information_systems.json",
+                        "key":  "Software \u0026 Information Systems",
+                        "label":  "Software \u0026 Information Systems",
+                        "count":  7
+                    },
+                    {
+                        "file":  "transport_services.json",
+                        "key":  "Transport Services",
+                        "label":  "Transport Services",
+                        "count":  5
+                    },
+                    {
+                        "file":  "agriculture_forestry_landscaping_services.json",
+                        "key":  "Agriculture/Forestry/Landscaping Services",
+                        "label":  "Agriculture/Forestry/Landscaping Services",
+                        "count":  4
+                    },
+                    {
+                        "file":  "clothing_ppe.json",
+                        "key":  "Clothing \u0026 PPE",
+                        "label":  "Clothing \u0026 PPE",
+                        "count":  4
+                    },
+                    {
+                        "file":  "financial_insurance_services.json",
+                        "key":  "Financial \u0026 Insurance Services",
+                        "label":  "Financial \u0026 Insurance Services",
+                        "count":  4
+                    },
+                    {
+                        "file":  "transport_support_travel.json",
+                        "key":  "Transport Support \u0026 Travel",
+                        "label":  "Transport Support \u0026 Travel",
+                        "count":  4
+                    },
+                    {
+                        "file":  "agriculture_forestry.json",
+                        "key":  "Agriculture \u0026 Forestry",
+                        "label":  "Agriculture \u0026 Forestry",
+                        "count":  4
+                    },
+                    {
+                        "file":  "telecom_electronics.json",
+                        "key":  "Telecom \u0026 Electronics",
+                        "label":  "Telecom \u0026 Electronics",
+                        "count":  3
+                    },
+                    {
+                        "file":  "education_training.json",
+                        "key":  "Education \u0026 Training",
+                        "label":  "Education \u0026 Training",
+                        "count":  3
+                    },
+                    {
+                        "file":  "construction_quarrying_machinery.json",
+                        "key":  "Construction \u0026 Quarrying Machinery",
+                        "label":  "Construction \u0026 Quarrying Machinery",
+                        "count":  3
+                    },
+                    {
+                        "file":  "installation_services_non_software.json",
+                        "key":  "Installation Services (Non-Software)",
+                        "label":  "Installation Services (Non-Software)",
+                        "count":  2
+                    },
+                    {
+                        "file":  "public_admin_defence_social_security.json",
+                        "key":  "Public Admin, Defence \u0026 Social Security",
+                        "label":  "Public Admin, Defence \u0026 Social Security",
+                        "count":  2
+                    },
+                    {
+                        "file":  "security_defense.json",
+                        "key":  "Security \u0026 Defense",
+                        "label":  "Security \u0026 Defense",
+                        "count":  2
+                    },
+                    {
+                        "file":  "water.json",
+                        "key":  "Water",
+                        "label":  "Water",
+                        "count":  1
+                    },
+                    {
+                        "file":  "metals_mining.json",
+                        "key":  "Metals \u0026 Mining",
+                        "label":  "Metals \u0026 Mining",
+                        "count":  1
                     }
                 ]
 }

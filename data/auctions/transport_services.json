@@ -1,0 +1,869 @@
+{
+  "domain": "Transport Services",
+  "count": 5,
+  "items": [
+    {
+      "title": "Μεταφορά και Φόρτωση  αδρανών υλικών εντός του λατομείου Λιτοχώρου",
+      "referenceNumber": "26AWRD018460402",
+      "submissionDate": "2026-02-10T22:22:25.542",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-10",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.F00343.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "094107233",
+      "greekOrganizationVatNumber": true,
+      "budget": 30000,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100021728",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+        },
+        "signers": {
+          "key": "100096004",
+          "value": "ΑΣΤΕΡΙΟΣ ΦΑΡΜΑΚΗΣ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "100021356",
+        "value": "ΜΟΝΟΜΕΤΟΧΙΚΗ ΑΝΩΝΥΜΗ ΔΗΜΟΤΙΚΗ ΕΤΑΙΡΕΙΑ ΑΝΑΠΤΥΞΗΣ ΒΙΟ ΠΑ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗΣ ΑΜΜΟΡΥΧΕΙΩΝ ΔΙΟΥ ΟΛΥΜΠΟΥ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL525",
+        "value": "Πιερία"
+      },
+      "nutsCity": "ΛΙΤΟΧΩΡΟ",
+      "nutsPostalCode": "60200",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 12,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "800709873",
+            "greekVatNumber": false,
+            "name": "ΓΕΩΡΓΙΟΣ ΤΣΙΑΝΑΚΑΣ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ ",
+            "nutsCode": {
+              "key": "EL525",
+              "value": "Πιερία"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 37200.0,
+      "totalCostWithoutVAT": 30000.0,
+      "objectDetailsList": [
+        {
+          "quantity": 400,
+          "type": {
+            "key": "MH",
+            "value": "Ανθρωποώρα"
+          },
+          "costWithoutVAT": 20000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Φόρτωση  αδρανών υλικών εντός του λατομείου Λιτοχώρου",
+          "cpvs": [
+            {
+              "key": "43260000-3",
+              "value": "Αυτοκινούμενα μηχανικά πτύα"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 250,
+          "type": {
+            "key": "MH",
+            "value": "Ανθρωποώρα"
+          },
+          "costWithoutVAT": 10000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Μεταφορά αδρανών υλικών εντός του λατομείου Λιτοχώρου",
+          "cpvs": [
+            {
+              "key": "60000000-8",
+              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018430731",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "43260000",
+        "60000000"
+      ],
+      "cpv_divisions": [
+        "43",
+        "60"
+      ],
+      "all_domains": [
+        "Construction & Quarrying Machinery",
+        "Transport Services"
+      ],
+      "primary_domain": "Construction & Quarrying Machinery"
+    },
+    {
+      "title": "ΥΠΗΡΕΣΙΑ ΜΕΤΑΦΟΡΑΣ ΕΘΝΙΚΩΝ ΟΜΑΔΩΝ U18M ΚΑΙ U18W ΓΙΑ ΠΡΟΕΤΟΙΜΑΣΙΑ",
+      "referenceNumber": "26AWRD018458365",
+      "submissionDate": "2026-02-10T13:15:32.258",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-10",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1020.F01091.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "090037327",
+      "greekOrganizationVatNumber": false,
+      "budget": 10000,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "87723",
+          "value": "ΕΚΤΕΛΕΣΤΙΚΗ ΕΠΙΤΡΟΠΗ"
+        },
+        "signers": {
+          "key": "100025408",
+          "value": "Γεώργιος Καραμπέτσος - Πρόεδρος Δ.Σ."
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "99221287",
+        "value": "ΕΛΛΗΝΙΚΗ ΟΜΟΣΠΟΝΔΙΑ ΠΕΤΟΣΦΑΙΡΙΣΗΣ (Ε.Ο.ΠΕ.)"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL3",
+        "value": "ATTIKΗ"
+      },
+      "nutsCity": "ΜΑΡΟΥΣΙ",
+      "nutsPostalCode": "15123",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "10",
+        "value": "Πολιτισμός και θρησκεία"
+      },
+      "contractDuration": 6,
+      "contractDurationUnitOfMeasure": {
+        "key": "1",
+        "value": "Ημέρες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "802102708",
+            "greekVatNumber": false,
+            "name": "ΑΝΤΩΝΙΟΥ ΝΕΚΤΑΡΙΟΣ & ΣΙΑ ΙΚΕ",
+            "nutsCode": {
+              "key": "EL3",
+              "value": "ATTIKΗ"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 11300.0,
+      "totalCostWithoutVAT": 10000.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 10000,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΥΠΗΡΕΣΙΑ ΜΕΤΑΦΟΡΑΣ ΕΘΝΙΚΩΝ ΟΜΑΔΩΝ U18M ΚΑΙ U18W ΓΙΑ ΠΡΟΕΤΟΙΜΑΣΙΑ",
+          "cpvs": [
+            {
+              "key": "60130000-8",
+              "value": "Υπηρεσίες ειδικών οδικών μεταφορών επιβατών"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018386320",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "99221287",
+        "60130000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "ΚΑΤΑΚΥΡΩΣΗ ΤΗΣ ΥΠΗΡΕΣΙΑΣ ΜΕΤΑΦΟΡΑΣ ΠΡΟΪΟΝΤΩΝ ΑΙΜΑΤΟΣΚΑΙ ΔΕΙΓΜΑΤΩΝ, ΣΥΝΟΛ. ΔΑΠ. 36.456,00 ΣΥΜΠΕΡ. ΦΠΑ",
+      "referenceNumber": "26AWRD018457830",
+      "submissionDate": "2026-02-10T12:45:46.478",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-04",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1015.Ε00833.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "999378003",
+      "greekOrganizationVatNumber": false,
+      "budget": 29400,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "75472",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+        },
+        "signers": {
+          "key": "100099507",
+          "value": "ΙΩΑΝΝΗΣ ΜΠΑΚΑΒΟΣ - Διοικητής"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "99222007",
+        "value": "ΠΕΡ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΠΑΤΡΩΝ 'ΑΓΙΟΣ ΑΝΔΡΕΑΣ'"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL632",
+        "value": "Αχαΐα"
+      },
+      "nutsCity": "ΠΑΤΡΑ",
+      "nutsPostalCode": "26335",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "6",
+        "value": "Υγεία"
+      },
+      "contractDuration": 4,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "095684034",
+            "greekVatNumber": false,
+            "name": "ΓΕΝΙΚΗ ΧΗΜΙΚΩΝ ΕΦΑΡΜΟΓΩΝ ΕΠΕ",
+            "nutsCode": {
+              "key": "EL3",
+              "value": "ATTIKΗ"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 36456.0,
+      "totalCostWithoutVAT": 29400.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 29400,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΥΠΗΡΕΣΙΑ ΜΕΤΑΦΟΡΑΣ ΠΡΟΫΟΝΤΩΝ ΑΙΜΑΤΟΣ  ΚΑΙ ΔΕΙΓΜΑΤΩΝ ΓΙΑ ΤΕΣΣΕΡΙΣ ΜΗΝΕΣ",
+          "cpvs": [
+            {
+              "key": "60000000-8",
+              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018382518",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [
+        "26SYMV018457979"
+      ],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "99222007",
+        "60000000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "ΑΝΑΘΕΣΗ ΠΑΡΟΧΗΣ ΥΠΗΡΕΙΣΩΝ ΜΕ ΜΕΤΑΦΟΡΙΚΗ ΕΤΑΙΡΕΙΑ ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΤΗΣ ΔΕΥΑΜ ΕΤΟΥΣ 2026",
+      "referenceNumber": "26AWRD018454187",
+      "submissionDate": "2026-02-10T09:03:35.317",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-06",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.F00145.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "090233584",
+      "greekOrganizationVatNumber": false,
+      "budget": 29000,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "93807",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+        },
+        "signers": {
+          "key": "100091847",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΠΟΛΙΤΗΣ - Αναπληρωτής Γενικός Διευθυντής"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "50351",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ (Δ.Ε.Υ.Α.) ΜΥΚΟΝΟΥ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL422",
+        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
+      },
+      "nutsCity": "ΜΥΚΟΝΟΣ",
+      "nutsPostalCode": "84600",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "1",
+            "value": "Συμφωνία-πλαίσιο"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "7",
+        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 12,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "801932233",
+            "greekVatNumber": false,
+            "name": "FOUR EXPRESS O.E.",
+            "nutsCode": {
+              "key": "EL303",
+              "value": "Κεντρικός Τομέας Αθηνών"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 35960.0,
+      "totalCostWithoutVAT": 29000.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 29000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Συνεργασία με μεταφορική εταιρεία, προκειμένου να μεταφέρει όλες τις προμήθειες που προέρχονται από προμηθευτές εκτός Μυκόνου, για το έτος 2026. Πρόκειται για προμήθειες υλικών, εξαρτημάτων, σωληνώσεων των δικτύων ύδρευσης- αποχέτευσης, αντλίες αντλιοστασίων λυμάτων, του Βιολογικού Καθαρισμού, των Ταχυδιυλιστηρίων και γενικότερα όλες τις εγκαταστάσεις της Δ.Ε.ΥΑ.Μ.",
+          "cpvs": [
+            {
+              "key": "60000000-8",
+              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018376585",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "60000000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΓΙΑ ΜΕΤΑΦΟΡΑ ΕΡΓΩΝ ΤΕΧΝΗΣ-ΣΥΣΚΕΥΑΣΙΑ & ΑΣΦΑΛΙΣΗ ΕΡΓΩΝ -ΕΚΘΕΣΗ ΤΡΕΙΣ ΔΡΟΜΟΙ/THREE PA",
+      "referenceNumber": "26AWRD018453725",
+      "submissionDate": "2026-02-10T08:19:12.085",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-10",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1022.E00951.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "997223821",
+      "greekOrganizationVatNumber": false,
+      "budget": 4890,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100044232",
+          "value": "ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΤΡΙΑ"
+        },
+        "signers": {
+          "key": "100083392",
+          "value": "ΦΑΝΗ ΤΣΑΤΣΑΙΑ - Γενικός Διευθυντής"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "100044187",
+        "value": "ΜΗΤΡΟΠΟΛΙΤΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΜΟΥΣΕΙΩΝ ΕΙΚΑΣΤΙΚΩΝ ΤΕΧΝΩΝ ΘΕΣΣΑΛΟΝΙΚΗΣ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
+      },
+      "nutsCity": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "nutsPostalCode": "56430",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "10",
+        "value": "Πολιτισμός και θρησκεία"
+      },
+      "contractDuration": 4,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "998935219",
+            "greekVatNumber": false,
+            "name": "MOVE ART S.A.",
+            "nutsCode": {
+              "key": "EL305",
+              "value": "Ανατολική Αττική"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 6063.6,
+      "totalCostWithoutVAT": 4890.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 4890,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΓΙΑ ΜΕΤΑΦΟΡΑ ΕΡΓΩΝ ΤΕΧΝΗΣ-ΣΥΣΚΕΥΑΣΙΑ & ΑΣΦΑΛΙΣΗ ΕΡΓΩΝ -ΕΚΘΕΣΗ ΤΡΕΙΣ ΔΡΟΜΟΙ/THREE PATHS,CONSTANTINE MANOS,NIKOS ECONOMOPOULOS,ENRI CANAJ-ΜΦΘ",
+          "cpvs": [
+            {
+              "key": "60100000-9",
+              "value": "Υπηρεσίες οδικών μεταφορών"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018430351",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "60100000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    }
+  ]
+}
