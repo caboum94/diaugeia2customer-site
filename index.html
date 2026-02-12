@@ -235,7 +235,7 @@ async function loadBucket(){
     state.bucketFile = state.manifest.buckets[0].file;
     updateHash();
   }
-  const url = `/data/${state.cat}/${state.bucketFile}`;
+  const url = `data/${state.cat}/${state.bucketFile}`;
   setStatus(true, "Loadingâ€¦");
   elFooter.textContent = "";
   const items = await fetchJson(url);
@@ -267,7 +267,7 @@ async function loadCategory(){
   renderTabs();
   setStatus(true, "Loading manifestâ€¦");
   try {
-    state.manifest = await fetchJson(`/data/${state.cat}/index.json`);
+    state.manifest = await fetchJson(`data/${state.cat}/index.json`);
     renderBuckets();
 
     // if hash requested a bucket file, keep it; else default
