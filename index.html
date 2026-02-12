@@ -244,7 +244,7 @@ async function loadBucket(){
   setStatus(true, "Loadingâ€¦");
   elFooter.textContent = "";
   const items = await fetchJson(url);
-  state.items = Array.isArray(items) ? items : (items.data || items.content || []);
+  state.items = Array.isArray(items) ? items : (items.items || items.data || items.content || []);
   state.filtered = state.items.slice();
   elFooter.textContent = `${state.manifest?.generatedAt ? "generatedAt: " + state.manifest.generatedAt + " â€¢ " : ""}file: ${url}`;
   setStatus(true, `Loaded ${state.cat}`);
