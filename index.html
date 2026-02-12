@@ -265,6 +265,55 @@ function parseHash(){
 function organizationName(item){
   return item.organization?.value || item.contractingData?.unitsOperator?.value || "";
 }
+
+function getAmount(item){
+  // Try common fields across KHMDHS payloads (requests/contracts/payments/etc.)
+  const candidates = [
+    item.amount,
+    item.totalAmount,
+    item.totalValue,
+    item.value,
+    item.contractValue,
+    item.contractingData?.totalAmount,
+    item.contractingData?.totalValue,
+    item.contractingData?.awardValue,
+    item.contractingData?.price,
+    item.financialData?.amount,
+    item.financialData?.totalAmount,
+    item.paymentAmount,
+    item.payableAmount,
+    item.budget?.amount,
+    item.budget?.value,
+    item.award?.amount,
+    item.award?.value,
+    item.objectDetails?.[0]?.estimatedValue,
+    item.objectDetails?.[0]?.estimatedValueWithoutVat,
+    item.objectDetails?.[0]?.estimatedValueWithVat,
+    item.objectDetails?.[0]?.value
+  ];
+
+  let v = candidates.find(x => x !== undefined && x !== null && x !== "");
+  if (v === undefined) return null;
+
+  // Handle {amount:..., currency:...} or {value:..., currency:...}
+  let currency = item.currency || item.financialData?.currency || item.budget?.currency || item.contractingData?.currency;
+
+  if (typeof v === "object" && v !== null) {
+    currency = v.currency || currency;
+    v = v.amount ?? v.value ?? v.total ?? v.net ?? v.gross ?? null;
+  }
+
+  if (v === null || v === undefined || v === "") return null;
+
+  const num = Number(String(v).replace(",", "."));
+  const pretty = Number.isFinite(num) ? num.toLocaleString(undefined, { maximumFractionDigits: 2 }) : String(v);
+  return currency ? `${pretty} ${currency}` : pretty;
+}
+
+
+
+
+
 function cpvList(item){
   const od0 = item.objectDetails?.[0];
   const cpvs = od0?.cpvs || [];
@@ -300,6 +349,7 @@ function renderGrid(){
     const org = organizationName(item);
     const signed = item.signedDate || "";
     const submitted = item.submissionDate || "";
+    const amount = getAmount(item);
 
     const cpvs = cpvList(item).slice(0,4);
     const cpvTags = cpvs.length ? cpvs.map(c => `<span class="tag mono">${escapeHtml(c)}</span>`).join("") : `<span class="tag">No CPV</span>`;
@@ -313,6 +363,7 @@ function renderGrid(){
       <div class="title">${escapeHtml(title)}</div>
       <div class="meta">
         <div class="row"><span class="k">Ref:</span> <span class="v mono">${escapeHtml(ref)}</span></div>
+        ${amount ? `<div class="row"><span class="k">Amount:</span> <span class="v mono">${escapeHtml(amount)}</span></div>` : ""}
         ${org ? `<div class="row"><span class="k">Org:</span> <span class="v">${escapeHtml(org)}</span></div>` : ""}
         ${signed ? `<div class="row"><span class="k">Signed:</span> <span class="v mono">${escapeHtml(signed)}</span></div>` : ""}
         ${submitted ? `<div class="row"><span class="k">Submitted:</span> <span class="v mono">${escapeHtml(submitted)}</span></div>` : ""}
