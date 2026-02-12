@@ -1,241 +1,48 @@
 {
   "domain": "Clothing & PPE",
-  "count": 23,
+  "count": 25,
   "items": [
     {
-      "title": "ΚΑΛΥΨΗ ΔΑΠΑΝΩΝ ΓΙΑ ΠΟΛΙΤΙΣΤΙΚΕΣ ΕΚΔΗΛΩΣΕΙΣ Αποκριάς και της Καθαρής Δευτέρας 20-23 Φεβρουαρίου",
-      "referenceNumber": "26REQ018460198",
-      "previousRequestReferenceNumber": "26REQ018459463",
-      "signedDate": "2026-02-10",
+      "title": "ΑΠΟΦΑΣΗ ΔΕΣΜΕΥΣΗΣ ΓΙΑ ΑΓΟΡΑ ΕΜΠΟΡΕΥΜΑΤΩΝ ΚΑΙ ΕΙΔΩΝ ΣΥΣΚΕΥΑΣΙΑΣ ΓΙΑ ΤΟ ΠΩΛΗΤΗΡΙΟ",
+      "referenceNumber": "26REQ018474447",
+      "previousRequestReferenceNumber": "26REQ018473380",
+      "signedDate": "2026-02-12",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T17:00:31.117",
-      "procurementDeliveryDate": "2026-02-20",
+      "submissionDate": "2026-02-12T15:35:37.011",
+      "procurementDeliveryDate": "2026-02-19",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "380",
+      "protocolNumber": "588",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090134594",
+      "organizationVatNumber": "099456077",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "6187",
-        "value": "ΔΗΜΟΣ ΜΕΓΑΝΗΣΙΟΥ"
+        "key": "50025",
+        "value": "ΕΘΝΙΚΟ ΜΟΥΣΕΙΟ ΣΥΓΧΡΟΝΗΣ ΤΕΧΝΗΣ"
       },
       "nutsCode": {
-        "key": "EL624",
-        "value": "Λευκάδα"
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
       },
       "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
+        "key": "10",
+        "value": "ΝΠΙΔ"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
       },
-      "aaht": "1007.E83602.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "84013",
-          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
-        },
-        "signers": {
-          "key": "100085508",
-          "value": "ΓΕΡΑΣΙΜΟΣ ΚΑΤΩΠΟΔΗΣ - Δήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 10600.0,
-      "totalCostWithoutVAT": 8638.67,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΘΑΛΑΣΣΙΑΣ ΜΕΤΑΦΟΡΑΣ",
-          "cpvs": [
-            {
-              "key": "60000000-8",
-              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 4072.58,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΛΛΙΤΕΧΝΙΚΕΣ ΥΠΗΡΕΣΙΕΣ ΕΚΔΗΛΩΣΕΩΝ",
-          "cpvs": [
-            {
-              "key": "92312000-1",
-              "value": "Καλλιτεχνικές υπηρεσίες"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1017.7,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΠΑΡΟΧΗΣ ΦΑΓΗΤΟΥ",
-          "cpvs": [
-            {
-              "key": "55300000-3",
-              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΤΑΣΚΕΥΗ ΚΑΡΝΑΒΑΛΙΚΟΥ ΑΡΜΑΤΟΣ",
-          "cpvs": [
-            {
-              "key": "45262600-7",
-              "value": "Διάφορες κατασκευαστικές εργασίες ειδικής φύσης"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1548.39,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΠΟΚΡΙΑΤΙΚΕΣ ΣΤΟΛΕΣ",
-          "cpvs": [
-            {
-              "key": "18400000-3",
-              "value": "Ειδικά ενδύματα και εξαρτήματα ένδυσης"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "60000000",
-        "92312000",
-        "55300000",
-        "45262600",
-        "18400000"
-      ],
-      "cpv_divisions": [
-        "60",
-        "92",
-        "55",
-        "45",
-        "18"
-      ],
-      "all_domains": [
-        "Transport Services",
-        "Recreation, Culture & Sports Services",
-        "Hospitality, Retail & Catering Services",
-        "Construction & Works",
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Construction & Works"
-    },
-    {
-      "title": "ΑΙΤΗΜΑ ΕΓΚΡΙΣΗΣ ΠΟΣΟΥ ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΑΝΑΛΩΣΙΜΩΝ ΤΟΞΙΚΟΛΟΓΙΚΟΥ ΕΡΓΑΣΤΗΡΙΟΥ",
-      "referenceNumber": "26REQ018460127",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-06",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T16:22:13.971",
-      "procurementDeliveryDate": "2026-02-16",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "145",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "090169674",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99200497",
-        "value": "ΙΑΤΡΟΔΙΚΑΣΤΙΚΗ ΥΠΗΡΕΣΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ"
-      },
-      "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1017.0000000000.0416",
+      "aaht": "1022.E00358.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -246,54 +53,54 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "93145",
-          "value": "ΙΑΤΡΟΔΙΚΑΣΤΙΚΗ ΥΠΗΡΕΣΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ"
+          "key": "100073935",
+          "value": "ΔΙΟΙΚΗΤΙΚΗ ΟΙΚΟΝΟΜΙΚΗ ΔΙΕΥΘΥΝΤΡΙΑ"
         },
         "signers": {
-          "key": "100096666",
-          "value": "ΕΛΕΝΗ ΚΑΛΥΒΑ - Προϊστάμενος Διεύθυνσης"
+          "key": "100070246",
+          "value": "ΑΘΗΝΑ ΙΩΑΝΝΟΥ - Διοικητικός Διευθυντής"
         }
       },
-      "totalCostWithVAT": 6719.44,
-      "totalCostWithoutVAT": 5459.55,
+      "totalCostWithVAT": 12400.0,
+      "totalCostWithoutVAT": 10000.0,
       "objectDetails": [
         {
-          "quantity": 2,
+          "quantity": 1,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 280,
-          "vat": "6",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΝΑΛΩΣΙΜΑ ΥΛΙΚΑ ΤΟΞΙΚΟΛΟΓΙΚΟΥ ΕΡΓΑΣΤΗΡΙΟΥ (ΓΑΝΤΙΑ)",
-          "cpvs": [
-            {
-              "key": "18424300-0",
-              "value": "Γάντια μιας χρήσης"
-            }
-          ]
-        },
-        {
-          "quantity": 17,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 5179.55,
+          "costWithoutVAT": 10000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΑΝΑΛΩΣΙΜΑ ΥΛΙΚΑ ΤΟΞΙΚΟΛΟΓΙΚΟΥ ΕΡΓΑΣΤΗΡΙΟΥ",
+          "shortDescription": "ΑΠΟΦΑΣΗ ΔΕΣΜΕΥΣΗΣ ΠΙΣΤΩΣΗΣ ΓΙΑ ΔΑΠΑΝΗ ΑΓΟΡΑΣ ΕΜΠΟΡΕΥΜΑΤΩΝ ΚΑΙ ΕΙΔΩΝ ΣΥΣΚΕΥΑΣΙΑΣ ΓΙΑ ΤΟ ΠΩΛΗΤΗΡΙΟ",
           "cpvs": [
             {
-              "key": "33140000-3",
-              "value": "Ιατρικά αναλώσιμα"
+              "key": "37524000-7",
+              "value": "Παιχνίδια"
+            },
+            {
+              "key": "22110000-4",
+              "value": "Τυπωμένα βιβλία"
+            },
+            {
+              "key": "39298500-2",
+              "value": "Διακοσμητικά είδη"
+            },
+            {
+              "key": "39221122-8",
+              "value": "Κούπες"
+            },
+            {
+              "key": "18930000-7",
+              "value": "Σάκοι και τσάντες"
+            },
+            {
+              "key": "30192700-8",
+              "value": "Γραφική ύλη"
             }
           ]
         }
@@ -306,51 +113,60 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "99200497",
-        "18424300",
-        "33140000"
+        "37524000",
+        "22110000",
+        "39298500",
+        "39221122",
+        "18930000",
+        "30192700"
       ],
       "cpv_divisions": [
+        "37",
+        "22",
+        "39",
         "18",
-        "33"
+        "30"
       ],
       "all_domains": [
+        "Sports, Toys & Recreation Goods",
+        "Printing & Publishing",
+        "Furniture & Cleaning Products",
         "Clothing & PPE",
-        "Medical & Pharma"
+        "Office & Computing (Non-Software)"
       ],
-      "primary_domain": "Medical & Pharma"
+      "primary_domain": "Office & Computing (Non-Software)"
     },
     {
-      "title": "«Απόκριες στο Καρπενήσι 2026» ",
-      "referenceNumber": "26REQ018459682",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
+      "title": "Δαπάνες για την διοργάνωση των αποκριάτικων εκδηλώσεων στις Δημοτικές & Τοπικές Κοινότητες Δ.Θ.",
+      "referenceNumber": "26REQ018474351",
+      "previousRequestReferenceNumber": "26REQ018470285",
+      "signedDate": "2026-02-12",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T14:52:08.39",
-      "procurementDeliveryDate": "2026-02-18",
+      "submissionDate": "2026-02-12T15:00:32.634",
+      "procurementDeliveryDate": "2026-02-20",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "1754",
+      "protocolNumber": "1988",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "998895715",
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997597230",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
-      "approved": false,
+      "approved": true,
       "organization": {
-        "key": "6137",
-        "value": "ΔΗΜΟΣ ΚΑΡΠΕΝΗΣΙΟΥ"
+        "key": "6115",
+        "value": "ΔΗΜΟΣ ΘΗΒΑΙΩΝ"
       },
       "nutsCode": {
-        "key": "EL643",
-        "value": "Ευρυτανία"
+        "key": "EL641",
+        "value": "Βοιωτία"
       },
       "typeOfContractingAuthority": {
         "key": "9",
@@ -360,45 +176,85 @@
         "key": "2",
         "value": "ΟΤΑ"
       },
-      "aaht": "1007.Ε83001.0001",
+      "aaht": "1007.E82804.0001",
       "contractTypes": [
         {
           "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
+            "key": "13",
+            "value": "Προμήθειες"
           }
         }
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "100016513",
-          "value": "Δ/ΝΣΗ ΚΟΙΝΩΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ,ΠΑΙΔΕΙΑΣ,ΑΘΛΗΤΙΣΜΟΥ ΚΑΙ ΠΟΛΙΤΙΣΜΟΥ"
+          "key": "100086990",
+          "value": "ΥΠΗΡΕΣΙΩΝ ΚΟΙΝΩΝΙΚΗΣ ΑΛΛΗΛΕΓΓΥΗΣ ΚΑΙ ΠΟΛΙΤΙΣΜΟΥ ΠΡΩΗΝ Δ.Ο.Θ."
         },
         "signers": {
-          "key": "100039151",
-          "value": "ΑΓΓΕΛΙΚΗ ΜΠΕΣΣΑ - Αναπληρωτης Προϊστάμενος Τμήματος"
+          "key": "100048924",
+          "value": "ΓΕΩΡΓΙΟΣ ΑΝΑΣΤΑΣΙΟΥ Δ. - Δήμαρχος"
         }
       },
-      "totalCostWithVAT": 29936.08,
-      "totalCostWithoutVAT": 24142.0,
+      "totalCostWithVAT": 22583.79,
+      "totalCostWithoutVAT": 18875.77,
       "objectDetails": [
         {
-          "quantity": 1,
+          "quantity": 25,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "C62",
+            "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 10780,
-          "vat": "24",
+          "costWithoutVAT": 66.37,
+          "vat": "13",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΚΑΛΙΤΕΧΝΙΚΑ ΣΧΗΜΑΤΑ",
+          "shortDescription": "Διάφορα προϊόντα διατροφής για την αποκριάτικη εκδήλωση στην Τ.Κ. Χωστίων.",
           "cpvs": [
             {
-              "key": "92312000-1",
-              "value": "Καλλιτεχνικές υπηρεσίες"
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 40,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 200,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έτοιμα γεύματα  για την αποκριάτικη εκδήλωση στην Τ.Κ. Ξηρονομής στην Αλυκή.",
+          "cpvs": [
+            {
+              "key": "15894200-3",
+              "value": "Έτοιμα γεύματα"
+            }
+          ]
+        },
+        {
+          "quantity": 490,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 490,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αναψυκτικά για την αποκριάτικη εκδήλωση στην Τ.Κ. Πλαταιών.",
+          "cpvs": [
+            {
+              "key": "15982000-5",
+              "value": "Αναψυκτικά"
             }
           ]
         },
@@ -408,13 +264,433 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 2255,
+          "costWithoutVAT": 1000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΑΜΟΙΒΗ ΚΑΛΛΙΤΕΧΝΙΚΗΣ ΠΑΡΑΓΩΓΗΣ",
+          "shortDescription": "Υπηρεσία ηχητικής κάλυψης για την αποκριάτικη εκδήλωση στην Τ.Κ. Πλαταιών.",
+          "cpvs": [
+            {
+              "key": "92370000-5",
+              "value": "Υπηρεσίες τεχνικών ήχου"
+            }
+          ]
+        },
+        {
+          "quantity": 45,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 287.61,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Διάφορα προϊόντα διατροφής για την αποκριάτικη εκδήλωση στην Τ.Κ. Χωστίων.",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 65,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 260,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έτοιμα γεύματα  για την αποκριάτικη εκδήλωση στην Τ.Κ. Ξηρονομής.",
+          "cpvs": [
+            {
+              "key": "15894200-3",
+              "value": "Έτοιμα γεύματα"
+            }
+          ]
+        },
+        {
+          "quantity": 40,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 600,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έτοιμα γεύματα  για την αποκριάτικη εκδήλωση στην Τ.Κ. Αμπελοχωρίου.",
+          "cpvs": [
+            {
+              "key": "15894200-3",
+              "value": "Έτοιμα γεύματα"
+            }
+          ]
+        },
+        {
+          "quantity": 10,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 35,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Διάφορα προϊόντα διατροφής για την αποκριάτικη εκδήλωση στην Τ.Κ. Δομβραίνας.",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 15,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 96.75,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Επιτραπέζιο κρασί για την αποκριάτικη εκδήλωση στην Τ.Κ. Θίσβης.",
+          "cpvs": [
+            {
+              "key": "15931200-5",
+              "value": "Επιτραπέζιο κρασί"
+            }
+          ]
+        },
+        {
+          "quantity": 40,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 200,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έτοιμα γεύματα  για την αποκριάτικη εκδήλωση στην Τ.Κ. Ξηρονομής στην Αλυκή.",
+          "cpvs": [
+            {
+              "key": "15894200-3",
+              "value": "Έτοιμα γεύματα"
+            }
+          ]
+        },
+        {
+          "quantity": 9,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 63.72,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προϊόντα άρτου (λαγάνες) για την αποκριάτικη εκδήλωση στην Τ.Κ. Θίσβης.",
+          "cpvs": [
+            {
+              "key": "15811000-6",
+              "value": "Προϊόντα άρτου"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 700,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσία ηχητικής κάλυψης για την αποκριάτικη εκδήλωση στην Τ.Κ. Δομβραίνας",
+          "cpvs": [
+            {
+              "key": "92370000-5",
+              "value": "Υπηρεσίες τεχνικών ήχου"
+            }
+          ]
+        },
+        {
+          "quantity": 40,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 200,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έτοιμα γεύματα  για την αποκριάτικη εκδήλωση στην Τ.Κ. Ξηρονομής στην Αλυκή.",
+          "cpvs": [
+            {
+              "key": "15894200-3",
+              "value": "Έτοιμα γεύματα"
+            }
+          ]
+        },
+        {
+          "quantity": 30,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 186,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Διάφορα προϊόντα διατροφής για την αποκριάτικη εκδήλωση στην Τ.Κ. Δομβραίνας.",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 500,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 500,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Γλυκά για την αποκριάτικη εκδήλωση στην Τ.Κ. Αμπελοχωρίου.",
+          "cpvs": [
+            {
+              "key": "15812200-5",
+              "value": "Γλυκά"
+            }
+          ]
+        },
+        {
+          "quantity": 600,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 651.95,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πίτες για την αποκριάτικη εκδήλωση στην Τ.Κ. Δομβραίνας",
+          "cpvs": [
+            {
+              "key": "15812120-0",
+              "value": "Πίτες"
+            }
+          ]
+        },
+        {
+          "quantity": 165,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 1101.72,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Διάφορα Προϊόντα διατροφής για την αποκριάτικη εκδήλωση στην Τ.Κ. Πλαταιών.",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 24,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 55.2,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αναψυκτικά για την αποκριάτικη εκδήλωση στην Τ.Κ. Δομβραίνας",
+          "cpvs": [
+            {
+              "key": "15982000-5",
+              "value": "Αναψυκτικά"
+            }
+          ]
+        },
+        {
+          "quantity": 100,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 800,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έτοιμα γεύματα  για την αποκριάτικη εκδήλωση στην Τ.Κ. Ξηρονομής στην Αλυκή.",
+          "cpvs": [
+            {
+              "key": "15894200-3",
+              "value": "Έτοιμα γεύματα"
+            }
+          ]
+        },
+        {
+          "quantity": 165,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 442.48,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προϊόντα άρτου (λαγάνες) για την αποκριάτικη εκδήλωση στην Τ.Κ. Πλαταιών.",
+          "cpvs": [
+            {
+              "key": "15811000-6",
+              "value": "Προϊόντα άρτου"
+            }
+          ]
+        },
+        {
+          "quantity": 12,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 4.6,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Μη αεριούχο μεταλλικό νερό  για την αποκριάτικη εκδήλωση στην Τ.Κ. Δομβραίνας",
+          "cpvs": [
+            {
+              "key": "15981100-9",
+              "value": "Μη αεριούχο μεταλλικό νερό"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 4032.26,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσία οργάνωσης αποκριάτικης εκδήλωσης στην Τ.Κ. Καπαρελλίου.",
+          "cpvs": [
+            {
+              "key": "79952100-3",
+              "value": "Υπηρεσίες οργάνωσης πολιτιστικών εκδηλώσεων"
+            }
+          ]
+        },
+        {
+          "quantity": 30,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 250,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Διάφορα είδη διακόσμησης για την αποκριάτικη εκδήλωση στην Τ.Κ. Δομβραίνας",
+          "cpvs": [
+            {
+              "key": "39298900-6",
+              "value": "Διάφορα είδη διακόσμησης"
+            }
+          ]
+        },
+        {
+          "quantity": 8,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 72,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ελαιόλαδο για την αποκριάτικη εκδήλωση στην Τ.Κ. Πλαταιών.",
+          "cpvs": [
+            {
+              "key": "15411110-6",
+              "value": "Ελαιόλαδο"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 2258.06,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσία διοργάνωσης της αποκριάτικης εκδήλωσης στην Δ.Ε. Βαγίων.",
           "cpvs": [
             {
               "key": "79952100-3",
@@ -428,17 +704,640 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 5140,
+          "costWithoutVAT": 806.45,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΕΝΟΙΚΙΑΣΗ ΑΠΟΚΡΙΑΤΙΚΩΝ ΦΟΡΕΣΙΩΝ",
+          "shortDescription": "Υπηρεσία ηχητικής κάλυψης για την αποκριάτικη εκδήλωση στην Τ.Κ. Χωστίων.",
           "cpvs": [
             {
-              "key": "18400000-3",
-              "value": "Ειδικά ενδύματα και εξαρτήματα ένδυσης"
+              "key": "92370000-5",
+              "value": "Υπηρεσίες τεχνικών ήχου"
+            }
+          ]
+        },
+        {
+          "quantity": 100,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 100,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έτοιμα γεύματα  για την αποκριάτικη εκδήλωση στην Τ.Κ. Ξηρονομής στην Αλυκή.",
+          "cpvs": [
+            {
+              "key": "15894200-3",
+              "value": "Έτοιμα γεύματα"
+            }
+          ]
+        },
+        {
+          "quantity": 118,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2258.06,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ενοικίαση ειδικών ενδυμάτων για την αποκριάτικη εκδήλωση στην Δ.Ε. Βαγίων.",
+          "cpvs": [
+            {
+              "key": "18410000-6",
+              "value": "Ειδικά ενδύματα"
+            }
+          ]
+        },
+        {
+          "quantity": 90,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1157.54,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Διάφορα Προϊόντα διατροφής για την αποκριάτικη εκδήλωση στην Τ.Κ. Θίσβης.",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "15800000",
+        "15894200",
+        "15982000",
+        "92370000",
+        "15931200",
+        "15811000",
+        "15812200",
+        "15812120",
+        "15981100",
+        "79952100",
+        "39298900",
+        "15411110",
+        "18410000"
+      ],
+      "cpv_divisions": [
+        "15",
+        "92",
+        "79",
+        "39",
+        "18"
+      ],
+      "all_domains": [
+        "Food & Catering",
+        "Recreation, Culture & Sports Services",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Furniture & Cleaning Products",
+        "Clothing & PPE"
+      ],
+      "primary_domain": "Food & Catering"
+    },
+    {
+      "title": "ΙΜΑΤΙΣΜΟΣ ΣΥΝΕΡΓΕΙΩΝ",
+      "referenceNumber": "26REQ018474057",
+      "previousRequestReferenceNumber": "26REQ018473979",
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T14:11:22.531",
+      "procurementDeliveryDate": "2026-02-13",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "235",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090100738",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "51876",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ-ΑΠΟΧΕΤΕΥΣΗΣ ΝΑΟΥΣΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL521",
+        "value": "Ημαθία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.F00434.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100016602",
+          "value": "ΤΕΧΝΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100016909",
+          "value": "ΝΙΚΟΛΑΟΣ ΓΑΛΑΝΟΣ - Προϊστάμενος Υπηρεσίας"
+        }
+      },
+      "totalCostWithVAT": 3100.0,
+      "totalCostWithoutVAT": 2500.0,
+      "objectDetails": [
+        {
+          "quantity": 72,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΙΜΑΤΙΣΜΟΣ ΣΥΝΕΡΓΕΙΩΝ",
+          "cpvs": [
+            {
+              "key": "18110000-3",
+              "value": "Ρουχισμός επαγγελματικής χρήσης"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "18110000"
+      ],
+      "cpv_divisions": [
+        "18"
+      ],
+      "all_domains": [
+        "Clothing & PPE"
+      ],
+      "primary_domain": "Clothing & PPE"
+    },
+    {
+      "title": "ΙΜΑΤΙΣΜΟΣ ΣΥΝΕΡΓΕΙΩΝ",
+      "referenceNumber": "26REQ018474013",
+      "previousRequestReferenceNumber": "26REQ018473979",
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T14:05:53.535",
+      "procurementDeliveryDate": "2026-02-13",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "235",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090100738",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "51876",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ-ΑΠΟΧΕΤΕΥΣΗΣ ΝΑΟΥΣΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL521",
+        "value": "Ημαθία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.F00434.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100016602",
+          "value": "ΤΕΧΝΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100016909",
+          "value": "ΝΙΚΟΛΑΟΣ ΓΑΛΑΝΟΣ - Προϊστάμενος Υπηρεσίας"
+        }
+      },
+      "totalCostWithVAT": 3100.0,
+      "totalCostWithoutVAT": 2500.0,
+      "objectDetails": [
+        {
+          "quantity": 72,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΙΜΑΤΙΣΜΟΣ ΣΥΝΕΡΓΕΙΩΝ",
+          "cpvs": [
+            {
+              "key": "18110000-3",
+              "value": "Ρουχισμός επαγγελματικής χρήσης"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "18110000"
+      ],
+      "cpv_divisions": [
+        "18"
+      ],
+      "all_domains": [
+        "Clothing & PPE"
+      ],
+      "primary_domain": "Clothing & PPE"
+    },
+    {
+      "title": "ΙΜΑΤΙΣΜΟΣ ΣΥΝΕΡΓΕΙΩΝ",
+      "referenceNumber": "26REQ018473979",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T14:00:23.999",
+      "procurementDeliveryDate": "2026-02-13",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "235",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090100738",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "51876",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ-ΑΠΟΧΕΤΕΥΣΗΣ ΝΑΟΥΣΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL521",
+        "value": "Ημαθία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.F00434.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100016602",
+          "value": "ΤΕΧΝΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100016909",
+          "value": "ΝΙΚΟΛΑΟΣ ΓΑΛΑΝΟΣ - Προϊστάμενος Υπηρεσίας"
+        }
+      },
+      "totalCostWithVAT": 3100.0,
+      "totalCostWithoutVAT": 2500.0,
+      "objectDetails": [
+        {
+          "quantity": 72,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΙΜΑΤΙΣΜΟΣ ΣΥΝΕΡΓΕΙΩΝ",
+          "cpvs": [
+            {
+              "key": "18110000-3",
+              "value": "Ρουχισμός επαγγελματικής χρήσης"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018474013",
+        "26REQ018474057"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "18110000"
+      ],
+      "cpv_divisions": [
+        "18"
+      ],
+      "all_domains": [
+        "Clothing & PPE"
+      ],
+      "primary_domain": "Clothing & PPE"
+    },
+    {
+      "title": "ΑΓΟΡΑ ΕΜΠΟΡΕΥΜΑΤΩΝ ΚΑΙ ΕΙΔΩΝ ΣΥΣΚΕΥΑΣΙΑΣ ΓΙΑ ΤΟ ΠΩΛΗΤΗΡΙΟ",
+      "referenceNumber": "26REQ018473380",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T13:12:17.064",
+      "procurementDeliveryDate": "2026-02-19",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "588",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "099456077",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "50025",
+        "value": "ΕΘΝΙΚΟ ΜΟΥΣΕΙΟ ΣΥΓΧΡΟΝΗΣ ΤΕΧΝΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1022.E00358.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100073935",
+          "value": "ΔΙΟΙΚΗΤΙΚΗ ΟΙΚΟΝΟΜΙΚΗ ΔΙΕΥΘΥΝΤΡΙΑ"
+        },
+        "signers": {
+          "key": "100070246",
+          "value": "ΑΘΗΝΑ ΙΩΑΝΝΟΥ - Διοικητικός Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 12400.0,
+      "totalCostWithoutVAT": 10000.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 10000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΙΤΗΜΑ ΔΕΣΜΕΥΣΗΣ ΠΙΣΤΩΣΗΣ ΓΙΑ ΔΑΠΑΝΗ ΑΓΟΡΑΣ ΕΜΠΟΡΕΥΜΑΤΩΝ ΚΑΙ ΕΙΔΩΝ ΣΥΣΚΕΥΑΣΙΑΣ ΓΙΑ ΤΟ ΠΩΛΗΤΗΡΙΟ",
+          "cpvs": [
+            {
+              "key": "30192700-8",
+              "value": "Γραφική ύλη"
+            },
+            {
+              "key": "39221122-8",
+              "value": "Κούπες"
+            },
+            {
+              "key": "22110000-4",
+              "value": "Τυπωμένα βιβλία"
+            },
+            {
+              "key": "37524000-7",
+              "value": "Παιχνίδια"
+            },
+            {
+              "key": "18930000-7",
+              "value": "Σάκοι και τσάντες"
+            },
+            {
+              "key": "39298500-2",
+              "value": "Διακοσμητικά είδη"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018474447"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "30192700",
+        "39221122",
+        "22110000",
+        "37524000",
+        "18930000",
+        "39298500"
+      ],
+      "cpv_divisions": [
+        "30",
+        "39",
+        "22",
+        "37",
+        "18"
+      ],
+      "all_domains": [
+        "Office & Computing (Non-Software)",
+        "Furniture & Cleaning Products",
+        "Printing & Publishing",
+        "Sports, Toys & Recreation Goods",
+        "Clothing & PPE"
+      ],
+      "primary_domain": "Office & Computing (Non-Software)"
+    },
+    {
+      "title": " αποκριάτικες δράσεις 2026",
+      "referenceNumber": "26REQ018473124",
+      "previousRequestReferenceNumber": "25REQ018197543",
+      "signedDate": "2026-02-05",
+      "lastUpdateDate": "2025-12-19T00:00:00",
+      "submissionDate": "2026-02-12T12:55:34.854",
+      "procurementDeliveryDate": "2026-02-12",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "5045",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997645384",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6090",
+        "value": "ΔΗΜΟΣ ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL304",
+        "value": "Νότιος Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E84805.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81752",
+          "value": "Δ3: ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ"
+        },
+        "signers": {
+          "key": "100073857",
+          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΣΤΕΦΑΣ - Αντιδήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 45372.9,
+      "totalCostWithoutVAT": 36591.05,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 7700,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Κυριακή 15 Φεβρουαρίου 2026\nKαρναβαλική παρέλαση",
+          "cpvs": [
+            {
+              "key": "92312100-2",
+              "value": "Ψυχαγωγικές υπηρεσίες θεατρικών παραγωγών"
             }
           ]
         },
@@ -448,14 +1347,1305 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 5967,
+          "costWithoutVAT": 9500,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΗΧΗΤΙΚΉ ΚΑΛΥΨΗ",
+          "shortDescription": "Κ. Δευτέρα 23 Φεβρουαρίου 2025.\nΚΟΥΛΟΥΜΑ - ΚΑΘΑΡΑΣ ΔΕΥΤΕΡΑΣ (Catering)",
           "cpvs": [
+            {
+              "key": "39222000-4",
+              "value": "Υλικά τροφοδοσίας"
+            }
+          ]
+        },
+        {
+          "quantity": 6,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 120,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αναμνηστικές πλακέτες",
+          "cpvs": [
+            {
+              "key": "18512200-3",
+              "value": "Μετάλλια"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Κ. Δευτέρα 23 Φεβρουαρίου 2025.\nΗχητική κάλυψη Κούλουμα",
+          "cpvs": [
+            {
+              "key": "92370000-5",
+              "value": "Υπηρεσίες τεχνικών ήχου"
+            }
+          ]
+        },
+        {
+          "quantity": 10000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2400,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έντυπα\nΑποκριάς 16σελιδο",
+          "cpvs": [
+            {
+              "key": "22140000-3",
+              "value": "Ενημερωτικά έντυπα"
+            }
+          ]
+        },
+        {
+          "quantity": 1165,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 771.05,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αναλώσιμα Υλικά Προμήθεια υλικών του τμήματος εικαστικών για τις αποκριες",
+          "cpvs": [
+            {
+              "key": "37800000-6",
+              "value": "Είδη χειροτεχνίας και καλλιτεχνίας"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 10600,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Κυριακή 15 Φεβρουαρίου 2026\nΥλοποίηση συναυλίας Μπέσυ Αργυράκη και Λάκη Τζορντανέλι",
+          "cpvs": [
+            {
+              "key": "92312100-2",
+              "value": "Ψυχαγωγικές υπηρεσίες θεατρικών παραγωγών"
+            }
+          ]
+        },
+        {
+          "quantity": 10,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πανό Αποκριάτικων εκδηλώσεων 4Χ1",
+          "cpvs": [
+            {
+              "key": "22462000-6",
+              "value": "Διαφημιστικό υλικό"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 3000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πέμπτη 12 Φεβρουαρίου Πλ. Δημαρχείου Ζωντανή Ορχήστρα – για την αναβίωση της «Τζαμάλας»",
+          "cpvs": [
+            {
+              "key": "92312100-2",
+              "value": "Ψυχαγωγικές υπηρεσίες θεατρικών παραγωγών"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "92312100",
+        "39222000",
+        "18512200",
+        "92370000",
+        "22140000",
+        "37800000",
+        "22462000"
+      ],
+      "cpv_divisions": [
+        "92",
+        "39",
+        "18",
+        "22",
+        "37"
+      ],
+      "all_domains": [
+        "Recreation, Culture & Sports Services",
+        "Furniture & Cleaning Products",
+        "Clothing & PPE",
+        "Printing & Publishing",
+        "Sports, Toys & Recreation Goods"
+      ],
+      "primary_domain": "Furniture & Cleaning Products"
+    },
+    {
+      "title": "Προμήθεια ρουχισμού επαγγελματικής χρήσης για τους εργαζόμενους της ΔΕΥΑΛ",
+      "referenceNumber": "26REQ018472731",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T12:31:52.022",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "855",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090014117",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "50304",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ (Δ.Ε.Υ.Α.) ΛΑΜΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL644",
+        "value": "Φθιώτιδα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1007.F00062.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "79275",
+          "value": "ΟΙΚΟΝΟΜΙΚΩΝ ΔΙΟΙΚΗΤΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100088617",
+          "value": "Φανή Τανάγια - Προϊστάμενος Οικονομικών Υπηρεσιών"
+        }
+      },
+      "totalCostWithVAT": 48608.0,
+      "totalCostWithoutVAT": 39200.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 39200,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Το παρόν αίτημα αφορά την προμήθεια ρουχισμού επαγγελματικής χρήσης για τους εργαζόμενους της ΔΕΥΑΛ",
+          "cpvs": [
+            {
+              "key": "18110000-3",
+              "value": "Ρουχισμός επαγγελματικής χρήσης"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "18110000"
+      ],
+      "cpv_divisions": [
+        "18"
+      ],
+      "all_domains": [
+        "Clothing & PPE"
+      ],
+      "primary_domain": "Clothing & PPE"
+    },
+    {
+      "title": "ΠΡΟΜΗΘΕΙΑ ΑΝΑΜΝΗΣΤΙΚΩΝ ΔΩΡΩΝ ΓΙΑ ΣΥΝΔΙΟΡΓΑΝΩΣΗ ΕΚΔΗΛΩΣΗΣ ΜΕ ΤΟΝ ΜΟΤΟΒΕ",
+      "referenceNumber": "26REQ018472633",
+      "previousRequestReferenceNumber": "26REQ018472587",
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T12:27:25.629",
+      "procurementDeliveryDate": "2026-03-02",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "489/2026",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "996877610",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "100048875",
+        "value": "ΔΗΜΟΣ ΒΕΛΒΕΝΤΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL531",
+        "value": "Γρεβενά, Κοζάνη"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E87415.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100054436",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΩΝ ΚΑΙ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100049820",
+          "value": "ΜΑΝΩΛΗΣ ΣΤΕΡΓΙΟΥ - Δήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 793.6,
+      "totalCostWithoutVAT": 640.0,
+      "objectDetails": [
+        {
+          "quantity": 400,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 640,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΑΝΑΜΝΗΣΤΙΚΩΝ ΔΩΡΩΝ ΓΙΑ ΣΥΝΔΙΟΡΓΑΝΩΣΗ ΕΚΔΗΛΩΣΗΣ ΜΕ ΤΟΝ ΜΟΤΟΒΕ",
+          "cpvs": [
+            {
+              "key": "18530000-3",
+              "value": "Δώρα και βραβεία"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [
+        "26PROC018472822"
+      ],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "18530000"
+      ],
+      "cpv_divisions": [
+        "18"
+      ],
+      "all_domains": [
+        "Clothing & PPE"
+      ],
+      "primary_domain": "Clothing & PPE"
+    },
+    {
+      "title": "ΠΡΟΜΗΘΕΙΑ ΑΝΑΜΝΗΣΤΙΚΩΝ ΔΩΡΩΝ ΓΙΑ ΣΥΝΔΙΟΡΓΑΝΩΣΗ ΕΚΔΗΛΩΣΗΣ ΜΕ ΤΟΝ ΜΟΤΟΒΕ",
+      "referenceNumber": "26REQ018472587",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T12:25:00.282",
+      "procurementDeliveryDate": "2026-03-02",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "488/2026",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "996877610",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "100048875",
+        "value": "ΔΗΜΟΣ ΒΕΛΒΕΝΤΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL531",
+        "value": "Γρεβενά, Κοζάνη"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E87415.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100054436",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΩΝ ΚΑΙ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100049820",
+          "value": "ΜΑΝΩΛΗΣ ΣΤΕΡΓΙΟΥ - Δήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 793.6,
+      "totalCostWithoutVAT": 640.0,
+      "objectDetails": [
+        {
+          "quantity": 400,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 640,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΑΝΑΜΝΗΣΤΙΚΩΝ ΔΩΡΩΝ ΓΙΑ ΣΥΝΔΙΟΡΓΑΝΩΣΗ ΕΚΔΗΛΩΣΗΣ ΜΕ ΤΟΝ ΜΟΤΟΒΕ",
+          "cpvs": [
+            {
+              "key": "18530000-3",
+              "value": "Δώρα και βραβεία"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018472633"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "18530000"
+      ],
+      "cpv_divisions": [
+        "18"
+      ],
+      "all_domains": [
+        "Clothing & PPE"
+      ],
+      "primary_domain": "Clothing & PPE"
+    },
+    {
+      "title": "Εισήγηση για έγκριση δαπανών για τον εορτασμό της 21ης Φεβρουαρίου στην Περιφέρεια Ηπείρου",
+      "referenceNumber": "26REQ018472289",
+      "previousRequestReferenceNumber": "26REQ018471031",
+      "signedDate": "2026-02-05",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T12:10:37.767",
+      "procurementDeliveryDate": "2026-02-15",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "ΠΗ/ΓΑΕΝΥ/21348/119",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997908822",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "5006",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL54",
+        "value": "Ήπειρος"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1007.904.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "84527",
+          "value": "ΓΡΑΦΕΙΟ ΠΕΡΙΦΕΡΕΙΑΡΧΗ"
+        },
+        "signers": {
+          "key": "111942",
+          "value": "ΑΛΕΞΑΝΔΡΟΣ ΚΑΧΡΙΜΑΝΗΣ - ΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+        }
+      },
+      "totalCostWithVAT": 15996.0,
+      "totalCostWithoutVAT": 12900.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 12900,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έγκριση της οργάνωσης εορτασμού Επετείου για τα ελευθέρια της πόλης των Ιωαννίνων, που θα γίνει από τις 15-21/02/2026. Οι δαπάνες περιλαμβάνουν έκδοση προσκλήσεων & φακέλων, ενοικίαση εξέδρας και στεγάστρων, παράθεση δεξίωσης, προμήθεια αναμνηστικού δώρου για τον Πρόεδρο, προμήθεια στεφάνων, συνθέσεων ανθών & καλλωπιστικών, ενοικίαση ηχητικών, φωτογράφιση & εκτύπωση φωτογραφιών, παράθεση γεύματος",
+          "cpvs": [
+            {
+              "key": "18530000-3",
+              "value": "Δώρα και βραβεία"
+            },
+            {
+              "key": "79960000-1",
+              "value": "Φωτογραφικές και συναφείς υπηρεσίες"
+            },
+            {
+              "key": "51540000-9",
+              "value": "Υπηρεσίες εγκατάστασης μηχανημάτων και εξοπλισμού ειδικής χρήσης"
+            },
+            {
+              "key": "55300000-3",
+              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
+            },
+            {
+              "key": "39222100-5",
+              "value": "Αναλώσιμα υλικά τροφοδοσίας"
+            },
+            {
+              "key": "15812200-5",
+              "value": "Γλυκά"
+            },
+            {
+              "key": "51313000-9",
+              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
+            },
+            {
+              "key": "03121200-7",
+              "value": "Κομμένα άνθη"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "2",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "mixedContract": true,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "18530000",
+        "79960000",
+        "51540000",
+        "55300000",
+        "39222100",
+        "15812200",
+        "51313000",
+        "03121200"
+      ],
+      "cpv_divisions": [
+        "18",
+        "79",
+        "51",
+        "55",
+        "39",
+        "15",
+        "03"
+      ],
+      "all_domains": [
+        "Clothing & PPE",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Installation Services (Non-Software)",
+        "Hospitality, Retail & Catering Services",
+        "Furniture & Cleaning Products",
+        "Food & Catering",
+        "Agriculture & Forestry"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "Προμήθεια υλικών δειγματοληψιών, για τις ανάγκες των κλιμακίων ελέγχου της ΠΔΘ ΕΦΕΤ το 2026",
+      "referenceNumber": "26REQ018471351",
+      "previousRequestReferenceNumber": "26REQ018387304",
+      "signedDate": "2026-02-03",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T11:25:45.062",
+      "procurementDeliveryDate": "2026-03-09",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "25",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "099765151",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "50002",
+        "value": "ΕΝΙΑΙΟΣ ΦΟΡΕΑΣ ΕΛΕΓΧΟΥ ΤΡΟΦΙΜΩΝ (Ε.Φ.Ε.Τ. )"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1029.Ε00515.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "72181",
+          "value": "ΔΙΟΙΚΗΣΗ"
+        },
+        "signers": {
+          "key": "100056198",
+          "value": "ΑΝΤΩΝΙΟΣ ΖΑΜΠΕΛΑΣ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "totalCostWithVAT": 1555.0,
+      "totalCostWithoutVAT": 1254.03,
+      "objectDetails": [
+        {
+          "quantity": 1031,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1254.03,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Η προμήθεια υλικών δειγματοληψιών για τις ανάγκες των ελεγκτών της Περιφερειακής Διεύθυνσης Θεσσαλίας του ΕΦΕΤ, για το έτος 2026.",
+          "cpvs": [
+            {
+              "key": "32354800-7",
+              "value": "Κολλητικές ταινίες"
+            },
+            {
+              "key": "33198200-6",
+              "value": "Χάρτινες σακούλες ή περιτυλίγματα αποστείρωσης"
+            },
+            {
+              "key": "44333000-3",
+              "value": "Σύρμα"
+            },
+            {
+              "key": "37414200-5",
+              "value": "Φορητοί καταψύκτες"
+            },
+            {
+              "key": "42513100-6",
+              "value": "Εξοπλισμός κατάψυξης"
+            },
+            {
+              "key": "18937100-7",
+              "value": "Σακούλες συσκευασίας"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "32354800",
+        "33198200",
+        "44333000",
+        "37414200",
+        "42513100",
+        "18937100"
+      ],
+      "cpv_divisions": [
+        "32",
+        "33",
+        "44",
+        "37",
+        "42",
+        "18"
+      ],
+      "all_domains": [
+        "Telecom & Electronics",
+        "Medical & Pharma",
+        "Construction Materials & Structures",
+        "Sports, Toys & Recreation Goods",
+        "Industrial Machinery",
+        "Clothing & PPE"
+      ],
+      "primary_domain": "Construction Materials & Structures"
+    },
+    {
+      "title": "ΠΡΟΜΗΘΕΙΑ ΕΙΔΩΝ ΑΤΟΜΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ",
+      "referenceNumber": "26REQ018471320",
+      "previousRequestReferenceNumber": "26REQ018471266",
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T11:23:54.721",
+      "procurementDeliveryDate": "2026-02-28",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "424",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090028785",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "50444",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΟΡΕΣΤΙΑΔΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL511",
+        "value": "Έβρος"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1007.F00767.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100012616",
+          "value": "ΤΕΧΝΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100015711",
+          "value": "ΠΑΣΧΑΛΗΣ ΖΗΛΙΑΣΚΟΠΟΥΛΟΣ - Προϊστάμενος Τμήματος"
+        }
+      },
+      "totalCostWithVAT": 319.99,
+      "totalCostWithoutVAT": 258.06,
+      "objectDetails": [
+        {
+          "quantity": 2,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 258.06,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΓΑΛΟΤΣΕΣ",
+          "cpvs": [
+            {
+              "key": "18816000-2",
+              "value": "Γαλότσες"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [
+        "26PROC018471416"
+      ],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "18816000"
+      ],
+      "cpv_divisions": [
+        "18"
+      ],
+      "all_domains": [
+        "Clothing & PPE"
+      ],
+      "primary_domain": "Clothing & PPE"
+    },
+    {
+      "title": "ΠΡΟΜΗΘΕΙΑ ΕΙΔΩΝ ΑΤΟΜΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ",
+      "referenceNumber": "26REQ018471266",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T11:21:01.928",
+      "procurementDeliveryDate": "2026-02-28",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "424",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090028785",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "50444",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΟΡΕΣΤΙΑΔΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL511",
+        "value": "Έβρος"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1007.F00767.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100012616",
+          "value": "ΤΕΧΝΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100015711",
+          "value": "ΠΑΣΧΑΛΗΣ ΖΗΛΙΑΣΚΟΠΟΥΛΟΣ - Προϊστάμενος Τμήματος"
+        }
+      },
+      "totalCostWithVAT": 319.99,
+      "totalCostWithoutVAT": 258.06,
+      "objectDetails": [
+        {
+          "quantity": 2,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 258.06,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΓΑΛΟΤΣΕΣ",
+          "cpvs": [
+            {
+              "key": "18816000-2",
+              "value": "Γαλότσες"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018471320"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "18816000"
+      ],
+      "cpv_divisions": [
+        "18"
+      ],
+      "all_domains": [
+        "Clothing & PPE"
+      ],
+      "primary_domain": "Clothing & PPE"
+    },
+    {
+      "title": "20.2455.219 ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ ΠΡΟΥΠ.LEGUMES4THES",
+      "referenceNumber": "26REQ018471039",
+      "previousRequestReferenceNumber": "26REQ018363329",
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T11:09:26.096",
+      "procurementDeliveryDate": "2026-02-12",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "186/6717",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997604027",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "55143",
+        "value": "ΕΛΛΗΝΙΚΟΣ ΓΕΩΡΓΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ-ΔΗΜΗΤΡΑ"
+      },
+      "nutsCode": {
+        "key": "EL612",
+        "value": "Λάρισα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1029.E00514.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100009124",
+          "value": "ΙΝΣΤΙΤΟΥΤΟ ΒΙΟΜΗΧΑΝΙΚΩΝ ΚΑΙ ΚΤΗΝΟΤΡΟΦΙΚΩΝ ΦΥΤΩΝ"
+        },
+        "signers": {
+          "key": "100091750",
+          "value": "ΝΕΚΤΑΡΙΟΣ ΒΙΔΑΚΗΣ - Πρόεδρος Επιτροπής"
+        }
+      },
+      "totalCostWithVAT": 9999.99,
+      "totalCostWithoutVAT": 8064.51,
+      "objectDetails": [
+        {
+          "quantity": 2,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1612.9,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΞΟΔΑ ΠΡΟΒΟΛΗΣ ΚΑΙ ΔΙΑΦΗΜΙΣΗΣ",
+          "cpvs": [
+            {
+              "key": "79340000-9",
+              "value": "Υπηρεσίες διαφήμισης και μάρκετινγκ"
+            }
+          ]
+        },
+        {
+          "quantity": 20,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 4435.48,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΥΛΙΚΑ ΑΜΕΣΗΣ ΑΝΑΛΩΣΗΣ",
+          "cpvs": [
+            {
+              "key": "24453000-4",
+              "value": "Ζιζανιοκτόνα"
+            },
+            {
+              "key": "16400000-9",
+              "value": "Γεωργικά μηχανήματα ψεκασμού"
+            },
+            {
+              "key": "18141000-9",
+              "value": "Γάντια εργασίας"
+            },
+            {
+              "key": "18937100-7",
+              "value": "Σακούλες συσκευασίας"
+            },
+            {
+              "key": "44423000-1",
+              "value": "Διάφορα είδη"
+            },
+            {
+              "key": "18830000-6",
+              "value": "Προστατευτικά υποδήματα"
+            },
+            {
+              "key": "24440000-0",
+              "value": "Διάφορα λιπάσματα"
+            }
+          ]
+        },
+        {
+          "quantity": 5,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2016.13,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΗΛΕΚΤ.ΥΠΟΛΟΓ.ΛΟΙΠΟΣ ΕΞΟΠΛΙΣΜΟΣ",
+          "cpvs": [
+            {
+              "key": "30213100-6",
+              "value": "Φορητοί επιτραπέζιοι μικροϋπολογιστές"
+            },
+            {
+              "key": "38652200-2",
+              "value": "Συσκευές μεγέθυνσης"
+            },
+            {
+              "key": "42923110-6",
+              "value": "Ζυγαριές"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "3",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "mixedContract": true,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "79340000",
+        "24453000",
+        "16400000",
+        "18141000",
+        "18937100",
+        "44423000",
+        "18830000",
+        "24440000",
+        "30213100",
+        "38652200",
+        "42923110"
+      ],
+      "cpv_divisions": [
+        "79",
+        "24",
+        "16",
+        "18",
+        "44",
+        "30",
+        "38",
+        "42"
+      ],
+      "all_domains": [
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Chemicals",
+        "Agricultural Machinery",
+        "Clothing & PPE",
+        "Construction Materials & Structures",
+        "Office & Computing (Non-Software)",
+        "Lab, Optical & Precision Equipment",
+        "Industrial Machinery"
+      ],
+      "primary_domain": "Construction Materials & Structures"
+    },
+    {
+      "title": "Εισήγηση για έγκριση δαπανών για τον εορτασμό της 21ης Φεβρουαρίου στην Περιφέρεια Ηπείρου",
+      "referenceNumber": "26REQ018471031",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-05",
+      "lastUpdateDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T11:09:04.324",
+      "procurementDeliveryDate": "2026-02-15",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "ΠΗ/ΓΑΕΝΥ/21348/119",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997908822",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "5006",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL54",
+        "value": "Ήπειρος"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1007.904.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "84527",
+          "value": "ΓΡΑΦΕΙΟ ΠΕΡΙΦΕΡΕΙΑΡΧΗ"
+        },
+        "signers": {
+          "key": "111942",
+          "value": "ΑΛΕΞΑΝΔΡΟΣ ΚΑΧΡΙΜΑΝΗΣ - ΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+        }
+      },
+      "totalCostWithVAT": 15996.0,
+      "totalCostWithoutVAT": 12900.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 12900,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έγκριση της οργάνωσης εορτασμού Επετείου για τα ελευθέρια της πόλης των Ιωαννίνων, που θα γίνει από τις 15-21/02/2026. Οι δαπάνες περιλαμβάνουν έκδοση προσκλήσεων & φακέλων, ενοικίαση εξέδρας και στεγάστρων, παράθεση δεξίωσης, προμήθεια αναμνηστικού δώρου για τον Πρόεδρο, προμήθεια στεφάνων, συνθέσεων ανθών & καλλωπιστικών, ενοικίαση ηχητικών, φωτογράφιση & εκτύπωση φωτογραφιών, παράθεση γεύματος",
+          "cpvs": [
+            {
+              "key": "79960000-1",
+              "value": "Φωτογραφικές και συναφείς υπηρεσίες"
+            },
+            {
+              "key": "03121200-7",
+              "value": "Κομμένα άνθη"
+            },
+            {
+              "key": "55300000-3",
+              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
+            },
+            {
+              "key": "39222100-5",
+              "value": "Αναλώσιμα υλικά τροφοδοσίας"
+            },
+            {
+              "key": "51540000-9",
+              "value": "Υπηρεσίες εγκατάστασης μηχανημάτων και εξοπλισμού ειδικής χρήσης"
+            },
+            {
+              "key": "18530000-3",
+              "value": "Δώρα και βραβεία"
+            },
+            {
+              "key": "15812200-5",
+              "value": "Γλυκά"
+            },
             {
               "key": "51313000-9",
               "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
@@ -463,6 +2653,135 @@
           ]
         }
       ],
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "2",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "mixedContract": true,
+      "approvalRefNo": [
+        "26REQ018472289"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "79960000",
+        "03121200",
+        "55300000",
+        "39222100",
+        "51540000",
+        "18530000",
+        "15812200",
+        "51313000"
+      ],
+      "cpv_divisions": [
+        "79",
+        "03",
+        "55",
+        "39",
+        "51",
+        "18",
+        "15"
+      ],
+      "all_domains": [
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Agriculture & Forestry",
+        "Hospitality, Retail & Catering Services",
+        "Furniture & Cleaning Products",
+        "Installation Services (Non-Software)",
+        "Clothing & PPE",
+        "Food & Catering"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "ΓΑΝΤΙΑ ΕΞΕΤΑΣΤΙΚΑ, ΑΠΟ ΦΥΣΙΚΟ LATEX,  ΧΩΡΙΣ ΠΟΥΔΡΑ",
+      "referenceNumber": "26REQ018470962",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-01-15",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T11:05:44.071",
+      "procurementDeliveryDate": "2026-03-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "72",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997228761",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "50028",
+        "value": "ΕΘΝΙΚΟ ΚΕΝΤΡΟ ΑΠΟΚΑΤΑΣΤΑΣΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL302",
+        "value": "Δυτικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1015.Ε00906.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "72557",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100068217",
+          "value": "ΝΙΚΟΛΑΟΣ ΨΑΡΡΟΣ - Αναπληρωτής Διοικητής"
+        }
+      },
+      "totalCostWithVAT": 3700.0,
+      "totalCostWithoutVAT": 3490.57,
+      "objectDetails": [
+        {
+          "quantity": 150000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 3490.57,
+          "vat": "6",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΓΑΝΤΙΑ ΕΞΕΤΑΣΤΙΚΑ, ΑΠΟ ΦΥΣΙΚΟ LATEX,  ΧΩΡΙΣ ΠΟΥΔΡΑ, ΜΙΑΣ ΧΡΗΣΗΣ, ΣΕ ΔΙΑΦΟΡΑ ΜΕΓΕΘΗ",
+          "cpvs": [
+            {
+              "key": "18424300-0",
+              "value": "Γάντια μιας χρήσης"
+            }
+          ]
+        }
+      ],
       "additionalContractTypes": null,
       "mixedContract": false,
       "approvalRefNo": [],
@@ -471,52 +2790,346 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "92312000",
-        "79952100",
-        "18400000",
-        "51313000"
+        "18424300"
       ],
       "cpv_divisions": [
-        "92",
-        "79",
-        "18",
-        "51"
+        "18"
       ],
       "all_domains": [
-        "Recreation, Culture & Sports Services",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "Clothing & PPE",
-        "Installation Services (Non-Software)"
+        "Clothing & PPE"
       ],
-      "primary_domain": "Installation Services (Non-Software)"
+      "primary_domain": "Clothing & PPE"
     },
     {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΜΕΣΩΝ ΑΤΟΜΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ ΕΤΟΥΣ 2026 ΓΙΑ ΤΟΥΣ ΔΙΚΑΙΟΥΧΟΥΣ ΥΠΑΛΛΗΛΟΥΣ ΤΗΣ Π.Ε. ΒΟΙΩΤΙΑΣ",
-      "referenceNumber": "26REQ018459620",
+      "title": "ΓΑΝΤΙΑ ΕΞΕΤΑΣΤΙΚΑ, ΑΠΟ ΦΥΣΙΚΟ LATEX,  ΜΕ ΠΟΥΔΡΑ",
+      "referenceNumber": "26REQ018470713",
       "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
+      "signedDate": "2026-01-15",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T14:46:51.963",
-      "procurementDeliveryDate": "2026-02-27",
+      "submissionDate": "2026-02-12T10:53:08.886",
+      "procurementDeliveryDate": "2026-03-31",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "32647",
+      "protocolNumber": "74",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997947718",
+      "organizationVatNumber": "997228761",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": false,
       "organization": {
-        "key": "5013",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ"
+        "key": "50028",
+        "value": "ΕΘΝΙΚΟ ΚΕΝΤΡΟ ΑΠΟΚΑΤΑΣΤΑΣΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL302",
+        "value": "Δυτικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1015.Ε00906.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "72557",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100068217",
+          "value": "ΝΙΚΟΛΑΟΣ ΨΑΡΡΟΣ - Αναπληρωτής Διοικητής"
+        }
+      },
+      "totalCostWithVAT": 4150.0,
+      "totalCostWithoutVAT": 3915.09,
+      "objectDetails": [
+        {
+          "quantity": 200000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 3915.09,
+          "vat": "6",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΓΑΝΤΙΑ ΕΞΕΤΑΣΤΙΚΑ, ΑΠΟ ΦΥΣΙΚΟ LATEX,  ΜΕ ΠΟΥΔΡΑ, ΜΙΑΣ ΧΡΗΣΗΣ, ΣΕ ΔΙΑΦΟΡΑ ΜΕΓΕΘΗ",
+          "cpvs": [
+            {
+              "key": "18424300-0",
+              "value": "Γάντια μιας χρήσης"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "18424300"
+      ],
+      "cpv_divisions": [
+        "18"
+      ],
+      "all_domains": [
+        "Clothing & PPE"
+      ],
+      "primary_domain": "Clothing & PPE"
+    },
+    {
+      "title": "ΓΑΝΤΙΑ ΝΙΤΡΙΛΙΟΥ, ΕΞΕΤΑΣΤΙΚΑ, ΧΩΡΙΣ ΠΟΥΔΡΑ",
+      "referenceNumber": "26REQ018470564",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-01-15",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T10:43:37.848",
+      "procurementDeliveryDate": "2026-03-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "73",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997228761",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "50028",
+        "value": "ΕΘΝΙΚΟ ΚΕΝΤΡΟ ΑΠΟΚΑΤΑΣΤΑΣΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL302",
+        "value": "Δυτικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1015.Ε00906.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "72557",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100068217",
+          "value": "ΝΙΚΟΛΑΟΣ ΨΑΡΡΟΣ - Αναπληρωτής Διοικητής"
+        }
+      },
+      "totalCostWithVAT": 3100.0,
+      "totalCostWithoutVAT": 2924.53,
+      "objectDetails": [
+        {
+          "quantity": 150000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2924.53,
+          "vat": "6",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΓΑΝΤΙΑ ΝΙΤΡΙΛΙΟΥ, ΕΞΕΤΑΣΤΙΚΑ, ΧΩΡΙΣ ΠΟΥΔΡΑ, ΜΙΑΣ ΧΡΗΣΗΣ, ΣΕ ΔΙΑΦΟΡΑ ΜΕΓΕΘΗ",
+          "cpvs": [
+            {
+              "key": "18424300-0",
+              "value": "Γάντια μιας χρήσης"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "18424300"
+      ],
+      "cpv_divisions": [
+        "18"
+      ],
+      "all_domains": [
+        "Clothing & PPE"
+      ],
+      "primary_domain": "Clothing & PPE"
+    },
+    {
+      "title": "Προμήθεια Διακριτικά ΑΔΙΣΠΟ Παράσημο & Αστέρας",
+      "referenceNumber": "26REQ018470383",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-10",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T10:33:00.005",
+      "procurementDeliveryDate": "2026-06-30",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "Φ.814/8/61362/Σ.246",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090153025",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1011.2020000000.0003",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "88553",
+          "value": "ΑΔΙΣΠΟ"
+        },
+        "signers": {
+          "key": "100102251",
+          "value": "ΕΜΜΑΝΟΥΗΛ ΤΣΑΚΑΝΙΑΣ - Διοικητής"
+        }
+      },
+      "totalCostWithVAT": 4433.0,
+      "totalCostWithoutVAT": 3575.0,
+      "objectDetails": [
+        {
+          "quantity": 520,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 3575,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια Διακριτικά ΑΔΙΣΠΟ Παράσημα & Αστέρας.",
+          "cpvs": [
+            {
+              "key": "18450000-8",
+              "value": "Αγκράφες (για ενδύματα)"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "18450000"
+      ],
+      "cpv_divisions": [
+        "18"
+      ],
+      "all_domains": [
+        "Clothing & PPE"
+      ],
+      "primary_domain": "Clothing & PPE"
+    },
+    {
+      "title": "Δαπάνες για την διοργάνωση των αποκριάτικων εκδηλώσεων στις Δημοτικές & Τοπικές Κοινότητες Δ.Θ.",
+      "referenceNumber": "26REQ018470285",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T10:28:16.675",
+      "procurementDeliveryDate": "2026-02-20",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "1947",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997597230",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6115",
+        "value": "ΔΗΜΟΣ ΘΗΒΑΙΩΝ"
       },
       "nutsCode": {
         "key": "EL641",
@@ -530,7 +3143,7 @@
         "key": "2",
         "value": "ΟΤΑ"
       },
-      "aaht": "1007.908.0001",
+      "aaht": "1007.E82804.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -541,283 +3154,669 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "79146",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΟΥ-ΟΙΚΟΝΟΜΙΚΟΥ ΠΕ ΒΟΙΩΤΙΑΣ"
+          "key": "100086990",
+          "value": "ΥΠΗΡΕΣΙΩΝ ΚΟΙΝΩΝΙΚΗΣ ΑΛΛΗΛΕΓΓΥΗΣ ΚΑΙ ΠΟΛΙΤΙΣΜΟΥ ΠΡΩΗΝ Δ.Ο.Θ."
         },
         "signers": {
-          "key": "100087939",
-          "value": "ΓΕΩΡΓΙΟΣ ΝΤΑΣΙΩΤΗΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+          "key": "100088497",
+          "value": "ΚΩΝΣΤΑΝΤΙΝΑ ΖΑΜΠΑΚΟΥ - Προϊστάμενος Τμήματος"
         }
       },
-      "totalCostWithVAT": 9882.8,
-      "totalCostWithoutVAT": 7970.0,
+      "totalCostWithVAT": 22583.79,
+      "totalCostWithoutVAT": 18875.77,
       "objectDetails": [
         {
-          "quantity": 1,
+          "quantity": 30,
           "type": {
-            "key": "AG-001",
-            "value": "Μελέτη"
+            "key": "C62",
+            "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 2850,
+          "costWithoutVAT": 250,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΟΜΑΔΑ 4 - ΥΠΟΔΗΜΑΤΑ",
+          "shortDescription": "Διάφορα είδη διακόσμησης για την αποκριάτικη εκδήλωση στην Τ.Κ. Δομβραίνας",
           "cpvs": [
             {
-              "key": "18816000-2",
-              "value": "Γαλότσες"
-            },
-            {
-              "key": "18810000-0",
-              "value": "Υποδήματα"
+              "key": "39298900-6",
+              "value": "Διάφορα είδη διακόσμησης"
             }
           ]
         },
         {
           "quantity": 1,
           "type": {
-            "key": "AG-001",
-            "value": "Μελέτη"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 630,
+          "costWithoutVAT": 1000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΟΜΑΔΑ 2 - ΠΡΟΣΤΑΣΙΑ ΧΕΡΙΩΝ",
+          "shortDescription": "Υπηρεσία ηχητικής κάλυψης για την αποκριάτικη εκδήλωση στην Τ.Κ. Πλαταιών.",
           "cpvs": [
             {
-              "key": "18424300-0",
-              "value": "Γάντια μιας χρήσης"
-            },
-            {
-              "key": "18141000-9",
-              "value": "Γάντια εργασίας"
+              "key": "92370000-5",
+              "value": "Υπηρεσίες τεχνικών ήχου"
             }
           ]
         },
         {
           "quantity": 1,
           "type": {
-            "key": "AG-001",
-            "value": "Μελέτη"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 765,
+          "costWithoutVAT": 700,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΟΜΑΔΑ 1 - ΠΡΟΣΤΑΣΙΑ ΑΝΑΠΝΟΗΣ - ΚΕΦΑΛΗΣ - ΟΦΘΑΛΜΩΝ",
+          "shortDescription": "Υπηρεσία ηχητικής κάλυψης για την αποκριάτικη εκδήλωση στην Τ.Κ. Δομβραίνας",
           "cpvs": [
             {
-              "key": "18142000-6",
-              "value": "Προσωπίδες ασφαλείας"
-            },
+              "key": "92370000-5",
+              "value": "Υπηρεσίες τεχνικών ήχου"
+            }
+          ]
+        },
+        {
+          "quantity": 100,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 800,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έτοιμα γεύματα  για την αποκριάτικη εκδήλωση στην Τ.Κ. Ξηρονομής στην Αλυκή.",
+          "cpvs": [
             {
-              "key": "18220000-7",
-              "value": "Ρουχισμός προστασίας από την κακοκαιρία"
+              "key": "15894200-3",
+              "value": "Έτοιμα γεύματα"
             }
           ]
         },
         {
           "quantity": 1,
           "type": {
-            "key": "AG-001",
-            "value": "Μελέτη"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 3725,
+          "costWithoutVAT": 4032.26,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΟΜΑΔΑ 3 - ΠΡΟΣΤΑΤΕΥΤΙΚΗ ΕΝΔΥΜΑΣΙΑ",
+          "shortDescription": "Υπηρεσία οργάνωσης αποκριάτικης εκδήλωσης στην Τ.Κ. Καπαρελλίου.",
           "cpvs": [
             {
-              "key": "35113440-5",
-              "value": "Ανακλαστικά γιλέκα"
-            },
+              "key": "79952100-3",
+              "value": "Υπηρεσίες οργάνωσης πολιτιστικών εκδηλώσεων"
+            }
+          ]
+        },
+        {
+          "quantity": 165,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 442.48,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προϊόντα άρτου (λαγάνες) για την αποκριάτικη εκδήλωση στην Τ.Κ. Πλαταιών.",
+          "cpvs": [
             {
-              "key": "35113490-0",
-              "value": "Προστατευτικές ρόμπες"
-            },
+              "key": "15811000-6",
+              "value": "Προϊόντα άρτου"
+            }
+          ]
+        },
+        {
+          "quantity": 30,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 186,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Διάφορα προϊόντα διατροφής για την αποκριάτικη εκδήλωση στην Τ.Κ. Δομβραίνας.",
+          "cpvs": [
             {
-              "key": "18220000-7",
-              "value": "Ρουχισμός προστασίας από την κακοκαιρία"
-            },
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 490,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 490,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αναψυκτικά για την αποκριάτικη εκδήλωση στην Τ.Κ. Πλαταιών.",
+          "cpvs": [
             {
-              "key": "35113400-3",
-              "value": "Ρούχα προστασίας και ασφαλείας"
+              "key": "15982000-5",
+              "value": "Αναψυκτικά"
+            }
+          ]
+        },
+        {
+          "quantity": 40,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 600,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έτοιμα γεύματα  για την αποκριάτικη εκδήλωση στην Τ.Κ. Αμπελοχωρίου.",
+          "cpvs": [
+            {
+              "key": "15894200-3",
+              "value": "Έτοιμα γεύματα"
+            }
+          ]
+        },
+        {
+          "quantity": 90,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1157.54,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Διάφορα Προϊόντα διατροφής για την αποκριάτικη εκδήλωση στην Τ.Κ. Θίσβης.",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 9,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 63.72,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προϊόντα άρτου (λαγάνες) για την αποκριάτικη εκδήλωση στην Τ.Κ. Θίσβης.",
+          "cpvs": [
+            {
+              "key": "15811000-6",
+              "value": "Προϊόντα άρτου"
+            }
+          ]
+        },
+        {
+          "quantity": 25,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 66.37,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Διάφορα προϊόντα διατροφής για την αποκριάτικη εκδήλωση στην Τ.Κ. Χωστίων.",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 24,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 55.2,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αναψυκτικά για την αποκριάτικη εκδήλωση στην Τ.Κ. Δομβραίνας",
+          "cpvs": [
+            {
+              "key": "15982000-5",
+              "value": "Αναψυκτικά"
+            }
+          ]
+        },
+        {
+          "quantity": 40,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 200,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έτοιμα γεύματα  για την αποκριάτικη εκδήλωση στην Τ.Κ. Ξηρονομής στην Αλυκή.",
+          "cpvs": [
+            {
+              "key": "15894200-3",
+              "value": "Έτοιμα γεύματα"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 2258.06,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσία διοργάνωσης της αποκριάτικης εκδήλωσης στην Δ.Ε. Βαγίων.",
+          "cpvs": [
+            {
+              "key": "79952100-3",
+              "value": "Υπηρεσίες οργάνωσης πολιτιστικών εκδηλώσεων"
+            }
+          ]
+        },
+        {
+          "quantity": 600,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 651.95,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πίτες για την αποκριάτικη εκδήλωση στην Τ.Κ. Δομβραίνας",
+          "cpvs": [
+            {
+              "key": "15812120-0",
+              "value": "Πίτες"
+            }
+          ]
+        },
+        {
+          "quantity": 40,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 200,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έτοιμα γεύματα  για την αποκριάτικη εκδήλωση στην Τ.Κ. Ξηρονομής στην Αλυκή.",
+          "cpvs": [
+            {
+              "key": "15894200-3",
+              "value": "Έτοιμα γεύματα"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 806.45,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσία ηχητικής κάλυψης για την αποκριάτικη εκδήλωση στην Τ.Κ. Χωστίων.",
+          "cpvs": [
+            {
+              "key": "92370000-5",
+              "value": "Υπηρεσίες τεχνικών ήχου"
+            }
+          ]
+        },
+        {
+          "quantity": 40,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 200,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έτοιμα γεύματα  για την αποκριάτικη εκδήλωση στην Τ.Κ. Ξηρονομής στην Αλυκή.",
+          "cpvs": [
+            {
+              "key": "15894200-3",
+              "value": "Έτοιμα γεύματα"
+            }
+          ]
+        },
+        {
+          "quantity": 15,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 96.75,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Επιτραπέζιο κρασί για την αποκριάτικη εκδήλωση στην Τ.Κ. Θίσβης.",
+          "cpvs": [
+            {
+              "key": "15931200-5",
+              "value": "Επιτραπέζιο κρασί"
+            }
+          ]
+        },
+        {
+          "quantity": 65,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 260,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έτοιμα γεύματα  για την αποκριάτικη εκδήλωση στην Τ.Κ. Ξηρονομής.",
+          "cpvs": [
+            {
+              "key": "15894200-3",
+              "value": "Έτοιμα γεύματα"
+            }
+          ]
+        },
+        {
+          "quantity": 45,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 287.61,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Διάφορα προϊόντα διατροφής για την αποκριάτικη εκδήλωση στην Τ.Κ. Χωστίων.",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 12,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 4.6,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Μη αεριούχο μεταλλικό νερό  για την αποκριάτικη εκδήλωση στην Τ.Κ. Δομβραίνας",
+          "cpvs": [
+            {
+              "key": "15981100-9",
+              "value": "Μη αεριούχο μεταλλικό νερό"
+            }
+          ]
+        },
+        {
+          "quantity": 8,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 72,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ελαιόλαδο για την αποκριάτικη εκδήλωση στην Τ.Κ. Πλαταιών.",
+          "cpvs": [
+            {
+              "key": "15411110-6",
+              "value": "Ελαιόλαδο"
+            }
+          ]
+        },
+        {
+          "quantity": 500,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 500,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Γλυκά για την αποκριάτικη εκδήλωση στην Τ.Κ. Αμπελοχωρίου.",
+          "cpvs": [
+            {
+              "key": "15812200-5",
+              "value": "Γλυκά"
+            }
+          ]
+        },
+        {
+          "quantity": 118,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2258.06,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ενοικίαση ειδικών ενδυμάτων για την αποκριάτικη εκδήλωση στην Δ.Ε. Βαγίων.",
+          "cpvs": [
+            {
+              "key": "18410000-6",
+              "value": "Ειδικά ενδύματα"
+            }
+          ]
+        },
+        {
+          "quantity": 10,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 35,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Διάφορα προϊόντα διατροφής για την αποκριάτικη εκδήλωση στην Τ.Κ. Δομβραίνας.",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 165,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 1101.72,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Διάφορα Προϊόντα διατροφής για την αποκριάτικη εκδήλωση στην Τ.Κ. Πλαταιών.",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 100,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 100,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έτοιμα γεύματα  για την αποκριάτικη εκδήλωση στην Τ.Κ. Ξηρονομής στην Αλυκή.",
+          "cpvs": [
+            {
+              "key": "15894200-3",
+              "value": "Έτοιμα γεύματα"
             }
           ]
         }
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "approvalRefNo": [],
+      "approvalRefNo": [
+        "26REQ018474351"
+      ],
       "noticeRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "18816000",
-        "18810000",
-        "18424300",
-        "18141000",
-        "18142000",
-        "18220000",
-        "35113440",
-        "35113490",
-        "35113400"
+        "39298900",
+        "92370000",
+        "15894200",
+        "79952100",
+        "15811000",
+        "15800000",
+        "15982000",
+        "15812120",
+        "15931200",
+        "15981100",
+        "15411110",
+        "15812200",
+        "18410000"
       ],
       "cpv_divisions": [
-        "18",
-        "35"
+        "39",
+        "92",
+        "15",
+        "79",
+        "18"
       ],
       "all_domains": [
-        "Clothing & PPE",
-        "Security & Defense"
+        "Furniture & Cleaning Products",
+        "Recreation, Culture & Sports Services",
+        "Food & Catering",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Clothing & PPE"
       ],
-      "primary_domain": "Security & Defense"
+      "primary_domain": "Food & Catering"
     },
     {
-      "title": "Προμήθεια Ρουχισμού & Εξοπλισμού (ΜΑΠ) της Τ.Υ.",
-      "referenceNumber": "26REQ018459519",
-      "previousRequestReferenceNumber": "26REQ018459377",
-      "signedDate": "2025-11-20",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T14:36:38.428",
+      "title": "Έγκριση δαπάνης και διάθεση πίστωσης για τη συμμετοχή της Περιφέρειας Ηπείρου στην διοργάνωση 1st  A",
+      "referenceNumber": "26REQ018470169",
+      "previousRequestReferenceNumber": "26REQ018421278",
+      "signedDate": "2026-02-03",
+      "lastUpdateDate": "2026-02-03T00:00:00",
+      "submissionDate": "2026-02-12T10:22:36.131",
       "procurementDeliveryDate": "2026-02-28",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "16778",
+      "protocolNumber": "17352/202",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "999389693",
+      "organizationVatNumber": "997908822",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "99221933",
-        "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΞΑΝΘΗΣ"
+        "key": "5006",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ"
       },
       "nutsCode": {
-        "key": "EL51",
-        "value": "Aνατολική Μακεδονία, Θράκη"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1015.Ε00253.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "72560",
-          "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΞΑΝΘΗΣ"
-        },
-        "signers": {
-          "key": "100099652",
-          "value": "ΖΩΗ ΚΟΣΜΙΔΟΥ - Διοικητής"
-        }
-      },
-      "totalCostWithVAT": 7732.58,
-      "totalCostWithoutVAT": 6235.95,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 6235.95,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια Ρουχισμού & Εξοπλισμού (ΜΑΠ) της Τ.Υ",
-          "cpvs": [
-            {
-              "key": "18100000-0",
-              "value": "Ρουχισμός επαγγελματικής χρήσης"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99221933",
-        "18100000"
-      ],
-      "cpv_divisions": [
-        "18"
-      ],
-      "all_domains": [
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Clothing & PPE"
-    },
-    {
-      "title": "ΚΑΛΥΨΗ ΔΑΠΑΝΩΝ ΓΙΑ ΠΟΛΙΤΙΣΤΙΚΕΣ ΕΚΔΗΛΩΣΕΙΣ Αποκριάς και της Καθαρής Δευτέρας 20-23 Φεβρουαρίου",
-      "referenceNumber": "26REQ018459463",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T14:32:12.438",
-      "procurementDeliveryDate": "2026-02-20",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "374",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090134594",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "6187",
-        "value": "ΔΗΜΟΣ ΜΕΓΑΝΗΣΙΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL624",
-        "value": "Λευκάδα"
+        "key": "EL54",
+        "value": "Ήπειρος"
       },
       "typeOfContractingAuthority": {
         "key": "9",
@@ -827,7 +3826,7 @@
         "key": "2",
         "value": "ΟΤΑ"
       },
-      "aaht": "1007.E83602.0001",
+      "aaht": "1007.904.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -838,245 +3837,49 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "84014",
-          "value": "ΤΕΧΝΙΚΗ ΥΠΗΡΕΣΙΑ"
+          "key": "100101774",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΠΟΛΙΤΙΣΜΟΥ, ΑΘΛΗΤΙΣΜΟΥ, ΤΟΥΡΙΣΜΟΥ ΚΑΙ ΠΡΟΒΟΛΗΣ ΗΠΕΙΡΩΤΙΚΩΝ ΠΡΟΙΟΝΤΩΝ"
         },
         "signers": {
-          "key": "100085508",
-          "value": "ΓΕΡΑΣΙΜΟΣ ΚΑΤΩΠΟΔΗΣ - Δήμαρχος"
+          "key": "111942",
+          "value": "ΑΛΕΞΑΝΔΡΟΣ ΚΑΧΡΙΜΑΝΗΣ - ΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
         }
       },
-      "totalCostWithVAT": 10600.0,
-      "totalCostWithoutVAT": 8638.67,
+      "totalCostWithVAT": 1499.99,
+      "totalCostWithoutVAT": 1209.67,
       "objectDetails": [
         {
           "quantity": 1,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "Erg",
+            "value": "Έργο"
           },
-          "costWithoutVAT": 1000,
+          "costWithoutVAT": 1209.67,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΘΑΛΑΣΣΙΑΣ ΜΕΤΑΦΟΡΑΣ",
+          "shortDescription": "Έγκριση δαπάνης και διάθεση πίστωσης για τη συμμετοχή της Περιφέρειας Ηπείρου στην διοργάνωση 1st  All Terrain Ultra Face Ioannina με την  Εpirus Athletic Events στις 28/02/2026 στα Ιωάννινα από τον Ειδ.Φορέα ΣΑΝΠ 230 Ηπείρου με Κ.Α 2023ΝΠ23000015, του Προϋπολογισμού της Περιφέρειας Ηπείρου ",
           "cpvs": [
             {
-              "key": "60000000-8",
-              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1548.39,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΠΟΚΡΙΑΤΙΚΕΣ ΣΤΟΛΕΣ",
-          "cpvs": [
-            {
-              "key": "18400000-3",
-              "value": "Ειδικά ενδύματα και εξαρτήματα ένδυσης"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΤΑΣΚΕΥΗ ΚΑΡΝΑΒΑΛΙΚΟΥ ΑΡΜΑΤΟΣ",
-          "cpvs": [
-            {
-              "key": "45262600-7",
-              "value": "Διάφορες κατασκευαστικές εργασίες ειδικής φύσης"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 4072.58,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΛΛΙΤΕΧΝΙΚΕΣ ΥΠΗΡΕΣΙΕΣ ΕΚΔΗΛΩΣΕΩΝ",
-          "cpvs": [
-            {
-              "key": "92312000-1",
-              "value": "Καλλιτεχνικές υπηρεσίες"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1017.7,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΠΑΡΟΧΗΣ ΦΑΓΗΤΟΥ",
-          "cpvs": [
-            {
-              "key": "55300000-3",
-              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
+              "key": "18523000-1",
+              "value": "Χρονόμετρα"
             }
           ]
         }
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018460198"
+      "approvalRefNo": [],
+      "noticeRefNo": [
+        "26PROC018470753"
       ],
-      "noticeRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "60000000",
-        "18400000",
-        "45262600",
-        "92312000",
-        "55300000"
-      ],
-      "cpv_divisions": [
-        "60",
-        "18",
-        "45",
-        "92",
-        "55"
-      ],
-      "all_domains": [
-        "Transport Services",
-        "Clothing & PPE",
-        "Construction & Works",
-        "Recreation, Culture & Sports Services",
-        "Hospitality, Retail & Catering Services"
-      ],
-      "primary_domain": "Construction & Works"
-    },
-    {
-      "title": "Προμήθεια Ρουχισμού & Εξοπλισμού (ΜΑΠ) της Τ.Υ.",
-      "referenceNumber": "26REQ018459377",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2025-11-20",
-      "lastUpdateDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T14:26:48.273",
-      "procurementDeliveryDate": "2026-02-28",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "16778",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "999389693",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99221933",
-        "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΞΑΝΘΗΣ"
-      },
-      "nutsCode": {
-        "key": "EL51",
-        "value": "Aνατολική Μακεδονία, Θράκη"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1015.Ε00253.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "72560",
-          "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΞΑΝΘΗΣ"
-        },
-        "signers": {
-          "key": "100099652",
-          "value": "ΖΩΗ ΚΟΣΜΙΔΟΥ - Διοικητής"
-        }
-      },
-      "totalCostWithVAT": 7732.58,
-      "totalCostWithoutVAT": 6235.95,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 6235.95,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια Ρουχισμού & Εξοπλισμού (ΜΑΠ) της Τ.Υ",
-          "cpvs": [
-            {
-              "key": "18100000-0",
-              "value": "Ρουχισμός επαγγελματικής χρήσης"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018459519"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99221933",
-        "18100000"
+        "18523000"
       ],
       "cpv_divisions": [
         "18"
@@ -1087,513 +3890,24 @@
       "primary_domain": "Clothing & PPE"
     },
     {
-      "title": "ΚΑΛΥΨΗ ΔΑΠΑΝΩΝ ΓΙΑ ΠΟΛΙΤΙΣΤΙΚΕΣ ΕΚΔΗΛΩΣΕΙΣ Αποκριάς και της Καθαρής Δευτέρας 20-23 Φεβρουαρίου",
-      "referenceNumber": "26REQ018459352",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": "2026-02-10T14:26:54.025",
-      "submissionDate": "2026-02-10T14:24:32.464",
-      "procurementDeliveryDate": "2026-02-20",
-      "cancellationDate": "2026-02-10T14:26:54.025",
-      "cancelled": true,
-      "cancellationReason": "καταχωρήθηκαν λάθος σύνολο στο έντυπο, θα αναρτηθεί εκ νέου",
-      "cancellationADA": null,
-      "cancellationType": "Ακύρωση λόγω λανθασμένης καταχώρησης",
-      "protocolNumber": "374",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090134594",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "6187",
-        "value": "ΔΗΜΟΣ ΜΕΓΑΝΗΣΙΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL624",
-        "value": "Λευκάδα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.E83602.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "84014",
-          "value": "ΤΕΧΝΙΚΗ ΥΠΗΡΕΣΙΑ"
-        },
-        "signers": {
-          "key": "100085508",
-          "value": "ΓΕΡΑΣΙΜΟΣ ΚΑΤΩΠΟΔΗΣ - Δήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 10600.0,
-      "totalCostWithoutVAT": 8638.67,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΤΑΣΚΕΥΗ ΚΑΡΝΑΒΑΛΙΚΟΥ ΑΡΜΑΤΟΣ",
-          "cpvs": [
-            {
-              "key": "45262600-7",
-              "value": "Διάφορες κατασκευαστικές εργασίες ειδικής φύσης"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1017.7,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΠΑΡΟΧΗΣ ΦΑΓΗΤΟΥ",
-          "cpvs": [
-            {
-              "key": "55300000-3",
-              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΘΑΛΑΣΣΙΑΣ ΜΕΤΑΦΟΡΑΣ",
-          "cpvs": [
-            {
-              "key": "60000000-8",
-              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
-            }
-          ]
-        },
-        {
-          "quantity": 2,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 4072.58,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΛΛΙΤΕΧΝΙΚΕΣ ΥΠΗΡΕΣΙΕΣ ΕΚΔΗΛΩΣΕΩΝ",
-          "cpvs": [
-            {
-              "key": "92312000-1",
-              "value": "Καλλιτεχνικές υπηρεσίες"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1548.39,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΣΤΟΛΩΝ",
-          "cpvs": [
-            {
-              "key": "18400000-3",
-              "value": "Ειδικά ενδύματα και εξαρτήματα ένδυσης"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "45262600",
-        "55300000",
-        "60000000",
-        "92312000",
-        "18400000"
-      ],
-      "cpv_divisions": [
-        "45",
-        "55",
-        "60",
-        "92",
-        "18"
-      ],
-      "all_domains": [
-        "Construction & Works",
-        "Hospitality, Retail & Catering Services",
-        "Transport Services",
-        "Recreation, Culture & Sports Services",
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Construction & Works"
-    },
-    {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΜΕΣΩΝ ΑΤΟΜΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ ΕΤΟΥΣ 2026 ΓΙΑ ΤΟΥΣ ΔΙΚΑΙΟΥΧΟΥΣ ΥΠΑΛΛΗΛΟΥΣ ΤΗΣ Π.Ε. ΒΟΙΩΤΙΑΣ",
-      "referenceNumber": "26REQ018459188",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": "2026-02-10T14:36:08.818",
-      "submissionDate": "2026-02-10T14:12:38.703",
-      "procurementDeliveryDate": "2026-02-27",
-      "cancellationDate": "2026-02-10T14:36:08.818",
-      "cancelled": true,
-      "cancellationReason": "ΕΚ ΠΑΡΑΔΡΟΜΗΣ ΛΑΘΟΣ ΕΠΙΣΥΝΑΠΤΟΜΕΝΟ ΕΓΓΡΑΦΟ",
-      "cancellationADA": null,
-      "cancellationType": "Ακύρωση λόγω λανθασμένης καταχώρησης",
-      "protocolNumber": "32647",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997947718",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "5013",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL641",
-        "value": "Βοιωτία"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.908.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "79146",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΟΥ-ΟΙΚΟΝΟΜΙΚΟΥ ΠΕ ΒΟΙΩΤΙΑΣ"
-        },
-        "signers": {
-          "key": "100087939",
-          "value": "ΓΕΩΡΓΙΟΣ ΝΤΑΣΙΩΤΗΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
-        }
-      },
-      "totalCostWithVAT": 9882.8,
-      "totalCostWithoutVAT": 7970.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "AG-001",
-            "value": "Μελέτη"
-          },
-          "costWithoutVAT": 3725,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΟΜΑΔΑ 3 - ΠΡΟΣΤΑΤΕΥΤΙΚΗ ΕΝΔΥΜΑΣΙΑ",
-          "cpvs": [
-            {
-              "key": "35113440-5",
-              "value": "Ανακλαστικά γιλέκα"
-            },
-            {
-              "key": "35113400-3",
-              "value": "Ρούχα προστασίας και ασφαλείας"
-            },
-            {
-              "key": "18220000-7",
-              "value": "Ρουχισμός προστασίας από την κακοκαιρία"
-            },
-            {
-              "key": "35113490-0",
-              "value": "Προστατευτικές ρόμπες"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "AG-001",
-            "value": "Μελέτη"
-          },
-          "costWithoutVAT": 2850,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΟΜΑΔ 4 - ΥΠΟΔΗΜΑΤΑ",
-          "cpvs": [
-            {
-              "key": "18810000-0",
-              "value": "Υποδήματα"
-            },
-            {
-              "key": "18816000-2",
-              "value": "Γαλότσες"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "AG-001",
-            "value": "Μελέτη"
-          },
-          "costWithoutVAT": 765,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΟΜΑΔΑ 1 - ΠΡΟΣΤΑΣΙΑ ΑΝΑΠΝΟΗΣ - ΚΕΦΑΛΗΣ - ΟΦΘΑΛΜΩΝ",
-          "cpvs": [
-            {
-              "key": "18220000-7",
-              "value": "Ρουχισμός προστασίας από την κακοκαιρία"
-            },
-            {
-              "key": "18142000-6",
-              "value": "Προσωπίδες ασφαλείας"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "AG-001",
-            "value": "Μελέτη"
-          },
-          "costWithoutVAT": 630,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΟΜΑΔΑ 2 - ΠΡΟΣΤΑΣΙΑ ΧΕΡΙΩΝ ",
-          "cpvs": [
-            {
-              "key": "18141000-9",
-              "value": "Γάντια εργασίας"
-            },
-            {
-              "key": "18424300-0",
-              "value": "Γάντια μιας χρήσης"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "35113440",
-        "35113400",
-        "18220000",
-        "35113490",
-        "18810000",
-        "18816000",
-        "18142000",
-        "18141000",
-        "18424300"
-      ],
-      "cpv_divisions": [
-        "35",
-        "18"
-      ],
-      "all_domains": [
-        "Security & Defense",
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Security & Defense"
-    },
-    {
-      "title": "Πρωτογενές Αίτημα Αποδοχής συνδιοργάνωσης Διασυλλογικών Αγώνων Κωπηλασίας 08/03/26 ",
-      "referenceNumber": "26REQ018459093",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
+      "title": "ΦΑΡΜΑΚΕΙΟ 7100045466",
+      "referenceNumber": "26REQ018469965",
+      "previousRequestReferenceNumber": "25REQ017381397",
+      "signedDate": "2025-08-11",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T14:06:57.616",
-      "procurementDeliveryDate": "2026-03-07",
+      "submissionDate": "2026-02-12T10:12:43.356",
+      "procurementDeliveryDate": "2026-08-11",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "19612",
+      "protocolNumber": "7100045466",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997769589",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "5005",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL532",
-        "value": "Καστοριά"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.903.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "81002",
-          "value": "ΓΡΑΦΕΙΟ ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗ ΠΕΡΙΦΕΡΕΙΑΚΗΣ ΕΝΟΤΗΤΑΣ ΚΑΣΤΟΡΙΑΣ"
-        },
-        "signers": {
-          "key": "100084419",
-          "value": "ΔΗΜΗΤΡΙΟΣ ΣΑΒΒΟΠΟΥΛΟΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
-        }
-      },
-      "totalCostWithVAT": 1200.01,
-      "totalCostWithoutVAT": 967.75,
-      "objectDetails": [
-        {
-          "quantity": 399,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 967.75,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Μεταλλικό μετάλλιο 5εκ κομμένο σε laser με εκτύπωση σε uv printer και τυπωμένη κορδέλα 2.5 εκ πάχος.",
-          "cpvs": [
-            {
-              "key": "18512200-3",
-              "value": "Μετάλλια"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "18512200"
-      ],
-      "cpv_divisions": [
-        "18"
-      ],
-      "all_domains": [
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Clothing & PPE"
-    },
-    {
-      "title": "ΜΕΦ/ΑΥΥ 7100048024",
-      "referenceNumber": "26REQ018458963",
-      "previousRequestReferenceNumber": "26REQ018384481",
-      "signedDate": "2026-01-26",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T13:59:08.93",
-      "procurementDeliveryDate": "2027-01-26",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "7100048024",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
       "organizationVatNumber": "090153025",
       "budget": null,
       "commitmentNo": null,
@@ -1634,301 +3948,46 @@
           "value": "ΑΝΤΩΝΙΟΣ ΧΕΙΜΩΝΑΣ - Διοικητής"
         }
       },
-      "totalCostWithVAT": 24552.0,
-      "totalCostWithoutVAT": 19800.0,
+      "totalCostWithVAT": 7722.72,
+      "totalCostWithoutVAT": 6228.0,
       "objectDetails": [
         {
-          "quantity": 660000,
+          "quantity": 108,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 19800,
+          "costWithoutVAT": 4644,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Γάντια",
+          "shortDescription": "Ρουχισμός επαγγελματικής χρήσης",
           "cpvs": [
             {
-              "key": "18424000-7",
-              "value": "Γάντια"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "18424000"
-      ],
-      "cpv_divisions": [
-        "18"
-      ],
-      "all_domains": [
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Clothing & PPE"
-    },
-    {
-      "title": "Προμήθεια Ρουχισμού & Εξοπλισμού (ΜΑΠ) της Τ.Υ",
-      "referenceNumber": "26REQ018458866",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2025-11-20",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T13:52:52.108",
-      "procurementDeliveryDate": "2026-02-28",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "16778",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "999389693",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99221933",
-        "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΞΑΝΘΗΣ"
-      },
-      "nutsCode": {
-        "key": "EL51",
-        "value": "Aνατολική Μακεδονία, Θράκη"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1015.Ε00253.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "72560",
-          "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΞΑΝΘΗΣ"
-        },
-        "signers": {
-          "key": "100099652",
-          "value": "ΖΩΗ ΚΟΣΜΙΔΟΥ - Διοικητής"
-        }
-      },
-      "totalCostWithVAT": 7732.58,
-      "totalCostWithoutVAT": 6235.95,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 6235.95,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια Ρουχισμού & Εξοπλισμού (ΜΑΠ) της Τ.Υ",
-          "cpvs": [
-            {
-              "key": "18100000-0",
+              "key": "18110000-3",
               "value": "Ρουχισμός επαγγελματικής χρήσης"
             }
           ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99221933",
-        "18100000"
-      ],
-      "cpv_divisions": [
-        "18"
-      ],
-      "all_domains": [
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Clothing & PPE"
-    },
-    {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΧΑΡΤΙΚΩΝ, ΑΠΟΡΡΥΠΑΝΤΙΚΩΝ ΚΑΙ ΕΙΔΩΝ ΥΓΙΕΙΝΗΣ ΓΙΑ ΤΟ ΔΗΜΟ ΑΙΓΙΝΑΣ ΚΑΙ ΤΟΥΣΠΑΙΔΙΚΟΥΣ ΣΤΑΘΜΟΥΣ",
-      "referenceNumber": "26REQ018458649",
-      "previousRequestReferenceNumber": "24REQ015757667",
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": "2025-01-21T00:00:00",
-      "submissionDate": "2026-02-10T13:35:45.672",
-      "procurementDeliveryDate": "2026-02-28",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "2453",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": "promithies@aeginadimos.gr",
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090046938",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6016",
-        "value": "ΔΗΜΟΣ ΑΙΓΙΝΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL307",
-        "value": "Πειραιάς, Νήσοι"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.E85204.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100003380",
-          "value": "ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ, ΛΟΓΙΣΤΗΡΙΟΥ, ΠΡΟΜΗΘΕΙΩΝ ΚΑΙ ΑΠΟΘΗΚΗΣ"
         },
-        "signers": {
-          "key": "100048673",
-          "value": "ΙΩΑΝΝΗΣ ΖΟΡΜΠΑΣ - Α/Α Πρόεδρος"
-        }
-      },
-      "totalCostWithVAT": 37188.9,
-      "totalCostWithoutVAT": 30661.87,
-      "objectDetails": [
         {
-          "quantity": 1956,
+          "quantity": 72,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 4621.2,
-          "vat": "6",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΔΙΕΝΕΡΓΕΙΑ ΠΡΟΜΗΘΕΙΑΣ ΧΑΡΤΙΚΩΝ, ΑΠΟΡΡΥΠΑΝΤΙΚΩΝ ΚΑΙ ΕΙΔΩΝ ΥΓΙΕΙΝΗΣ ΓΙΑ ΤΟ ΔΗΜΟ ΑΙΓΙΝΑΣ ΚΑΙ ΤΟΥΣ ΠΑΙΔΙΚΟΥΣ ΣΤΑΘΜΟΥΣ",
-          "cpvs": [
-            {
-              "key": "39831300-9",
-              "value": "Καθαριστικά δαπέδου"
-            },
-            {
-              "key": "39831600-2",
-              "value": "Καθαριστικά τουαλέτας"
-            }
-          ]
-        },
-        {
-          "quantity": 10946,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 26040.67,
+          "costWithoutVAT": 1584,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑΣ ΧΑΡΤΙΚΩΝ, ΑΠΟΡΡΥΠΑΝΤΙΚΩΝ ΚΑΙ ΕΙΔΩΝ ΥΓΙΕΙΝΗΣ ΓΙΑ ΤΟ ΔΗΜΟ ΑΙΓΙΝΑΣ ΚΑΙ ΤΟΥΣ ΠΑΙΔΙΚΟΥΣ ΣΤΑΘΜΟΥΣ",
+          "shortDescription": "Ιατρικός ρουχισμός",
           "cpvs": [
             {
-              "key": "39812400-1",
-              "value": "Υλικά σφουγγαρίσματος"
-            },
-            {
-              "key": "18424300-0",
-              "value": "Γάντια μιας χρήσης"
-            },
-            {
-              "key": "33761000-2",
-              "value": "Χαρτί υγείας"
-            },
-            {
-              "key": "39831210-1",
-              "value": "Απορρυπαντικά πλυντηρίου πιάτων"
-            },
-            {
-              "key": "24322510-5",
-              "value": "Αιθυλική αλκοόλη"
-            },
-            {
-              "key": "39831300-9",
-              "value": "Καθαριστικά δαπέδου"
-            },
-            {
-              "key": "24311900-6",
-              "value": "Χλώριο"
-            },
-            {
-              "key": "39831200-8",
-              "value": "Απορρυπαντικά"
-            },
-            {
-              "key": "33770000-8",
-              "value": "Χαρτί υγιεινής"
-            },
-            {
-              "key": "39800000-0",
-              "value": "Είδη καθαρισμού και στίλβωσης"
-            },
-            {
-              "key": "37823000-3",
-              "value": "Λαδόχαρτο και άλλα είδη χαρτιού"
-            },
-            {
-              "key": "33763000-6",
-              "value": "Χάρτινες χειροπετσέτες"
-            },
-            {
-              "key": "33711900-6",
-              "value": "Σαπούνι"
+              "key": "33199000-1",
+              "value": "Ιατρικός ρουχισμός"
             }
           ]
         }
@@ -1941,1155 +4000,8 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "39831300",
-        "39831600",
-        "39812400",
-        "18424300",
-        "33761000",
-        "39831210",
-        "24322510",
-        "24311900",
-        "39831200",
-        "33770000",
-        "39800000",
-        "37823000",
-        "33763000",
-        "33711900"
-      ],
-      "cpv_divisions": [
-        "39",
-        "18",
-        "33",
-        "24",
-        "37"
-      ],
-      "all_domains": [
-        "Furniture & Cleaning Products",
-        "Clothing & PPE",
-        "Medical & Pharma",
-        "Chemicals",
-        "Sports, Toys & Recreation Goods"
-      ],
-      "primary_domain": "Medical & Pharma"
-    },
-    {
-      "title": "ΠΡΩΤΟΓΕΝΕΣ ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΙΜΑΤΙΣΜΟΥ",
-      "referenceNumber": "26REQ018458344",
-      "previousRequestReferenceNumber": "26REQ018458312",
-      "signedDate": "2026-01-29",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T13:13:32.699",
-      "procurementDeliveryDate": "2026-04-03",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "737703",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "090153025",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1011.2010000000.0001 ",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100056421",
-          "value": "ΕΤΥΠ/ΓΕΕΘΑ"
-        },
-        "signers": {
-          "key": "100097597",
-          "value": "ΙΩΑΝΝΗΣ ΚΟΥΚΟΥΦΙΚΑΣ - Διοικητής"
-        }
-      },
-      "totalCostWithVAT": 5873.88,
-      "totalCostWithoutVAT": 4737.0,
-      "objectDetails": [
-        {
-          "quantity": 8,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 4737,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΙΜΑΤΙΣΜΟΥ ΔΟΕ",
-          "cpvs": [
-            {
-              "key": "18400000-3",
-              "value": "Ειδικά ενδύματα και εξαρτήματα ένδυσης"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [
-        "26PROC018459382"
-      ],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "18400000"
-      ],
-      "cpv_divisions": [
-        "18"
-      ],
-      "all_domains": [
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Clothing & PPE"
-    },
-    {
-      "title": "ΠΡΩΤΟΓΕΝΕΣ ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΙΜΑΤΙΣΜΟΥ",
-      "referenceNumber": "26REQ018458312",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-01-29",
-      "lastUpdateDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T13:11:45.313",
-      "procurementDeliveryDate": "2026-04-03",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "737703",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "090153025",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "6",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1011.2010000000.0001 ",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100056421",
-          "value": "ΕΤΥΠ/ΓΕΕΘΑ"
-        },
-        "signers": {
-          "key": "100097597",
-          "value": "ΙΩΑΝΝΗΣ ΚΟΥΚΟΥΦΙΚΑΣ - Διοικητής"
-        }
-      },
-      "totalCostWithVAT": 5873.88,
-      "totalCostWithoutVAT": 4737.0,
-      "objectDetails": [
-        {
-          "quantity": 8,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 4737,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΙΜΑΤΙΣΜΟΥ ΔΟΕ",
-          "cpvs": [
-            {
-              "key": "18400000-3",
-              "value": "Ειδικά ενδύματα και εξαρτήματα ένδυσης"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018458344"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "18400000"
-      ],
-      "cpv_divisions": [
-        "18"
-      ],
-      "all_domains": [
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Clothing & PPE"
-    },
-    {
-      "title": "Προμήθεια μεταλλίων για τις ανάγκες των υπηρεσιών του Δήμου Ιλίου",
-      "referenceNumber": "26REQ018457636",
-      "previousRequestReferenceNumber": "25REQ016797625",
-      "signedDate": "2026-02-05",
-      "lastUpdateDate": "2025-05-19T00:00:00",
-      "submissionDate": "2026-02-10T12:34:40.036",
-      "procurementDeliveryDate": "2026-06-12",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "4225",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090076918",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6123",
-        "value": "ΔΗΜΟΣ ΙΛΙΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL302",
-        "value": "Δυτικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.Ε84705.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100004873",
-          "value": "ΑΥΤΟΤΕΛΕΣ ΤΜΗΜΑ ΑΘΛΗΤΙΣΜΟΥ ΚΑΙ ΝΕΑΣ ΓΕΝΙΑΣ, ΠΑΙΔΕΙΑΣ ΚΑΙ ΔΙΑ ΒΙΟΥ ΜΑΘΗΣΗΣ"
-        },
-        "signers": {
-          "key": "100013641",
-          "value": "ΣΤΥΛΙΑΝΟΣ ΜΑΡΙΔΑΚΗΣ - Προϊστάμενος Τμήματος"
-        }
-      },
-      "totalCostWithVAT": 11338.56,
-      "totalCostWithoutVAT": 9144.0,
-      "objectDetails": [
-        {
-          "quantity": 20,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 64,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΜΕΤΑΛΛΙΑ ΜΕ ΚΟΡΔΕΛΑ",
-          "cpvs": [
-            {
-              "key": "18512200-3",
-              "value": "Μετάλλια"
-            }
-          ]
-        },
-        {
-          "quantity": 60,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1320,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΜΕΤΑΛΛΙΑ ΠΡΕΣ ΠΑΠΙΕ",
-          "cpvs": [
-            {
-              "key": "18512200-3",
-              "value": "Μετάλλια"
-            }
-          ]
-        },
-        {
-          "quantity": 20,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 700,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΤΙΜΗΤΙΚΕΣ ΠΛΑΚΕΤΕΣ",
-          "cpvs": [
-            {
-              "key": "18512200-3",
-              "value": "Μετάλλια"
-            }
-          ]
-        },
-        {
-          "quantity": 30,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 660,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΧΑΡΤΟΚΟΠΤΗΣ & ΣΕΛΙΔΟΔΕΙΚΤΗΣ",
-          "cpvs": [
-            {
-              "key": "18512200-3",
-              "value": "Μετάλλια"
-            }
-          ]
-        },
-        {
-          "quantity": 450,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 450,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΤΑΜΠΕΛΑΚΙΑ ΔΙΑΣΤΑΣΕΩΝ 6CM x 3CM",
-          "cpvs": [
-            {
-              "key": "18512200-3",
-              "value": "Μετάλλια"
-            }
-          ]
-        },
-        {
-          "quantity": 200,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 400,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΣΗΜΑΤΑ ΠΕΤΟΥ",
-          "cpvs": [
-            {
-              "key": "18512200-3",
-              "value": "Μετάλλια"
-            }
-          ]
-        },
-        {
-          "quantity": 45,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1125,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΛΑΚΕΤΕΣ 16CM x 19CM",
-          "cpvs": [
-            {
-              "key": "18512200-3",
-              "value": "Μετάλλια"
-            }
-          ]
-        },
-        {
-          "quantity": 25,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 875,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΛΑΚΕΤΕΣ 19CM x 23CM",
-          "cpvs": [
-            {
-              "key": "18512200-3",
-              "value": "Μετάλλια"
-            }
-          ]
-        },
-        {
-          "quantity": 50,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 2500,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΤΙΜΗΤΙΚΗ ΠΛΑΚΕΤΑ ΟΡΕΙΧΑΛΚΙΝΗ ΕΠΑΡΓΥΡΗ",
-          "cpvs": [
-            {
-              "key": "18512200-3",
-              "value": "Μετάλλια"
-            }
-          ]
-        },
-        {
-          "quantity": 30,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1050,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΤΙΜΗΤΙΚΕΣ ΠΛΑΚΕΤΕΣ ΕΠΑΡΓΥΡΕΣ",
-          "cpvs": [
-            {
-              "key": "18512200-3",
-              "value": "Μετάλλια"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "18512200"
-      ],
-      "cpv_divisions": [
-        "18"
-      ],
-      "all_domains": [
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Clothing & PPE"
-    },
-    {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΚΑΘΑΡΙΟΤΗΤΑΣ Δ/ΝΣΗ ΑΠΟΚΕΝΤΡΩΣΗΣ & ΔΙΟΙΚΗΣΗΣ",
-      "referenceNumber": "26REQ018456386",
-      "previousRequestReferenceNumber": "25REQ018212251",
-      "signedDate": "2025-12-17",
-      "lastUpdateDate": "2025-12-19T00:00:00",
-      "submissionDate": "2026-02-10T11:27:33.416",
-      "procurementDeliveryDate": "2026-12-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "322528",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090025537",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": true,
-      "approved": true,
-      "organization": {
-        "key": "6013",
-        "value": "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.Ε84501.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "93612",
-          "value": "Δ/ΝΣΗ ΑΠΟΚΕΝΤΡΩΣΗΣ & ΔΙΟΙΚΗΣΗΣ"
-        },
-        "signers": {
-          "key": "130994",
-          "value": "ΕΛΕΝΗ ΧΑΛΒΑΤΖΑ - Προϊστάμενος Διεύθυνσης"
-        }
-      },
-      "totalCostWithVAT": 429171.14,
-      "totalCostWithoutVAT": 355095.31,
-      "objectDetails": [
-        {
-          "quantity": 150000,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 293167.31,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΚΑΘΑΡΙΟΤΗΤΑΣ Δ/ΝΣΗ ΑΠΟΚΕΝΤΡΩΣΗΣ & ΔΙΟΙΚΗΣΗΣ",
-          "cpvs": [
-            {
-              "key": "44614100-8",
-              "value": "Κιβώτια αποθήκευσης"
-            },
-            {
-              "key": "18937000-6",
-              "value": "Σάκοι συσκευασίας"
-            },
-            {
-              "key": "44423200-3",
-              "value": "Σκάλες"
-            },
-            {
-              "key": "19640000-4",
-              "value": "Σάκοι και τσάντες αποβλήτων και απορριμμάτων από πολυαιθυλένιο"
-            },
-            {
-              "key": "39830000-9",
-              "value": "Προϊόντα καθαρισμού"
-            },
-            {
-              "key": "33771000-5",
-              "value": "Προϊόντα υγιεινής από χαρτί"
-            },
-            {
-              "key": "39224300-1",
-              "value": "Σκούπες και βούρτσες και άλλα είδη για την οικιακή καθαριότητα"
-            },
-            {
-              "key": "44173000-3",
-              "value": "Ταινίες"
-            },
-            {
-              "key": "18937100-7",
-              "value": "Σακούλες συσκευασίας"
-            },
-            {
-              "key": "39831200-8",
-              "value": "Απορρυπαντικά"
-            },
-            {
-              "key": "39830000-9",
-              "value": "Προϊόντα καθαρισμού"
-            },
-            {
-              "key": "33763000-6",
-              "value": "Χάρτινες χειροπετσέτες"
-            },
-            {
-              "key": "39831600-2",
-              "value": "Καθαριστικά τουαλέτας"
-            }
-          ]
-        },
-        {
-          "quantity": 20000,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 61928,
-          "vat": "6",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΚΑΘΑΡΙΟΤΗΤΑΣ Δ/ΝΣΗ ΑΠΟΚΕΝΤΡΩΣΗΣ & ΔΙΟΙΚΗΣΗΣ",
-          "cpvs": [
-            {
-              "key": "33741300-9",
-              "value": "Απολυμαντικά χεριών"
-            },
-            {
-              "key": "33711900-6",
-              "value": "Σαπούνι"
-            },
-            {
-              "key": "18424000-7",
-              "value": "Γάντια"
-            },
-            {
-              "key": "24311900-6",
-              "value": "Χλώριο"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "44614100",
-        "18937000",
-        "44423200",
-        "19640000",
-        "39830000",
-        "33771000",
-        "39224300",
-        "44173000",
-        "18937100",
-        "39831200",
-        "33763000",
-        "39831600",
-        "33741300",
-        "33711900",
-        "18424000",
-        "24311900"
-      ],
-      "cpv_divisions": [
-        "44",
-        "18",
-        "19",
-        "39",
-        "33",
-        "24"
-      ],
-      "all_domains": [
-        "Construction Materials & Structures",
-        "Clothing & PPE",
-        "Textiles, Plastics & Rubber",
-        "Furniture & Cleaning Products",
-        "Medical & Pharma",
-        "Chemicals"
-      ],
-      "primary_domain": "Construction Materials & Structures"
-    },
-    {
-      "title": "ΦΑΡΜΑΚΕΥΤΙΚΟ ΤΜΗΜΑ",
-      "referenceNumber": "26REQ018456322",
-      "previousRequestReferenceNumber": "26REQ018406334",
-      "signedDate": "2026-02-05",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T11:23:16.268",
-      "procurementDeliveryDate": "2026-02-12",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "6500",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "999336270",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "99221993",
-        "value": "ΠΕΡ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ 'Ο ΕΥΑΓΓΕΛΙΣΜΟΣ'"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1015.E00159.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "74855",
-          "value": "ΠΡΟΜΗΘΕΙΕΣ"
-        },
-        "signers": {
-          "key": "135941",
-          "value": "ΑΝΑΣΤΑΣΙΟΣ ΓΡΗΓΟΡΟΠΟΥΛΟΣ - Διοικητής"
-        }
-      },
-      "totalCostWithVAT": 12834.0,
-      "totalCostWithoutVAT": 10350.0,
-      "objectDetails": [
-        {
-          "quantity": 9000,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 10350,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΣΑΚΟΥΛΑΚΙΑ ΠΛΑΣΤΙΚΑ ΔΙΑΦΑΝΗ ΜΕ  ΑΥΤΟΚΟΛΛΗΤΟ ΟΡΙΣΤΙΚΟΥ ΚΛΕΙΣΙΜΑΤΟΣ ΚΑΙ  ΕΞΩΤΕΡΙΚΗ ΘΗΚΗ ΓΙΑ ΤΗ ΜΟΝ. ΔΙΑΛΥΣΗΣ ΚΥΤ/ΚΩΝ ΦΑΡΜ.17 Χ 26 CM+4CM ΓΥΡΙΣΜΑ",
-          "cpvs": [
-            {
-              "key": "18937100-7",
-              "value": "Σακούλες συσκευασίας"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99221993",
-        "18937100"
-      ],
-      "cpv_divisions": [
-        "18"
-      ],
-      "all_domains": [
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Clothing & PPE"
-    },
-    {
-      "title": " ΦΑΡΜΑΚΕΥΤΙΚΟ ΤΜΗΜΑ",
-      "referenceNumber": "26REQ018456059",
-      "previousRequestReferenceNumber": "26REQ018406102",
-      "signedDate": "2026-02-05",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T11:09:04.446",
-      "procurementDeliveryDate": "2026-02-12",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "6501",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "999336270",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "99221993",
-        "value": "ΠΕΡ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ 'Ο ΕΥΑΓΓΕΛΙΣΜΟΣ'"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1015.E00159.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "74855",
-          "value": "ΠΡΟΜΗΘΕΙΕΣ"
-        },
-        "signers": {
-          "key": "135941",
-          "value": "ΑΝΑΣΤΑΣΙΟΣ ΓΡΗΓΟΡΟΠΟΥΛΟΣ - Διοικητής"
-        }
-      },
-      "totalCostWithVAT": 13106.8,
-      "totalCostWithoutVAT": 10570.0,
-      "objectDetails": [
-        {
-          "quantity": 7000,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 10570,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΣΑΚΟΥΛΑΚΙΑ ΠΛΑΣΤΙΚΑ ΔΙΑΦΑΝΗ ΜΕ  ΑΥΤΟΚΟΛΛΗΤΟ ΟΡΙΣΤΙΚΟΥ ΚΛΕΙΣΙΜΑΤΟΣ ΚΑΙ  ΕΞΩΤΕΡΙΚΗ ΘΗΚΗ ΓΙΑ ΜΟΝ.ΔΙΑΛΥΣΗΣ ΚΥΤ/ΚΩΝ  ΦΑΡΜ.30 Χ 40CM+ 4CM ΓΥΡΙΣΜΑ",
-          "cpvs": [
-            {
-              "key": "18937100-7",
-              "value": "Σακούλες συσκευασίας"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99221993",
-        "18937100"
-      ],
-      "cpv_divisions": [
-        "18"
-      ],
-      "all_domains": [
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Clothing & PPE"
-    },
-    {
-      "title": "ΑΠΟΦΑΣΗ ΑΝΑΛΗΨΗΣ 1132/2026  ΠΕΡΙ ΔΑΠΑΝΗΣ ΠΡΟΜΗΘΕΙΑΣ ΥΓΕΙΟΝΟΜΙΚΟΥ ΥΛΙΚΟΥ ΓΙΑ ΤΟ ΝΟΣΟΚΟΜΕΙΟ.",
-      "referenceNumber": "26REQ018455018",
-      "previousRequestReferenceNumber": "26REQ018454990",
-      "signedDate": "2026-01-29",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T10:03:14.387",
-      "procurementDeliveryDate": "2026-02-24",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "1132/29-01-2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997136909",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "99221882",
-        "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΚΕΝΤΡΟ ΥΓΕΙΑΣ ΚΩ ΙΠΠΟΚΡΑΤΕΙΟΝ"
-      },
-      "nutsCode": {
-        "key": "EL421",
-        "value": "Κάλυμνος, Κάρπαθος, Κως, Ρόδος"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1015.Ε00197.001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "74809",
-          "value": "ΔΙΟΙΚΗΣΗ"
-        },
-        "signers": {
-          "key": "100097049",
-          "value": "ΝΙΚΟΛΑΟΣ ΦΑΝΙΟΣ - Διοικητής"
-        }
-      },
-      "totalCostWithVAT": 35017.75,
-      "totalCostWithoutVAT": 29929.7,
-      "objectDetails": [
-        {
-          "quantity": 825000,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 29929.7,
-          "vat": "17",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΥΓΕΙΟΝΟΜΙΚΟΥ ΥΛΙΚΟΥ",
-          "cpvs": [
-            {
-              "key": "33141310-6",
-              "value": "Σύριγγες"
-            },
-            {
-              "key": "33194100-7",
-              "value": "Συσκευές και όργανα έγχυσης"
-            },
-            {
-              "key": "18424300-0",
-              "value": "Γάντια μιας χρήσης"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [
-        "26PROC018455075"
-      ],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99221882",
-        "33141310",
-        "33194100",
-        "18424300"
-      ],
-      "cpv_divisions": [
-        "33",
-        "18"
-      ],
-      "all_domains": [
-        "Medical & Pharma",
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Medical & Pharma"
-    },
-    {
-      "title": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ ΠΕΡΙ ΔΑΠΑΝΗΣ ΠΡΟΜΗΘΕΙΑΣ ΥΓΕΙΟΝΟΜΙΚΟΥ ΥΛΙΚΟΥ ΓΙΑ ΤΟ ΝΟΣΟΚΟΜΕΙΟ.",
-      "referenceNumber": "26REQ018454990",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-01-27",
-      "lastUpdateDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T10:01:33.541",
-      "procurementDeliveryDate": "2026-02-24",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "2/27-01-2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997136909",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99221882",
-        "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΚΕΝΤΡΟ ΥΓΕΙΑΣ ΚΩ ΙΠΠΟΚΡΑΤΕΙΟΝ"
-      },
-      "nutsCode": {
-        "key": "EL421",
-        "value": "Κάλυμνος, Κάρπαθος, Κως, Ρόδος"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1015.Ε00197.001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "74809",
-          "value": "ΔΙΟΙΚΗΣΗ"
-        },
-        "signers": {
-          "key": "100097049",
-          "value": "ΝΙΚΟΛΑΟΣ ΦΑΝΙΟΣ - Διοικητής"
-        }
-      },
-      "totalCostWithVAT": 35017.75,
-      "totalCostWithoutVAT": 29929.7,
-      "objectDetails": [
-        {
-          "quantity": 825000,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 29929.7,
-          "vat": "17",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΥΓΕΙΟΝΟΜΙΚΟΥ ΥΛΙΚΟΥ",
-          "cpvs": [
-            {
-              "key": "18424300-0",
-              "value": "Γάντια μιας χρήσης"
-            },
-            {
-              "key": "33141310-6",
-              "value": "Σύριγγες"
-            },
-            {
-              "key": "33194100-7",
-              "value": "Συσκευές και όργανα έγχυσης"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018455018"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99221882",
-        "18424300",
-        "33141310",
-        "33194100"
+        "18110000",
+        "33199000"
       ],
       "cpv_divisions": [
         "18",
@@ -3102,84 +4014,84 @@
       "primary_domain": "Medical & Pharma"
     },
     {
-      "title": "ΑΙΤΗΜΑ ΔΑΠΑΝΗΣ",
-      "referenceNumber": "26REQ018454349",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T09:15:56.299",
-      "procurementDeliveryDate": "2026-03-06",
+      "title": "Προμήθεια ειδών ατομικής προστασίας των εργαζομένων του δήμου για το οικονομικό έτος 2025",
+      "referenceNumber": "26REQ018469811",
+      "previousRequestReferenceNumber": "25REQ018114463",
+      "signedDate": "2025-12-09",
+      "lastUpdateDate": "2026-02-02T00:00:00",
+      "submissionDate": "2026-02-12T10:04:43.852",
+      "procurementDeliveryDate": "2026-02-28",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "1059/26/312232",
+      "protocolNumber": "17189",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090169846",
+      "organizationVatNumber": "998016240",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
-      "approved": false,
+      "approved": true,
       "organization": {
-        "key": "100054489",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ"
+        "key": "6228",
+        "value": "ΔΗΜΟΣ ΟΡΧΟΜΕΝΟΥ"
       },
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL641",
+        "value": "Βοιωτία"
       },
       "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
+        "key": "9",
+        "value": "ΝΠΔΔ"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
+        "key": "2",
+        "value": "ΟΤΑ"
       },
-      "aaht": "1057.2010100300.0001",
+      "aaht": "1007.E82805.0001",
       "contractTypes": [
         {
           "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
+            "key": "12",
+            "value": "Μελέτες"
           }
         }
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "95012",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΕΠΙΚΟΙΝΩΝΙΑΣ"
+          "key": "80083",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΩΝ ΚΑΙ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
         },
         "signers": {
-          "key": "137431",
-          "value": "ΑΛΕΞΑΝΔΡΟΣ ΓΕΡΟΧΡΗΣΤΟΣ - Διευθυντής"
+          "key": "100014997",
+          "value": "ΚΡΥΣΤΑΛΩ ΦΟΡΤΑΤΟΥ - Προϊστάμενος Τμήματος"
         }
       },
-      "totalCostWithVAT": 15500.0,
-      "totalCostWithoutVAT": 12500.0,
+      "totalCostWithVAT": 14167.06,
+      "totalCostWithoutVAT": 11425.05,
       "objectDetails": [
         {
-          "quantity": 1615,
+          "quantity": 1099,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 12500,
+          "costWithoutVAT": 11425.05,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Αίτημα δαπάνης για την προμήθεια χιλίων εξακοσίων δεκαπέντε (1.615) αναμνηστικών δώρων (εξήντα πέντε (65) μεγάλες πλακέτες αλπακάς σε βελούδινη θήκη, πενήντα (50) μικρές πλακέτες αλπακάς σε βελούδινη θήκη και χίλια πεντακόσια (1.500) σήματα πέτου ΕΛ.ΑΣ, προς κάλυψη εθιμοτυπικών αναγκών της Ηγεσίας του Σώματος.",
+          "shortDescription": "Προμήθεια ειδών ατομικής προστασίας των εργαζομένων του δήμου για το οικονομικό έτος 2025.",
           "cpvs": [
             {
-              "key": "18530000-3",
-              "value": "Δώρα και βραβεία"
+              "key": "18141000-9",
+              "value": "Γάντια εργασίας"
             }
           ]
         }
@@ -3192,7 +4104,7 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "18530000"
+        "18141000"
       ],
       "cpv_divisions": [
         "18"
@@ -3203,36 +4115,36 @@
       "primary_domain": "Clothing & PPE"
     },
     {
-      "title": "\"Προμήθεια ειδών Χριστουγεννιάτικης γιορτής για τα παιδιά των Ιδρυμάτων\"",
-      "referenceNumber": "26REQ018454312",
-      "previousRequestReferenceNumber": "25REQ018053170",
-      "signedDate": "2026-02-05",
-      "lastUpdateDate": "2025-12-04T00:00:00",
-      "submissionDate": "2026-02-10T09:13:35.319",
-      "procurementDeliveryDate": "2026-03-31",
+      "title": "ΠΡΟΜΗΘΕΙΑ  ΙΜΑΤΙΣΜΟΥ",
+      "referenceNumber": "26REQ018469059",
+      "previousRequestReferenceNumber": "24REQ015273370",
+      "signedDate": "2024-08-08",
+      "lastUpdateDate": "2025-03-20T00:00:00",
+      "submissionDate": "2026-02-12T09:21:34.959",
+      "procurementDeliveryDate": "2024-12-31",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "4172",
+      "protocolNumber": "84804",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090076918",
+      "authorEmail": "delatolas-n@heraklion.gr",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "0997579296",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "6123",
-        "value": "ΔΗΜΟΣ ΙΛΙΟΥ"
+        "key": "6325",
+        "value": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)"
       },
       "nutsCode": {
-        "key": "EL302",
-        "value": "Δυτικός Τομέας Αθηνών"
+        "key": "EL431",
+        "value": "Ηράκλειο"
       },
       "typeOfContractingAuthority": {
         "key": "9",
@@ -3242,65 +4154,45 @@
         "key": "2",
         "value": "ΟΤΑ"
       },
-      "aaht": "1007.Ε84705.0001",
+      "aaht": "1007.Ε84604.0001",
       "contractTypes": [
         {
           "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
+            "key": "13",
+            "value": "Προμήθειες"
           }
         }
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "78721",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+          "key": "100084764",
+          "value": "ΓΡΑΦΕΙΟ ΑΝΤΙΔΗΜΑΡΧΟΥ ΠΑΙΔΕΙΑΣ"
         },
         "signers": {
-          "key": "100004859",
-          "value": "ΑΝΔΡΙΑΝΑ ΑΛΕΒΙΖΟΥ - Δήμαρχος"
+          "key": "100023635",
+          "value": "ΜΑΡΙΑ ΦΟΥΝΤΟΥΛΑΚΗ - Διευθυντής"
         }
       },
-      "totalCostWithVAT": 2759.92,
-      "totalCostWithoutVAT": 2225.74,
+      "totalCostWithVAT": 20695.6,
+      "totalCostWithoutVAT": 16690.0,
       "objectDetails": [
         {
-          "quantity": 449,
+          "quantity": 3600,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 1900.14,
+          "costWithoutVAT": 16690,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Προμήθεια ειδών Χριστουγεννιάτικης γιορτής για τα παιδιά των Ιδρυμάτων\"",
+          "shortDescription": "α/α    ΠΕΡΙΓΡΑΦΗ                                           ΠΟΣΟΤΗΤΑ 1 ΛΕΥΚΑ  ΜΠΛΟΥΖΑΚΙΑ  ΜΑΚΟ  ΧΩΡΙΣ  ΓΙΑΚΆ  1650 2 ΧΡΩΜΑΤΙΣΤΑ  ΜΠΛΟΥΖΑΚΙΑ  ΜΑΚΟ  ΧΩΡΙΣ  ΓΙΑΚΆ 1450 3 DRY FIT POLO ΜΠΛΟΥΖΑΚΙΑ 400 4 ΦΟΡΜΑ ΦΟΥΤΕΡ ΣΕΤ ΠΑΝΤΕΛΟΝΙ - ΖΑΚΕΤΑ ΜΕ ΚΟΥΚΟΥΛΑ 100 ",
           "cpvs": [
             {
-              "key": "37524000-7",
-              "value": "Παιχνίδια"
-            }
-          ]
-        },
-        {
-          "quantity": 450,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 325.6,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "\"Προμήθεια ειδών Χριστουγεννιάτικης γιορτής για τα παιδιά των Ιδρυμάτων\"",
-          "cpvs": [
-            {
-              "key": "18937100-7",
-              "value": "Σακούλες συσκευασίας"
+              "key": "18412200-2",
+              "value": "Αθλητικά μπλουζάκια"
             }
           ]
         }
@@ -3313,18 +4205,15 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "37524000",
-        "18937100"
+        "18412200"
       ],
       "cpv_divisions": [
-        "37",
         "18"
       ],
       "all_domains": [
-        "Sports, Toys & Recreation Goods",
         "Clothing & PPE"
       ],
-      "primary_domain": "Sports, Toys & Recreation Goods"
+      "primary_domain": "Clothing & PPE"
     }
   ]
 }

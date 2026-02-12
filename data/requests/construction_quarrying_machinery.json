@@ -1,48 +1,48 @@
 {
   "domain": "Construction & Quarrying Machinery",
-  "count": 9,
+  "count": 7,
   "items": [
     {
-      "title": "ΑΝΑΚΑΤΑΣΚΕΥΗ ΠΑΙΔΙΚΗΣ ΧΑΡΑΣ ΛΟΦΟΥ ΦΙΝΟΠΟΥΛΟΥ",
-      "referenceNumber": "26REQ018458734",
-      "previousRequestReferenceNumber": "26REQ018458688",
-      "signedDate": "2025-12-09",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T13:42:56.984",
-      "procurementDeliveryDate": "2026-06-01",
+      "title": "Προμήθεια εξοπλισμού  παρακολούθησης, πρόληψης και ανταπόκρισης έναντι φυσικών κινδύνων",
+      "referenceNumber": "26REQ018474602",
+      "previousRequestReferenceNumber": "24REQ015868109",
+      "signedDate": "2026-02-05",
+      "lastUpdateDate": "2025-01-28T00:00:00",
+      "submissionDate": "2026-02-12T18:32:27.509",
+      "procurementDeliveryDate": "2026-02-12",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "1529162",
+      "protocolNumber": "6837",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "801485140",
+      "authorEmail": "sidiropoulos@kalamaria.gr",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090226243",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "100064528",
-        "value": "ΝΕΑ ΜΗΤΡΟΠΟΛΙΤΙΚΗ ΑΤΤΙΚΗ Α Ε   ΑΝΑΠΤΥΞΙΑΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΤΟΠΙΚΗΣ ΑΥΤΟΔΙΟΙΚΗΣΗΣ"
+        "key": "6129",
+        "value": "ΔΗΜΟΣ ΚΑΛΑΜΑΡΙΑΣ"
       },
       "nutsCode": {
-        "key": "EL3",
-        "value": "ATTIKΗ"
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
       },
       "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
+        "key": "9",
+        "value": "ΝΠΔΔ"
       },
       "classificationOfPublicLawOrganization": {
         "key": "2",
         "value": "ΟΤΑ"
       },
-      "aaht": "1007.F01187.0001",
+      "aaht": "1007.Ε80707.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -53,16 +53,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "100064536",
-          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+          "key": "79430",
+          "value": "ΑΥΤΟΤΕΛΕΣ ΤΜΗΜΑ ΠΟΛΙΤΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ"
         },
         "signers": {
-          "key": "100091035",
-          "value": "ΓΕΩΡΓΙΟΣ ΚΟΡΜΑΣ - Διευθύνων Σύμβουλος"
+          "key": "100101715",
+          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΣΕΙΤΑΝΙΔΗΣ - Αναπληρωτής Αντιδήμαρχος"
         }
       },
-      "totalCostWithVAT": 415395.04,
-      "totalCostWithoutVAT": 334996.0,
+      "totalCostWithVAT": 359999.99,
+      "totalCostWithoutVAT": 290322.57,
       "objectDetails": [
         {
           "quantity": 1,
@@ -70,21 +70,57 @@
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 334996,
+          "costWithoutVAT": 54838.7,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Αντικείμενο της σύμβασης  είναι η ανακατασκευή της υπάρχουσας παιδικής χαράς του Λόφου Φινοπούλου (Λόφος Εθνικής Αντίστασης), στο Δήμο Αθηναίων στο πλαίσιο της ανάδειξης, της αναβάθμισης και του εκσυγχρονισμού του πάρκου και βρίσκεται στο ανατολικό τμήμα του Πεδίου του Άρεως. ",
+          "shortDescription": "Προμήθεια ενός (1) καινούργιου ημιφορτηγού οχήματος (τύπου pick up), με αυτόνομο πυροσβεστικό συγκρότημα",
           "cpvs": [
             {
-              "key": "43325000-7",
-              "value": "Εξοπλισμός πάρκων και παιδικής χαράς"
-            },
+              "key": "34144000-8",
+              "value": "Αυτοκίνητα οχήματα ειδικής χρήσης"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 162903.22,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια ενός (1) καινούργιου υδροφόρου οχήματος",
+          "cpvs": [
             {
-              "key": "44112200-0",
-              "value": "Επενδύσεις δαπέδων"
+              "key": "34144212-7",
+              "value": "Υδροφόρες πυροσβεστικών οχημάτων"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 72580.65,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια ενός (1) καινούργιου ερπυστριοφόρου τηλεκατευθυνόμενου μηχανήματος",
+          "cpvs": [
+            {
+              "key": "43325100-8",
+              "value": "Εξοπλισμός συντήρησης υπαίθριων χώρων"
             }
           ]
         }
@@ -97,60 +133,229 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "43325000",
-        "44112200"
+        "34144000",
+        "34144212",
+        "43325100"
       ],
       "cpv_divisions": [
-        "43",
-        "44"
+        "34",
+        "43"
       ],
       "all_domains": [
-        "Construction & Quarrying Machinery",
-        "Construction Materials & Structures"
+        "Transport & Vehicles",
+        "Construction & Quarrying Machinery"
       ],
-      "primary_domain": "Construction Materials & Structures"
+      "primary_domain": "Construction & Quarrying Machinery"
     },
     {
-      "title": "ΑΝΑΚΑΤΑΣΚΕΥΗ ΠΑΙΔΙΚΗΣ ΧΑΡΑΣ ΛΟΦΟΥ ΦΙΝΟΠΟΥΛΟΥ",
-      "referenceNumber": "26REQ018458688",
+      "title": "Δαπάνες αντιμετώπισης απρόβλεπτων και έκτακτων αναγκών",
+      "referenceNumber": "26REQ018473945",
       "previousRequestReferenceNumber": null,
-      "signedDate": "2025-12-03",
-      "lastUpdateDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T13:38:50.643",
-      "procurementDeliveryDate": "2026-06-01",
+      "signedDate": "2026-01-29",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T13:57:45.081",
+      "procurementDeliveryDate": "2026-02-17",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "1508875",
+      "protocolNumber": "2292",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "801485140",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090125604",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": false,
       "organization": {
-        "key": "100064528",
-        "value": "ΝΕΑ ΜΗΤΡΟΠΟΛΙΤΙΚΗ ΑΤΤΙΚΗ Α Ε   ΑΝΑΠΤΥΞΙΑΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΤΟΠΙΚΗΣ ΑΥΤΟΔΙΟΙΚΗΣΗΣ"
+        "key": "6160",
+        "value": "ΔΗΜΟΣ ΚΡΩΠΙΑΣ"
       },
       "nutsCode": {
-        "key": "EL3",
-        "value": "ATTIKΗ"
+        "key": "EL305",
+        "value": "Ανατολική Αττική"
       },
       "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
+        "key": "9",
+        "value": "ΝΠΔΔ"
       },
       "classificationOfPublicLawOrganization": {
         "key": "2",
         "value": "ΟΤΑ"
       },
-      "aaht": "1007.F01187.0001",
+      "aaht": "1007.Ε84904.00018",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "80143",
+          "value": "ΤΕΧΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100068128",
+          "value": "Δανιήλ Παπαρίζος - Α/Α (Αντι Αυτού) Προϊσταμένου Διεύθυνσης"
+        }
+      },
+      "totalCostWithVAT": 37164.03,
+      "totalCostWithoutVAT": 29970.99,
+      "objectDetails": [
+        {
+          "quantity": 30,
+          "type": {
+            "key": "DAY",
+            "value": "Ημέρα"
+          },
+          "costWithoutVAT": 11955.83,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Εργασίες στον Καρελλά",
+          "cpvs": [
+            {
+              "key": "43200000-5",
+              "value": "Μηχανήματα χωματουργικών εργασιών και εκσκαφών και συναφή μέρη"
+            }
+          ]
+        },
+        {
+          "quantity": 27,
+          "type": {
+            "key": "DAY",
+            "value": "Ημέρα"
+          },
+          "costWithoutVAT": 8563.81,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Εργασίες για Αγία Μαρίνα - Κίτσι",
+          "cpvs": [
+            {
+              "key": "43200000-5",
+              "value": "Μηχανήματα χωματουργικών εργασιών και εκσκαφών και συναφή μέρη"
+            }
+          ]
+        },
+        {
+          "quantity": 8,
+          "type": {
+            "key": "DAY",
+            "value": "Ημέρα"
+          },
+          "costWithoutVAT": 6251.35,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Εργασίες στο Κορωπί",
+          "cpvs": [
+            {
+              "key": "43200000-5",
+              "value": "Μηχανήματα χωματουργικών εργασιών και εκσκαφών και συναφή μέρη"
+            }
+          ]
+        },
+        {
+          "quantity": 2,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 3200,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Μεταφορά αδρανών υλικών",
+          "cpvs": [
+            {
+              "key": "43200000-5",
+              "value": "Μηχανήματα χωματουργικών εργασιών και εκσκαφών και συναφή μέρη"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "2",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "mixedContract": true,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "43200000"
+      ],
+      "cpv_divisions": [
+        "43"
+      ],
+      "all_domains": [
+        "Construction & Quarrying Machinery"
+      ],
+      "primary_domain": "Construction & Quarrying Machinery"
+    },
+    {
+      "title": "Προμήθεια υδραυλικών υλικών Δ.Ε. Υδρούσας (σωλήνες, ρακόρ, σύνδεσμοι, οικοδομικά υλικά, φλάντζες,)",
+      "referenceNumber": "26REQ018472870",
+      "previousRequestReferenceNumber": "25REQ017248360",
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T12:40:23.751",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "226",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "998239700",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6037",
+        "value": "ΔΗΜΟΣ ΑΝΔΡΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL422",
+        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E85901.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -161,16 +366,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "100064536",
-          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+          "key": "85348",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
         },
         "signers": {
-          "key": "100091035",
-          "value": "ΓΕΩΡΓΙΟΣ ΚΟΡΜΑΣ - Διευθύνων Σύμβουλος"
+          "key": "100002631",
+          "value": "ΘΕΟΔΟΣΙΟΣ ΣΟΥΣΟΥΔΗΣ - Δήμαρχος"
         }
       },
-      "totalCostWithVAT": 415395.04,
-      "totalCostWithoutVAT": 334996.0,
+      "totalCostWithVAT": 10726.0,
+      "totalCostWithoutVAT": 8650.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -178,37 +383,35 @@
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 334996,
+          "costWithoutVAT": 8650,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Αντικείμενο της σύμβασης  είναι η ανακατασκευή της υπάρχουσας παιδικής χαράς του Λόφου Φινοπούλου (Λόφος Εθνικής Αντίστασης), στο Δήμο Αθηναίων στο πλαίσιο της ανάδειξης, της αναβάθμισης και του εκσυγχρονισμού του πάρκου και βρίσκεται στο ανατολικό τμήμα του Πεδίου του Άρεως. ",
+          "shortDescription": "Η εν λόγω δαπάνη έχει στόχο την προμήθεια υδραυλικών εξαρτημάτων (ρακόρ, συνδέσμων, κλπ) και σωλήνων για την αποκατάσταση βλαβών ύδρευσης της Δ.Ε. Υδρούσας. Οι υδραυλικές εργασίες θα εκτελεστούν από τους υδραυλικούς του Δήμου Άνδρου.",
           "cpvs": [
             {
-              "key": "44112200-0",
-              "value": "Επενδύσεις δαπέδων"
+              "key": "44161200-8",
+              "value": "Σωλήνες ύδρευσης"
             },
             {
-              "key": "43325000-7",
-              "value": "Εξοπλισμός πάρκων και παιδικής χαράς"
+              "key": "43328100-9",
+              "value": "Εξοπλισμός υδραυλικών εγκαταστάσεων"
             }
           ]
         }
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018458734"
-      ],
+      "approvalRefNo": [],
       "noticeRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "44112200",
-        "43325000"
+        "44161200",
+        "43328100"
       ],
       "cpv_divisions": [
         "44",
@@ -221,252 +424,46 @@
       "primary_domain": "Construction Materials & Structures"
     },
     {
-      "title": "AITHMA ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΕΞΟΠΛΙΣΜΟΥ ",
-      "referenceNumber": "26REQ018457181",
-      "previousRequestReferenceNumber": "26REQ018457159",
-      "signedDate": "2026-01-22",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T12:10:07.993",
+      "title": "ΠΡΟΜΗΘΕΙΑ ΚΑΙ ΤΟΠΟΘΕΤΗΣΗ ΕΞΟΠΛΙΣΜΟΥ ΓΙΑ ΤΗΝ ΚΑΤΑΣΚΕΥΗ ΝΕΑΣ ΠΑΙΔΙΚΗΣ ΧΑΡΑΣ ΣΤΗΝ ΠΛΑΖ-ΠΡΟΒΛΗΤΑ ΤΟΥ ΔΗΜ",
+      "referenceNumber": "26REQ018472276",
+      "previousRequestReferenceNumber": "25REQ018251560",
+      "signedDate": "2025-12-23",
+      "lastUpdateDate": "2025-12-30T00:00:00",
+      "submissionDate": "2026-02-12T12:10:08.313",
       "procurementDeliveryDate": "2026-12-31",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "89",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997824337",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "5004",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL63",
-        "value": "Δυτική Ελλάδα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.907.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "78067",
-          "value": "ΓΡΑΦΕΙΟ ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗ ΑΧΑΙΑΣ"
-        },
-        "signers": {
-          "key": "100050108",
-          "value": "ΦΩΚΙΩΝΑΣ ΖΑΪΜΗΣ - Αναπληρωτής Θεματικός Αντιπεριφερειάρχης"
-        }
-      },
-      "totalCostWithVAT": 15000.01,
-      "totalCostWithoutVAT": 12096.78,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 12096.78,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΟΒΡΥΧΙΟ DRONE",
-          "cpvs": [
-            {
-              "key": "43135000-8",
-              "value": "Υποθαλάσσιος εξοπλισμός"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [
-        "26PROC018457300"
-      ],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "43135000"
-      ],
-      "cpv_divisions": [
-        "43"
-      ],
-      "all_domains": [
-        "Construction & Quarrying Machinery"
-      ],
-      "primary_domain": "Construction & Quarrying Machinery"
-    },
-    {
-      "title": "AITHMA ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΕΞΟΠΛΙΣΜΟΥ ",
-      "referenceNumber": "26REQ018457159",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-01-22",
-      "lastUpdateDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T12:09:09.006",
-      "procurementDeliveryDate": "2026-12-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "89",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997824337",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "5004",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL63",
-        "value": "Δυτική Ελλάδα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.907.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "78067",
-          "value": "ΓΡΑΦΕΙΟ ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗ ΑΧΑΙΑΣ"
-        },
-        "signers": {
-          "key": "100050108",
-          "value": "ΦΩΚΙΩΝΑΣ ΖΑΪΜΗΣ - Αναπληρωτής Θεματικός Αντιπεριφερειάρχης"
-        }
-      },
-      "totalCostWithVAT": 15000.01,
-      "totalCostWithoutVAT": 12096.78,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 12096.78,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΟΒΡΥΧΙΟ DRONE",
-          "cpvs": [
-            {
-              "key": "43135000-8",
-              "value": "Υποθαλάσσιος εξοπλισμός"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018457181"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "43135000"
-      ],
-      "cpv_divisions": [
-        "43"
-      ],
-      "all_domains": [
-        "Construction & Quarrying Machinery"
-      ],
-      "primary_domain": "Construction & Quarrying Machinery"
-    },
-    {
-      "title": "ΠΡΟΣΚΛΗΣΗ ΥΠΟΒΟΛΗΣ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΑΝΤΑΛΛΑΚΤΙΚΩΝ ΓΙΑ ΜΟΝΑΔΕΣ ΕΠΕΞΕΡΓΑΣΙΑΣ ΝΕΡΟΥ",
-      "referenceNumber": "26REQ018456992",
-      "previousRequestReferenceNumber": "26REQ018456966",
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T12:01:41.403",
-      "procurementDeliveryDate": "2026-03-13",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "2868",
+      "protocolNumber": "33868",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "999360466",
+      "organizationVatNumber": "099077446",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "99221917",
-        "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΚΕΡΚΥΡΑΣ"
+        "key": "6246",
+        "value": "ΔΗΜΟΣ ΠΕΡΑΜΑΤΟΣ"
       },
       "nutsCode": {
-        "key": "EL622",
-        "value": "Κέρκυρα"
+        "key": "EL307",
+        "value": "Πειραιάς, Νήσοι"
       },
       "typeOfContractingAuthority": {
         "key": "9",
         "value": "ΝΠΔΔ"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
+        "key": "2",
+        "value": "ΟΤΑ"
       },
-      "aaht": "1015.Ε00230.0001",
+      "aaht": "1007.Ε85105.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -477,38 +474,134 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "73783",
-          "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΚΕΡΚΥΡΑΣ"
+          "key": "100086684",
+          "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΤΡΟΠΗ"
         },
         "signers": {
-          "key": "100079068",
-          "value": "ΑΔΑΜΑΝΤΙΑ ΕΓΓΛΕΖΟΠΟΥΛΟΥ - Διοικητής"
+          "key": "100084267",
+          "value": "ΙΩΑΝΝΗΣ ΛΑΓΟΥΔΑΚΟΣ - Δήμαρχος"
         }
       },
-      "totalCostWithVAT": 14288.57,
-      "totalCostWithoutVAT": 11523.04,
+      "totalCostWithVAT": 449000.16,
+      "totalCostWithoutVAT": 363444.76,
       "objectDetails": [
         {
-          "quantity": 1,
+          "quantity": 244,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 11523.04,
+          "costWithoutVAT": 100996,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΡΟΣΚΛΗΣΗ ΥΠΟΒΟΛΗΣ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΑΝΤΑΛΛΑΚΤΙΚΩΝ ΓΙΑ ΜΟΝΑΔΕΣ ΕΠΕΞΕΡΓΑΣΙΑΣ ΝΕΡΟΥ",
+          "shortDescription": "ΑΣΤΙΚΟΣ ΕΞΟΠΛΙΣΜΟΣ",
           "cpvs": [
             {
-              "key": "43328100-9",
-              "value": "Εξοπλισμός υδραυλικών εγκαταστάσεων"
-            },
+              "key": "34928400-2",
+              "value": "Αστικός εξοπλισμός"
+            }
+          ]
+        },
+        {
+          "quantity": 384,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 164070,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΞΟΠΛΙΣΜΟΣ ΠΑΙΔΙΚΗΣ ΧΑΡΑΣ",
+          "cpvs": [
             {
-              "key": "42122000-0",
-              "value": "Αντλίες"
+              "key": "37535200-9",
+              "value": "Εξοπλισμός παιδικής χαράς"
+            }
+          ]
+        },
+        {
+          "quantity": 791,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2469.76,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΞΟΠΛΙΣΜΟΣ ΑΡΔΕΥΣΗΣ",
+          "cpvs": [
+            {
+              "key": "43323000-3",
+              "value": "Εξοπλισμός άρδευσης"
+            }
+          ]
+        },
+        {
+          "quantity": 301,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 4515,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΧΩΜΑ",
+          "cpvs": [
+            {
+              "key": "14212400-4",
+              "value": "Χώμα"
+            }
+          ]
+        },
+        {
+          "quantity": 394,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 15194,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΦΥΤΑ",
+          "cpvs": [
+            {
+              "key": "03451000-6",
+              "value": "Φυτά"
+            }
+          ]
+        },
+        {
+          "quantity": 48,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 76200,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΦΩΤΙΣΤΙΚΑ",
+          "cpvs": [
+            {
+              "key": "31527200-8",
+              "value": "Φωτιστικά εξωτερικών χώρων"
             }
           ]
         }
@@ -516,381 +609,77 @@
       "additionalContractTypes": null,
       "mixedContract": false,
       "approvalRefNo": [],
-      "noticeRefNo": [
-        "26PROC018457069"
-      ],
+      "noticeRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "99221917",
-        "43328100",
-        "42122000"
+        "34928400",
+        "37535200",
+        "43323000",
+        "14212400",
+        "03451000",
+        "31527200"
       ],
       "cpv_divisions": [
+        "34",
+        "37",
         "43",
-        "42"
+        "14",
+        "03",
+        "31"
       ],
       "all_domains": [
+        "Transport & Vehicles",
+        "Sports, Toys & Recreation Goods",
         "Construction & Quarrying Machinery",
-        "Industrial Machinery"
+        "Metals & Mining",
+        "Agriculture & Forestry",
+        "Electrical Equipment & Lighting"
       ],
       "primary_domain": "Construction & Quarrying Machinery"
     },
     {
-      "title": "ΠΡΟΣΚΛΗΣΗ ΥΠΟΒΟΛΗΣ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΑΝΤΑΛΛΑΚΤΙΚΩΝ ΓΙΑ ΜΟΝΑΔΕΣ ΕΠΕΞΕΡΓΑΣΙΑΣ ΝΕΡΟΥ",
-      "referenceNumber": "26REQ018456966",
+      "title": "«Προμήθειες  Αναλωσίμων Συντήρησης των κτηρίων του ΟΒΙ σε Μαρούσι-Γκύζη-Θεσσαλονίκη»",
+      "referenceNumber": "26REQ018471542",
       "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T12:00:20.682",
-      "procurementDeliveryDate": "2026-03-13",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "2868",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "999360466",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99221917",
-        "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΚΕΡΚΥΡΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL622",
-        "value": "Κέρκυρα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1015.Ε00230.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "73783",
-          "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΚΕΡΚΥΡΑΣ"
-        },
-        "signers": {
-          "key": "100079068",
-          "value": "ΑΔΑΜΑΝΤΙΑ ΕΓΓΛΕΖΟΠΟΥΛΟΥ - Διοικητής"
-        }
-      },
-      "totalCostWithVAT": 14288.57,
-      "totalCostWithoutVAT": 11523.04,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 11523.04,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΣΚΛΗΣΗ ΥΠΟΒΟΛΗΣ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΑΝΤΑΛΛΑΚΤΙΚΩΝ ΓΙΑ ΜΟΝΑΔΕΣ ΕΠΕΞΕΡΓΑΣΙΑΣ ΝΕΡΟΥ",
-          "cpvs": [
-            {
-              "key": "42122000-0",
-              "value": "Αντλίες"
-            },
-            {
-              "key": "43328100-9",
-              "value": "Εξοπλισμός υδραυλικών εγκαταστάσεων"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018456992"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99221917",
-        "42122000",
-        "43328100"
-      ],
-      "cpv_divisions": [
-        "42",
-        "43"
-      ],
-      "all_domains": [
-        "Industrial Machinery",
-        "Construction & Quarrying Machinery"
-      ],
-      "primary_domain": "Construction & Quarrying Machinery"
-    },
-    {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΣΥΝΤΗΡΗΣΗΣ ΕΓΚΑΤΑΣΤΑΣΕΩΝ ΑΡΔΕΥΣΗΣ  ΔΕ ΕΞΑΠΛΑΤΑΝΟΥ",
-      "referenceNumber": "26REQ018455106",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-09",
+      "signedDate": "2026-02-11",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T10:08:45.207",
-      "procurementDeliveryDate": "2026-02-10",
+      "submissionDate": "2026-02-12T11:34:42.49",
+      "procurementDeliveryDate": "2026-02-23",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "07/2026",
+      "protocolNumber": "ΑΓΔ: 12/ΓΔ: 523/2026",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997600077",
+      "organizationVatNumber": "090072968",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": false,
       "organization": {
-        "key": "6023",
-        "value": "ΔΗΜΟΣ ΑΛΜΩΠΙΑΣ"
+        "key": "100025743",
+        "value": "ΟΡΓΑΝΙΣΜΟΣ ΒΙΟΜΗΧΑΝΙΚΗΣ ΙΔΙΟΚΤΗΣΙΑΣ"
       },
       "nutsCode": {
-        "key": "EL524",
-        "value": "Πέλλα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.E81002.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100015144",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ,ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΠΟΛΕΟΔΟΜΙΑΣ"
-        },
-        "signers": {
-          "key": "125359",
-          "value": "ΣΑΠΦΩ ΠΑΠΑΔΟΠΟΥΛΟΥ - Προϊστάμενος Διεύθυνσης"
-        }
-      },
-      "totalCostWithVAT": 37199.88,
-      "totalCostWithoutVAT": 29999.9,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 29999.9,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΣΥΝΤΗΡΗΣΗΣ ΕΓΚΑΤΑΣΤΑΣΕΩΝ ΑΡΔΕΥΣΗΣ  ΔΕ ΕΞΑΠΛΑΤΑΝΟΥ ",
-          "cpvs": [
-            {
-              "key": "43323000-3",
-              "value": "Εξοπλισμός άρδευσης"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "43323000"
-      ],
-      "cpv_divisions": [
-        "43"
-      ],
-      "all_domains": [
-        "Construction & Quarrying Machinery"
-      ],
-      "primary_domain": "Construction & Quarrying Machinery"
-    },
-    {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΣΥΝΤΗΡΗΣΗΣ ΕΓΚΑΤΑΣΤΑΣΕΩΝ ΑΡΔΕΥΣΗΣ ΔΕ ΑΡΙΔΑΙΑΣ",
-      "referenceNumber": "26REQ018454958",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-09",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T09:59:20.658",
-      "procurementDeliveryDate": "2026-02-10",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "06/2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997600077",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "6023",
-        "value": "ΔΗΜΟΣ ΑΛΜΩΠΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL524",
-        "value": "Πέλλα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.E81002.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100015144",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ,ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΠΟΛΕΟΔΟΜΙΑΣ"
-        },
-        "signers": {
-          "key": "125359",
-          "value": "ΣΑΠΦΩ ΠΑΠΑΔΟΠΟΥΛΟΥ - Προϊστάμενος Διεύθυνσης"
-        }
-      },
-      "totalCostWithVAT": 37199.88,
-      "totalCostWithoutVAT": 29999.9,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "AG-001",
-            "value": "Μελέτη"
-          },
-          "costWithoutVAT": 29999.9,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΣΥΝΤΗΡΗΣΗΣ ΕΓΚΑΤΑΣΤΑΣΕΩΝ ΑΡΔΕΥΣΗΣ ΔΕ ΑΡΙΔΑΙΑΣ",
-          "cpvs": [
-            {
-              "key": "43323000-3",
-              "value": "Εξοπλισμός άρδευσης"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "43323000"
-      ],
-      "cpv_divisions": [
-        "43"
-      ],
-      "all_domains": [
-        "Construction & Quarrying Machinery"
-      ],
-      "primary_domain": "Construction & Quarrying Machinery"
-    },
-    {
-      "title": "ΠΡΩΤ. ΑΙΤΗΜΑ - ΠΡΟΜΗΘΕΙΑ ΥΠΟΒΡΥΧΙΑΣ ΑΝΤΛΙΑΣ ΓΙΑ ΓΕΩΤΡΗΣΗ Τ.Κ. ΑΧΛΑΔΙΝΗΣ",
-      "referenceNumber": "26REQ018454749",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-09",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T09:45:36.87",
-      "procurementDeliveryDate": "2026-03-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "247",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "099736630",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "52469",
-        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΑΡΧΑΙΑΣ ΟΛΥΜΠΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL633",
-        "value": "Ηλεία"
+        "key": "EL301",
+        "value": "Βόρειος Τομέας Αθηνών"
       },
       "typeOfContractingAuthority": {
         "key": "10",
         "value": "ΝΠΙΔ"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
       },
-      "aaht": "1007.F00265.0001",
+      "aaht": "1036.Ε00342.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -901,34 +690,74 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "85382",
-          "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΑΡΧΑΙΑΣ ΟΛΥΜΠΙΑΣ/ΔΙΟΙΚΗΤΙΚΕΣ ΚΑΙ ΟΙΚΟΝΟΜΙΚΕΣ ΥΠΗΡΕΣΙΕΣ"
+          "key": "100028218",
+          "value": "ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
         },
         "signers": {
-          "key": "100014693",
-          "value": "ΜΑΡΙΑ ΠΑΠΑΔΟΠΟΥΛΟΥ - Προϊστάμενος Διεύθυνσης"
+          "key": "100051834",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΚΑΝΕΛΛΟΠΟΥΛΟΣ - Γενικός Διευθυντής"
         }
       },
-      "totalCostWithVAT": 8050.01,
-      "totalCostWithoutVAT": 6491.94,
+      "totalCostWithVAT": 6200.0,
+      "totalCostWithoutVAT": 5000.0,
       "objectDetails": [
         {
-          "quantity": 1,
+          "quantity": 100,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 6491.94,
+          "costWithoutVAT": 5000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΥΠΟΒΡΥΧΙΑΣ ΑΝΤΛΙΑΣ",
+          "shortDescription": "«Προμήθειες  Αναλωσίμων Συντήρησης των κτηρίων του ΟΒΙ σε Μαρούσι-Γκύζη-Θεσσαλονίκη».",
           "cpvs": [
             {
-              "key": "43134100-2",
-              "value": "Βυθιζόμενες αντλίες"
+              "key": "43328100-9",
+              "value": "Εξοπλισμός υδραυλικών εγκαταστάσεων"
+            },
+            {
+              "key": "44520000-1",
+              "value": "Κλειδαριές"
+            },
+            {
+              "key": "34928471-0",
+              "value": "Εξοπλισμός πινακίδων σήμανσης"
+            },
+            {
+              "key": "31158100-9",
+              "value": "Φορτιστές μπαταριών"
+            },
+            {
+              "key": "31440000-2",
+              "value": "Μπαταρίες"
+            },
+            {
+              "key": "31500000-1",
+              "value": "Φωτιστικός εξοπλισμός και ηλεκτρικοί λαμπτήρες"
+            },
+            {
+              "key": "09134100-8",
+              "value": "Πετρέλαιο ντίζελ"
+            },
+            {
+              "key": "39515430-8",
+              "value": "Περσίδες"
+            },
+            {
+              "key": "31156000-4",
+              "value": "Διακοπτόμενα τροφοδοτικά ρεύματος"
+            },
+            {
+              "key": "31161000-2",
+              "value": "Μέρη ηλεκτρικών κινητήρων και γεννητριών"
+            },
+            {
+              "key": "31200000-8",
+              "value": "Συσκευές διανομής και ελέγχου ηλεκτρικού ρεύματος"
             }
           ]
         }
@@ -941,7 +770,229 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "43134100"
+        "43328100",
+        "44520000",
+        "34928471",
+        "31158100",
+        "31440000",
+        "31500000",
+        "09134100",
+        "39515430",
+        "31156000",
+        "31161000",
+        "31200000"
+      ],
+      "cpv_divisions": [
+        "43",
+        "44",
+        "34",
+        "31",
+        "09",
+        "39"
+      ],
+      "all_domains": [
+        "Construction & Quarrying Machinery",
+        "Construction Materials & Structures",
+        "Transport & Vehicles",
+        "Electrical Equipment & Lighting",
+        "Energy & Fuels",
+        "Furniture & Cleaning Products"
+      ],
+      "primary_domain": "Construction Materials & Structures"
+    },
+    {
+      "title": "Έγκριση Πρωτογενούς για προμήθεια «Εξοπλισμοί πολιτικής προστασίας στο Δήμο Φαρκαδόνας»",
+      "referenceNumber": "26REQ018470895",
+      "previousRequestReferenceNumber": "26REQ018463633",
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T11:02:59.22",
+      "procurementDeliveryDate": "2026-04-29",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "1729",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "998698756",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6305",
+        "value": "ΔΗΜΟΣ ΦΑΡΚΑΔΟΝΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL611",
+        "value": "Καρδίτσα, Τρίκαλα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E82604.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "83720",
+          "value": "ΤΜΗΜΑ ΟΙΚΟΝΟΜΙΚΟ"
+        },
+        "signers": {
+          "key": "100049589",
+          "value": "ΣΠΥΡΙΔΩΝ ΑΓΝΑΝΤΗΣ - Αντιδήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 250000.0,
+      "totalCostWithoutVAT": 201612.9,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 201612.9,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια ενός (1) καινούργιου και αμεταχείριστου διαμορφωτή γαιών (grader) ",
+          "cpvs": [
+            {
+              "key": "43312100-4",
+              "value": "Ισοπεδωτικά μηχανήματα"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "43312100"
+      ],
+      "cpv_divisions": [
+        "43"
+      ],
+      "all_domains": [
+        "Construction & Quarrying Machinery"
+      ],
+      "primary_domain": "Construction & Quarrying Machinery"
+    },
+    {
+      "title": "Πρωτογενές αίτημα για προμήθεια «Εξοπλισμοί πολιτικής προστασίας στο Δήμο Φαρκαδόνας»",
+      "referenceNumber": "26REQ018470546",
+      "previousRequestReferenceNumber": "26REQ018463633",
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": "2026-02-12T10:57:32.774",
+      "submissionDate": "2026-02-12T10:42:23.191",
+      "procurementDeliveryDate": "2026-04-29",
+      "cancellationDate": "2026-02-12T10:57:32.774",
+      "cancelled": true,
+      "cancellationReason": "Λανθασμένος αριθμός πρωτοκόλλου\n",
+      "cancellationADA": null,
+      "cancellationType": "Ακύρωση λόγω λανθασμένης καταχώρησης",
+      "protocolNumber": "1717",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "998698756",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6305",
+        "value": "ΔΗΜΟΣ ΦΑΡΚΑΔΟΝΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL611",
+        "value": "Καρδίτσα, Τρίκαλα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E82604.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100055440",
+          "value": "ΤΜΗΜΑ ΚΑΘΑΡΙΟΤΗΤΑΣ, ΗΛΕΚΤΡΟΦΩΤΙΣΜΟΥ ΚΑΙ ΠΡΑΣΙΝΟΥ"
+        },
+        "signers": {
+          "key": "100008953",
+          "value": "ΕΥΔΟΚΙΑ ΠΑΠΑΙΩΑΝΝΟΥ - Αναπληρωτης Προϊστάμενος Τμήματος"
+        }
+      },
+      "totalCostWithVAT": 250000.0,
+      "totalCostWithoutVAT": 201612.9,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 201612.9,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια ενός (1) καινούργιου και αμεταχείριστου διαμορφωτή γαιών (grader) ",
+          "cpvs": [
+            {
+              "key": "43312100-4",
+              "value": "Ισοπεδωτικά μηχανήματα"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "43312100"
       ],
       "cpv_divisions": [
         "43"

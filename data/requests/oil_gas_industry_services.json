@@ -1,48 +1,48 @@
 {
   "domain": "Oil & Gas Industry Services",
-  "count": 1,
+  "count": 2,
   "items": [
     {
-      "title": "Ανόρυξη υδρευτικών γεωτρήσεων στις Τ.Κ. Φλαμουριάς, Μαργαρίτας, Αγίου Αθανασίου",
-      "referenceNumber": "26REQ018458303",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T13:11:17.756",
-      "procurementDeliveryDate": "2026-02-11",
+      "title": "ΑΞΙΟΠΟΙΗΣΗ ΥΔΑΤΙΚΩΝ ΠΟΡΩΝ ΜΕΣΩ ΑΝΟΡΥΞΗΣΝΕΩΝ ΓΕΩΤΡΗΣΕΩΝ ΔΗΜΟΥ ΑΝΔΡΟΥ",
+      "referenceNumber": "26REQ018471235",
+      "previousRequestReferenceNumber": "22REQ010264594",
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T11:19:25.522",
+      "procurementDeliveryDate": "2026-12-31",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "122",
+      "protocolNumber": "222",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "099247138",
+      "authorEmail": "ty@andros.gr",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "998239700",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
-      "approved": false,
+      "approved": true,
       "organization": {
-        "key": "50610",
-        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ (Δ.Ε.Υ.Α.) ΕΔΕΣΣΑΣ"
+        "key": "6037",
+        "value": "ΔΗΜΟΣ ΑΝΔΡΟΥ"
       },
       "nutsCode": {
-        "key": "EL524",
-        "value": "Πέλλα"
+        "key": "EL422",
+        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
       },
       "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
+        "key": "9",
+        "value": "ΝΠΔΔ"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
+        "key": "2",
+        "value": "ΟΤΑ"
       },
-      "aaht": "1007.F00364.0001",
+      "aaht": "1007.E85901.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -53,16 +53,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "80123",
-          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+          "key": "85348",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
         },
         "signers": {
-          "key": "100102197",
-          "value": "ΘΕΟΔΩΡΟΣ ΑΠΟΣΤΟΛΟΥ - Πρόεδρος Δ.Σ."
+          "key": "100002631",
+          "value": "ΘΕΟΔΟΣΙΟΣ ΣΟΥΣΟΥΔΗΣ - Δήμαρχος"
         }
       },
-      "totalCostWithVAT": 97152.91,
-      "totalCostWithoutVAT": 78349.12,
+      "totalCostWithVAT": 26536.19,
+      "totalCostWithoutVAT": 21400.15,
       "objectDetails": [
         {
           "quantity": 1,
@@ -70,13 +70,114 @@
             "key": "Erg",
             "value": "Έργο"
           },
-          "costWithoutVAT": 78349.12,
+          "costWithoutVAT": 21400.15,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Ανόρυξη υδρευτικών γεωτρήσεων στις Τ.Κ. Φλαμουριάς, Μαργαρίτας, Αγίου Αθανασίου, σε συνέχεια της 1191/20-10-2025 σύμβασης",
+          "shortDescription": "Με  το  παρόν έργο  προβλέπεται  να  εκτελεσθούν εργασίες,  για  την ανόρυξη 13 νέων υδρευτικών γεωτρήσεων στις Δ.Ε. Άνδρου, Δ.Ε, Υδρούσας και Δ.Ε Κορθίου, του Δήμου Άνδρου στις θέσεις: • Μπαλαίοι Άρνης  • Ελληνικά-Αϊπάτια • Αϊπάτια  • Μπόσκιζα - Κάτω Άγιος Πέτρος • Κάτω Άγιος Πέτρος  • Χάρακας • Σχόλη  • Στιβάρι-Μπατσί • Λάμυρα • Τσιγγανοχώρι.  • Πρόβαλμα  • Ζαγανιάρι • Μπατσί ",
+          "cpvs": [
+            {
+              "key": "76340000-8",
+              "value": "Σωληνωτές γεωτρήσεις"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "76340000"
+      ],
+      "cpv_divisions": [
+        "76"
+      ],
+      "all_domains": [
+        "Oil & Gas Industry Services"
+      ],
+      "primary_domain": "Oil & Gas Industry Services"
+    },
+    {
+      "title": "ΑΞΙΟΠΟΙΗΣΗ ΥΔΑΤΙΚΩΝ ΠΟΡΩΝ ΜΕΣΩ ΑΝΟΡΥΞΗΣΝΕΩΝ ΓΕΩΤΡΗΣΕΩΝ ΔΗΜΟΥ ΑΝΔΡΟΥ",
+      "referenceNumber": "26REQ018471123",
+      "previousRequestReferenceNumber": "22REQ010264594",
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": "2025-09-01T00:00:00",
+      "submissionDate": "2026-02-12T11:13:40.631",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "223",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": "ty@andros.gr",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "998239700",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6037",
+        "value": "ΔΗΜΟΣ ΑΝΔΡΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL422",
+        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E85901.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "10",
+            "value": "Έργα"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "85348",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100002631",
+          "value": "ΘΕΟΔΟΣΙΟΣ ΣΟΥΣΟΥΔΗΣ - Δήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 15216.99,
+      "totalCostWithoutVAT": 12271.77,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "Erg",
+            "value": "Έργο"
+          },
+          "costWithoutVAT": 12271.77,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Με  το  παρόν έργο  προβλέπεται  να  εκτελεσθούν εργασίες,  για  την ανόρυξη 13 νέων υδρευτικών γεωτρήσεων στις Δ.Ε. Άνδρου, Δ.Ε, Υδρούσας και Δ.Ε Κορθίου, του Δήμου Άνδρου στις θέσεις: • Μπαλαίοι Άρνης  • Ελληνικά-Αϊπάτια • Αϊπάτια  • Μπόσκιζα - Κάτω Άγιος Πέτρος • Κάτω Άγιος Πέτρος  • Χάρακας • Σχόλη  • Στιβάρι-Μπατσί • Λάμυρα • Τσιγγανοχώρι.  • Πρόβαλμα  • Ζαγανιάρι • Μπατσί ",
           "cpvs": [
             {
               "key": "76340000-8",

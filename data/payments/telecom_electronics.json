@@ -1,13 +1,13 @@
 {
   "domain": "Telecom & Electronics",
-  "count": 11,
+  "count": 21,
   "items": [
     {
-      "title": "ΧΕΠ51Α/2026-Εργασία εγκατάστασης-διασύνδεσης αναμεταδότη - Ολοκλήρωση της υπ΄αρ.15210/2025",
-      "referenceNumber": "26PAY018459690",
+      "title": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ",
+      "referenceNumber": "26PAY018473163",
       "auctionReferenceNumber": null,
-      "signedDate": "2025-07-21T00:00:00",
-      "submissionDate": "2026-02-10T14:53:08.358",
+      "signedDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T12:58:58.258",
       "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
@@ -18,409 +18,149 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007.Ε87406.0001",
-      "paymentCommitmentCode": "530",
-      "organizationVatNumber": "997570112",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "contractValue": null,
-      "organization": {
-        "key": "6250",
-        "value": "ΔΗΜΟΣ ΠΛΑΤΑΝΙΑ"
-      },
-      "nutsCode": {
-        "key": "EL434",
-        "value": "Χανιά"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": null,
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100010585",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "112859",
-          "value": "ΓΕΩΡΓΙΟΣ ΜΠΙΡΑΚΗΣ - Προϊστάμενος Τμήματος"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": "065.2410119001",
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
-      },
-      "nutsCodes": [],
-      "totalCostWithVAT": 1178.0,
-      "totalCostWithoutVAT": 950.0,
-      "objectDetails": [
-        {
-          "quantity": 2,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 950,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Αφορά στην προμήθεια και εγκατάσταση βελτιωτικό εξοπλισμό ασύρματης επικοινωνίας το οποίο θα αποτελείται από έναν (1) αναλογικό - ψηφιακό αναμεταδότης VHF, και  ένα (1) φορητό ψηφιακό πομποδέκτη. Η προμήθεια θα προσφέρει αυξημένη εγγύηση  ασφάλειας στους δημότες και τους  επισκέπτες του Δήμου, καλύπτοντας τις ανάγκες της Πολιτικής Προστασίας του Δήμου Πλατανιά.",
-          "cpvs": [
-            {
-              "key": "32344210-1",
-              "value": "Εξοπλισμός ασύρματης επικοινωνίας"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΧΑΝΙΑ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "999818615",
-          "greekVatNo": false,
-          "name": "ΠΟΣΕΙΔΩΝ ΗΛΕΚΤΡΟΝΙΚΗ Α.Ε.",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "auctionRefNo": null,
-      "contractRefNo": "25SYMV017341753",
-      "cpv_codes_extracted": [
-        "32344210"
-      ],
-      "cpv_divisions": [
-        "32"
-      ],
-      "all_domains": [
-        "Telecom & Electronics"
-      ],
-      "primary_domain": "Telecom & Electronics"
-    },
-    {
-      "title": "Εντολή πληρωμής οπτικοακουστική κάλυψη Τατόι ΤΑΑ 1",
-      "referenceNumber": "26PAY018459357",
-      "auctionReferenceNumber": null,
-      "signedDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T14:24:46.98",
-      "lastUpdateDate": null,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancelled": false,
-      "credit": false,
-      "paymentRelatedAda": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1022.0000000000.0025",
-      "paymentCommitmentCode": "6ΚΩΕ46ΜΤΛΡ-ΙΘΨ",
-      "organizationVatNumber": "090283815",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "contractValue": null,
-      "organization": {
-        "key": "100081912",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΠΟΛΙΤΙΣΜΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": null,
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "70473",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΣΥΝΤΗΡΗΣΗΣ ΑΡΧΑΙΩΝ ΚΑΙ ΝΕΩΤΕΡΩΝ ΜΝΗΜΕΙΩΝ"
-        },
-        "signers": {
-          "key": "100075203",
-          "value": "ΛΕΟΝΑΤΗΣ ΚΙΤΣΟΣ - Αναπληρωτής Προϊστάμενος"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": "ΤΑ014",
-        "publicFundingRefNum": "2021ΤΑ01400006",
-        "publicFundingRefOps": "5158783",
-        "cofundProgramRef": "5158783",
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
-      },
-      "nutsCodes": [],
-      "totalCostWithVAT": 1536.36,
-      "totalCostWithoutVAT": 1239.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1239,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΟΠΤΙΚΟΑΚΟΥΣΤΙΚΗ ΚΑΛΥΨΗ ΗΜΕΡΙΔΑΣ",
-          "cpvs": [
-            {
-              "key": "32320000-2",
-              "value": "Τηλεοπτικός και οπτικοακουστικός εξοπλισμός"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΑΘΗΝΑ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "101854307",
-          "greekVatNo": false,
-          "name": "ΚΑΡΤΣΟΓΛΟΥ ΣΤΑΥΡ. ΑΘΑΝΑΣΙΟΣ ",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "auctionRefNo": null,
-      "contractRefNo": "26SYMV018345554",
-      "cpv_codes_extracted": [
-        "32320000"
-      ],
-      "cpv_divisions": [
-        "32"
-      ],
-      "all_domains": [
-        "Telecom & Electronics"
-      ],
-      "primary_domain": "Telecom & Electronics"
-    },
-    {
-      "title": "Εξόφληση λογαριασμών κινητής τηλεφωνίας ( άρθρο 160 Ν 3463/2006)",
-      "referenceNumber": "26PAY018458911",
-      "auctionReferenceNumber": null,
-      "signedDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T13:55:28.459",
-      "lastUpdateDate": null,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancelled": false,
-      "credit": false,
-      "paymentRelatedAda": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1007.Ε80714.0001",
-      "paymentCommitmentCode": "6ΥΧΚΩΗΖ-ΧΧΜ",
-      "organizationVatNumber": "997652001",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "contractValue": null,
-      "organization": {
-        "key": "6323",
-        "value": "ΔΗΜΟΣ ΩΡΑΙΟΚΑΣΤΡΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": null,
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100062820",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "100065827",
-          "value": "ΣΑΡΑΝΤΗΣ ΤΥΠΟΥ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": "000.2420102001",
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
-      },
-      "nutsCodes": [],
-      "totalCostWithVAT": 794.02,
-      "totalCostWithoutVAT": 640.34,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 640.34,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Εξόφληση λογαριασμών κινητής τηλεφωνίας ( άρθρο 160 Ν 3463/2006)",
-          "cpvs": [
-            {
-              "key": "32250000-0",
-              "value": "Κινητά τηλέφωνα"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΩΡΑΙΟΚΑΣΤΡΟ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "094019245",
-          "greekVatNo": false,
-          "name": "COSMOTE",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "auctionRefNo": null,
-      "contractRefNo": null,
-      "cpv_codes_extracted": [
-        "32250000"
-      ],
-      "cpv_divisions": [
-        "32"
-      ],
-      "all_domains": [
-        "Telecom & Electronics"
-      ],
-      "primary_domain": "Telecom & Electronics"
-    },
-    {
-      "title": "ΤΗΛΕΟΡΑΣΗ 32''",
-      "referenceNumber": "26PAY018457987",
-      "auctionReferenceNumber": null,
-      "signedDate": "2025-11-04T00:00:00",
-      "submissionDate": "2026-02-10T12:54:39.809",
-      "lastUpdateDate": null,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancelled": false,
-      "credit": false,
-      "paymentRelatedAda": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1011.2040000000.0005",
-      "paymentCommitmentCode": "ΨΞ086-32Β",
-      "organizationVatNumber": "090153025",
+      "aaht": "1007.E84701.0001",
+      "paymentCommitmentCode": "ΨΓ9ΑΩΞ2-ΥΟΛ",
+      "organizationVatNumber": "090094082",
       "greekOrganizationVatNumber": true,
       "commitmentNo": null,
       "contractValue": null,
       "organization": {
-        "key": "6",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ"
+        "key": "6247",
+        "value": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ"
       },
       "nutsCode": {
-        "key": "EL641",
-        "value": "Βοιωτία"
+        "key": "EL302",
+        "value": "Δυτικός Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78048",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "109159",
+          "value": "ΔΗΜΗΤΡΗΣ ΧΙΩΤΗΣ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "055.3120989551"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 14445.98,
+      "totalCostWithoutVAT": 11649.98,
+      "objectDetails": [
+        {
+          "quantity": 11,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 11649.98,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΣΥΜΦΩΝΗΤΙΚΟ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΗΧΗΤΙΚΟΥ ΕΞΟΠΛΙΣΜΟΥ",
+          "cpvs": [
+            {
+              "key": "32342410-9",
+              "value": "Εξοπλισμός ήχου"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΠΕΡΙΣΤΕΡΙ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "166109607",
+          "greekVatNo": false,
+          "name": "ΑΝΑΣΤΑΣΟΠΟΥΛΟ ΓΕΩΡΓΙΟ του Νικολάου “TOP SOUND”",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV018290379",
+      "cpv_codes_extracted": [
+        "32342410"
+      ],
+      "cpv_divisions": [
+        "32"
+      ],
+      "all_domains": [
+        "Telecom & Electronics"
+      ],
+      "primary_domain": "Telecom & Electronics"
+    },
+    {
+      "title": "ΕΝΤΟΛΗ ΠΛΗΡΩΜΗΣ 81255 1032/8-1-2026",
+      "referenceNumber": "26PAY018472887",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-01-08T00:00:00",
+      "submissionDate": "2026-02-12T12:41:06.519",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1020.E00677.0001",
+      "paymentCommitmentCode": "Ψ9ΙΔ469Β7Κ-46Ξ",
+      "organizationVatNumber": "999562838",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "99206912",
+        "value": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL531",
+        "value": "Γρεβενά, Κοζάνη"
       },
       "centralizedMarkets": [
         {
@@ -440,323 +180,63 @@
         "value": "Κεντρική Κυβέρνηση"
       },
       "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100028042",
-          "value": "ΓΕΑ/ΕΛΕΓΚΤΗΡΙΟ ΔΑΠΑΝΩΝ ΑΕΡΟΠΟΡΙΑΣ (ΕΛΔΑ) ΛΑΡΙΣΑΣ"
-        },
-        "signers": {
-          "key": "100093645",
-          "value": "ΑΠΟΣΤΟΛΟΣ ΜΕΚΚΑΣ - Διευθυντής"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2410989899"
-      },
-      "nutsCodes": [],
-      "totalCostWithVAT": 4264.66,
-      "totalCostWithoutVAT": 3439.24,
-      "objectDetails": [
-        {
-          "quantity": 2,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 3439.24,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΤΗΛΕΟΡΑΣΗ 32''",
-          "cpvs": [
-            {
-              "key": "32000000-3",
-              "value": "Εξοπλισμός ραδιοφωνίας"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΤΑΝΑΓΡΑ ΒΟΙΩΤΙΑΣ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "128715092",
-          "greekVatNo": true,
-          "name": "ΠΑΠΑΚΥΡΙΑΚΟΥ ΕΥΑΓΓΕΛΙΑ EURONICS",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "auctionRefNo": null,
-      "contractRefNo": "25SYMV017604962",
-      "cpv_codes_extracted": [
-        "32000000"
-      ],
-      "cpv_divisions": [
-        "32"
-      ],
-      "all_domains": [
-        "Telecom & Electronics"
-      ],
-      "primary_domain": "Telecom & Electronics"
-    },
-    {
-      "title": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ Νο74",
-      "referenceNumber": "26PAY018456712",
-      "auctionReferenceNumber": null,
-      "signedDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T11:46:02.101",
-      "lastUpdateDate": null,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancelled": false,
-      "credit": false,
-      "paymentRelatedAda": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1007.E86105.0001",
-      "paymentCommitmentCode": "6Ζ50ΩΛΓ-ΥΕΖ",
-      "organizationVatNumber": "090001134",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "contractValue": null,
-      "organization": {
-        "key": "6171",
-        "value": "ΔΗΜΟΣ ΛΕΡΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL4",
-        "value": "NΗΣΙΑ ΑΙΓΑΙΟΥ, KΡΗΤΗ"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": null,
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
         "key": "9",
         "value": "ΝΠΔΔ"
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "84299",
-          "value": "ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ/ΤΜΗΜΑ ΔΑΠΑΝΩΝ"
+          "key": "100037531",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΜΟΝΑΔΑΣ ΟΙΚΟΝΟΜΙΚΗΣ ΚΑΙ ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ (ΜΟΔΥ) ΤΟΥ ΕΛΚΕ"
         },
         "signers": {
-          "key": "100039272",
-          "value": "ΑΓΓΕΛΟΣ ΑΓΓΕΛΙΔΗΣ - Διευθυντής"
+          "key": "100061418",
+          "value": "ΓΕΩΡΓΙΟΣ ΧΡΙΣΤΟΦΟΡΙΔΗΣ - Πρόεδρος Επιτροπής Ερευνών"
         }
       },
       "fundingDetails": {
         "publicFundingRef": null,
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": "000.2420189.002",
+        "cofundProgramRef": "ΤΑ 5180665",
+        "selfFundProgramRef": "5180665",
         "espaFundProgramRef": null,
         "regularBudgetFundedProgramRef": null
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 1524.71,
-      "totalCostWithoutVAT": 1524.71,
+      "totalCostWithVAT": 10540.0,
+      "totalCostWithoutVAT": 8500.0,
       "objectDetails": [
         {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1524.71,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Συνδέσεις κινητής τηλεφωνίας για το έργο της τηλεμετρίας από 8-1-2026 έως 7-2-2026 (εφαρμογή των διατάξεων της παρ. 1 του αρ. 160 \"Διάρκεια της ισχύος του προϋπολογισμού\" του ν. 3463/2006)",
-          "cpvs": [
-            {
-              "key": "32250000-0",
-              "value": "Κινητά τηλέφωνα"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "LEROS",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "094019245",
-          "greekVatNo": false,
-          "name": "Ο.Τ.Ε",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "auctionRefNo": null,
-      "contractRefNo": null,
-      "cpv_codes_extracted": [
-        "32250000"
-      ],
-      "cpv_divisions": [
-        "32"
-      ],
-      "all_domains": [
-        "Telecom & Electronics"
-      ],
-      "primary_domain": "Telecom & Electronics"
-    },
-    {
-      "title": "Προμήθεια (αγορά) συστημάτων επέκτασης ενδοεπικοινωνίας.",
-      "referenceNumber": "26PAY018456274",
-      "auctionReferenceNumber": null,
-      "signedDate": "2026-01-14T00:00:00",
-      "submissionDate": "2026-02-10T11:20:49.453",
-      "lastUpdateDate": null,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancelled": false,
-      "credit": false,
-      "paymentRelatedAda": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1022.E00984.0001",
-      "paymentCommitmentCode": "29021/24.12.2025",
-      "organizationVatNumber": "996494555",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "contractValue": null,
-      "organization": {
-        "key": "100091875",
-        "value": "ΦΕΣΤΙΒΑΛ ΑΘΗΝΩΝ ΕΠΙΔΑΥΡΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": null,
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "85170",
-          "value": "ΔΙΟΙΚΗΤΙΚΗ ΕΠΙΤΡΟΠΗ"
-        },
-        "signers": {
-          "key": "100058394",
-          "value": "Ιωάννης Καπλάνης - Γενικός Διευθυντής"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2545"
-      },
-      "nutsCodes": [],
-      "totalCostWithVAT": 33635.0,
-      "totalCostWithoutVAT": 27125.0,
-      "objectDetails": [
-        {
-          "quantity": 32,
+          "quantity": 5,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 27125,
+          "costWithoutVAT": 8500,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Προμήθεια (αγορά) συστημάτων επέκτασης ενδοεπικοινωνίας, προς εξυπηρέτηση των αναγκών λειτουργίας των θεατρικών χώρων του Φεστιβάλ Αθηνών Επιδαύρου ",
+          "shortDescription": "TMHMA 8: Δικτυακός εξοπλισμός",
           "cpvs": [
             {
-              "key": "32360000-4",
-              "value": "Εξοπλισμός ενδοεπικοινωνίας"
+              "key": "32420000-3",
+              "value": "Εξοπλισμός δικτύου"
             }
           ],
           "addressForDelivery": null,
           "streetNumber": null,
           "postalCode": null,
-          "city": "ΑΘΗΝΑ",
+          "city": "ΚΑΣΤΟΡΙΑ",
           "cityOfConstruction": null,
           "countryOfDelivery": {
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "094150597",
+          "vatNo": "801000687",
           "greekVatNo": false,
-          "name": "ΤΕΛΜΑΚΟ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΠΑΡΑΓΩΓΗ & ΕΜΠΟΡΙΟ ΗΛΕΚΤΡΟΝΙΚΩΝ ΠΡΟΙΟΝΤΩΝ",
+          "name": "ΓΩΓΟΣ ΚΩΝΣΤΑΝΤΙΝΟΣ ΚΑΙ ΣΙΑ Ο.Ε.",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -770,9 +250,10 @@
       "mixedContract": false,
       "requestRefNo": null,
       "auctionRefNo": null,
-      "contractRefNo": "25SYMV018253593",
+      "contractRefNo": "25SYMV017572633",
       "cpv_codes_extracted": [
-        "32360000"
+        "99206912",
+        "32420000"
       ],
       "cpv_divisions": [
         "32"
@@ -783,141 +264,11 @@
       "primary_domain": "Telecom & Electronics"
     },
     {
-      "title": "Προμήθεια (αγορά) συμπληρωματικού εξοπλισμού μικροφώνων",
-      "referenceNumber": "26PAY018455778",
+      "title": "ΤΗΛΕΠΙΚΟΙΝΩΝΙΑΚΟ ΥΛΙΚΟ",
+      "referenceNumber": "26PAY018472807",
       "auctionReferenceNumber": null,
-      "signedDate": "2026-01-13T00:00:00",
-      "submissionDate": "2026-02-10T10:51:50.022",
-      "lastUpdateDate": null,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancelled": false,
-      "credit": false,
-      "paymentRelatedAda": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1022.E00984.0001",
-      "paymentCommitmentCode": "29020/01.12.2025",
-      "organizationVatNumber": "996494555",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "contractValue": null,
-      "organization": {
-        "key": "100091875",
-        "value": "ΦΕΣΤΙΒΑΛ ΑΘΗΝΩΝ ΕΠΙΔΑΥΡΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": null,
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "85170",
-          "value": "ΔΙΟΙΚΗΤΙΚΗ ΕΠΙΤΡΟΠΗ"
-        },
-        "signers": {
-          "key": "100058394",
-          "value": "Ιωάννης Καπλάνης - Γενικός Διευθυντής"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2545"
-      },
-      "nutsCodes": [],
-      "totalCostWithVAT": 14681.6,
-      "totalCostWithoutVAT": 11840.0,
-      "objectDetails": [
-        {
-          "quantity": 28,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 11840,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια (αγορά) συμπληρωματικού εξοπλισμού μικροφώνων, προς εξυπηρέτηση των αναγκών λειτουργίας των θεατρικών χώρων του Φεστιβάλ Αθηνών Επιδαύρου ",
-          "cpvs": [
-            {
-              "key": "32341000-5",
-              "value": "Μικρόφωνα"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΑΘΗΝΑ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "094079082",
-          "greekVatNo": false,
-          "name": "\"ΦΙΛΙΠΠΟΣ ΝΑΚΑΣ\" Ανώνυμος, Βιοτεχνική, Εμπορική, Εκπαιδευτική και Τεχνική Εταιρεία (Α.Β.Ε.Ε.Τ.Ε.)",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "auctionRefNo": null,
-      "contractRefNo": "25SYMV018253053",
-      "cpv_codes_extracted": [
-        "32341000"
-      ],
-      "cpv_divisions": [
-        "32"
-      ],
-      "all_domains": [
-        "Telecom & Electronics"
-      ],
-      "primary_domain": "Telecom & Electronics"
-    },
-    {
-      "title": "UCD DATA LINK OFDM",
-      "referenceNumber": "26PAY018455634",
-      "auctionReferenceNumber": null,
-      "signedDate": "2025-09-17T00:00:00",
-      "submissionDate": "2026-02-10T10:43:11.574",
+      "signedDate": "2025-11-17T00:00:00",
+      "submissionDate": "2026-02-12T12:35:47.111",
       "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
@@ -980,29 +331,29 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2410989899"
+        "regularBudgetFundedProgramRef": "2410207001.3120989001.24109898"
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 5208.0,
-      "totalCostWithoutVAT": 4200.0,
+      "totalCostWithVAT": 4885.6,
+      "totalCostWithoutVAT": 3940.0,
       "objectDetails": [
         {
-          "quantity": 1,
+          "quantity": 4,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 4200,
+          "costWithoutVAT": 3940,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "UCD DATA LINK OFDM",
+          "shortDescription": "ΤΗΛΕΠΙΚΟΙΝΩΝΙΑΚΟ ΥΛΙΚΟ",
           "cpvs": [
             {
-              "key": "32333300-9",
-              "value": "Συσκευές αναπαραγωγής εικόνας"
+              "key": "32500000-8",
+              "value": "Τηλεπικοινωνιακό υλικό"
             }
           ],
           "addressForDelivery": null,
@@ -1014,9 +365,9 @@
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "800662243",
+          "vatNo": "099019873",
           "greekVatNo": true,
-          "name": "UCANDRONE A.E.",
+          "name": "«ΔΡΥΣ ΤΕΧΝΙΚΗ ΑΤΕΕ»",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -1030,24 +381,27 @@
       "mixedContract": false,
       "requestRefNo": null,
       "auctionRefNo": null,
-      "contractRefNo": "25SYMV017231865",
+      "contractRefNo": "25SYMV017386966",
       "cpv_codes_extracted": [
-        "32333300"
+        "24109898",
+        "32500000"
       ],
       "cpv_divisions": [
+        "24",
         "32"
       ],
       "all_domains": [
+        "Chemicals",
         "Telecom & Electronics"
       ],
       "primary_domain": "Telecom & Electronics"
     },
     {
-      "title": "ΔΙΚΤΥΑΚΕΣ ΚΑΜΕΡΕΣ -ΟΘΟΝΗ 43'' ΥΛ.(9)",
-      "referenceNumber": "26PAY018455171",
+      "title": "Πληρωμή οφειλής προμήθειας ηλεκτρονικών υπολογιστών, λογισμικών, εκτυπωτών & σαρωτών Κέντρου Κοινότη",
+      "referenceNumber": "26PAY018472681",
       "auctionReferenceNumber": null,
-      "signedDate": "2025-09-24T00:00:00",
-      "submissionDate": "2026-02-10T10:13:21.224",
+      "signedDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T12:29:34.693",
       "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
@@ -1058,8 +412,1172 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1011.2040000000.0019",
-      "paymentCommitmentCode": "ΨΥ4Ε6-ΡΥΟ",
+      "aaht": "1007.Ε87107.0001",
+      "paymentCommitmentCode": "227/2025 & 36/2026 (ΑΑΥΠΟΕ)",
+      "organizationVatNumber": "999174227",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "6304",
+        "value": "ΔΗΜΟΣ ΦΑΙΣΤΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL431",
+        "value": "Ηράκλειο"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "87335",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100042305",
+          "value": "ΕΜΜΑΝΟΥΗΛ ΣΦΑΚΙΑΝΑΚΗΣ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": "ΕΠ0027",
+        "publicFundingRefNum": "2023ΕΠ00270038",
+        "publicFundingRefOps": "6003166",
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 6302.46,
+      "totalCostWithoutVAT": 5082.63,
+      "objectDetails": [
+        {
+          "quantity": 24,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 5082.63,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΛΗΡΩΜΗ ΟΦΕΙΛΗΣ ΠΡΟΜΗΘΕΙΑΣ ΗΛΕΚΤΡΟΝΙΚΩΝ ΥΠΟΛΟΓΙΣΤΩΝ, ΕΚΤΥΠΩΤΩΝ & ΣΑΡΩΤΩΝ ΚΕΝΤΡΟΥ ΚΟΙΝΟΤΗΤΑΣ ΔΗΜΟΥ ΦΑΙΣΤΟΥ",
+          "cpvs": [
+            {
+              "key": "30232110-8",
+              "value": "Εκτυπωτές λέιζερ"
+            },
+            {
+              "key": "30213300-8",
+              "value": "Επιτραπέζιοι ηλεκτρονικοί υπολογιστές"
+            },
+            {
+              "key": "48920000-3",
+              "value": "Πακέτα λογισμικού αυτοματισμών γραφείου"
+            },
+            {
+              "key": "32331300-5",
+              "value": "Συσκευές αναπαραγωγής ήχου"
+            },
+            {
+              "key": "30192110-5",
+              "value": "Μελάνια"
+            },
+            {
+              "key": "30231300-0",
+              "value": "Οθόνες απεικόνισης"
+            },
+            {
+              "key": "30232000-4",
+              "value": "Περιφερειακός εξοπλισμός"
+            },
+            {
+              "key": "30237460-1",
+              "value": "Πληκτρολόγια υπολογιστών"
+            },
+            {
+              "key": "30231000-7",
+              "value": "Οθόνες και κονσόλες ηλεκτρονικών υπολογιστών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΜΟΙΡΕΣ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "103685367",
+          "greekVatNo": true,
+          "name": "ΛΕΝΙΔΑΚΗΣ ΑΝΤΩΝΙΟΣ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV017049524",
+      "cpv_codes_extracted": [
+        "30232110",
+        "30213300",
+        "48920000",
+        "32331300",
+        "30192110",
+        "30231300",
+        "30232000",
+        "30237460",
+        "30231000"
+      ],
+      "cpv_divisions": [
+        "30",
+        "48",
+        "32"
+      ],
+      "all_domains": [
+        "Office & Computing (Non-Software)",
+        "Software & Information Systems",
+        "Telecom & Electronics"
+      ],
+      "primary_domain": "Software & Information Systems"
+    },
+    {
+      "title": "ΧΕ-77",
+      "referenceNumber": "26PAY018471874",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-11T00:00:00",
+      "submissionDate": "2026-02-12T11:52:35.491",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1015.E00234.0001",
+      "paymentCommitmentCode": "ΨΠΚΠ4690Β2-ΘΤΒ",
+      "organizationVatNumber": "999175979",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "99221919",
+        "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΚΙΛΚΙΣ"
+      },
+      "nutsCode": {
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81747",
+          "value": "ΝΟΣΟΚΟΜΕΙΟ"
+        },
+        "signers": {
+          "key": "100020555",
+          "value": "Νικολέττα Στάχτιαρη - Διοικητικός Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "174102/32302890000032"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 9405.4,
+      "totalCostWithoutVAT": 7585.0,
+      "objectDetails": [
+        {
+          "quantity": 5000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 7585,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΚΤΙΝΟΛΟΓΙΚΑ ΦΙΛΜ",
+          "cpvs": [
+            {
+              "key": "32354100-0",
+              "value": "Ακτινολογικό φιλμ"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΚΙΛΚΙΣ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "095083787",
+          "greekVatNo": false,
+          "name": "THERMOGRAFICA HELLAS Ε.Π.Ε. ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV017162162",
+      "cpv_codes_extracted": [
+        "99221919",
+        "32354100"
+      ],
+      "cpv_divisions": [
+        "32"
+      ],
+      "all_domains": [
+        "Telecom & Electronics"
+      ],
+      "primary_domain": "Telecom & Electronics"
+    },
+    {
+      "title": "Έκτακτη ανάγκη κάλυψης δαπανών για εξοπλισμό τηλεπικοινωνιών.",
+      "referenceNumber": "26PAY018471779",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T11:47:22.253",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.Ε89566.0001",
+      "paymentCommitmentCode": "Ψ5ΩΘΚΝ3-ΦΞΣ",
+      "organizationVatNumber": "090050896",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "14915",
+        "value": "ΠΕΡΙΦΕΡΕΙΑΚΟ ΤΑΜΕΙΟ ΑΝΑΠΤΥΞΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΑΤΤΙΚΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "73064",
+          "value": "ΠΕΡΙΦΕΡΕΙΑΚΟ ΤΑΜΕΙΟ"
+        },
+        "signers": {
+          "key": "100011520",
+          "value": "ΣΩΤΗΡΗΣ ΝΙΚΟΛΑΡΟΠΟΥΛΟΣ - Αναπληρωτής Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "64.02",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 17264.52,
+      "totalCostWithoutVAT": 13923.0,
+      "objectDetails": [
+        {
+          "quantity": 20,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 13923,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έκτακτη ανάγκη κάλυψης δαπανών για εξοπλισμό τηλεπικοινωνιών.",
+          "cpvs": [
+            {
+              "key": "32522000-8",
+              "value": "Εξοπλισμός τηλεπικοινωνιών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "800434690",
+          "greekVatNo": false,
+          "name": "ΑΝ. ΔΗΜΗΤΡΙΑΔΗΣ ΚΑΙ ΣΙΑ ΕΕ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": null,
+      "cpv_codes_extracted": [
+        "32522000"
+      ],
+      "cpv_divisions": [
+        "32"
+      ],
+      "all_domains": [
+        "Telecom & Electronics"
+      ],
+      "primary_domain": "Telecom & Electronics"
+    },
+    {
+      "title": "Έκτακτη ανάγκη κάλυψης δαπανών για εξοπλισμό τηλεπικοινωνιών για την Περιφέρεια Αττικής.",
+      "referenceNumber": "26PAY018471544",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T11:34:59.322",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.Ε89566.0001",
+      "paymentCommitmentCode": "Ψ9Η3ΚΝ3-Ι6Μ",
+      "organizationVatNumber": "090050896",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "14915",
+        "value": "ΠΕΡΙΦΕΡΕΙΑΚΟ ΤΑΜΕΙΟ ΑΝΑΠΤΥΞΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΑΤΤΙΚΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "73064",
+          "value": "ΠΕΡΙΦΕΡΕΙΑΚΟ ΤΑΜΕΙΟ"
+        },
+        "signers": {
+          "key": "100011520",
+          "value": "ΣΩΤΗΡΗΣ ΝΙΚΟΛΑΡΟΠΟΥΛΟΣ - Αναπληρωτής Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "64.06",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 7164.72,
+      "totalCostWithoutVAT": 5778.0,
+      "objectDetails": [
+        {
+          "quantity": 12,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 5778,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έκτακτη ανάγκη κάλυψης δαπανών για εξοπλισμό τηλεπικοινωνιών για την Περιφέρεια Αττικής.",
+          "cpvs": [
+            {
+              "key": "32522000-8",
+              "value": "Εξοπλισμός τηλεπικοινωνιών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "800434690",
+          "greekVatNo": false,
+          "name": "ΑΝ. ΔΗΜΗΤΡΙΑΔΗΣ ΚΑΙ ΣΙΑ ΕΕ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": null,
+      "cpv_codes_extracted": [
+        "32522000"
+      ],
+      "cpv_divisions": [
+        "32"
+      ],
+      "all_domains": [
+        "Telecom & Electronics"
+      ],
+      "primary_domain": "Telecom & Electronics"
+    },
+    {
+      "title": "SAEK ESPA 33",
+      "referenceNumber": "26PAY018471531",
+      "auctionReferenceNumber": null,
+      "signedDate": "2025-10-31T00:00:00",
+      "submissionDate": "2026-02-12T11:34:15.957",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1020.Ε00721.0001",
+      "paymentCommitmentCode": "Ρ4ΙΜ46ΨΖΣΠ-Χ0Ρ",
+      "organizationVatNumber": "090044306",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "99203024",
+        "value": "ΙΔΡΥΜΑ ΝΕΟΛΑΙΑΣ ΚΑΙ ΔΙΑ ΒΙΟΥ ΜΑΘΗΣΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100079093",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100079101",
+          "value": "ΓΕΩΡΓΙΟΣ ΔΡΑΚΟΠΟΥΛΟΣ - Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": "Ε6457",
+        "publicFundingRefNum": "2025ΣΕ6457002",
+        "publicFundingRefOps": "6017426",
+        "cofundProgramRef": "6017426",
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 1600.0,
+      "totalCostWithoutVAT": 1600.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1600,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": " «Προμήθεια ενός φωτοτυπικού πολυμηχανήματος επαγγελματικής χρήσης για τις ανάγκες της ΣΑΕΚ ΤΡΙΑΝΔΡΙΑΣ» ",
+          "cpvs": [
+            {
+              "key": "32000000-3",
+              "value": "Εξοπλισμός ραδιοφωνίας"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΤΡΙΑΝΔΡΙΑ ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "094220230",
+          "greekVatNo": false,
+          "name": "TEXNIKH ΚΕΝΤΡΟ Μηχανών Γραφείου Α.Ε ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV018005156",
+      "cpv_codes_extracted": [
+        "99203024",
+        "32000000"
+      ],
+      "cpv_divisions": [
+        "32"
+      ],
+      "all_domains": [
+        "Telecom & Electronics"
+      ],
+      "primary_domain": "Telecom & Electronics"
+    },
+    {
+      "title": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ",
+      "referenceNumber": "26PAY018471226",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-01-27T00:00:00",
+      "submissionDate": "2026-02-12T11:19:07.904",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.912.0001",
+      "paymentCommitmentCode": "242",
+      "organizationVatNumber": "998225768",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "5011",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL421",
+        "value": "Κάλυμνος, Κάρπαθος, Κως, Ρόδος"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100094602",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΗΛΕΚΤΡΟΝΙΚΟΥ ΕΞΟΠΛΙΣΜΟΥ"
+        },
+        "signers": {
+          "key": "100001126",
+          "value": "ΓΕΩΡΓΙΟΣ ΧΑΤΖΗΜΑΡΚΟΣ - ΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "02.072.1729α",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "02.0072.3120989101"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 1550.0,
+      "totalCostWithoutVAT": 1250.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1250,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "προμήθεια ηχητικού εξοπλισμού - ενισχυτή ήχου της αίθουσας συνεδριάσεων του Περιφερειακού Συμβουλίου της ΠΕ Ρόδου.",
+          "cpvs": [
+            {
+              "key": "32342410-9",
+              "value": "Εξοπλισμός ήχου"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "Ρόδος",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "099889854",
+          "greekVatNo": true,
+          "name": "ΚΑΤΣΕΛΑ ΜΑΡΙΑ & ΣΙΑ Ο.Ε.",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV018273472",
+      "cpv_codes_extracted": [
+        "32342410"
+      ],
+      "cpv_divisions": [
+        "32"
+      ],
+      "all_domains": [
+        "Telecom & Electronics"
+      ],
+      "primary_domain": "Telecom & Electronics"
+    },
+    {
+      "title": "ΟΡΙΣΤΙΚΟΠΟΙΗΣΗ ΠΛΗΡΩΜΗΣ",
+      "referenceNumber": "26PAY018471118",
+      "auctionReferenceNumber": null,
+      "signedDate": "2025-02-11T00:00:00",
+      "submissionDate": "2026-02-12T11:13:37.097",
+      "lastUpdateDate": "2026-02-12T00:00:00",
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1039.Ε00923.0001",
+      "paymentCommitmentCode": "Ψ9Ε7ΟΡΛΟ-Ρ6Μ, ΨΖΚ5ΟΡΛΟ-ΕΤΠ",
+      "organizationVatNumber": "099939745",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "50083",
+        "value": "ΣΤΑΘΕΡΕΣ ΣΥΓΚΟΙΝΩΝΙΕΣ Α.Ε. (ΣΤΑΣΥ)"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100067207",
+          "value": "ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ ΕΤΑΙΡΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ"
+        },
+        "signers": {
+          "key": "100067208",
+          "value": "ΚΑΤΕΡΙΝΑ ΔΕΜΕΡΟΥΤΗ - Γενικός Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "2600"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 6194.64,
+      "totalCostWithoutVAT": 5316.97,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1660,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΞΟΠΛΙΣΜΟΣ ΔΙΚΤΥΟΥ",
+          "cpvs": [
+            {
+              "key": "32420000-3",
+              "value": "Εξοπλισμός δικτύου"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "800434690",
+          "greekVatNo": false,
+          "name": "ΑΝ ΔΗΜΗΤΡΙΑΔΗΣ ΚΑΙ ΣΙΑ ΕΤΕΡΟΡΡΥΘΜΗ ΕΤΑΙΡΕΙΑ ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 158.97,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΞΟΠΛΙΣΜΟΣ ΔΙΚΤΥΟΥ",
+          "cpvs": [
+            {
+              "key": "32420000-3",
+              "value": "Εξοπλισμός δικτύου"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "800434690 ",
+          "greekVatNo": false,
+          "name": "ΑΝ ΔΗΜΗΤΡΙΑΔΗΣ ΚΑΙ ΣΙΑ ΕΤΕΡΟΡΡΥΘΜΗ ΕΤΑΙΡΕΙΑ ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 40,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 3498,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΞΟΠΛΙΣΜΟΣ ΔΙΚΤΥΟΥ",
+          "cpvs": [
+            {
+              "key": "32420000-3",
+              "value": "Εξοπλισμός δικτύου"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "800434690",
+          "greekVatNo": false,
+          "name": "ΑΝ ΔΗΜΗΤΡΙΑΔΗΣ ΚΑΙ ΣΙΑ ΕΤΕΡΟΡΡΥΘΜΗ ΕΤΑΙΡΕΙΑ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": null,
+      "cpv_codes_extracted": [
+        "32420000"
+      ],
+      "cpv_divisions": [
+        "32"
+      ],
+      "all_domains": [
+        "Telecom & Electronics"
+      ],
+      "primary_domain": "Telecom & Electronics"
+    },
+    {
+      "title": "Έκτακτη ανάγκη για προμήθεια νέου εξοπλισμού",
+      "referenceNumber": "26PAY018470814",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T10:58:53.572",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.Ε89566.0001",
+      "paymentCommitmentCode": "9Χ1ΗΚΝ3-ΡΗ2",
+      "organizationVatNumber": "800434690",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "14915",
+        "value": "ΠΕΡΙΦΕΡΕΙΑΚΟ ΤΑΜΕΙΟ ΑΝΑΠΤΥΞΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΑΤΤΙΚΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "73064",
+          "value": "ΠΕΡΙΦΕΡΕΙΑΚΟ ΤΑΜΕΙΟ"
+        },
+        "signers": {
+          "key": "100011520",
+          "value": "ΣΩΤΗΡΗΣ ΝΙΚΟΛΑΡΟΠΟΥΛΟΣ - Αναπληρωτής Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "64.02",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 15996.0,
+      "totalCostWithoutVAT": 12900.0,
+      "objectDetails": [
+        {
+          "quantity": 100,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 12900,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έκτακτη προμήθεια εξοπλισμου",
+          "cpvs": [
+            {
+              "key": "32522000-8",
+              "value": "Εξοπλισμός τηλεπικοινωνιών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "800434690",
+          "greekVatNo": false,
+          "name": "ΑΝ. ΔΗΜΗΤΡΙΑΔΗΣ ΚΑΙ ΣΙΑ Ε.Ε.",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": null,
+      "cpv_codes_extracted": [
+        "32522000"
+      ],
+      "cpv_divisions": [
+        "32"
+      ],
+      "all_domains": [
+        "Telecom & Electronics"
+      ],
+      "primary_domain": "Telecom & Electronics"
+    },
+    {
+      "title": "ΠΡΟΜΗΘΕΙΑ ΣΥΣΤΗΜΑΤΟΣ ΠΑΡΕΜΒΟΛΗΣ",
+      "referenceNumber": "26PAY018470527",
+      "auctionReferenceNumber": null,
+      "signedDate": "2025-11-19T00:00:00",
+      "submissionDate": "2026-02-12T10:41:12.873",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1011.2040000000.0006",
+      "paymentCommitmentCode": "6ΧΝ46-Ι66",
       "organizationVatNumber": "090153025",
       "greekOrganizationVatNumber": true,
       "commitmentNo": null,
@@ -1069,8 +1587,8 @@
         "value": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ"
       },
       "nutsCode": {
-        "key": "EL631",
-        "value": "Αιτωλοακαρνανία"
+        "key": "EL434",
+        "value": "Χανιά"
       },
       "centralizedMarkets": [
         {
@@ -1110,43 +1628,43 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "3120389001"
+        "regularBudgetFundedProgramRef": "3120302001"
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 4395.8,
-      "totalCostWithoutVAT": 3545.0,
+      "totalCostWithVAT": 8999.92,
+      "totalCostWithoutVAT": 7258.0,
       "objectDetails": [
         {
-          "quantity": 13,
+          "quantity": 1,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 3545,
+          "costWithoutVAT": 7258,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΔΙΚΤΥΑΚΕΣ ΚΑΜΕΡΕΣ -ΟΘΟΝΗ 43'' ΥΛ.(9)",
+          "shortDescription": "ΣΥΣΤΗΜΑ ΠΑΡΕΜΒΟΛΗΣ ΜΕΤΑ ΚΕΡΑΙΩΝ ΚΑΙ ΤΗΛΕΧΕΙΡΙΣΤΗΡΙΟΥ",
           "cpvs": [
             {
-              "key": "32420000-3",
-              "value": "Εξοπλισμός δικτύου"
+              "key": "32000000-3",
+              "value": "Εξοπλισμός ραδιοφωνίας"
             }
           ],
           "addressForDelivery": null,
           "streetNumber": null,
           "postalCode": null,
-          "city": "ΛΕΥΚΑΔΑ",
+          "city": "ΧΑΝΙΑ",
           "cityOfConstruction": null,
           "countryOfDelivery": {
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "801306178",
+          "vatNo": "801165537",
           "greekVatNo": true,
-          "name": "ELEKTROMECH Α ΒΟΥΛΓΑΡΕΛΗΣ",
+          "name": "Drone Solutions Α.Ε.",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -1160,9 +1678,9 @@
       "mixedContract": false,
       "requestRefNo": null,
       "auctionRefNo": null,
-      "contractRefNo": "25SYMV016859813",
+      "contractRefNo": "25SYMV017329492",
       "cpv_codes_extracted": [
-        "32420000"
+        "32000000"
       ],
       "cpv_divisions": [
         "32"
@@ -1173,11 +1691,11 @@
       "primary_domain": "Telecom & Electronics"
     },
     {
-      "title": "Διαβίβαση δικαιολογητικών προς έκδοση χρηματικού εντάλματος",
-      "referenceNumber": "26PAY018454462",
+      "title": "ΔΙΑΒΙΒΑΣΤΙΚΟ ΠΛΗΡΩΜΗΣ ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΦΩΤΙΣΤΙΚΩΝ",
+      "referenceNumber": "26PAY018470461",
       "auctionReferenceNumber": null,
-      "signedDate": "2026-02-09T00:00:00",
-      "submissionDate": "2026-02-10T09:24:45.759",
+      "signedDate": "2026-01-23T00:00:00",
+      "submissionDate": "2026-02-12T10:37:22.511",
       "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
@@ -1188,19 +1706,149 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1022.0000000000.0023",
-      "paymentCommitmentCode": "9574",
-      "organizationVatNumber": "090283815",
+      "aaht": "10572020000000.0019",
+      "paymentCommitmentCode": "ΨΛΕΛ46ΜΤΛΒ-ΞΝΤ",
+      "organizationVatNumber": "090169846",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "100075958",
+        "value": "ΚΑΤΑΣΤΗΜΑ ΚΡΑΤΗΣΗΣ ΚΟΡΥΔΑΛΛΟΥ I"
+      },
+      "nutsCode": {
+        "key": "EL307",
+        "value": "Πειραιάς, Νήσοι"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100076130",
+          "value": "ΣΩΦΡΟΝΙΣΤΙΚΟ ΚΑΤΑΣΤΗΜΑ ΚΟΡΥΔΑΛΛΟΥ I"
+        },
+        "signers": {
+          "key": "100096335",
+          "value": "ΚΩΝΣΤΑΝΤΙΝΑ ΓΕΡΟΥ - Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "2410989899"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 1285.41,
+      "totalCostWithoutVAT": 1036.62,
+      "objectDetails": [
+        {
+          "quantity": 35,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1036.62,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΔΙΑΒΙΒΑΣΤΙΚΟ ΠΛΗΡΩΜΗΣ ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΗΛΕΚΤΡΟΛΟΓΙΚΟΥ ΥΛΙΚΟΥ ΚΑΙ ΦΩΤΙΣΤΙΚΩΝ",
+          "cpvs": [
+            {
+              "key": "32552000-7",
+              "value": "Ηλεκτρικές συσκευές για την ενσύρματη τηλεφωνία ή την ενσύρματη τηλεγραφία"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΚΟΡΥΔΑΛΛΟΣ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "802914471",
+          "greekVatNo": false,
+          "name": "ΜΠΑΪΜΠΑΚΗΣ Θ. & ΣΙΑ Ε.Ε.",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": null,
+      "cpv_codes_extracted": [
+        "32552000"
+      ],
+      "cpv_divisions": [
+        "32"
+      ],
+      "all_domains": [
+        "Telecom & Electronics"
+      ],
+      "primary_domain": "Telecom & Electronics"
+    },
+    {
+      "title": "Εντολή πληρωμής δαπάνης με αρ. πρ. 128407-1",
+      "referenceNumber": "26PAY018470312",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T10:29:16.458",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1036.E00346.0001",
+      "paymentCommitmentCode": "9ΣΚ0469ΗΡ8-09Φ",
+      "organizationVatNumber": "099785242",
       "greekOrganizationVatNumber": true,
       "commitmentNo": null,
       "contractValue": null,
       "organization": {
-        "key": "100081912",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΠΟΛΙΤΙΣΜΟΥ"
+        "key": "99220974",
+        "value": "ΕΘΝ. ΚΕΝΤΡΟ ΕΡΕΥΝΑΣ & ΤΕΧΝΟΛ. ΑΝΑΠΤ. (ΕΚΕΤΑ)"
       },
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
       },
       "centralizedMarkets": [
         {
@@ -1216,21 +1864,152 @@
         "value": "Υπηρεσίες"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
+        "key": "10",
+        "value": "ΝΠΙΔ"
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100073162",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΠΡΟΜΗΘΕΙΩΝ ΚΑΙ ΥΠΟΔΟΜΩΝ ΤΟΜΕΑ ΠΟΛΙΤΙΣΜΟΥ"
+          "key": "74837",
+          "value": "ΚΕΝΤΡΙΚΗ ΔΙΕΥΘΥΝΣΗ (Κ.Δ.)"
         },
         "signers": {
-          "key": "100028238",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΙΣΣΑΡΗΣ - Διατάκτης"
+          "key": "100098083",
+          "value": "Ευάγγελος Μπεκιάρης - Πρόεδρος Δ.Σ."
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "ESO.006051",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 7406.74,
+      "totalCostWithoutVAT": 5973.18,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 5973.18,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΗΛΕΦΩΝΙΚΗ ΓΡΑΜΜΗ ΜΕ 2 ΚΑΝΑΛΙΑ ΦΩΝΗΣ CONN-X WORK 24 MBPS",
+          "cpvs": [
+            {
+              "key": "32412100-5",
+              "value": "Δίκτυο τηλεπικοινωνιών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "Θεσσαλονίκη",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "094019245",
+          "greekVatNo": true,
+          "name": "ΟΡΓΑΝΙΣΜΟΣ ΤΗΛΕΠΙΚΟΙΝΩΝΙΩΝ ΕΛΛΑΔΟΣ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": "26AWRD018469024",
+      "contractRefNo": null,
+      "cpv_codes_extracted": [
+        "99220974",
+        "32412100"
+      ],
+      "cpv_divisions": [
+        "32"
+      ],
+      "all_domains": [
+        "Telecom & Electronics"
+      ],
+      "primary_domain": "Telecom & Electronics"
+    },
+    {
+      "title": "ΥΠΗΡΕΣΙΑ ΑΠΟΜΑΚΡΥΣΜΕΝΟΥ ΕΛΕΓΧΟΥ ΚΑΙ ΛΗΨΗ ΜΕΤΡΗΣΕΩΝ ΚΑΙ ΣΦΑΛΜΑΤΩΝ ΑΠΟ ΕΓΚΑΤΕΣΤΗΜΕΝΟΥΣ Θ-Υ ΤΗΛΕΘΕΡΜΑΝΣ",
+      "referenceNumber": "26PAY018470310",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T10:29:12.008",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.F00941.0001",
+      "paymentCommitmentCode": "60Ν7ΟΕΤΔ-ΛΒ2",
+      "organizationVatNumber": "090052773",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "51636",
+        "value": "ΔΕΤΕΠΑ"
+      },
+      "nutsCode": {
+        "key": "EL533",
+        "value": "Φλώρινα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "83687",
+          "value": "ΓΕΝΙΚΟΣ ΔΙΕΥΘΥΝΤΗΣ"
+        },
+        "signers": {
+          "key": "114854",
+          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΚΥΡΙΑΚΟΠΟΥΛΟΣ - Γενικός Διευθυντής"
         }
       },
       "fundingDetails": {
@@ -1240,43 +2019,43 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2420989001"
+        "regularBudgetFundedProgramRef": "62.03.99, 54.00.06"
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 7638.4,
-      "totalCostWithoutVAT": 6160.0,
+      "totalCostWithVAT": 872.65,
+      "totalCostWithoutVAT": 703.75,
       "objectDetails": [
         {
-          "quantity": 1,
+          "quantity": 563,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "C62",
+            "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 6160,
+          "costWithoutVAT": 703.75,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Παροχή υπηρεσιών διασύνδεσης του κέντρου δεδομένων της ΔΗΔ με οπτική ίνα ταχύτητας 10G για τις ανάγκες καθημερινού off-site backup για τις ανάγκες της Κ.Υ. του ΥΠΠΟ",
+          "shortDescription": "Η επιχείρηση, σύμφωνα με την από 11/06/2025 Τεχνική Έκθεση της ΤΕΧΝΙΚΗΣ ΥΠΗΡΕΣΙΑΣ , πρέπει να προβεί στην υλοποίηση της υπηρεσίας με τίτλο: \"ΥΠΗΡΕΣΙΑ ΑΠΟΜΑΚΡΥΣΜΕΝΟΥ ΕΛΕΓΧΟΥ ΚΑΙ ΛΗΨΗ ΜΕΤΡΗΣΕΩΝ ΚΑΙ ΣΦΑΛΜΑΤΩΝ ΑΠΟ ΕΓΚΑΤΕΣΤΗΜΕΝΟΥΣ ΘΕΡΜΙΚΟΥΣ ΥΠΟΣΤΑΘΜΟΥΣ ΤΗΛΕΘΕΡΜΑΝΣΗΣ ΚΤΗΡΙΩΝ ΠΕΡΙΟΔΩΝ 2025-2027\" ",
           "cpvs": [
             {
-              "key": "32561000-3",
-              "value": "Συνδέσεις οπτικών ινών"
+              "key": "32412100-5",
+              "value": "Δίκτυο τηλεπικοινωνιών"
             }
           ],
           "addressForDelivery": null,
           "streetNumber": null,
           "postalCode": null,
-          "city": "Αθήνα",
+          "city": "ΑΜΥΝΤΑΙΟ",
           "cityOfConstruction": null,
           "countryOfDelivery": {
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "998081209",
+          "vatNo": "998757748",
           "greekVatNo": true,
-          "name": "LAΝCOM ΕΠΕ",
+          "name": "DALSIA ΕΛΛΑΣ - ΘΕΡΜΙΚΗ ΕΝΕΡΓΕΙΑ - ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -1290,9 +2069,9 @@
       "mixedContract": false,
       "requestRefNo": null,
       "auctionRefNo": null,
-      "contractRefNo": "25SYMV016475463",
+      "contractRefNo": "25SYMV017208422",
       "cpv_codes_extracted": [
-        "32561000"
+        "32412100"
       ],
       "cpv_divisions": [
         "32"
@@ -1303,12 +2082,12 @@
       "primary_domain": "Telecom & Electronics"
     },
     {
-      "title": "ΑΝΑΛΩΣΙΜΑ ΚΑΙ ΣΥΝΤΗΡΗΣΗ ΠΛΩΤΩΝ ΣΥΣΤ.ΜΕΤΡΗΣΗΣ ΠΕΡΙΟΧΗ ΜΗΧΑΝΙΩΝΑΣ Β ΕΞΑΜΗΝΟ 2025",
-      "referenceNumber": "26PAY018454149",
+      "title": "Εντολή πληρωμής δαπάνης με αρ. πρ. 128210-1",
+      "referenceNumber": "26PAY018470259",
       "auctionReferenceNumber": null,
-      "signedDate": "2026-02-09T00:00:00",
-      "submissionDate": "2026-02-10T09:00:43.367",
-      "lastUpdateDate": "2026-02-10T00:00:00",
+      "signedDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T10:26:56.314",
+      "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
@@ -1318,19 +2097,1007 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007.902.0001",
-      "paymentCommitmentCode": "Ψ2ΚΠ7ΛΛ-ΗΕΒ",
-      "organizationVatNumber": "997612598",
+      "aaht": "1036.E00346.0001",
+      "paymentCommitmentCode": "9ΣΚ0469ΗΡ8-09Φ",
+      "organizationVatNumber": "099785242",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "99220974",
+        "value": "ΕΘΝ. ΚΕΝΤΡΟ ΕΡΕΥΝΑΣ & ΤΕΧΝΟΛ. ΑΝΑΠΤ. (ΕΚΕΤΑ)"
+      },
+      "nutsCode": {
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "74837",
+          "value": "ΚΕΝΤΡΙΚΗ ΔΙΕΥΘΥΝΣΗ (Κ.Δ.)"
+        },
+        "signers": {
+          "key": "100098083",
+          "value": "Ευάγγελος Μπεκιάρης - Πρόεδρος Δ.Σ."
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "ESO.006051",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 7379.53,
+      "totalCostWithoutVAT": 5951.23,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 5951.23,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΗΛΕΦΩΝΙΚΗ ΓΡΑΜΜΗ ΜΕ 2 ΚΑΝΑΛΙΑ ΦΩΝΗΣ CONN-X WORK 24 MBPS",
+          "cpvs": [
+            {
+              "key": "32412100-5",
+              "value": "Δίκτυο τηλεπικοινωνιών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "Θεσσαλονίκη",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "094019245",
+          "greekVatNo": true,
+          "name": "ΟΡΓΑΝΙΣΜΟΣ ΤΗΛΕΠΙΚΟΙΝΩΝΙΩΝ ΕΛΛΑΔΟΣ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": "26AWRD018468972",
+      "contractRefNo": null,
+      "cpv_codes_extracted": [
+        "99220974",
+        "32412100"
+      ],
+      "cpv_divisions": [
+        "32"
+      ],
+      "all_domains": [
+        "Telecom & Electronics"
+      ],
+      "primary_domain": "Telecom & Electronics"
+    },
+    {
+      "title": "Έκτακτη ανάγκη κάλυψης δαπανών για εξοπλισμό τηλεπικοινωνιών για την Περιφέρεια Αττικής.",
+      "referenceNumber": "26PAY018470086",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T10:18:49.007",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.Ε89566.0001",
+      "paymentCommitmentCode": "6Υ5ΜΚΝ3-ΦΘΜ",
+      "organizationVatNumber": "090050896",
       "greekOrganizationVatNumber": false,
       "commitmentNo": null,
       "contractValue": null,
       "organization": {
-        "key": "5009",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ"
+        "key": "14915",
+        "value": "ΠΕΡΙΦΕΡΕΙΑΚΟ ΤΑΜΕΙΟ ΑΝΑΠΤΥΞΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΑΤΤΙΚΗΣ"
       },
       "nutsCode": {
-        "key": "EL52",
-        "value": "Κεντρική Μακεδονία"
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "73064",
+          "value": "ΠΕΡΙΦΕΡΕΙΑΚΟ ΤΑΜΕΙΟ"
+        },
+        "signers": {
+          "key": "100011520",
+          "value": "ΣΩΤΗΡΗΣ ΝΙΚΟΛΑΡΟΠΟΥΛΟΣ - Αναπληρωτής Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "64.02",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 15962.52,
+      "totalCostWithoutVAT": 12873.0,
+      "objectDetails": [
+        {
+          "quantity": 27,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 12873,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έκτακτη ανάγκη κάλυψης δαπανών για εξοπλισμό τηλεπικοινωνιών για την Περιφέρεια Αττικής.",
+          "cpvs": [
+            {
+              "key": "32522000-8",
+              "value": "Εξοπλισμός τηλεπικοινωνιών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "801551891",
+          "greekVatNo": false,
+          "name": "CENTURYTECH ΚΑΙ ΣΙΑ Ε.Ε.",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": null,
+      "cpv_codes_extracted": [
+        "32522000"
+      ],
+      "cpv_divisions": [
+        "32"
+      ],
+      "all_domains": [
+        "Telecom & Electronics"
+      ],
+      "primary_domain": "Telecom & Electronics"
+    },
+    {
+      "title": "ΥΛΙΚΑ",
+      "referenceNumber": "26PAY018469930",
+      "auctionReferenceNumber": null,
+      "signedDate": "2025-11-24T00:00:00",
+      "submissionDate": "2026-02-12T10:10:56.502",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1011.2040000000.0008",
+      "paymentCommitmentCode": "ΡΥΣΧ6-ΚΕ9",
+      "organizationVatNumber": "090153025",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "6",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL633",
+        "value": "Ηλεία"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100028042",
+          "value": "ΓΕΑ/ΕΛΕΓΚΤΗΡΙΟ ΔΑΠΑΝΩΝ ΑΕΡΟΠΟΡΙΑΣ (ΕΛΔΑ) ΛΑΡΙΣΑΣ"
+        },
+        "signers": {
+          "key": "100093645",
+          "value": "ΑΠΟΣΤΟΛΟΣ ΜΕΚΚΑΣ - Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "1929 , 1329"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 1001.92,
+      "totalCostWithoutVAT": 808.0,
+      "objectDetails": [
+        {
+          "quantity": 8,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 48,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Καλώδιο HDMI 4K 1,5mm",
+          "cpvs": [
+            {
+              "key": "31224810-3",
+              "value": "Καλώδια επέκτασης"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΝΔΡΑΒΙΔΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "999332596",
+          "greekVatNo": true,
+          "name": "INTELLIGENT MEDIA ΕΠΕ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 2,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 200,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "HDMI splitter 1- to -4",
+          "cpvs": [
+            {
+              "key": "32322000-6",
+              "value": "Εξοπλισμός πολυμέσων"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΝΔΡΑΒΙΔΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "999332596",
+          "greekVatNo": true,
+          "name": "INTELLIGENT MEDIA ΕΠΕ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 150,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Καλώδιο ηχείων 2χ1,5mm (100m)",
+          "cpvs": [
+            {
+              "key": "31224810-3",
+              "value": "Καλώδια επέκτασης"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΝΔΡΑΒΙΔΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "999332596",
+          "greekVatNo": true,
+          "name": "INTELLIGENT MEDIA ΕΠΕ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 3,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 330,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Καλώδιο HDMI 8K 30mm",
+          "cpvs": [
+            {
+              "key": "31224810-3",
+              "value": "Καλώδια επέκτασης"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΝΔΡΑΒΙΔΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "999332596",
+          "greekVatNo": true,
+          "name": "INTELLIGENT MEDIA ΕΠΕ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 80,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Καλώδιο XLR 30mm",
+          "cpvs": [
+            {
+              "key": "31224810-3",
+              "value": "Καλώδια επέκτασης"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΝΔΡΑΒΙΔΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "999332596",
+          "greekVatNo": true,
+          "name": "INTELLIGENT MEDIA ΕΠΕ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV017538838",
+      "cpv_codes_extracted": [
+        "31224810",
+        "32322000"
+      ],
+      "cpv_divisions": [
+        "31",
+        "32"
+      ],
+      "all_domains": [
+        "Electrical Equipment & Lighting",
+        "Telecom & Electronics"
+      ],
+      "primary_domain": "Telecom & Electronics"
+    },
+    {
+      "title": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ 43/2026",
+      "referenceNumber": "26PAY018469840",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-01-09T00:00:00",
+      "submissionDate": "2026-02-12T10:06:14.279",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.F00190.0001",
+      "paymentCommitmentCode": "ΡΣ0ΨΟΕΣΔ-2ΘΙ",
+      "organizationVatNumber": "090065800",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "51772",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΑΙΓΙΑΛΕΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL632",
+        "value": "Αχαΐα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "10",
+        "value": "Έργα"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "84984",
+          "value": "ΓΕΝΙΚΟΣ ΔΙΕΥΘΥΝΤΗΣ"
+        },
+        "signers": {
+          "key": "116484",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΠΑΝΑΓΟΠΟΥΛΟΣ - Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": "055/2",
+        "publicFundingRefNum": "2021SE05520000",
+        "publicFundingRefOps": "15-50",
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "15-50",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 2822324.82,
+      "totalCostWithoutVAT": 2822324.82,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "Erg",
+            "value": "Έργο"
+          },
+          "costWithoutVAT": 2822324.82,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΜΙΚΤΗ ΣΥΜΒΑΣΗ ΤΟΥ ΈΡΓΟΥ ΜΕ ΤΙΤΛΟ: «ΚΑΤΑΣΚΕΥΗ ΕΓΚΑΤΑΣΤΑΣΕΩΝ ΕΠΕΞΕΡΓΑΣΙΑΣ ΝΕΡΟΥ ΚΑΙ ΚΕΝΤΡΙΚΩΝ ΑΓΩΓΩΝ ΜΕΤΑΦΟΡΑΣ ΝΕΡΟΥ ΔΗΜΟΥ ΑΙΓΙΑΛΕΙΑΣ». Αφορά την μελέτη, κατασκευή και την 6μηνη δοκιμαστική λειτουργία του έργου ",
+          "cpvs": [
+            {
+              "key": "32441200-8",
+              "value": "Εξοπλισμός τηλεμετρίας και ελέγχου"
+            },
+            {
+              "key": "32441100-7",
+              "value": "Τηλεμετρικό σύστημα παρακολούθησης"
+            },
+            {
+              "key": "45252120-5",
+              "value": "Κατασκευαστικές εργασίες για σταθμούς επεξεργασίας υδάτων"
+            },
+            {
+              "key": "45231300-8",
+              "value": "Κατασκευαστικές εργασίες για αγωγούς ύδρευσης και αποχέτευσης"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΙΓΙΟ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "996435280",
+          "greekVatNo": true,
+          "name": "Κ/ΞΙΑ ΜΕΣΟΓΕΙΟΣ AQUA A.E.- Α.Τ.Ε.Σ.Ε. Α.Ε.",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "24SYMV016037959",
+      "cpv_codes_extracted": [
+        "32441200",
+        "32441100",
+        "45252120",
+        "45231300"
+      ],
+      "cpv_divisions": [
+        "32",
+        "45"
+      ],
+      "all_domains": [
+        "Telecom & Electronics",
+        "Construction & Works"
+      ],
+      "primary_domain": "Construction & Works"
+    },
+    {
+      "title": "ΥΛΙΚΑ",
+      "referenceNumber": "26PAY018469839",
+      "auctionReferenceNumber": null,
+      "signedDate": "2025-11-24T00:00:00",
+      "submissionDate": "2026-02-12T10:06:05.589",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1011.2040000000.0008",
+      "paymentCommitmentCode": "9ΙΗΕ6-ΨΣ7",
+      "organizationVatNumber": "090153025",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "6",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL633",
+        "value": "Ηλεία"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100028042",
+          "value": "ΓΕΑ/ΕΛΕΓΚΤΗΡΙΟ ΔΑΠΑΝΩΝ ΑΕΡΟΠΟΡΙΑΣ (ΕΛΔΑ) ΛΑΡΙΣΑΣ"
+        },
+        "signers": {
+          "key": "100093645",
+          "value": "ΑΠΟΣΤΟΛΟΣ ΜΕΚΚΑΣ - Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "1929 , 1329"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 19443.2,
+      "totalCostWithoutVAT": 15680.0,
+      "objectDetails": [
+        {
+          "quantity": 4,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 920,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ηχείο 2 δρόμων",
+          "cpvs": [
+            {
+              "key": "32342412-3",
+              "value": "Ηχεία"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΝΔΡΑΒΙΔΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "999332596",
+          "greekVatNo": true,
+          "name": "INTELLIGENT MEDIA ΕΠΕ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Μεταλλική Βάση - πλαίσιο προς εγκατάσταση push-pull βάσεων",
+          "cpvs": [
+            {
+              "key": "30237260-9",
+              "value": "Βραχίονες επιτοίχιας στερέωσης οθόνης"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΝΔΡΑΒΙΔΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "999332596",
+          "greekVatNo": true,
+          "name": "INTELLIGENT MEDIA ΕΠΕ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 8,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 960,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Επιτoίχια Βάση Video Wall Monitor ,τύπου push-pull",
+          "cpvs": [
+            {
+              "key": "30237260-9",
+              "value": "Βραχίονες επιτοίχιας στερέωσης οθόνης"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΝΔΡΑΒΙΔΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "999332596",
+          "greekVatNo": true,
+          "name": "INTELLIGENT MEDIA ΕΠΕ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 8,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 11680,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Video Wall Monitor 55''-3.5mm bezel to bezel",
+          "cpvs": [
+            {
+              "key": "30231310-3",
+              "value": "Επίπεδες οθόνες"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΝΔΡΑΒΙΔΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "999332596",
+          "greekVatNo": true,
+          "name": "INTELLIGENT MEDIA ΕΠΕ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 120,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Μικρόφωνο αναλογίου με επιτραπέζια βάση (Table Stand Bundle)",
+          "cpvs": [
+            {
+              "key": "32341000-5",
+              "value": "Μικρόφωνα"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΝΡΑΒΙΔΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "999332596",
+          "greekVatNo": true,
+          "name": "INTELLIGENT MEDIA ΕΠΕ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV017538838",
+      "cpv_codes_extracted": [
+        "32342412",
+        "30237260",
+        "30231310",
+        "32341000"
+      ],
+      "cpv_divisions": [
+        "32",
+        "30"
+      ],
+      "all_domains": [
+        "Telecom & Electronics",
+        "Office & Computing (Non-Software)"
+      ],
+      "primary_domain": "Telecom & Electronics"
+    },
+    {
+      "title": "ΠΛΗΡΩΜΗ ΠΡΟΜΗΘΕΙΑΣ ΚΑΡΤΩΝ SIM ΚΙΝΗΤΗΣ ΤΗΛΕΦΩΝΙΑΣ ΜΟΝΟ ΓΙΑ DATA (ΔΕΔΟΜΕΝΑ) ΓΙΑ ΤΟ Δ. ΚΟΖΑΝΗΣ",
+      "referenceNumber": "26PAY018469116",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T09:25:17.87",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.Ε81401.0001",
+      "paymentCommitmentCode": "452 ΨΘΒΥΩΛΠ-Ω9Τ & 87 ΨΑΤΗΩΛΠ-Ψ3Υ",
+      "organizationVatNumber": "997769577",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "6154",
+        "value": "ΔΗΜΟΣ ΚΟΖΑΝΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL531",
+        "value": "Γρεβενά, Κοζάνη"
       },
       "centralizedMarkets": [
         {
@@ -1355,12 +3122,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100026211",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΟΥ ( ΠΚΜ )"
+          "key": "81188",
+          "value": "ΔΗΜΟΣ ΚΟΖΑΝΗΣ ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
         },
         "signers": {
-          "key": "100079723",
-          "value": "ΑΝΑΣΤΑΣΙΑ ΧΑΤΖΗΣΑΡΡΟΥ - Προϊστάμενος Διεύθυνσης"
+          "key": "100044933",
+          "value": "ΧΡΗΣΤΟΣ ΚΑΡΑΛΙΩΤΑΣ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
         }
       },
       "fundingDetails": {
@@ -1370,47 +3137,43 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2420989001"
+        "regularBudgetFundedProgramRef": "0611"
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 6311.6,
-      "totalCostWithoutVAT": 5090.0,
+      "totalCostWithVAT": 344.03,
+      "totalCostWithoutVAT": 277.44,
       "objectDetails": [
         {
           "quantity": 1,
           "type": {
-            "key": "Erg",
-            "value": "Έργο"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 5090,
+          "costWithoutVAT": 277.44,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "\"Συντήρηση (διετ.διάρκ.) των πλωτών συστημάτων μέτρησης ποιότητας νερού,μετεωρολογικών παραμέτρων,θαλάσσιων ρευμάτων&κυμάτων που διαθέτει η Π.Κ.Μ στην περιοχή του Μακρύγ.& της Μηχανιών.\" Για Μακρύγ.:8.432€ συμπ.ΦΠΑ 24%(6.800€ άνευ ΦΠΑ)για εργασ. & 5.208€ συμπ.ΦΠΑ 24%(4.200€ άνευ ΦΠΑ)για αναλώσ. Για Μηχαν.:6.398,40€ συμπ.ΦΠΑ24%(5.160€άνευ ΦΠΑ) για εργασ. &5.208€συμπ.ΦΠΑ24%(4.200€ άνευ ΦΠΑ) για αναλ",
+          "shortDescription": "Προμήθεια καρτών sim κινητής τηλεφωνίας μόνο για data, (αποκλειστικά για δεδομένα), για τις ανάγκες του Δήμου Κοζάνης",
           "cpvs": [
             {
-              "key": "32441000-6",
-              "value": "Εξοπλισμός τηλεμετρίας"
-            },
-            {
-              "key": "50312610-4",
-              "value": "Συντήρηση εξοπλισμού τεχνολογίας των πληροφοριών"
+              "key": "32250000-0",
+              "value": "Κινητά τηλέφωνα"
             }
           ],
           "addressForDelivery": null,
           "streetNumber": null,
           "postalCode": null,
-          "city": "Θεσσαλονίκη",
+          "city": "ΚΟΖΑΝΗ",
           "cityOfConstruction": null,
           "countryOfDelivery": {
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "094518396",
+          "vatNo": "099936189",
           "greekVatNo": false,
-          "name": "ΣΑΪΕΝΤΑΚΤ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΕΜΠΟΡΙΑΣ ΕΠΙΣΤΗΜΟΝΙΚΟΥ ΕΞΟΠΛΙΣΜΟΥ",
+          "name": "NOVA A.E.",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -1424,18 +3187,15 @@
       "mixedContract": false,
       "requestRefNo": null,
       "auctionRefNo": null,
-      "contractRefNo": "24SYMV016043525",
+      "contractRefNo": "25SYMV016704610",
       "cpv_codes_extracted": [
-        "32441000",
-        "50312610"
+        "32250000"
       ],
       "cpv_divisions": [
-        "32",
-        "50"
+        "32"
       ],
       "all_domains": [
-        "Telecom & Electronics",
-        "Repair & Maintenance"
+        "Telecom & Electronics"
       ],
       "primary_domain": "Telecom & Electronics"
     }

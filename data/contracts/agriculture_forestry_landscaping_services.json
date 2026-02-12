@@ -1,33 +1,233 @@
 {
   "domain": "Agriculture/Forestry/Landscaping Services",
-  "count": 6,
+  "count": 2,
   "items": [
     {
-      "title": " ΣΥΜΒΑΣΗ Νο 01/ΑΚ/2026  ΣΥΜΒΑΣΗ ΓΙΑ ΥΠΗΡΕΣΙΕΣ ΜΕ ΤΙΤΛΟ «ΕΚΤΙΜΗΣΗ ΤΗΣ ΣΥΓΚΡΑΤΗΣΗΣ ΦΕΡΤΩΝ AQUA MONTIS ",
-      "referenceNumber": "26SYMV018459410",
+      "title": "Σύμβαση παροχής υπηρεσιών",
+      "referenceNumber": "26SYMV018473333",
       "prevReferenceNo": null,
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-10T14:28:53.501",
+      "submissionDate": "2026-02-12T13:09:14.445",
       "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-06",
-      "startDate": "2026-02-06",
+      "contractSignedDate": "2026-02-12",
+      "startDate": "2026-02-12",
       "noEndDate": false,
-      "endDate": "2026-06-06",
+      "endDate": "2026-08-12",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "decisionRelatedAda": null,
-      "contractNumber": "Νο 1/ΑΚ/2026",
+      "contractNumber": "οικ.391",
+      "authorEmail": null,
+      "organizationVatNumber": "997908822",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "diavgeiaADA": null,
+      "aaht": "1007.904.0001",
+      "budget": null,
+      "contractBudget": 18967.74,
+      "bidsSubmitted": null,
+      "maxBidsSubmitted": 3,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL541",
+            "value": "Άρτα, Πρέβεζα"
+          }
+        }
+      ],
+      "approvedRequestsList": [],
+      "organization": {
+        "key": "5006",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ"
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL541",
+        "value": "Άρτα, Πρέβεζα"
+      },
+      "nutsCity": "ΑΡΤΑ",
+      "nutsPostalCode": "47132",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "assignCriteria": {
+        "key": "9",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
+      },
+      "contractDuration": 6,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractRelatedADA": {
+        "number1": null,
+        "number2": null,
+        "number3": "ΨΩΒ47Λ9-ΜΩΒ"
+      },
+      "fundingDetails": {
+        "publicFundingRef": "ΣΑΝΠ 230",
+        "publicFundingRefNum": "2024ΝΠ23000000",
+        "publicFundingRefOps": "5223749",
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "contractingDataDetails": {
+        "unitsOperator": {
+          "key": "81261",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ ΠΕΡΙΦΕΡΕΙΑΚΗΣ ΕΝΟΤΗΤΑΣ ΑΡΤΑΣ"
+        },
+        "signers": {
+          "key": "111933",
+          "value": "ΒΑΣΙΛΕΙΟΣ ΨΑΘΑΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+        },
+        "contractingMembersDataList": [
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
+            "vatNumber": "800407510",
+            "greekVatNumber": false,
+            "name": "ΝΥΧΤΗΣ Γ. & ΣΙΑ Ε.Ε."
+          }
+        ]
+      },
+      "totalCostWithVAT": 23520.0,
+      "totalCostWithoutVAT": 18967.74,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 18967.74,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "\"Κοπή δέντρων, κλαδιών και ανεπιθύμητης βλάστησης στην 1η επαρχιακή οδό «Άρτα – Γλυκόριζο – Περάνθη – Κομμένο» στο τμήμα Γλυκόριζο έως Άγιο Γεώργιο (παροχή υπηρεσιών)\"",
+          "cpvs": [
+            {
+              "key": "77211400-6",
+              "value": "Υπηρεσίες κοπής δένδρων"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΑΡΤΑ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018452972"
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "nextRefNo": null,
+      "nextExtended": null,
+      "nextModified": null,
+      "auctionRefNo": "26AWRD018452972",
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "77211400"
+      ],
+      "cpv_divisions": [
+        "77"
+      ],
+      "all_domains": [
+        "Agriculture/Forestry/Landscaping Services"
+      ],
+      "primary_domain": "Agriculture/Forestry/Landscaping Services"
+    },
+    {
+      "title": "ΣΥΜΒΑΣΗ ΕΡΓΟΥ",
+      "referenceNumber": "26SYMV018470300",
+      "prevReferenceNo": null,
+      "noticeReferenceNumber": null,
+      "submissionDate": "2026-02-12T10:28:47.622",
+      "lastUpdateDate": null,
+      "contractSignedDate": "2026-02-12",
+      "startDate": "2026-02-12",
+      "noEndDate": false,
+      "endDate": "2027-11-30",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "decisionRelatedAda": null,
+      "contractNumber": "51203",
       "authorEmail": null,
       "organizationVatNumber": "090273987",
       "greekOrganizationVatNumber": false,
       "commitmentNo": null,
       "diavgeiaADA": null,
-      "aaht": "1031.0000000000.0001",
+      "aaht": "1031.2090000000.0006",
       "budget": null,
-      "contractBudget": 29500,
+      "contractBudget": 27433.72,
       "bidsSubmitted": null,
       "maxBidsSubmitted": 1,
       "numberOfSections": 1,
@@ -46,8 +246,8 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL",
-            "value": "ΕΛΛΑΔΑ"
+            "key": "EL434",
+            "value": "Χανιά"
           }
         }
       ],
@@ -62,11 +262,11 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
+        "key": "EL434",
+        "value": "Χανιά"
       },
-      "nutsCity": "Αθήνα",
-      "nutsPostalCode": "11528",
+      "nutsCity": "XANIA",
+      "nutsPostalCode": "73100",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -84,12 +284,12 @@
         "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
       },
       "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
+        "key": "10",
+        "value": "Έργα"
       },
       "assignCriteria": {
-        "key": "9",
-        "value": "Βάσει κόστους – άλλο"
+        "key": "10",
+        "value": "Βάσει τιμής"
       },
       "classificationOfPublicLawOrganization": {
         "key": "1",
@@ -103,7 +303,7 @@
         "key": "4",
         "value": "Περιβάλλον"
       },
-      "contractDuration": 4,
+      "contractDuration": 21,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -111,1331 +311,25 @@
       "contractRelatedADA": {
         "number1": null,
         "number2": null,
-        "number3": "ΨΑΧ6Ρ4Θ146Ψ844-ΩΕΡ"
+        "number3": "97ΠΑΗ-ΙΤΠ"
       },
       "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": "2499",
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "100035661",
-          "value": "ΓΕΝΙΚΗ ΔΕΥΘΥΝΣΗ ΔΑΣΩΝ ΚΑΙ ΔΑΣΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ"
-        },
-        "signers": {
-          "key": "100045366",
-          "value": "ΕΥΑΓΓΕΛΟΣ ΓΚΟΥΝΤΟΥΦΑΣ - Α/Α (Αντί Αυτού) Προϊσταμένου Γενικής Διεύθυνσης"
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "099957333",
-            "greekVatNumber": false,
-            "name": "ΟΜΙΚΡΟΝ ΣΥΜΒΟΥΛΟΙ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ"
-          }
-        ]
-      },
-      "totalCostWithVAT": 36580.0,
-      "totalCostWithoutVAT": 29500.0,
-      "objectDetailsList": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 29500,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΣΥΜΒΑΣΗ Νο 01/ΑΚ/2026  ΣΥΜΒΑΣΗ ΓΙΑ ΥΠΗΡΕΣΙΕΣ ΜΕ ΤΙΤΛΟ «ΕΚΤΙΜΗΣΗ ΤΗΣ ΣΥΓΚΡΑΤΗΣΗΣ ΦΕΡΤΩΝ ΑΠΟ ΤΗΝ ΚΑΤΑΣΚΕΥΗ ΤΩΝ ΕΡΓΩΝ ΟΡΕΙΝΗΣ ΥΔΡΟΝΟΜΙΑΣ ΤΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ AQUA MONTIS ΣΕ ΕΠΙΛΕΓΕΙΣΕΣ ΛΕΚΑΝΕΣ ΤΟΥ ΥΔ EL08 ΘΕΣΣΑΛΙΑΣ»  ",
-          "cpvs": [
-            {
-              "key": "77231900-7",
-              "value": "Υπηρεσίες δασικού τομεακού σχεδιασμού"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΑΘΗΝΑ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018413972"
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "26AWRD018413972",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "77231900"
-      ],
-      "cpv_divisions": [
-        "77"
-      ],
-      "all_domains": [
-        "Agriculture/Forestry/Landscaping Services"
-      ],
-      "primary_domain": "Agriculture/Forestry/Landscaping Services"
-    },
-    {
-      "title": "ΣΥΜΒΑΣΗ ΕΡΓΑΣΙΩΝ ΠΕΡΙΠΟΙΗΣΗΣ ΤΩΝ ΔΕΝΤΡΩΝ ΠΟΥ ΒΡΙΣΚΟΝΤΑΙ ΣΤΙΣ ΑΥΛΕΣ ΤΩΝ ΣΧΟΛΕΙΩΝ, ΑΡΜΟΔΙΟΤΗΤΑΣ ΤΗΣ ΔΕ",
-      "referenceNumber": "26SYMV018458258",
-      "prevReferenceNo": null,
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-10T13:08:33.709",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-10",
-      "startDate": "2026-02-10",
-      "noEndDate": false,
-      "endDate": "2026-12-31",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "181",
-      "authorEmail": null,
-      "organizationVatNumber": "997512090",
-      "greekOrganizationVatNumber": true,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1007.F00450.0001",
-      "budget": null,
-      "contractBudget": 30000,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 1,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL522",
-            "value": "Θεσσαλονίκη"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "51729",
-        "value": "ΣΧΟΛΙΚΕΣ ΕΠΙΤΡΟΠΕΣ ΔΗΜΟΥ ΘΕΣΣΑΛΟΝΙΚΗΣ"
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
-      },
-      "nutsCity": "ΘΕΣΣΑΛΟΝΙΚΗ",
-      "nutsPostalCode": "54639",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "assignCriteria": {
-        "key": "9",
-        "value": "Βάσει κόστους – άλλο"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
-      },
-      "contractDuration": 12,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "97ΦΜΟΕ2Η-ΙΥΜ"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": "00",
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "94417",
-          "value": "02. ΣΧΟΛΙΚΗ ΕΠΙΤΡΟΠΗ ΔΕΥΤΕΡΟΒΑΘΜΙΑΣ ΕΚΠΑΙΔΕΥΣΗΣ ΔΗΜΟΥ ΘΕΣΣΑΛΟΝΙΚΗΣ"
-        },
-        "signers": {
-          "key": "100087724",
-          "value": "ΑΙΚΑΤΕΡΙΝΗ ΜΠΑΛΤΖΑΚΗ - Πρόεδρος Δ.Σ."
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "801593570",
-            "greekVatNumber": true,
-            "name": "GREEN ΜASTERS Ι.Κ.Ε. ΤΑΟΥΛΤΣΙΔΗΣ ΣΩΚΡΑΤΗΣ"
-          }
-        ]
-      },
-      "totalCostWithVAT": 37200.0,
-      "totalCostWithoutVAT": 30000.0,
-      "objectDetailsList": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 30000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΣΥΜΒΑΣΗ ΕΡΓΑΣΙΩΝ ΠΕΡΙΠΟΙΗΣΗΣ ΤΩΝ ΔΕΝΤΡΩΝ ΠΟΥ ΒΡΙΣΚΟΝΤΑΙ ΣΤΙΣ ΑΥΛΕΣ ΤΩΝ ΣΧΟΛΕΙΩΝ, ΑΡΜΟΔΙΟΤΗΤΑΣ ΤΗΣ ΔΕΥΤΕΡΟΒΑΘΜΙΑΣ ΕΚΠΑΙΔΕΥΣΗΣ ΤΟΥ ΔΗΜΟΥ ΘΕΣΣΑΛΟΝΙΚΗΣ, ΔΙΑΡΚΕΙΑΣ ΑΠΟ ΤΗΝ ΥΠΟΓΡΑΦΗ ΤΗΣ ΣΥΜΒΑΣΗΣ",
-          "cpvs": [
-            {
-              "key": "77341000-2",
-              "value": "Κλάδεμα δένδρων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΘΕΣΣΑΛΟΝΙΚΗ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018370798"
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "26AWRD018370798",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "77341000"
-      ],
-      "cpv_divisions": [
-        "77"
-      ],
-      "all_domains": [
-        "Agriculture/Forestry/Landscaping Services"
-      ],
-      "primary_domain": "Agriculture/Forestry/Landscaping Services"
-    },
-    {
-      "title": "Υπηρεσία κοπής-απομάκρυνσης δέντρων-φυτικού υλικού πληγεντων απο πυρκαγιές Αυγουστου (ΡΙΟ)",
-      "referenceNumber": "26SYMV018458020",
-      "prevReferenceNo": "25SYMV017988613",
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-10T12:57:04.081",
-      "lastUpdateDate": "2026-02-10",
-      "contractSignedDate": "2025-11-24",
-      "startDate": "2025-11-24",
-      "noEndDate": false,
-      "endDate": "2026-03-19",
-      "cancelled": true,
-      "cancellationDate": "2026-02-10T13:31:00.326",
-      "cancellationType": "Ακύρωση λόγω λανθασμένης καταχώρησης",
-      "cancellationReason": "ΛΑΘΟΣ ΑΡΧΕΙΟ",
-      "cancellationADA": null,
-      "decisionRelatedAda": "Ψ0Θ0ΩΞΙ-ΨΓΘ",
-      "contractNumber": "49/4-2-2026",
-      "authorEmail": null,
-      "organizationVatNumber": "997992450",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1007.Ε83701.0001",
-      "budget": null,
-      "contractBudget": 32257,
-      "bidsSubmitted": 1,
-      "maxBidsSubmitted": 1,
-      "numberOfSections": 3,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL632",
-            "value": "Αχαΐα"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "6241",
-        "value": "ΔΗΜΟΣ ΠΑΤΡΕΩΝ"
-      },
-      "procedureType": {
-        "key": "12",
-        "value": "Διαπραγμάτευση χωρίς προηγούμενη δημοσίευση"
-      },
-      "awardProcedure": {
-        "key": "60",
-        "value": "Κατεπείγουσα ανάγκη οφειλόμενη σε  γεγονότα απρόβλεπτα για την αναθέτουσα αρχή"
-      },
-      "nutsCode": {
-        "key": "EL632",
-        "value": "Αχαΐα"
-      },
-      "nutsCity": "ΠΑΤΡΑ",
-      "nutsPostalCode": "26223",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "assignCriteria": {
-        "key": "9",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
-      },
-      "contractDuration": 3,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "6ΗΒ8ΩΞΙ-1Β5"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": "35-6117.00036",
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "90951",
-          "value": "ΓΡΑΦΕΙΟ ΔΗΜΑΡΧΟΥ"
-        },
-        "signers": {
-          "key": "100002117",
-          "value": "Κωσταντίνος Πελετίδης - Δήμαρχος"
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "062332811",
-            "greekVatNumber": false,
-            "name": "Σάμαρης Στεφ. Ζαχαρίας"
-          }
-        ]
-      },
-      "totalCostWithVAT": 39679.38,
-      "totalCostWithoutVAT": 31999.5,
-      "objectDetailsList": [
-        {
-          "quantity": 80000,
-          "type": {
-            "key": "MTK",
-            "value": "m 2"
-          },
-          "costWithoutVAT": 5160,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΠΟΨΙΛΩΣΗ ΜΕ ΧΡΗΣΗ ΧΕΙΡΟΚΙΝΗΤΟΥ ΧΟΡΤΟΚΟΠΤΙΚΟΥ",
-          "cpvs": [
-            {
-              "key": "77312000-0",
-              "value": "Υπηρεσίες εκκαθάρισης από αγριόχορτα"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΠΑΤΡΑ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "25AWRD017872369"
-        },
-        {
-          "quantity": 75000,
-          "type": {
-            "key": "MTK",
-            "value": "m 2"
-          },
-          "costWithoutVAT": 2962.5,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Αποψίλωση, κοπή βλάστησης με χρήση αυτοκινούμενου μηχανήματος",
-          "cpvs": [
-            {
-              "key": "77112000-8",
-              "value": "Ενοικίαση χορτοκοπτικών ή γεωργικών μηχανημάτων με χειριστή"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΠΑΤΡΑ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "25AWRD017872369"
-        },
-        {
-          "quantity": 11,
-          "type": {
-            "key": "DAY",
-            "value": "Ημέρα"
-          },
-          "costWithoutVAT": 2519,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Μίσθωση μηχανημάτων για καθαρισμό εκτάσεων",
-          "cpvs": [
-            {
-              "key": "45112400-9",
-              "value": "Εργασίες εκσκαφών"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΠΑΤΡΑ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "25AWRD017872369"
-        },
-        {
-          "quantity": 490,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1078,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Κοπή ή κλάδεμα θάμνων ανεξαρτήτως ύψους ",
-          "cpvs": [
-            {
-              "key": "77341000-2",
-              "value": "Κλάδεμα δένδρων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΠΑΤΡΑ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "25AWRD017872369"
-        },
-        {
-          "quantity": 240,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 20280,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Κοπή ή κλάδεμα δέντρων",
-          "cpvs": [
-            {
-              "key": "77211400-6",
-              "value": "Υπηρεσίες κοπής δένδρων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΠΑΤΡΑ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "25AWRD017872369"
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "25AWRD017872369",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "77312000",
-        "77112000",
-        "45112400",
-        "77341000",
-        "77211400"
-      ],
-      "cpv_divisions": [
-        "77",
-        "45"
-      ],
-      "all_domains": [
-        "Agriculture/Forestry/Landscaping Services",
-        "Construction & Works"
-      ],
-      "primary_domain": "Construction & Works"
-    },
-    {
-      "title": "ΣΥΜΒΑΣΗ ΓΙΑ ΤΗΝ ΕΚΤΕΛΕΣΗ ΕΡΓΑΣΙΩΝ ΑΠΟΨΙΛΩΣΗΣ ΧΟΡΤΩΝ ΚΑΙ ΚΛΑΔΕΜΑΤΟΣ ΘΑΜΝΩΝ ΣΤΙΣ ΑΥΛΕΣ ΤΩΝ ΣΧΟΛΙΚΩΝ ΜΟ",
-      "referenceNumber": "26SYMV018457960",
-      "prevReferenceNo": null,
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-10T12:53:12.095",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-10",
-      "startDate": "2026-02-10",
-      "noEndDate": false,
-      "endDate": "2026-12-31",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "180",
-      "authorEmail": null,
-      "organizationVatNumber": "997512090",
-      "greekOrganizationVatNumber": true,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1007.F00450.0001",
-      "budget": null,
-      "contractBudget": 10000,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 1,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL522",
-            "value": "Θεσσαλονίκη"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "51729",
-        "value": "ΣΧΟΛΙΚΕΣ ΕΠΙΤΡΟΠΕΣ ΔΗΜΟΥ ΘΕΣΣΑΛΟΝΙΚΗΣ"
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
-      },
-      "nutsCity": "ΘΕΣΣΑΛΟΝΙΚΗ",
-      "nutsPostalCode": "54639",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "assignCriteria": {
-        "key": "9",
-        "value": "Βάσει κόστους – άλλο"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
-      },
-      "contractDuration": 12,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "9ΕΕΞΟΕ2Η"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": "00",
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "94417",
-          "value": "02. ΣΧΟΛΙΚΗ ΕΠΙΤΡΟΠΗ ΔΕΥΤΕΡΟΒΑΘΜΙΑΣ ΕΚΠΑΙΔΕΥΣΗΣ ΔΗΜΟΥ ΘΕΣΣΑΛΟΝΙΚΗΣ"
-        },
-        "signers": {
-          "key": "100087724",
-          "value": "ΑΙΚΑΤΕΡΙΝΗ ΜΠΑΛΤΖΑΚΗ - Πρόεδρος Δ.Σ."
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "801593570",
-            "greekVatNumber": true,
-            "name": "GREEN ΜASTERS Ι.Κ.Ε. ΤΑΟΥΛΤΣΙΔΗΣ ΣΩΚΡΑΤΗΣ"
-          }
-        ]
-      },
-      "totalCostWithVAT": 12400.0,
-      "totalCostWithoutVAT": 10000.0,
-      "objectDetailsList": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 10000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΣΥΜΒΑΣΗ ΓΙΑ ΤΗΝ ΕΚΤΕΛΕΣΗ ΕΡΓΑΣΙΩΝ ΑΠΟΨΙΛΩΣΗΣ ΧΟΡΤΩΝ ΚΑΙ ΚΛΑΔΕΜΑΤΟΣ ΘΑΜΝΩΝ ΣΤΙΣ ΑΥΛΕΣ ΤΩΝ ΣΧΟΛΙΚΩΝ ΜΟΝΑΔΩΝ ΑΡΜΟΔΙΟΤΗΤΑΣ ΤΗΣ ΔΕΥΤΕΡΟΒΑΘΜΙΑΣ ΕΚΠΑΙΔΕΥΣΗΣ ΤΟΥ ΔΗΜΟΥ ΘΕΣΣΑΛΟΝΙΚΗΣ, ΔΙΑΡΚΕΙΑΣ ΑΠΟ ΤΗΝ ΥΠΟΓΡΑΦΗ ΤΗΣ ΣΥΜΒΑΣΗΣ ΕΩΣ ΚΑΙ ΤΗΝ 31-12-2025.",
-          "cpvs": [
-            {
-              "key": "77312000-0",
-              "value": "Υπηρεσίες εκκαθάρισης από αγριόχορτα"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΘΕΣΣΑΛΟΝΙΚΗ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018372437"
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "26AWRD018372437",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "77312000"
-      ],
-      "cpv_divisions": [
-        "77"
-      ],
-      "all_domains": [
-        "Agriculture/Forestry/Landscaping Services"
-      ],
-      "primary_domain": "Agriculture/Forestry/Landscaping Services"
-    },
-    {
-      "title": "Υπηρεσία κοπής-απομάκρυνσης δέντρων-φυτικού υλικού πληγεντων απο τις πυρκαγιές Αυγουστου ΔΕ ΠΑΤΡΕΩΝ",
-      "referenceNumber": "26SYMV018457887",
-      "prevReferenceNo": "25SYMV018003969",
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-10T12:49:05.506",
-      "lastUpdateDate": "2026-02-10",
-      "contractSignedDate": "2025-11-25",
-      "startDate": "2025-11-25",
-      "noEndDate": false,
-      "endDate": "2026-03-23",
-      "cancelled": true,
-      "cancellationDate": "2026-02-10T13:31:37.165",
-      "cancellationType": "Ακύρωση λόγω λανθασμένης καταχώρησης",
-      "cancellationReason": "ΛΑΘΟΣ ΑΡΧΕΙΟ",
-      "cancellationADA": null,
-      "decisionRelatedAda": "Ψ0Θ0ΩΞΙ-ΨΓΘ",
-      "contractNumber": "49/4-2-2026",
-      "authorEmail": null,
-      "organizationVatNumber": "997992450",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1007.Ε83701.0001",
-      "budget": null,
-      "contractBudget": 48385.4,
-      "bidsSubmitted": 1,
-      "maxBidsSubmitted": 1,
-      "numberOfSections": 3,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL632",
-            "value": "Αχαΐα"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "6241",
-        "value": "ΔΗΜΟΣ ΠΑΤΡΕΩΝ"
-      },
-      "procedureType": {
-        "key": "12",
-        "value": "Διαπραγμάτευση χωρίς προηγούμενη δημοσίευση"
-      },
-      "awardProcedure": {
-        "key": "60",
-        "value": "Κατεπείγουσα ανάγκη οφειλόμενη σε  γεγονότα απρόβλεπτα για την αναθέτουσα αρχή"
-      },
-      "nutsCode": {
-        "key": "EL632",
-        "value": "Αχαΐα"
-      },
-      "nutsCity": "ΠΑΤΡΑ",
-      "nutsPostalCode": "26223",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "assignCriteria": {
-        "key": "9",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
-      },
-      "contractDuration": 3,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "9ΞΑ3ΩΞΙ-Ω5Θ"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": "35-6117.00037",
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "90951",
-          "value": "ΓΡΑΦΕΙΟ ΔΗΜΑΡΧΟΥ"
-        },
-        "signers": {
-          "key": "100002117",
-          "value": "Κωσταντίνος Πελετίδης - Δήμαρχος"
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "040903791",
-            "greekVatNumber": false,
-            "name": "Σωτηρακόπουλος Ιωάννης"
-          }
-        ]
-      },
-      "totalCostWithVAT": 59423.03,
-      "totalCostWithoutVAT": 47921.8,
-      "objectDetailsList": [
-        {
-          "quantity": 120000,
-          "type": {
-            "key": "MTK",
-            "value": "m 2"
-          },
-          "costWithoutVAT": 7752,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΠΟΨΙΛΩΣΗ ΜΕ ΧΡΗΣΗ ΧΕΙΡΟΚΙΝΗΤΟΥ ΧΟΡΤΟΚΟΠΤΙΚΟΥ",
-          "cpvs": [
-            {
-              "key": "77312000-0",
-              "value": "Υπηρεσίες εκκαθάρισης από αγριόχορτα"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΠΑΤΡΑ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "25AWRD017872369"
-        },
-        {
-          "quantity": 102000,
-          "type": {
-            "key": "MTK",
-            "value": "m 2"
-          },
-          "costWithoutVAT": 4039.2,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Αποψίλωση, κοπή βλάστησης με χρήση αυτοκινούμενου μηχανήματος",
-          "cpvs": [
-            {
-              "key": "77112000-8",
-              "value": "Ενοικίαση χορτοκοπτικών ή γεωργικών μηχανημάτων με χειριστή"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΠΑΤΡΑ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "25AWRD017872369"
-        },
-        {
-          "quantity": 17,
-          "type": {
-            "key": "DAY",
-            "value": "Ημέρα"
-          },
-          "costWithoutVAT": 3893,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Μίσθωση μηχανημάτων για καθαρισμό εκτάσεων",
-          "cpvs": [
-            {
-              "key": "45112400-9",
-              "value": "Εργασίες εκσκαφών"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΠΑΤΡΑ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "25AWRD017872369"
-        },
-        {
-          "quantity": 1998,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 4395.6,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Κοπή ή κλάδεμα θάμνων ανεξαρτήτως ύψους ",
-          "cpvs": [
-            {
-              "key": "77341000-2",
-              "value": "Κλάδεμα δένδρων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΠΑΤΡΑ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "25AWRD017872369"
-        },
-        {
-          "quantity": 340,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 27842,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Κοπή ή κλάδεμα δέντρων",
-          "cpvs": [
-            {
-              "key": "77211400-6",
-              "value": "Υπηρεσίες κοπής δένδρων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΠΑΤΡΑ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "25AWRD017872369"
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "25AWRD017872369",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "77312000",
-        "77112000",
-        "45112400",
-        "77341000",
-        "77211400"
-      ],
-      "cpv_divisions": [
-        "77",
-        "45"
-      ],
-      "all_domains": [
-        "Agriculture/Forestry/Landscaping Services",
-        "Construction & Works"
-      ],
-      "primary_domain": "Construction & Works"
-    },
-    {
-      "title": "ΔΕΑ - 7795261_2026 ΥΠΗΡΕΣΙΑ ΚΟΠΗΣ ΧΑΜΗΛΗΣ ΒΛΑΣΤΗΣΗΣ",
-      "referenceNumber": "26SYMV018456337",
-      "prevReferenceNo": null,
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-10T11:24:09.105",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2026-01-22",
-      "startDate": "2026-01-22",
-      "noEndDate": false,
-      "endDate": "2026-12-31",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "ΔΕΑ - 7795261_2026 ",
-      "authorEmail": null,
-      "organizationVatNumber": "099877486",
-      "greekOrganizationVatNumber": true,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1031.F01175.0001",
-      "budget": null,
-      "contractBudget": 13500,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 3,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL6",
-            "value": "ΚΕΝΤΡΙΚΗ ΕΛΛΑΔΑ"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "100034350",
-        "value": "ΑΝΕΞΑΡΤΗΤΟΣ ΔΙΑΧΕΙΡΙΣΤΗΣ ΜΕΤΑΦΟΡΑΣ ΗΛΕΚΤΡΙΚΗΣ ΕΝΕΡΓΕΙΑΣ ΑΔΜΗΕ ΑΕ"
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "10443",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "7",
-        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "assignCriteria": {
-        "key": "9",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
-      },
-      "contractDuration": 12,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "ΨΧΠΞ465ΧΙ8-Σ8Ο  "
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
+        "publicFundingRef": "0842",
+        "publicFundingRefNum": "2024ΣΕ08420000",
+        "publicFundingRefOps": "2024ΣΕ08420000",
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "*"
+        "regularBudgetFundedProgramRef": null
       },
       "contractingDataDetails": {
         "unitsOperator": {
-          "key": "100034535",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΕΦΟΔΙΑΣΤΙΚΗΣ ΑΛΥΣΙΔΑΣ"
+          "key": "100073996",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΔΑΣΩΝ ΧΑΝΙΩΝ"
         },
         "signers": {
-          "key": "100044047",
-          "value": "ΖΗΝΕΛΛΗΣ ΑΡΙΣΤΕΙΔΗΣ - Διευθυντής Κλάδου"
+          "key": "100075690",
+          "value": "ΑΓΛΑΪΑ ΣΚΟΥΜΠΑΚΗ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
         },
         "contractingMembersDataList": [
           {
@@ -1443,32 +337,32 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "997436470",
-            "greekVatNumber": true,
-            "name": "ΚΗΠΟΔΗΜΙΟΥΡΓΙΕΣ ΚΟΙΝ. Σ.ΕΠ."
+            "vatNumber": "052013460",
+            "greekVatNumber": false,
+            "name": "Κεφαλογιάννη Θεοχάρη "
           }
         ]
       },
-      "totalCostWithVAT": 16740.0,
-      "totalCostWithoutVAT": 13500.0,
+      "totalCostWithVAT": 34017.81,
+      "totalCostWithoutVAT": 27433.72,
       "objectDetailsList": [
         {
           "quantity": 1,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "Erg",
+            "value": "Έργο"
           },
-          "costWithoutVAT": 13500,
+          "costWithoutVAT": 27433.72,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΔΕΑ - 7795261_2026 ΥΠΗΡΕΣΙΑ ΚΟΠΗΣ ΧΑΜΗΛΗΣ ΒΛΑΣΤΗΣΗΣ",
+          "shortDescription": "Φύτευση πεντακοσίων (500) νέων βωλόφυτων φοίνικα και περιποίηση αυτών για δύο χρόνια",
           "cpvs": [
             {
-              "key": "77312000-0",
-              "value": "Υπηρεσίες εκκαθάρισης από αγριόχορτα"
+              "key": "77231600-4",
+              "value": "Υπηρεσίες αναδάσωσης"
             }
           ],
           "greenContracts": {
@@ -1483,10 +377,10 @@
           },
           "addressForDelivery": null,
           "postalCode": null,
-          "city": "ΛΑΡΙΣΑ",
+          "city": "ΧΑΝΙΑ",
           "streetNumber": null,
           "budgetCode": null,
-          "requestRefNo": "26AWRD018456246"
+          "requestRefNo": "26AWRD018450020"
         }
       ],
       "additionalContractTypes": null,
@@ -1495,10 +389,10 @@
       "nextRefNo": null,
       "nextExtended": null,
       "nextModified": null,
-      "auctionRefNo": "26AWRD018456246",
+      "auctionRefNo": "26AWRD018450020",
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "77312000"
+        "77231600"
       ],
       "cpv_divisions": [
         "77"

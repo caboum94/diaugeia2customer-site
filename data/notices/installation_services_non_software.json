@@ -1,14 +1,14 @@
 {
   "domain": "Installation Services (Non-Software)",
-  "count": 6,
+  "count": 4,
   "items": [
     {
       "title": "Πρόσκληση έργων αντιπυρικής προστασίας σύμφωνα με τις διατάξεις του αρ. 16 παρ. 5 του ν. 998/1979.",
-      "referenceNumber": "26PROC018460166",
-      "signedDate": "2026-02-10T00:00:00",
+      "referenceNumber": "26PROC018474630",
+      "signedDate": "2026-02-12T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-17T14:30:00",
-      "submissionDate": "2026-02-10T16:38:33.631",
+      "finalSubmissionDate": "2026-02-19T15:00:00",
+      "submissionDate": "2026-02-12T19:31:15.174",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -76,7 +76,7 @@
       ],
       "approvedRequests": [
         {
-          "code": "26REQ018452662"
+          "code": "26REQ018467957"
         }
       ],
       "contractingAuthorities": [
@@ -90,14 +90,14 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL305",
-            "value": "Ανατολική Αττική"
+            "key": "EL611",
+            "value": "Καρδίτσα, Τρίκαλα"
           }
         },
         {
           "nutsCode": {
-            "key": "EL307",
-            "value": "Πειραιάς, Νήσοι"
+            "key": "EL643",
+            "value": "Ευρυτανία"
           }
         }
       ],
@@ -155,62 +155,50 @@
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 6127718.53,
-      "totalCostWithoutVAT": 4941708.49,
+      "totalCostWithVAT": 5289807.61,
+      "totalCostWithoutVAT": 4265973.88,
       "objectDetails": [
         {
           "quantity": 1,
           "type": {
-            "key": "Erg",
-            "value": "Έργο"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 4941708.49,
+          "costWithoutVAT": 4265973.88,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Πρόσκληση υποβολής προσφοράς για την υλοποίηση έργων αντιπυρικής προστασίας σε δημόσια δάση και δασικές εκτάσεις και δασοκομικοί χειρισμοί σε μεταπυρικά οικοσυστήματα, σε εκτάσεις αρμοδιότητας των Δασαρχείων Καπανδριτίου, Πάρνηθας και Πόρου, σύμφωνα με τις διατάξεις του αρ. 16 παρ. 5 του ν. 998/1979. ",
+          "shortDescription": "Πρόσκληση υποβολής προσφοράς για την υλοποίηση έργων αντιπυρικής προστασίας σε δημόσιες δασικές εκτάσεις, σε περιοχές αρμοδιότητας των Δασαρχείων Καλαμπάκας, Μουζακίου, Τρικάλων και Καρπενησίου, σύμφωνα με τις διατάξεις του αρ. 16 παρ. 5 του ν. 998/1979.",
           "cpvs": [
             {
-              "key": "45223500-1",
-              "value": "Κατασκευές από οπλισμένο σκυρόδεμα"
-            },
-            {
-              "key": "77231900-7",
-              "value": "Υπηρεσίες δασικού τομεακού σχεδιασμού"
-            },
-            {
-              "key": "51810000-3",
-              "value": "Υπηρεσίες εγκατάστασης δεξαμενών"
+              "key": "44611500-1",
+              "value": "Δεξαμενές νερού"
             },
             {
               "key": "77211300-5",
               "value": "Υπηρεσίες υλοτόμισης"
             },
             {
-              "key": "90712200-3",
-              "value": "Στρατηγικός σχεδιασμός διατήρησης δασών"
-            },
-            {
-              "key": "45232150-8",
-              "value": "Εργασίες σχετιζόμενες με τους αγωγούς διανομής νερού"
-            },
-            {
               "key": "77211100-3",
               "value": "Υπηρεσίες περισυλλογής ξυλείας"
             },
             {
-              "key": "77211000-2",
-              "value": "Υπηρεσίες σχετιζόμενες με την υλοτομία"
+              "key": "51810000-3",
+              "value": "Υπηρεσίες εγκατάστασης δεξαμενών"
             },
             {
-              "key": "77200000-2",
-              "value": "Υπηρεσίες δασοκομίας"
+              "key": "45243510-0",
+              "value": "Εργασίες επιχωμάτωσης"
             },
             {
-              "key": "71320000-7",
-              "value": "Υπηρεσίες εκπόνησης τεχνικών μελετών"
+              "key": "90712200-3",
+              "value": "Στρατηγικός σχεδιασμός διατήρησης δασών"
+            },
+            {
+              "key": "77231900-7",
+              "value": "Υπηρεσίες δασικού τομεακού σχεδιασμού"
             },
             {
               "key": "71354100-5",
@@ -221,36 +209,60 @@
               "value": "Ειδικές υπηρεσίες μελετών"
             },
             {
-              "key": "77231300-1",
-              "value": "Υπηρεσίες διαχείρισης δασών"
+              "key": "77211000-2",
+              "value": "Υπηρεσίες σχετιζόμενες με την υλοτομία"
             },
             {
-              "key": "45243510-0",
-              "value": "Εργασίες επιχωμάτωσης"
+              "key": "45223500-1",
+              "value": "Κατασκευές από οπλισμένο σκυρόδεμα"
             },
             {
-              "key": "45233290-8",
-              "value": "Εγκατάσταση οδικών πινακίδων"
+              "key": "50514200-3",
+              "value": "Υπηρεσίες επισκευής και συντήρησης δεξαμενών"
+            },
+            {
+              "key": "45442120-4",
+              "value": "Εργασίες βαφής και προστατευτικής επικάλυψης τεχνικών κατασκευών"
+            },
+            {
+              "key": "45442100-8",
+              "value": "Εργασίες βαφής"
             },
             {
               "key": "45112400-9",
               "value": "Εργασίες εκσκαφών"
             },
             {
+              "key": "71320000-7",
+              "value": "Υπηρεσίες εκπόνησης τεχνικών μελετών"
+            },
+            {
+              "key": "77200000-2",
+              "value": "Υπηρεσίες δασοκομίας"
+            },
+            {
               "key": "77211200-4",
               "value": "Μεταφορά κορμών δένδρων στο εσωτερικό δάσους"
             },
             {
-              "key": "77340000-5",
-              "value": "Κλάδεμα δένδρων και θάμνων"
+              "key": "77231300-1",
+              "value": "Υπηρεσίες διαχείρισης δασών"
+            },
+            {
+              "key": "90913200-2",
+              "value": "Υπηρεσία καθαρισμού δεξαμενών"
             },
             {
               "key": "79421200-3",
               "value": "Υπηρεσίες μελέτης έργων"
             },
             {
-              "key": "44611500-1",
-              "value": "Δεξαμενές νερού"
+              "key": "77340000-5",
+              "value": "Κλάδεμα δένδρων και θάμνων"
+            },
+            {
+              "key": "45232150-8",
+              "value": "Εργασίες σχετιζόμενες με τους αγωγούς διανομής νερού"
             }
           ],
           "greenContracts": {
@@ -278,54 +290,59 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "45223500",
-        "77231900",
-        "51810000",
+        "44611500",
         "77211300",
-        "90712200",
-        "45232150",
         "77211100",
-        "77211000",
-        "77200000",
-        "71320000",
+        "51810000",
+        "45243510",
+        "90712200",
+        "77231900",
         "71354100",
         "79930000",
-        "77231300",
-        "45243510",
-        "45233290",
+        "77211000",
+        "45223500",
+        "50514200",
+        "45442120",
+        "45442100",
         "45112400",
+        "71320000",
+        "77200000",
         "77211200",
-        "77340000",
+        "77231300",
+        "90913200",
         "79421200",
-        "44611500"
+        "77340000",
+        "45232150"
       ],
       "cpv_divisions": [
-        "45",
+        "44",
         "77",
         "51",
+        "45",
         "90",
         "71",
         "79",
-        "44"
+        "50"
       ],
       "all_domains": [
-        "Construction & Works",
+        "Construction Materials & Structures",
         "Agriculture/Forestry/Landscaping Services",
         "Installation Services (Non-Software)",
+        "Construction & Works",
         "Environmental, Cleaning & Waste Services",
         "Architecture, Engineering & Inspection",
         "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "Construction Materials & Structures"
+        "Repair & Maintenance"
       ],
       "primary_domain": "Construction & Works"
     },
     {
       "title": "Πρόσκληση έργων αντιπυρικής προστασίας σύμφωνα με τις διατάξεις του αρ. 16 παρ. 5 του ν. 998/1979.",
-      "referenceNumber": "26PROC018460137",
-      "signedDate": "2026-02-10T00:00:00",
+      "referenceNumber": "26PROC018474617",
+      "signedDate": "2026-02-12T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-17T13:00:00",
-      "submissionDate": "2026-02-10T16:25:20.67",
+      "finalSubmissionDate": "2026-02-19T11:00:00",
+      "submissionDate": "2026-02-12T19:04:51.011",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -393,7 +410,7 @@
       ],
       "approvedRequests": [
         {
-          "code": "26REQ018452615"
+          "code": "26REQ018467505"
         }
       ],
       "contractingAuthorities": [
@@ -407,20 +424,8 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL307",
-            "value": "Πειραιάς, Νήσοι"
-          }
-        },
-        {
-          "nutsCode": {
-            "key": "EL306",
-            "value": "Δυτική Αττική"
-          }
-        },
-        {
-          "nutsCode": {
-            "key": "EL301",
-            "value": "Βόρειος Τομέας Αθηνών"
+            "key": "EL43",
+            "value": "Κρήτη"
           }
         }
       ],
@@ -478,122 +483,70 @@
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 6030781.49,
-      "totalCostWithoutVAT": 4863533.46,
+      "totalCostWithVAT": 2662842.92,
+      "totalCostWithoutVAT": 2147453.97,
       "objectDetails": [
         {
           "quantity": 1,
           "type": {
-            "key": "Erg",
-            "value": "Έργο"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 4863533.46,
+          "costWithoutVAT": 2147453.97,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Πρόσκληση υποβολής προσφοράς για την υλοποίηση έργων αντιπυρικής προστασίας σε δημόσιες δασικές εκτάσεις και δάση, αρμοδιότητας των Δασαρχείων Αιγάλεω, Μεγάρων, Πειραιά, και Πεντέλης, σύμφωνα με τις διατάξεις του αρ. 16 παρ. 5 του ν. 998/1979. ",
+          "shortDescription": "Πρόσκληση υποβολής προσφοράς για την υλοποίηση έργων αντιπυρικής προστασίας σε δημόσια δάση, δασικά συμπλέγματα, δασικές και αναδασωτέες εκτάσεις, σε περιοχές αρμοδιότητας των Διευθύνσεων Δασών Ηρακλείου, Λασιθίου, Ρεθύμνου και Χανίων, σύμφωνα με τις διατάξεις του αρ. 16 παρ. 5 του ν. 998/1979.",
           "cpvs": [
             {
-              "key": "45112400-9",
-              "value": "Εργασίες εκσκαφών"
-            },
-            {
-              "key": "77231900-7",
-              "value": "Υπηρεσίες δασικού τομεακού σχεδιασμού"
-            },
-            {
-              "key": "77211200-4",
-              "value": "Μεταφορά κορμών δένδρων στο εσωτερικό δάσους"
-            },
-            {
-              "key": "79930000-2",
-              "value": "Ειδικές υπηρεσίες μελετών"
-            },
-            {
-              "key": "77211100-3",
-              "value": "Υπηρεσίες περισυλλογής ξυλείας"
-            },
-            {
-              "key": "50514200-3",
-              "value": "Υπηρεσίες επισκευής και συντήρησης δεξαμενών"
-            },
-            {
-              "key": "45312311-0",
-              "value": "Εργασίες εγκατάστασης αλεξικέραυνου"
-            },
-            {
-              "key": "45243510-0",
-              "value": "Εργασίες επιχωμάτωσης"
-            },
-            {
-              "key": "90712200-3",
-              "value": "Στρατηγικός σχεδιασμός διατήρησης δασών"
-            },
-            {
-              "key": "71320000-7",
-              "value": "Υπηρεσίες εκπόνησης τεχνικών μελετών"
-            },
-            {
-              "key": "45442100-8",
-              "value": "Εργασίες βαφής"
-            },
-            {
-              "key": "77200000-2",
-              "value": "Υπηρεσίες δασοκομίας"
-            },
-            {
-              "key": "77211300-5",
-              "value": "Υπηρεσίες υλοτόμισης"
-            },
-            {
-              "key": "45442120-4",
-              "value": "Εργασίες βαφής και προστατευτικής επικάλυψης τεχνικών κατασκευών"
+              "key": "79421200-3",
+              "value": "Υπηρεσίες μελέτης έργων"
             },
             {
               "key": "45432114-6",
               "value": "Τοποθέτηση ξύλινων δαπέδων"
             },
             {
-              "key": "45441000-0",
-              "value": "Υαλοτεχνικές εργασίες"
-            },
-            {
-              "key": "45232150-8",
-              "value": "Εργασίες σχετιζόμενες με τους αγωγούς διανομής νερού"
+              "key": "45442100-8",
+              "value": "Εργασίες βαφής"
             },
             {
               "key": "45223500-1",
               "value": "Κατασκευές από οπλισμένο σκυρόδεμα"
             },
             {
-              "key": "77211000-2",
-              "value": "Υπηρεσίες σχετιζόμενες με την υλοτομία"
+              "key": "50514200-3",
+              "value": "Υπηρεσίες επισκευής και συντήρησης δεξαμενών"
             },
             {
-              "key": "45421100-5",
-              "value": "Τοποθέτηση θυρών"
+              "key": "45232150-8",
+              "value": "Εργασίες σχετιζόμενες με τους αγωγούς διανομής νερού"
+            },
+            {
+              "key": "77211000-2",
+              "value": "Υπηρεσίες σχετιζόμενες με την υλοτομία"
             },
             {
               "key": "71354100-5",
               "value": "Υπηρεσίες ψηφιακής χαρτογράφησης"
             },
             {
-              "key": "44611500-1",
-              "value": "Δεξαμενές νερού"
+              "key": "77200000-2",
+              "value": "Υπηρεσίες δασοκομίας"
             },
             {
-              "key": "77231300-1",
-              "value": "Υπηρεσίες διαχείρισης δασών"
+              "key": "77231900-7",
+              "value": "Υπηρεσίες δασικού τομεακού σχεδιασμού"
             },
             {
-              "key": "45261000-4",
-              "value": "Οικοδομικές και συναφείς εργασίες επικάλυψης στεγών και κατασκευής διαχωριστικών πλαισίων"
+              "key": "71320000-7",
+              "value": "Υπηρεσίες εκπόνησης τεχνικών μελετών"
             },
             {
-              "key": "79421200-3",
-              "value": "Υπηρεσίες μελέτης έργων"
+              "key": "45420000-7",
+              "value": "Εργασίες τοποθέτησης στοιχείων από ξύλο"
             },
             {
               "key": "77340000-5",
@@ -604,12 +557,64 @@
               "value": "Εργασίες επένδυσης δαπέδων και τοίχων"
             },
             {
+              "key": "45421100-5",
+              "value": "Τοποθέτηση θυρών"
+            },
+            {
+              "key": "77211300-5",
+              "value": "Υπηρεσίες υλοτόμισης"
+            },
+            {
+              "key": "45243510-0",
+              "value": "Εργασίες επιχωμάτωσης"
+            },
+            {
+              "key": "77231300-1",
+              "value": "Υπηρεσίες διαχείρισης δασών"
+            },
+            {
+              "key": "77211200-4",
+              "value": "Μεταφορά κορμών δένδρων στο εσωτερικό δάσους"
+            },
+            {
+              "key": "45112400-9",
+              "value": "Εργασίες εκσκαφών"
+            },
+            {
+              "key": "45441000-0",
+              "value": "Υαλοτεχνικές εργασίες"
+            },
+            {
+              "key": "79930000-2",
+              "value": "Ειδικές υπηρεσίες μελετών"
+            },
+            {
+              "key": "45312311-0",
+              "value": "Εργασίες εγκατάστασης αλεξικέραυνου"
+            },
+            {
+              "key": "90712200-3",
+              "value": "Στρατηγικός σχεδιασμός διατήρησης δασών"
+            },
+            {
+              "key": "45442120-4",
+              "value": "Εργασίες βαφής και προστατευτικής επικάλυψης τεχνικών κατασκευών"
+            },
+            {
               "key": "51810000-3",
               "value": "Υπηρεσίες εγκατάστασης δεξαμενών"
             },
             {
-              "key": "45420000-7",
-              "value": "Εργασίες τοποθέτησης στοιχείων από ξύλο"
+              "key": "44611500-1",
+              "value": "Δεξαμενές νερού"
+            },
+            {
+              "key": "45261000-4",
+              "value": "Οικοδομικές και συναφείς εργασίες επικάλυψης στεγών και κατασκευής διαχωριστικών πλαισίων"
+            },
+            {
+              "key": "77211100-3",
+              "value": "Υπηρεσίες περισυλλογής ξυλείας"
             }
           ],
           "greenContracts": {
@@ -637,65 +642,65 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "45112400",
-        "77231900",
-        "77211200",
-        "79930000",
-        "77211100",
-        "50514200",
-        "45312311",
-        "45243510",
-        "90712200",
-        "71320000",
-        "45442100",
-        "77200000",
-        "77211300",
-        "45442120",
-        "45432114",
-        "45441000",
-        "45232150",
-        "45223500",
-        "77211000",
-        "45421100",
-        "71354100",
-        "44611500",
-        "77231300",
-        "45261000",
         "79421200",
+        "45432114",
+        "45442100",
+        "45223500",
+        "50514200",
+        "45232150",
+        "77211000",
+        "71354100",
+        "77200000",
+        "77231900",
+        "71320000",
+        "45420000",
         "77340000",
         "45430000",
+        "45421100",
+        "77211300",
+        "45243510",
+        "77231300",
+        "77211200",
+        "45112400",
+        "45441000",
+        "79930000",
+        "45312311",
+        "90712200",
+        "45442120",
         "51810000",
-        "45420000"
+        "44611500",
+        "45261000",
+        "77211100"
       ],
       "cpv_divisions": [
-        "45",
-        "77",
         "79",
+        "45",
         "50",
-        "90",
+        "77",
         "71",
-        "44",
-        "51"
+        "90",
+        "51",
+        "44"
       ],
       "all_domains": [
-        "Construction & Works",
-        "Agriculture/Forestry/Landscaping Services",
         "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Construction & Works",
         "Repair & Maintenance",
-        "Environmental, Cleaning & Waste Services",
+        "Agriculture/Forestry/Landscaping Services",
         "Architecture, Engineering & Inspection",
-        "Construction Materials & Structures",
-        "Installation Services (Non-Software)"
+        "Environmental, Cleaning & Waste Services",
+        "Installation Services (Non-Software)",
+        "Construction Materials & Structures"
       ],
       "primary_domain": "Construction & Works"
     },
     {
-      "title": "Αίτημα δαπάνης με αρ. πρ. 128440",
-      "referenceNumber": "26PROC018459658",
-      "signedDate": "2026-02-10T00:00:00",
+      "title": "ΥΠΗΡΕΣΙΑ ΗΧΗΤΙΚΗΣ ΚΑΛΥΨΗΣ ΓΙΑ ΤΗΝ ΔΡΑΣΗ \"ΦΕΣΤΙΒΑΛ-ΜΟΥΤΖΟΥΡΟΔΕΥΤΕΡΑ\"",
+      "referenceNumber": "26PROC018472510",
+      "signedDate": "2026-02-12T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-16T13:00:00",
-      "submissionDate": "2026-02-10T14:49:52.502",
+      "finalSubmissionDate": "2026-02-16T15:00:00",
+      "submissionDate": "2026-02-12T12:21:06.028",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -707,7 +712,7 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1036.E00346.0001",
+      "aaht": "1007.901.0005",
       "biddingWebsite": null,
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
@@ -716,11 +721,11 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
+        "key": "EL512",
+        "value": "Ξάνθη"
       },
-      "nutsCity": "Θεσσαλονίκη",
-      "nutsPostalCode": "57001",
+      "nutsCity": "ΞΑΝΘΗ",
+      "nutsPostalCode": "67100",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -739,12 +744,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "77176",
-          "value": "ΙΝΣΤΙΤΟΥΤΟ ΤΕΧΝΟΛΟΓΙΩΝ ΠΛΗΡΟΦΟΡΙΚΗΣ ΚΑΙ ΕΠΙΚΟΙΝΩΝΙΩΝ (ΙΠΤΗΛ)"
+          "key": "80009",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΔΗΜΟΣΙΑΣ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΗΣ ΜΕΡΙΜΝΑΣ Π.Ε. ΞΑΝΘΗΣ"
         },
         "signers": {
-          "key": "100101451",
-          "value": "Πέτρος Δάρας - Αναπληρωτής Διευθυντής"
+          "key": "100084406",
+          "value": "ΠΟΛΥΞΕΝΗ ΜΠΡΙΚΑ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
         }
       },
       "fundingDetails": {
@@ -752,43 +757,43 @@
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": "KOH.021430",
+        "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
+        "regularBudgetFundedProgramRef": "2420908"
       },
       "systemicNumbers": [],
       "approvedRequests": [
         {
-          "code": "26REQ018459626"
+          "code": "26REQ018464320"
         }
       ],
       "contractingAuthorities": [
         {
           "contractingAuthority": {
-            "key": "10",
-            "value": "ΝΠΙΔ"
+            "key": "9",
+            "value": "ΝΠΔΔ"
           }
         }
       ],
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL522",
-            "value": "Θεσσαλονίκη"
+            "key": "EL512",
+            "value": "Ξάνθη"
           }
         }
       ],
       "organization": {
-        "key": "99220974",
-        "value": "ΕΘΝ. ΚΕΝΤΡΟ ΕΡΕΥΝΑΣ & ΤΕΧΝΟΛ. ΑΝΑΠΤ. (ΕΚΕΤΑ)"
+        "key": "5001",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ"
       },
       "typeOfProcedure": {
         "key": "6",
         "value": "Απευθείας ανάθεση"
       },
       "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
+        "key": "9",
+        "value": "Υπηρεσίες"
       },
       "awardProcedure": null,
       "centralizedMarkets": [
@@ -809,46 +814,46 @@
       },
       "digitalPlatform": null,
       "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
+        "key": "4",
+        "value": "Βάσει κόστους – άλλο"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
+        "key": "2",
+        "value": "ΟΤΑ"
       },
       "noticeType": {
         "key": "4",
         "value": "Πρόσκληση"
       },
       "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 1,
+      "contractDuration": 2,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 446.41,
-      "totalCostWithoutVAT": 360.01,
+      "totalCostWithVAT": 1499.99,
+      "totalCostWithoutVAT": 1209.67,
       "objectDetails": [
         {
-          "quantity": 7,
+          "quantity": 1,
           "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 360.01,
+          "costWithoutVAT": 1209.67,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Υπηρεσίες εγκατάστασης επτά (7) καρτών επιτάχυνσης γραφικών",
+          "shortDescription": "ΥΠΗΡΕΣΙΑ ΗΧΗΤΙΚΗΣ ΚΑΛΥΨΗΣ  ΓΙA ΤΗΝ ΣΥΝΔΙΟΡΓΑΝΩΣΗ ΜΕ ΤΟ ΔΗΜΟ ΑΒΔΗΡΩΝ ΤΗΣ ΔΡΑΣΗΣ 'ΦΕΣΤΙΒΑΛ-ΜΟΥΤΖΟΥΡΟΔΕΥΤΕΡΑ' ΠΟΥ ΘΑ ΓΙΝΕΙ ΣΤΙΣ 22/2/2026 ΚΑΙ 23/2/2026 ",
           "cpvs": [
             {
-              "key": "51611100-9",
-              "value": "Υπηρεσίες εγκατάστασης υλικού πληροφορικής"
+              "key": "51313000-9",
+              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
             }
           ],
           "greenContracts": {
@@ -876,8 +881,7 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "99220974",
-        "51611100"
+        "51313000"
       ],
       "cpv_divisions": [
         "51"
@@ -888,12 +892,12 @@
       "primary_domain": "Installation Services (Non-Software)"
     },
     {
-      "title": "ΠΡΟΣΚΛΗΣΗ Α ΦΑΣΗΣ \"Μελέτη, Χρηματοδότηση, Κατασκευή, Συντήρηση και Λειτουργία Φοιτητικών Εστιών\"",
-      "referenceNumber": "26PROC018459534",
-      "signedDate": "2026-02-10T00:00:00",
+      "title": "ΠΡΟΣΚΛΗΣΗ ΕΚΔΗΛΩΣΗΣ ΕΝΔΙΑΦΕΡΟΝΤΟΣ ΠΡΟΜΗΘΕΙΑΣ ΠΕΝΤΕ (5) ΜΕΙΩΤΩΝ ΠΙΕΣΗΣ ΝΕΡΟΥ",
+      "referenceNumber": "26PROC018468551",
+      "signedDate": "2026-02-12T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-03-10T23:59:00",
-      "submissionDate": "2026-02-10T14:37:52.414",
+      "finalSubmissionDate": "2026-02-20T00:00:00",
+      "submissionDate": "2026-02-12T08:49:14.092",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -905,709 +909,7 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "-",
-      "biddingWebsite": "https://publicworks.eprocurement.gov.gr/",
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 1,
-      "nutsCode": {
-        "key": "EL306",
-        "value": "Δυτική Αττική"
-      },
-      "nutsCity": "ΑΝΩ ΛΙΟΣΙΑ",
-      "nutsPostalCode": "13341",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100069644",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ"
-        },
-        "signers": {
-          "key": "100069223",
-          "value": "ΧΡΗΣΤΟΣ ΠΑΠΠΟΥΣ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": "ΘΑ ΕΚΔΟΘΕΙ ΣΤΗ Β' ΦΑΣΗ",
-        "publicFundingRefNum": "ΘΑ ΕΚΔΟΘΕΙ ΣΤΗ Β' ΦΑΣΗ",
-        "publicFundingRefOps": "ΘΑ ΕΚΔΟΘΕΙ ΣΤΗ Β' ΦΑΣΗ",
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
-      },
-      "systemicNumbers": [
-        {
-          "systemicNumber": "219123"
-        }
-      ],
-      "approvedRequests": [
-        {
-          "code": "26REQ018445386"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "10",
-            "value": "ΝΠΙΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL306",
-            "value": "Δυτική Αττική"
-          }
-        }
-      ],
-      "organization": {
-        "key": "100068066",
-        "value": "ΑΝΑΠΤΥΞΙΑΚΗ ΜΟΝΟΠΡΟΣΩΠΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΔΗΜΟΥ ΦΥΛΗΣ Μ Α Ε"
-      },
-      "typeOfProcedure": {
-        "key": "4",
-        "value": "Ανταγωνιστικός διάλογος"
-      },
-      "contractType": {
-        "key": "10",
-        "value": "Έργα"
-      },
-      "awardProcedure": {
-        "key": "52",
-        "value": "Το αντικείμενο της σύμβασης περιλαμβάνει σχεδιασμό ή καινοτόμες λύσεις"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "4",
-        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "1",
-        "value": "Ηλεκτρονική Διαδικασία"
-      },
-      "digitalPlatform": {
-        "key": "4",
-        "value": "ΕΣΗΔΗΣ ΔΕ"
-      },
-      "criteriaCode": {
-        "key": "1",
-        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
-      },
-      "contractingAuthorityActivity": {
-        "key": "7",
-        "value": "Στέγαση και υποδομές κοινής ωφέλειας"
-      },
-      "contractDuration": 27,
-      "contractDurationUnitOfMeasure": {
-        "key": "4",
-        "value": "Έτη"
-      },
-      "totalCostWithVAT": 81934249.92,
-      "totalCostWithoutVAT": 66076008.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "Erg",
-            "value": "Έργο"
-          },
-          "costWithoutVAT": 66076008,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Μελέτη, Χρηματοδότηση, Κατασκευή, Συντήρηση και Λειτουργία Φοιτητικών Εστιών και Εκπαιδευτικών Αμφιθεάτρων Πανεπιστήμιου Δυτικής Αττικής και Χώρων Πολιτισμού μέσω ΣΔΙΤ",
-          "cpvs": [
-            {
-              "key": "45214700-7",
-              "value": "Κατασκευαστικές εργασίες για φοιτητικές εστίες"
-            },
-            {
-              "key": "45000000-7",
-              "value": "Κατασκευαστικές εργασίες"
-            },
-            {
-              "key": "71320000-7",
-              "value": "Υπηρεσίες εκπόνησης τεχνικών μελετών"
-            },
-            {
-              "key": "39100000-3",
-              "value": "Έπιπλα"
-            },
-            {
-              "key": "50700000-2",
-              "value": "Υπηρεσίες επισκευής και συντήρησης εγκαταστάσεων κτιρίου"
-            },
-            {
-              "key": "45112700-2",
-              "value": "Εργασίες διαμόρφωσης τοπίου"
-            },
-            {
-              "key": "45248000-7",
-              "value": "Κατασκευαστικές εργασίες υδραυλικών-μηχανολογικών κατασκευών"
-            },
-            {
-              "key": "50700000-2",
-              "value": "Υπηρεσίες επισκευής και συντήρησης εγκαταστάσεων κτιρίου"
-            },
-            {
-              "key": "31700000-3",
-              "value": "Ηλεκτρονικό"
-            },
-            {
-              "key": "45000000-7",
-              "value": "Κατασκευαστικές εργασίες"
-            },
-            {
-              "key": "90911200-8",
-              "value": "Υπηρεσίες καθαρισμού κτιρίων"
-            },
-            {
-              "key": "31700000-3",
-              "value": "Ηλεκτρονικό"
-            },
-            {
-              "key": "45214400-4",
-              "value": "Κατασκευαστικές εργασίες για κτίρια πανεπιστημίου"
-            },
-            {
-              "key": "90911200-8",
-              "value": "Υπηρεσίες καθαρισμού κτιρίων"
-            },
-            {
-              "key": "45210000-2",
-              "value": "Εργασίες κατασκευής κτιρίων"
-            },
-            {
-              "key": "45112700-2",
-              "value": "Εργασίες διαμόρφωσης τοπίου"
-            },
-            {
-              "key": "45248000-7",
-              "value": "Κατασκευαστικές εργασίες υδραυλικών-μηχανολογικών κατασκευών"
-            },
-            {
-              "key": "45210000-2",
-              "value": "Εργασίες κατασκευής κτιρίων"
-            },
-            {
-              "key": "45214700-7",
-              "value": "Κατασκευαστικές εργασίες για φοιτητικές εστίες"
-            },
-            {
-              "key": "71000000-8",
-              "value": "Υπηρεσίες αρχιτεκτονικής"
-            },
-            {
-              "key": "79713000-5",
-              "value": "Υπηρεσίες φύλαξης"
-            },
-            {
-              "key": "71320000-7",
-              "value": "Υπηρεσίες εκπόνησης τεχνικών μελετών"
-            },
-            {
-              "key": "39100000-3",
-              "value": "Έπιπλα"
-            },
-            {
-              "key": "51000000-9",
-              "value": "Υπηρεσίες εγκατάστασης (εκτός από υπηρεσίες εγκατάστασης λογισμικού)"
-            },
-            {
-              "key": "31720000-9",
-              "value": "Ηλεκτρομηχανολογικός εξοπλισμός"
-            },
-            {
-              "key": "79713000-5",
-              "value": "Υπηρεσίες φύλαξης"
-            },
-            {
-              "key": "45214400-4",
-              "value": "Κατασκευαστικές εργασίες για κτίρια πανεπιστημίου"
-            },
-            {
-              "key": "51000000-9",
-              "value": "Υπηρεσίες εγκατάστασης (εκτός από υπηρεσίες εγκατάστασης λογισμικού)"
-            },
-            {
-              "key": "31720000-9",
-              "value": "Ηλεκτρομηχανολογικός εξοπλισμός"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 6,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "81934249",
-        "66076008",
-        "45214700",
-        "45000000",
-        "71320000",
-        "39100000",
-        "50700000",
-        "45112700",
-        "45248000",
-        "31700000",
-        "90911200",
-        "45214400",
-        "45210000",
-        "71000000",
-        "79713000",
-        "51000000",
-        "31720000"
-      ],
-      "cpv_divisions": [
-        "66",
-        "45",
-        "71",
-        "39",
-        "50",
-        "31",
-        "90",
-        "79",
-        "51"
-      ],
-      "all_domains": [
-        "Financial & Insurance Services",
-        "Construction & Works",
-        "Architecture, Engineering & Inspection",
-        "Furniture & Cleaning Products",
-        "Repair & Maintenance",
-        "Electrical Equipment & Lighting",
-        "Environmental, Cleaning & Waste Services",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "Installation Services (Non-Software)"
-      ],
-      "primary_domain": "Construction & Works"
-    },
-    {
-      "title": "Μελέτη, Χρηματοδότηση, Κατασκευή, Συντήρηση και Λειτουργία Φοιτητικών Εστιών",
-      "referenceNumber": "26PROC018457378",
-      "signedDate": "2026-01-30T00:00:00",
-      "publishedDate": "2026-01-28T00:00:00",
-      "finalSubmissionDate": "2026-03-10T23:59:00",
-      "submissionDate": "2026-02-10T12:20:04.863",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "-",
-      "biddingWebsite": "https://publicworks.eprocurement.gov.gr/",
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 1,
-      "nutsCode": {
-        "key": "EL306",
-        "value": "Δυτική Αττική"
-      },
-      "nutsCity": "ΑΝΩ ΛΙΟΣΙΑ",
-      "nutsPostalCode": "13341",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100069644",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ"
-        },
-        "signers": {
-          "key": "100069223",
-          "value": "ΧΡΗΣΤΟΣ ΠΑΠΠΟΥΣ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": "ΘΑ ΕΚΔΟΘΕΙ ΣΤΗ Β' ΦΑΣΗ",
-        "publicFundingRefNum": "ΘΑ ΕΚΔΟΘΕΙ ΣΤΗ Β' ΦΑΣΗ",
-        "publicFundingRefOps": "ΘΑ ΕΚΔΟΘΕΙ ΣΤΗ Β' ΦΑΣΗ",
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
-      },
-      "systemicNumbers": [
-        {
-          "systemicNumber": "219123"
-        }
-      ],
-      "approvedRequests": [
-        {
-          "code": "26REQ018445386"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "10",
-            "value": "ΝΠΙΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL306",
-            "value": "Δυτική Αττική"
-          }
-        }
-      ],
-      "organization": {
-        "key": "100068066",
-        "value": "ΑΝΑΠΤΥΞΙΑΚΗ ΜΟΝΟΠΡΟΣΩΠΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΔΗΜΟΥ ΦΥΛΗΣ Μ Α Ε"
-      },
-      "typeOfProcedure": {
-        "key": "4",
-        "value": "Ανταγωνιστικός διάλογος"
-      },
-      "contractType": {
-        "key": "10",
-        "value": "Έργα"
-      },
-      "awardProcedure": {
-        "key": "52",
-        "value": "Το αντικείμενο της σύμβασης περιλαμβάνει σχεδιασμό ή καινοτόμες λύσεις"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "4",
-        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "1",
-        "value": "Ηλεκτρονική Διαδικασία"
-      },
-      "digitalPlatform": {
-        "key": "4",
-        "value": "ΕΣΗΔΗΣ ΔΕ"
-      },
-      "criteriaCode": {
-        "key": "1",
-        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "noticeType": {
-        "key": "2",
-        "value": "Προκήρυξη"
-      },
-      "contractingAuthorityActivity": {
-        "key": "7",
-        "value": "Στέγαση και υποδομές κοινής ωφέλειας"
-      },
-      "contractDuration": 27,
-      "contractDurationUnitOfMeasure": {
-        "key": "4",
-        "value": "Έτη"
-      },
-      "totalCostWithVAT": 81934249.92,
-      "totalCostWithoutVAT": 66076008.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "Erg",
-            "value": "Έργο"
-          },
-          "costWithoutVAT": 66076008,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Μελέτη, Χρηματοδότηση, Κατασκευή, Συντήρηση και Λειτουργία Φοιτητικών Εστιών και Εκπαιδευτικών Αμφιθεάτρων Πανεπιστήμιου Δυτικής Αττικής και Χώρων Πολιτισμού μέσω ΣΔΙΤ",
-          "cpvs": [
-            {
-              "key": "51000000-9",
-              "value": "Υπηρεσίες εγκατάστασης (εκτός από υπηρεσίες εγκατάστασης λογισμικού)"
-            },
-            {
-              "key": "50700000-2",
-              "value": "Υπηρεσίες επισκευής και συντήρησης εγκαταστάσεων κτιρίου"
-            },
-            {
-              "key": "45214400-4",
-              "value": "Κατασκευαστικές εργασίες για κτίρια πανεπιστημίου"
-            },
-            {
-              "key": "39100000-3",
-              "value": "Έπιπλα"
-            },
-            {
-              "key": "45112700-2",
-              "value": "Εργασίες διαμόρφωσης τοπίου"
-            },
-            {
-              "key": "71000000-8",
-              "value": "Υπηρεσίες αρχιτεκτονικής"
-            },
-            {
-              "key": "45112700-2",
-              "value": "Εργασίες διαμόρφωσης τοπίου"
-            },
-            {
-              "key": "79713000-5",
-              "value": "Υπηρεσίες φύλαξης"
-            },
-            {
-              "key": "45000000-7",
-              "value": "Κατασκευαστικές εργασίες"
-            },
-            {
-              "key": "71000000-8",
-              "value": "Υπηρεσίες αρχιτεκτονικής"
-            },
-            {
-              "key": "45210000-2",
-              "value": "Εργασίες κατασκευής κτιρίων"
-            },
-            {
-              "key": "90911200-8",
-              "value": "Υπηρεσίες καθαρισμού κτιρίων"
-            },
-            {
-              "key": "31720000-9",
-              "value": "Ηλεκτρομηχανολογικός εξοπλισμός"
-            },
-            {
-              "key": "45248000-7",
-              "value": "Κατασκευαστικές εργασίες υδραυλικών-μηχανολογικών κατασκευών"
-            },
-            {
-              "key": "50700000-2",
-              "value": "Υπηρεσίες επισκευής και συντήρησης εγκαταστάσεων κτιρίου"
-            },
-            {
-              "key": "45000000-7",
-              "value": "Κατασκευαστικές εργασίες"
-            },
-            {
-              "key": "45214700-7",
-              "value": "Κατασκευαστικές εργασίες για φοιτητικές εστίες"
-            },
-            {
-              "key": "31700000-3",
-              "value": "Ηλεκτρονικό"
-            },
-            {
-              "key": "45210000-2",
-              "value": "Εργασίες κατασκευής κτιρίων"
-            },
-            {
-              "key": "31720000-9",
-              "value": "Ηλεκτρομηχανολογικός εξοπλισμός"
-            },
-            {
-              "key": "90911200-8",
-              "value": "Υπηρεσίες καθαρισμού κτιρίων"
-            },
-            {
-              "key": "45214400-4",
-              "value": "Κατασκευαστικές εργασίες για κτίρια πανεπιστημίου"
-            },
-            {
-              "key": "71320000-7",
-              "value": "Υπηρεσίες εκπόνησης τεχνικών μελετών"
-            },
-            {
-              "key": "45248000-7",
-              "value": "Κατασκευαστικές εργασίες υδραυλικών-μηχανολογικών κατασκευών"
-            },
-            {
-              "key": "45214700-7",
-              "value": "Κατασκευαστικές εργασίες για φοιτητικές εστίες"
-            },
-            {
-              "key": "51000000-9",
-              "value": "Υπηρεσίες εγκατάστασης (εκτός από υπηρεσίες εγκατάστασης λογισμικού)"
-            },
-            {
-              "key": "39100000-3",
-              "value": "Έπιπλα"
-            },
-            {
-              "key": "79713000-5",
-              "value": "Υπηρεσίες φύλαξης"
-            },
-            {
-              "key": "71320000-7",
-              "value": "Υπηρεσίες εκπόνησης τεχνικών μελετών"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 6,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "81934249",
-        "66076008",
-        "51000000",
-        "50700000",
-        "45214400",
-        "39100000",
-        "45112700",
-        "71000000",
-        "79713000",
-        "45000000",
-        "45210000",
-        "90911200",
-        "31720000",
-        "45248000",
-        "45214700",
-        "31700000",
-        "71320000"
-      ],
-      "cpv_divisions": [
-        "66",
-        "51",
-        "50",
-        "45",
-        "39",
-        "71",
-        "79",
-        "90",
-        "31"
-      ],
-      "all_domains": [
-        "Financial & Insurance Services",
-        "Installation Services (Non-Software)",
-        "Repair & Maintenance",
-        "Construction & Works",
-        "Furniture & Cleaning Products",
-        "Architecture, Engineering & Inspection",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "Environmental, Cleaning & Waste Services",
-        "Electrical Equipment & Lighting"
-      ],
-      "primary_domain": "Construction & Works"
-    },
-    {
-      "title": "ΠΡΟΜΗΘΕΙΑΟΧΤΩ (8) ΟΘΟΝΩΝ ΙΑΤΡΕΙΩΝ ΠΟΛΛΑΠΛΩΝ ΛΕΙΤΟΥΡΓΙΩΝ 24 ΙΝΤΣΩΝ ΜΑΖΙ ΜΕ ΤΙΣ ΑΠΑΙΤΟΥΜΕΝΕΣ ΑΔΕΙΕΣ ",
-      "referenceNumber": "26PROC018455792",
-      "signedDate": "2026-02-10T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-18T11:00:00",
-      "submissionDate": "2026-02-10T10:52:16.254",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1015.Ε00823.0001",
+      "aaht": "10572020000000.0007",
       "biddingWebsite": null,
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
@@ -1616,11 +918,11 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
+        "key": "EL644",
+        "value": "Φθιώτιδα"
       },
-      "nutsCity": "ΘΕΣΣΑΛΟΝΙΚΗ",
-      "nutsPostalCode": "54642",
+      "nutsCity": "ΔΟΜΟΚΟΣ",
+      "nutsPostalCode": "35010",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -1634,17 +936,17 @@
         "value": "Όχι"
       },
       "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
+        "key": "1",
+        "value": "Ναι"
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "72952",
-          "value": "ΔΙΟΙΚΗΤΙΚΗ ΥΠΗΡΕΣΙΑ"
+          "key": "93284",
+          "value": "ΓΕΝΙΚΟ ΚΑΤΑΣΤΗΜΑ ΚΡΑΤΗΣΗΣ ΔΟΜΟΚΟΥ"
         },
         "signers": {
-          "key": "100057098",
-          "value": "ΝΙΚΟΛΑΟΣ ΑΝΤΩΝΑΚΗΣ - Διοικητής"
+          "key": "100092876",
+          "value": "ΑΘΑΝΑΣΙΟΣ ΠΑΠΑΓΙΑΝΝΗΣ - Προϊστάμενος Διεύθυνσης"
         }
       },
       "fundingDetails": {
@@ -1654,33 +956,33 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "31203010000001 & 2420989000001"
+        "regularBudgetFundedProgramRef": "2410289001"
       },
       "systemicNumbers": [],
       "approvedRequests": [
         {
-          "code": "26REQ018455559"
+          "code": "26REQ018463688"
         }
       ],
       "contractingAuthorities": [
         {
           "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
+            "key": "12",
+            "value": "Κεντρική Διοίκηση"
           }
         }
       ],
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL522",
-            "value": "Θεσσαλονίκη"
+            "key": "EL644",
+            "value": "Φθιώτιδα"
           }
         }
       ],
       "organization": {
-        "key": "99222000",
-        "value": "ΠΕΡ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ 'ΙΠΠΟΚΡΑΤΕΙO'"
+        "key": "50076",
+        "value": "ΓΕΝΙΚΟ ΚΑΤΑΣΤΗΜΑ ΚΡΑΤΗΣΗΣ ΔΟΜΟΚΟΥ"
       },
       "typeOfProcedure": {
         "key": "6",
@@ -1700,8 +1002,8 @@
         }
       ],
       "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+        "key": "7",
+        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
       },
       "conductingProceedings": {
         "key": "2",
@@ -1713,94 +1015,42 @@
         "value": "Βάσει τιμής"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
       },
       "noticeType": {
         "key": "4",
         "value": "Πρόσκληση"
       },
       "contractingAuthorityActivity": {
-        "key": "6",
-        "value": "Υγεία"
+        "key": "3",
+        "value": "Δημόσια τάξη και ασφάλεια"
       },
       "contractDuration": 2,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 21475.81,
-      "totalCostWithoutVAT": 17319.2,
+      "totalCostWithVAT": 6776.6,
+      "totalCostWithoutVAT": 5465.0,
       "objectDetails": [
         {
-          "quantity": 8,
+          "quantity": 70,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 2905.6,
+          "costWithoutVAT": 5465,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΟΚΤΩ (8) ΑΔΕΙΩΝ ΛΟΓΙΣΜΙΚΟΥ ΓΙΑ ΜΟΝΙΤΟΡ",
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΠΕΝΤΕ ΜΕΙΩΤΩΝ ΠΙΕΣΗΣ ΝΕΡΟΥ ΜΕΤΑ ΤΩΝ ΠΑΡΕΛΚΟΜΕΝΩΝ ΥΛΙΚΩΝ",
           "cpvs": [
             {
-              "key": "48790000-2",
-              "value": "Πακέτα λογισμικού ελέγχου έκδοσης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 8,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 7440,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΕΓΚΑΤΑΣΤΑΣΗΣ ΚΑΙ ΠΑΡΑΜΕΤΡΟΠΟΙΗΣΗΣ ΜΟΝΙΤΟΡ",
-          "cpvs": [
-            {
-              "key": "51612000-5",
-              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού επεξεργασίας πληροφοριών"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 8,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 6973.6,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΟΚΤΩ (8) ΟΘΟΝΩΝ ΙΑΤΡΕΙΩΝ ΠΟΛΛΑΠΛΩΝ ΛΕΙΤΟΥΡΓΙΩΝ 24 ΙΝΤΣΩΝ  ",
-          "cpvs": [
-            {
-              "key": "30231310-3",
-              "value": "Επίπεδες οθόνες"
+              "key": "51514110-2",
+              "value": "Υπηρεσίες εγκατάστασης μηχανημάτων και συσκευών διήθησης ή καθαρισμού νερού"
             }
           ],
           "greenContracts": {
@@ -1811,16 +1061,9 @@
           "budgetCode": null
         }
       ],
-      "additionalContractTypes": [
-        {
-          "additionalContractType": {
-            "key": "3",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "mixedContract": true,
-      "offersValidTime": 1,
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 4,
       "offersValidTimeUnitOfMeasure": {
         "key": "4",
         "value": "Έτη"
@@ -1835,22 +1078,15 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "99222000",
-        "48790000",
-        "51612000",
-        "30231310"
+        "51514110"
       ],
       "cpv_divisions": [
-        "48",
-        "51",
-        "30"
+        "51"
       ],
       "all_domains": [
-        "Software & Information Systems",
-        "Installation Services (Non-Software)",
-        "Office & Computing (Non-Software)"
+        "Installation Services (Non-Software)"
       ],
-      "primary_domain": "Software & Information Systems"
+      "primary_domain": "Installation Services (Non-Software)"
     }
   ]
 }

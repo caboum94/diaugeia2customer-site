@@ -3,11 +3,11 @@
   "count": 1,
   "items": [
     {
-      "title": "ΧΕΠ Α7 ΕΠΙΣΚΕΨΕΙΣ ΕΛΕΓΧΟΥ ΚΑΤΑΛΗΛΟΤΗΤΑΣ ΠΟΣΙΜΟΥ ΝΕΡΟΥ ΜΕ ΧΛΩΡΙΟΜΕΤΡΗΣΕΙΣ,Ε ΚΟΜΜΑΤΑ &ΣΙΑ ΟΕ",
-      "referenceNumber": "26PAY018455433",
+      "title": "ΠΡΟΜΗΘΕΙΑ, ΣΥΝΤΗΡΗΣΗ ΚΑΙ ΕΠΙΣΚΕΥΗ ΗΛΜ ΕΞΟΠΛΙΣΜΟΥ ΑΝΤΛΙΟΣΤΑΣΙΩΝ ΚΑΙ ΓΕΩΤΡΗΣΕΩΝ ΥΔΡΕΥΣΗΣ ",
+      "referenceNumber": "26PAY018468100",
       "auctionReferenceNumber": null,
-      "signedDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T10:29:15.284",
+      "signedDate": "2026-02-09T00:00:00",
+      "submissionDate": "2026-02-12T07:39:10.799",
       "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
@@ -18,19 +18,19 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007.F00102.0001",
-      "paymentCommitmentCode": "ΨΞΒΒΟΛΤ7-ΘΤΘ / ΨΛΤ7ΑΟΛΤ7-Ω3Δ",
-      "organizationVatNumber": "800202183",
-      "greekOrganizationVatNumber": true,
+      "aaht": "1007.F00058.0001",
+      "paymentCommitmentCode": "Ψ02ΦΟΕΦ8-0Τ9",
+      "organizationVatNumber": "998246985",
+      "greekOrganizationVatNumber": false,
       "commitmentNo": null,
       "contractValue": null,
       "organization": {
-        "key": "52772",
-        "value": "Δ.Ε.Υ.Α. ΜΑΝΤΟΥΔΙΟΥ-ΛΙΜΝΗΣ-ΑΓΙΑΣ ΑΝΝΑΣ"
+        "key": "51508",
+        "value": "Δ.Ε.Υ.Α ΛΑΓΚΑΔΑ"
       },
       "nutsCode": {
-        "key": "EL642",
-        "value": "Εύβοια"
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
       },
       "centralizedMarkets": [
         {
@@ -42,8 +42,8 @@
       ],
       "legalContext": null,
       "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
+        "key": "13",
+        "value": "Προμήθειες"
       },
       "classificationOfPublicLawOrganization": {
         "key": "4",
@@ -55,12 +55,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "87136",
-          "value": "ΔΙΟΙΚΗΣΗ"
+          "key": "100038373",
+          "value": "ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
         },
         "signers": {
-          "key": "100053597",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΓΙΑΝΝΙΟΣ - Πρόεδρος Δ.Σ."
+          "key": "100091888",
+          "value": "ΑΘΑΝΑΣΙΟΣ ΠΑΠΑΟΙΚΟΝΟΜΟΥ - Γενικός Διευθυντής"
         }
       },
       "fundingDetails": {
@@ -68,49 +68,45 @@
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": "73.00  / 73.10",
+        "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
+        "regularBudgetFundedProgramRef": "12.06.03.000"
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 4166.4,
-      "totalCostWithoutVAT": 3360.0,
+      "totalCostWithVAT": 12336.14,
+      "totalCostWithoutVAT": 9948.5,
       "objectDetails": [
         {
-          "quantity": 168,
+          "quantity": 375,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "MTR",
+            "value": "m"
           },
-          "costWithoutVAT": 3360,
+          "costWithoutVAT": 9948.5,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Έλεγχος καταλληλότητας πόσιμου νερού με παρακολούθηση και συντήρηση των συστημάτων χλωρίωσης - χλωριωμετρήσεις - δειγματοληψία και αποστολή των δειγμάτων για χημική και μικροβιολογική ανάλυση.",
+          "shortDescription": "Εξαγωγή και επανατοποθέτηση υποβρύχιου αντλητικού συγκροτήματος με χρήση γερανοφόρου οχήματος Καθαρισμός υδρογεώτρησης με την μέθοδο AirLift ",
           "cpvs": [
             {
-              "key": "90920000-2",
-              "value": "Υπηρεσίες απολύμανσης εγκαταστάσεων"
-            },
-            {
-              "key": "76531000-4",
-              "value": "Υπηρεσίες συνεχούς δειγματοληπτικού ελέγχου προϊόντων γεώτρησης"
+              "key": "76300000-6",
+              "value": "Εργασίες γεώτρησης"
             }
           ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΣΤΡΟΦΥΛΙΑ ΔΕΥΑ ΜΑΝΤΟΥΔΙΟΥ ΛΙΜΝΗΣ ΑΓΙΑΣ ΑΝΝΑΣ",
-          "cityOfConstruction": null,
+          "addressForDelivery": "ΜΑΤΑΠΑ ",
+          "streetNumber": "3",
+          "postalCode": "57200",
+          "city": "ΛΑΓΚΑΔΑΣ",
+          "cityOfConstruction": "GR",
           "countryOfDelivery": {
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "081959650",
+          "vatNo": "065250558",
           "greekVatNo": false,
-          "name": "Ε ΚΟΜΜΑΤΑ ΚΑΙ ΣΙΑ Ο Ε",
+          "name": "ΛΑΖΟΥΔΗ Α. ΓΕΩΡΓΙΑ",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -124,17 +120,14 @@
       "mixedContract": false,
       "requestRefNo": null,
       "auctionRefNo": null,
-      "contractRefNo": "25SYMV016544154",
+      "contractRefNo": "25SYMV016432742",
       "cpv_codes_extracted": [
-        "90920000",
-        "76531000"
+        "76300000"
       ],
       "cpv_divisions": [
-        "90",
         "76"
       ],
       "all_domains": [
-        "Environmental, Cleaning & Waste Services",
         "Oil & Gas Industry Services"
       ],
       "primary_domain": "Oil & Gas Industry Services"

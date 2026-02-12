@@ -1,24 +1,24 @@
 {
   "domain": "Financial & Insurance Services",
-  "count": 4,
+  "count": 8,
   "items": [
     {
-      "title": "Αίτημα δαπάνης με αρ. πρ. 128356",
-      "referenceNumber": "26AWRD018460212",
-      "submissionDate": "2026-02-10T17:06:16.06",
+      "title": "ΚΑΤΑΚΥΡΩΣΗ ΓΙΑ ΥΠΗΡΕΣΙΕΣ ΜΙΣΘΩΣΗΣ ΟΧΗΜΑΤΩΝ ΓΙΑ ΤΙΣ ΔΟΜΕΣ ΤΗΣ ΕΤΑΙΡΕΙΑΣ ALZHEIMER ΑΘΗΝΩΝ-ΕΤΟΣ 2026",
+      "referenceNumber": "26AWRD018474218",
+      "submissionDate": "2026-02-12T14:34:05.191",
       "lastUpdateDate": null,
-      "signedDate": "2026-02-10",
+      "signedDate": "2026-02-12",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1036.E00346.0001",
+      "aaht": ".",
       "authorEmail": null,
-      "organizationVatNumber": "099785242",
+      "organizationVatNumber": "999927832",
       "greekOrganizationVatNumber": true,
-      "budget": 3635,
+      "budget": 29785.2,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
@@ -38,12 +38,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "77176",
-          "value": "ΙΝΣΤΙΤΟΥΤΟ ΤΕΧΝΟΛΟΓΙΩΝ ΠΛΗΡΟΦΟΡΙΚΗΣ ΚΑΙ ΕΠΙΚΟΙΝΩΝΙΩΝ (ΙΠΤΗΛ)"
+          "key": "100090914",
+          "value": "ΕΤΑΙΡΕΙΑ ΝΟΣΟΥ ALZHEIMER KAI ΣΥΝΑΦΩΝ ΔΙΑΤΑΡΑΧΩΝ ΑΘΗΝΩΝ"
         },
         "signers": {
-          "key": "100101451",
-          "value": "Πέτρος Δάρας - Αναπληρωτής Διευθυντής"
+          "key": "100090915",
+          "value": "ΠΑΡΑΣΚΕΥΗ ΣΑΚΚΑ - Πρόεδρος Δ.Σ."
         }
       },
       "procedureType": {
@@ -51,24 +51,24 @@
         "value": "Απευθείας ανάθεση"
       },
       "organization": {
-        "key": "99220974",
-        "value": "ΕΘΝ. ΚΕΝΤΡΟ ΕΡΕΥΝΑΣ & ΤΕΧΝΟΛ. ΑΝΑΠΤ. (ΕΚΕΤΑ)"
+        "key": "100090897",
+        "value": "ΕΤΑΙΡΙΑ ΝΟΣΟΥ ALZHEIMER ΚΑΙ ΣΥΝΑΦΩΝ ΔΙΑΤΑΡΑΧΩΝ ΑΘΗΝΩΝ"
       },
       "contractType": {
         "key": "9",
         "value": "Υπηρεσίες"
       },
       "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
+        "key": "1",
+        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
       },
-      "nutsCity": "Θέρμη Θεσσαλονίκης",
-      "nutsPostalCode": "57001",
+      "nutsCity": "ΑΘΗΝΑ",
+      "nutsPostalCode": "11636",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -95,10 +95,10 @@
         "value": "ΝΠΙΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
+        "key": "6",
+        "value": "Υγεία"
       },
-      "contractDuration": 1,
+      "contractDuration": 12,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -106,190 +106,12 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "BE0656734936",
-            "greekVatNumber": false,
-            "name": "ECSO - EUROPEAN CYBER SECURITY ORGA",
-            "nutsCode": {
-              "key": "BE",
-              "value": "BELGIQUE-BELGIË"
-            },
-            "installationCountry": {
-              "key": "BE",
-              "value": "Βέλγιο"
-            }
-          }
-        ]
-      },
-      "totalCostWithVAT": 3635.0,
-      "totalCostWithoutVAT": 3635.0,
-      "objectDetailsList": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 3635,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Ανανέωση εγγραφής και συμμετοχής του ΕΚΕΤΑ /ΙΠΤΗΛ στον οργανισμό European Cyber Security Organisation (ECSO) - 2026, Τραπεζικά έξοδα",
-          "cpvs": [
-            {
-              "key": "66110000-4",
-              "value": "Τραπεζικές υπηρεσίες"
-            },
-            {
-              "key": "79980000-7",
-              "value": "Υπηρεσίες συνδρομών"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [
-        {
-          "code": "26REQ018460033"
-        }
-      ],
-      "noticeRefNo": null,
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "99220974",
-        "66110000",
-        "79980000"
-      ],
-      "cpv_divisions": [
-        "66",
-        "79"
-      ],
-      "all_domains": [
-        "Financial & Insurance Services",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)"
-      ],
-      "primary_domain": "Business Services (Legal/Marketing/Recruitment/Security/Print)"
-    },
-    {
-      "title": "ΑΝΑΘΕΣΗ ΓΙΑ ΥΠΗΡΕΣΙΕΣ ΑΣΦΑΛΙΣΗΣ ΠΕΡΙΟΥΣΙΑΣ",
-      "referenceNumber": "26AWRD018459245",
-      "submissionDate": "2026-02-10T14:16:40.941",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-10",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1036.F00997.0001",
-      "authorEmail": null,
-      "organizationVatNumber": "090002315",
-      "greekOrganizationVatNumber": true,
-      "budget": 4143.98,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "73251",
-          "value": "ΟΙΚΟΝΟΜΙΚΗΣ ΔΙΟΙΚΗΣΕΩΣ"
-        },
-        "signers": {
-          "key": "131721",
-          "value": "ΒΑΣΙΛΕΙΟΣ ΚΟΡΚΙΔΗΣ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "organization": {
-        "key": "99220998",
-        "value": "ΕΜΠΟΡΙΚΟ ΚΑΙ ΒΙΟΜΗΧΑΝΙΚΟ ΕΠΙΜΕΛ. ΠΕΙΡΑΙΩΣ"
-      },
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL307",
-        "value": "Πειραιάς, Νήσοι"
-      },
-      "nutsCity": "ΠΕΙΡΑΙΑΣ",
-      "nutsPostalCode": "18531",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
-      },
-      "contractDuration": 1,
-      "contractDurationUnitOfMeasure": {
-        "key": "4",
-        "value": "Έτη"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "102206707",
+            "vatNumber": "998106085",
             "greekVatNumber": true,
-            "name": "ΚΥΡΛΑΚΗ  ΚΩΝΣΤΑΝΤΙΝΑ ΓΕΩΡΓΙΟΣ",
+            "name": "OLYMPIC ΕΜΠΟΡΙΚΕΣ ΚΑΙ ΤΟΥΡΙΣΤΙΚΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ ΜΟΝ Α.Ε.",
             "nutsCode": {
-              "key": "EL307",
-              "value": "Πειραιάς, Νήσοι"
+              "key": "EL303",
+              "value": "Κεντρικός Τομέας Αθηνών"
             },
             "installationCountry": {
               "key": "GR",
@@ -298,8 +120,8 @@
           }
         ]
       },
-      "totalCostWithVAT": 4143.98,
-      "totalCostWithoutVAT": 4143.98,
+      "totalCostWithVAT": 36933.65,
+      "totalCostWithoutVAT": 29785.2,
       "objectDetailsList": [
         {
           "quantity": 1,
@@ -307,17 +129,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 4143.98,
-          "vat": "0",
+          "costWithoutVAT": 29785.2,
+          "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΑΝΑΘΕΣΗ ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΥΠΗΡΕΣΙΩΝ ΑΣΦΑΛΙΣΗΣ ΠΕΡΙΟΥΣΙΑΣ(ΑΣΦΑΛΕΙΑΣ ΠΥΡΟΣ ΚΑΙ ΛΟΙΠΩΝ ΚΙΝΔΥΝΩΝ) ΤΟΥ ΚΤΙΡΙΟΥ ΤΟΥ ΕΒΕΠ",
+          "shortDescription": "Μίσθωση 8 Οχημάτων για τις δομές της Εταιρείας Alzheimer Αθηνών, με σκοπό την εύρυθμη λειτουργία της και την εκπλήρωσή των σκοπών και των στόχων της, για παροχή υπηρεσιών υγείας στους ωφελούμενους της. ",
           "cpvs": [
             {
-              "key": "66515100-4",
-              "value": "Ασφάλεια πυρός"
+              "key": "66114000-2",
+              "value": "Υπηρεσίες χρηματοδοτικής μίσθωσης"
             }
           ],
           "greenContracts": {
@@ -331,13 +153,12 @@
       "additionalContractTypes": null,
       "mixedContract": false,
       "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018423744",
+      "noticeRefNo": "26PROC018438343",
       "amendsAuctionRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "99220998",
-        "66515100"
+        "66114000"
       ],
       "cpv_divisions": [
         "66"
@@ -348,22 +169,22 @@
       "primary_domain": "Financial & Insurance Services"
     },
     {
-      "title": "Aσφάλιση αυτοκινήτων – μηχανημάτων του Δήμου Κεντρικών Τζουμέρκων (ΚΗΗ 6797)",
-      "referenceNumber": "26AWRD018456779",
-      "submissionDate": "2026-02-10T11:50:00.19",
+      "title": "ΑΠΟΦ. ΑΝΑΘΕΣΗΣ για την ΑΣΦΑΛΙΣΗ ΥΠΗΡ. ΟΧΗΜΑΤΩΝ, ΣΚΑΦΩΝ, ΜΗΧ. ΕΡΓΟΥ ΜΕΘ & ΠΚΜ ",
+      "referenceNumber": "26AWRD018474090",
+      "submissionDate": "2026-02-12T14:15:21.799",
       "lastUpdateDate": null,
-      "signedDate": "2026-02-10",
+      "signedDate": "2026-02-12",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1007.E81903.0001 ",
+      "aaht": "1007.902.0001",
       "authorEmail": null,
-      "organizationVatNumber": "997681807",
+      "organizationVatNumber": "997612598",
       "greekOrganizationVatNumber": true,
-      "budget": 318,
+      "budget": 18740,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
@@ -383,12 +204,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "83926",
-          "value": "ΓΡΑΜΜΑΤΕΙΑ-ΓΡΑΦΕΙΟ ΔΗΜΑΡΧΟΥ"
+          "key": "100026211",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΟΥ ( ΠΚΜ )"
         },
         "signers": {
-          "key": "122564",
-          "value": "ΧΡΗΣΤΟΣ ΧΑΣΙΑΚΟΣ - Δήμαρχος"
+          "key": "100090148",
+          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΓΙΟΥΤΙΚΑΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
         }
       },
       "procedureType": {
@@ -396,24 +217,24 @@
         "value": "Απευθείας ανάθεση"
       },
       "organization": {
-        "key": "6145",
-        "value": "ΔΗΜΟΣ ΚΕΝΤΡΙΚΩΝ ΤΖΟΥΜΕΡΚΩΝ"
+        "key": "5009",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ"
       },
       "contractType": {
         "key": "9",
         "value": "Υπηρεσίες"
       },
       "criteriaCode": {
-        "key": "1",
-        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
+        "key": "2",
+        "value": "Βάσει τιμής"
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL541",
-        "value": "Άρτα, Πρέβεζα"
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
       },
-      "nutsCity": "ΑΡΤΑ",
-      "nutsPostalCode": "47045",
+      "nutsCity": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "nutsPostalCode": "54627",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -443,17 +264,17 @@
         "key": "1",
         "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 1,
+      "contractDuration": 12,
       "contractDurationUnitOfMeasure": {
-        "key": "4",
-        "value": "Έτη"
+        "key": "3",
+        "value": "Μήνες"
       },
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "094450059",
+            "vatNumber": "800429918",
             "greekVatNumber": true,
-            "name": "ΙΝΤΕΡΣΑΛΟΝΙΚΑ ΑΝΩΝΥΜΗ ΕΤΑΙΡΙΑ ΓΕΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+            "name": "ΑΦΟΙ ΑΡΒΑΝΙΤΙΔΗ ΑΕ",
             "nutsCode": {
               "key": "EL522",
               "value": "Θεσσαλονίκη"
@@ -465,8 +286,8 @@
           }
         ]
       },
-      "totalCostWithVAT": 318.0,
-      "totalCostWithoutVAT": 318.0,
+      "totalCostWithVAT": 18740.0,
+      "totalCostWithoutVAT": 18740.0,
       "objectDetailsList": [
         {
           "quantity": 1,
@@ -474,13 +295,13 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 318,
+          "costWithoutVAT": 18740,
           "vat": "0",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Ετήσια ασφάλιση (από 11-02-2026 έως 11-02-2027) του με αριθμ. κυκλ. ΚΗΗ 6797 οχήματος του Δήμου Κεντρικών Τζουμέρκων, με σκοπό την εξυπηρέτηση των συμφερόντων του Δήμου και την αντιμετώπιση εκτάκτων αναγκών.  ",
+          "shortDescription": "ΑΣΦΑΛΙΣΗ ΥΠΗΡΕΣΙΑΚΩΝ ΟΧΗΜΑΤΩΝ, ΔΙΚΥΚΛΩΝ, ΣΚΑΦΟΥΣ, ΜΗΧ/ΤΩΝ ΕΡΓΟΥ, DRONE Π.Κ.Μ. & ΜΕΘ",
           "cpvs": [
             {
               "key": "66516100-1",
@@ -497,12 +318,8 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "approvedRequestsList": [
-        {
-          "code": "26REQ018448728"
-        }
-      ],
-      "noticeRefNo": null,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018423775",
       "amendsAuctionRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
@@ -518,11 +335,675 @@
       "primary_domain": "Financial & Insurance Services"
     },
     {
-      "title": "ΑΣΦΑΛΕΙΕΣ ΟΧΗΜΑΤΩΝ ΔΗΜΟΥ ΝΕΜΕΑΣ",
-      "referenceNumber": "26AWRD018456451",
-      "submissionDate": "2026-02-10T11:31:12.32",
+      "title": "ΑΣΦΑΛΙΣΗ ΤΩΝ ΜΗΧΑΝΟΚΙΝΗΤΩΝ ΟΧΗΜΑΤΩΝ ΤΟΥ ΔΗΜΟΥ ΝΑΞΟΥ & ΜΙΚΡΩΝ ΚΥΚΛΑΔΩΝ ΓΙΑ ΤΟ ΕΤΟΣ 2026",
+      "referenceNumber": "26AWRD018473927",
+      "submissionDate": "2026-02-12T13:55:01.673",
       "lastUpdateDate": null,
-      "signedDate": "2026-02-10",
+      "signedDate": "2026-02-12",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.Ε86702.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "997558031",
+      "greekOrganizationVatNumber": true,
+      "budget": 18877,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "82010",
+          "value": "ΑΙΡΕΤΟΙ"
+        },
+        "signers": {
+          "key": "100048980",
+          "value": "ΔΗΜΗΤΡΙΟΣ ΛΙΑΝΟΣ - Δήμαρχος"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "6203",
+        "value": "ΔΗΜΟΣ ΝΑΞΟΥ & ΜΙΚΡΩΝ ΚΥΚΛΑΔΩΝ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL422",
+        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
+      },
+      "nutsCity": "ΔΗΜΟΣ ΝΑΞΟΥ & ΜΙΚΡΩΝ ΚΥΚΛΑΔΩΝ",
+      "nutsPostalCode": "84300",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
+      },
+      "contractDuration": 12,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "129643250",
+            "greekVatNumber": true,
+            "name": "ΚΑΦΟΥΡΟΣ ΕΜΜΑΝΟΥΗΛ",
+            "nutsCode": {
+              "key": "EL42",
+              "value": "Νότιο Αιγαίο"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 18877.0,
+      "totalCostWithoutVAT": 18877.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 18877,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΔΩΔΕΚΑΜΗΝΗ ΑΣΦΑΛΙΣΗ ΟΧΗΜΑΤΩΝ ΚΑΙ ΜΗΧΑΝΗΜΑΤΩΝ ΑΠΟ 07-03-2026 ΕΩΣ 07-03-2027",
+          "cpvs": [
+            {
+              "key": "66516100-1",
+              "value": "Ασφάλεια αστικής ευθύνης μηχανοκίνητων οχημάτων"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018424573",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "66516100"
+      ],
+      "cpv_divisions": [
+        "66"
+      ],
+      "all_domains": [
+        "Financial & Insurance Services"
+      ],
+      "primary_domain": "Financial & Insurance Services"
+    },
+    {
+      "title": "«Ασφάλιση οχημάτων και μηχανημάτων έργων της Δημοτικής Ενότητας Αρτέμιδος»",
+      "referenceNumber": "26AWRD018472217",
+      "submissionDate": "2026-02-12T12:07:19.832",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-12",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.Ε84912.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "997606740",
+      "greekOrganizationVatNumber": true,
+      "budget": 21976,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "77967",
+          "value": "ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100002087",
+          "value": "ΔΗΜΗΤΡΗΣ ΜΑΡΚΟΥ - Δήμαρχος"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "6287",
+        "value": "ΔΗΜΟΣ ΣΠΑΤΩΝ - ΑΡΤΕΜΙΔΟΣ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "1",
+        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL305",
+        "value": "Ανατολική Αττική"
+      },
+      "nutsCity": "ΣΠΑΤΑ",
+      "nutsPostalCode": "19004",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "5",
+        "value": "Οικονομικές και δημοσιονομικές υποθέσεις"
+      },
+      "contractDuration": 12,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "094035800",
+            "greekVatNumber": true,
+            "name": "NP ΑΣΦΑΛΙΣΤΙΚΗ",
+            "nutsCode": {
+              "key": "EL",
+              "value": "ΕΛΛΑΔΑ"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 21976.0,
+      "totalCostWithoutVAT": 21976.0,
+      "objectDetailsList": [
+        {
+          "quantity": 55,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 21976,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ασφάλιση οχημάτων και μηχανημάτων έργου Δημοτικής Ενότητας Αρτέμιδος",
+          "cpvs": [
+            {
+              "key": "66516100-1",
+              "value": "Ασφάλεια αστικής ευθύνης μηχανοκίνητων οχημάτων"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018436308",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "66516100"
+      ],
+      "cpv_divisions": [
+        "66"
+      ],
+      "all_domains": [
+        "Financial & Insurance Services"
+      ],
+      "primary_domain": "Financial & Insurance Services"
+    },
+    {
+      "title": "τίτλο «Ασφάλιση οχημάτων και μηχανημάτων έργου της Δημοτικής Ενότητας Σπάτων»",
+      "referenceNumber": "26AWRD018471782",
+      "submissionDate": "2026-02-12T11:47:38.785",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-12",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.Ε84912.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "997606740",
+      "greekOrganizationVatNumber": true,
+      "budget": 13890.8,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "77967",
+          "value": "ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100002087",
+          "value": "ΔΗΜΗΤΡΗΣ ΜΑΡΚΟΥ - Δήμαρχος"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "6287",
+        "value": "ΔΗΜΟΣ ΣΠΑΤΩΝ - ΑΡΤΕΜΙΔΟΣ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "1",
+        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL305",
+        "value": "Ανατολική Αττική"
+      },
+      "nutsCity": "ΣΠΑΤΑ",
+      "nutsPostalCode": "19004",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "5",
+        "value": "Οικονομικές και δημοσιονομικές υποθέσεις"
+      },
+      "contractDuration": 12,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "094035800",
+            "greekVatNumber": true,
+            "name": "NP ΑΣΦΑΛΙΣΤΙΚΗ ",
+            "nutsCode": {
+              "key": "EL",
+              "value": "ΕΛΛΑΔΑ"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 13890.8,
+      "totalCostWithoutVAT": 13890.8,
+      "objectDetailsList": [
+        {
+          "quantity": 35,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 13890.8,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ασφάλιση οχημάτων και μηχανημάτων έργου Δημοτικής Ενότητας Σπάτων",
+          "cpvs": [
+            {
+              "key": "66516100-1",
+              "value": "Ασφάλεια αστικής ευθύνης μηχανοκίνητων οχημάτων"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018436640",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "66516100"
+      ],
+      "cpv_divisions": [
+        "66"
+      ],
+      "all_domains": [
+        "Financial & Insurance Services"
+      ],
+      "primary_domain": "Financial & Insurance Services"
+    },
+    {
+      "title": "ΑΠΟΦΑΣΗ ΕΠΙΚΥΡΩΣΗΣ ΠΡΑΚΤΙΚΟΥ  ΚΑΤΑΚΥΡΩΣΗΣ ΤΗ ΜΙΣΘΩΣΗ ΜΗΧΑΝΗΜΑΤΩΝ ΕΚΤΥΠΩΣΗΣ / ΣΑΡΩΣΗΣ",
+      "referenceNumber": "26AWRD018470936",
+      "submissionDate": "2026-02-12T11:04:50.403",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-12",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1015.Ε00810.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "999122114",
+      "greekOrganizationVatNumber": false,
+      "budget": 120958.2,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "74284",
+          "value": "ΓΡΑΦΕΙΟ ΔΙΟΙΚΗΤΗ"
+        },
+        "signers": {
+          "key": "100092538",
+          "value": "ΔΗΜΗΤΡΙΟΣ ΤΣΑΛΙΚΑΚΗΣ - Διοικητής"
+        }
+      },
+      "procedureType": {
+        "key": "1",
+        "value": "Ανοιχτή διαδικασία"
+      },
+      "organization": {
+        "key": "50048",
+        "value": "3Η ΔΥΠΕ ΜΑΚΕΔΟΝΙΑΣ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
+      },
+      "nutsCity": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "nutsPostalCode": "56430",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "6",
+        "value": "Υγεία"
+      },
+      "contractDuration": 60,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "801339843",
+            "greekVatNumber": false,
+            "name": "ΝΙΚΟΛΑΟΣ ΕΥΣΤΡΑΤΙΑΔΗΣ ΚΑΙ ΣΙΑ ΕΕ",
+            "nutsCode": {
+              "key": "EL522",
+              "value": "Θεσσαλονίκη"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 149988.17,
+      "totalCostWithoutVAT": 120958.2,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 120958.2,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Διακήρυξη Ηλεκτρονικού Ανοικτού Διαγωνισμού για τη μίσθωση μηχανημάτων εκτύπωσης / σάρωσης (πολυμηχανημάτων) – με δυνατότητα εξαγοράς - και την παροχή ολοκληρωμένων υπηρεσιών εκτύπωσης / σάρωσης, για πέντε (5) έτη για τις ανάγκες της Πολυδύναμης Νοσηλευτικής Μονάδας Ψυχικής ",
+          "cpvs": [
+            {
+              "key": "66114000-2",
+              "value": "Υπηρεσίες χρηματοδοτικής μίσθωσης"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "25PROC018154997",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "66114000"
+      ],
+      "cpv_divisions": [
+        "66"
+      ],
+      "all_domains": [
+        "Financial & Insurance Services"
+      ],
+      "primary_domain": "Financial & Insurance Services"
+    },
+    {
+      "title": "ΑΣΦΑΛΕΙΕΣ ΟΧΗΜΑΤΩΝ ΔΗΜΟΥ ΝΕΜΕΑΣ",
+      "referenceNumber": "26AWRD018470042",
+      "submissionDate": "2026-02-12T10:16:38.936",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-12",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
@@ -533,7 +1014,7 @@
       "authorEmail": null,
       "organizationVatNumber": "090398932",
       "greekOrganizationVatNumber": true,
-      "budget": 4458,
+      "budget": 5436.47,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
@@ -621,12 +1102,12 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "094047601",
+            "vatNumber": "094007989",
             "greekVatNumber": true,
-            "name": "ΥΔΡΟΓΕΙΟΣ ΑΣΦΑΛΙΣΤΙΚΗ Α.Ε.Α.Ε",
+            "name": "ALLIANZ AE",
             "nutsCode": {
-              "key": "EL304",
-              "value": "Νότιος Τομέας Αθηνών"
+              "key": "EL301",
+              "value": "Βόρειος Τομέας Αθηνών"
             },
             "installationCountry": {
               "key": "GR",
@@ -635,8 +1116,8 @@
           }
         ]
       },
-      "totalCostWithVAT": 4458.0,
-      "totalCostWithoutVAT": 4458.0,
+      "totalCostWithVAT": 5436.47,
+      "totalCostWithoutVAT": 5436.47,
       "objectDetailsList": [
         {
           "quantity": 1,
@@ -644,7 +1125,7 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 4458,
+          "costWithoutVAT": 5436.47,
           "vat": "0",
           "currency": {
             "key": "EUR",
@@ -674,6 +1155,172 @@
       "paymentRefNo": [],
       "cpv_codes_extracted": [
         "66514110"
+      ],
+      "cpv_divisions": [
+        "66"
+      ],
+      "all_domains": [
+        "Financial & Insurance Services"
+      ],
+      "primary_domain": "Financial & Insurance Services"
+    },
+    {
+      "title": "ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΑΣΦΑΛΙΣΤΡΑ ΟΧΗΜΑΤΩΝ ",
+      "referenceNumber": "26AWRD018469730",
+      "submissionDate": "2026-02-12T10:01:07.791",
+      "lastUpdateDate": null,
+      "signedDate": "2025-12-31",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.E86302.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "090410925",
+      "greekOrganizationVatNumber": false,
+      "budget": 1691.9,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 7,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "83011",
+          "value": "ΔΗΜΑΡΧΟΣ"
+        },
+        "signers": {
+          "key": "100002146",
+          "value": "ΣΤΑΜΑΤΙΟΣ ΓΑΡΔΕΡΗΣ - Δήμαρχος"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "6162",
+        "value": "ΔΗΜΟΣ ΚΥΘΝΟΥ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "4",
+        "value": "Βάσει κόστους – άλλο"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL42",
+        "value": "Νότιο Αιγαίο"
+      },
+      "nutsCity": "ΚΥΘΝΟΣ",
+      "nutsPostalCode": "84006",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "4",
+        "value": "Έτη"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "094342626",
+            "greekVatNumber": false,
+            "name": "INTERLIFE ΑΝΩΝΥΜΗ ΑΣΦΑΛΙΣΤΙΚΗ ΕΤΑΙΡΕΙΑ ΓΕΝ ΑΣΦΑΛΙΣΕΩΝ ",
+            "nutsCode": {
+              "key": "EL42",
+              "value": "Νότιο Αιγαίο"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 1691.9,
+      "totalCostWithoutVAT": 1691.9,
+      "objectDetailsList": [
+        {
+          "quantity": 7,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1691.9,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΣΦΑΛΙΣΤΡΑ ΟΧΗΜΑΤΩΝ ΔΗΜΟΥ ΚΥΘΝΟΥ ",
+          "cpvs": [
+            {
+              "key": "66516400-4",
+              "value": "Γενική ασφάλεια αστικής ευθύνης"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018469434",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "66516400"
       ],
       "cpv_divisions": [
         "66"

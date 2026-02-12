@@ -1,14 +1,14 @@
 {
   "domain": "Health & Social Work Services",
-  "count": 6,
+  "count": 10,
   "items": [
     {
-      "title": "ΠΡΟΣΚΛΗΣΗ ΓΙΑ ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΜΕΛΕΤΗΣ: ΜΙΚΡΟΒ. & ΧΗΜΙΚΟΣ ΕΛΕΓΧΟΣ ΠΟΣΙΜΟΥ ΝΕΡΟΥ ΚΛΠ",
-      "referenceNumber": "26PROC018460102",
-      "signedDate": "2026-02-10T00:00:00",
+      "title": "ΠΡΟΣΚΛΗΣΗ ΓΙΑ ΤΗΝ ΥΠΟΒΟΛΗ ΟΙΚΟΝΟΜΙΚΗΣ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΤΗΝ ΠΑΡΟΧΗ ΥΠΟΣΤΗΡΙΚΤΙΚΩΝ ΥΠΗΡΕΣΙΩΝ ΜΗΧΑΝΙΚΟΥ",
+      "referenceNumber": "26PROC018474474",
+      "signedDate": "2026-02-12T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-17T13:30:00",
-      "submissionDate": "2026-02-10T16:12:36.275",
+      "finalSubmissionDate": "2026-02-20T15:00:00",
+      "submissionDate": "2026-02-12T15:55:02.622",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -20,7 +20,7 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007.910.0001",
+      "aaht": "1007.F00212.0001",
       "biddingWebsite": null,
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
@@ -29,11 +29,11 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
+        "key": "EL52",
+        "value": "Κεντρική Μακεδονία"
       },
-      "nutsCity": "ΚΟΡΙΝΘΟΣ",
-      "nutsPostalCode": "20131",
+      "nutsCity": "ΑΡΙΔΑΙΑ",
+      "nutsPostalCode": "58400",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -52,12 +52,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "82285",
-          "value": "Δ/ΝΣΗ ΔΙΟΙΚΗΤΙΚΟΥ-ΟΙΚΟΝΟΜΙΚΟΥ ΠΕΡΙΦΕΡΕΙΑΚΗΣ ΕΝΟΤΗΤΑΣ ΚΟΡΙΝΘΙΑΣ/ ΤΜΗΜΑ ΠΡΟΜΗΘΕΙΩΝ"
+          "key": "83983",
+          "value": "ΑΥΤΟΤΕΛΕΣ ΓΡΑΦΕΙΟ ΑΙΡΕΤΩΝ ΟΡΓΑΝΩΝ"
         },
         "signers": {
-          "key": "100088093",
-          "value": "ΑΝΑΣΤΑΣΙΟΣ ΓΚΙΟΛΗΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+          "key": "100087149",
+          "value": "ΠΕΤΡΟΣ ΤΖΕΚΟΣ - Πρόεδρος Δ.Σ."
         }
       },
       "fundingDetails": {
@@ -65,236 +65,35 @@
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": null,
+        "selfFundProgramRef": "00.6117.06",
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "02.02.0072.2420989001"
+        "regularBudgetFundedProgramRef": null
       },
       "systemicNumbers": [],
       "approvedRequests": [
         {
-          "code": "26REQ018443683"
+          "code": "26REQ018466116"
         }
       ],
       "contractingAuthorities": [
         {
           "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
+            "key": "10",
+            "value": "ΝΠΙΔ"
           }
         }
       ],
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL",
-            "value": "ΕΛΛΑΔΑ"
+            "key": "EL52",
+            "value": "Κεντρική Μακεδονία"
           }
         }
       ],
       "organization": {
-        "key": "5012",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ"
-      },
-      "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "contractType": {
-        "key": "12",
-        "value": "Μελέτες"
-      },
-      "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
-      },
-      "digitalPlatform": null,
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
-      },
-      "contractingAuthorityActivity": {
-        "key": "6",
-        "value": "Υγεία"
-      },
-      "contractDuration": 1,
-      "contractDurationUnitOfMeasure": {
-        "key": "4",
-        "value": "Έτη"
-      },
-      "totalCostWithVAT": 11482.4,
-      "totalCostWithoutVAT": 9260.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 9260,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΌΣΚΛΗΣΗ για υποβολή οικονομικής προσφοράς, που αφορά τη μελέτη «Μικροβιολογικού και χημικού ελέγχου ποσίμου νερού, τροφίμων, κολυμβητικών δεξαμενών, θαλάσσιων υδάτων και λυμάτων ΒΙΟ.ΚΑ. της Π.Ε. Κορινθίας της Περιφέρειας Πελοποννήσου.",
-          "cpvs": [
-            {
-              "key": "85148000-8",
-              "value": "Υπηρεσίες ιατρικών αναλύσεων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 90,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "85148000"
-      ],
-      "cpv_divisions": [
-        "85"
-      ],
-      "all_domains": [
-        "Health & Social Work Services"
-      ],
-      "primary_domain": "Health & Social Work Services"
-    },
-    {
-      "title": "Παροχή  υπηρεσιών φαρμακοποιού για την υλοποίηση του υποέργου του Προγράμματος ¨Στερεά Ελλάδα 2021-2",
-      "referenceNumber": "26PROC018459424",
-      "signedDate": "2026-02-10T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-16T00:00:00",
-      "submissionDate": "2026-02-10T14:29:46.649",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1007.E82704.0001",
-      "biddingWebsite": null,
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 1,
-      "nutsCode": {
-        "key": "EL644",
-        "value": "Φθιώτιδα"
-      },
-      "nutsCity": "ΛΙΒΑΝΑΤΕΣ",
-      "nutsPostalCode": "35007",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "82616",
-          "value": "ΓΡΑΦΕΙΟ ΔΗΜΑΡΧΟΥ"
-        },
-        "signers": {
-          "key": "100048667",
-          "value": "ΑΘΑΝΑΣΙΟΣ ΖΕΚΕΝΤΕΣ - Δήμαρχος"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": "255.2420989001",
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
-      },
-      "systemicNumbers": [
-        {
-          "systemicNumber": "1007.E82704.0001"
-        }
-      ],
-      "approvedRequests": [
-        {
-          "code": "26REQ018415610"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL64",
-            "value": "Στερεά Ελλάδα"
-          }
-        }
-      ],
-      "organization": {
-        "key": "6176",
-        "value": "ΔΗΜΟΣ ΛΟΚΡΩΝ"
+        "key": "51974",
+        "value": "ΛΟΥΤΡΑ ΛΟΥΤΡΑΚΙΟΥ ΔΗΜΟΥ ΑΛΜΩΠΙΑΣ Α.Ε"
       },
       "typeOfProcedure": {
         "key": "6",
@@ -305,210 +104,6 @@
         "value": "Υπηρεσίες"
       },
       "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
-      },
-      "digitalPlatform": null,
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
-      },
-      "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
-      },
-      "contractDuration": 11,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "totalCostWithVAT": 12500.44,
-      "totalCostWithoutVAT": 10081.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 10081,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Αμοιβή Φαρμακοποιού",
-          "cpvs": [
-            {
-              "key": "85149000-5",
-              "value": "Φαρμακευτικές υπηρεσίες"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 5,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "85149000"
-      ],
-      "cpv_divisions": [
-        "85"
-      ],
-      "all_domains": [
-        "Health & Social Work Services"
-      ],
-      "primary_domain": "Health & Social Work Services"
-    },
-    {
-      "title": "προμήθεια ρολοκουρτινων απλών και blackout ",
-      "referenceNumber": "26PROC018459285",
-      "signedDate": "2026-02-10T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-16T10:00:00",
-      "submissionDate": "2026-02-10T14:19:43.582",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1015.Ε00226.0001",
-      "biddingWebsite": null,
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 1,
-      "nutsCode": {
-        "key": "EL543",
-        "value": "Ιωάννινα"
-      },
-      "nutsCity": "ΙΩΝΝΙΝΑ",
-      "nutsPostalCode": "45500",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100024401",
-          "value": "ΥΠΟΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΟΥ"
-        },
-        "signers": {
-          "key": "100098348",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΚΩΣΤΟΥΛΑΣ - Προϊστάμενος Υποδιεύθυνσης"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2410189000000"
-      },
-      "systemicNumbers": [
-        {
-          "systemicNumber": "3682"
-        }
-      ],
-      "approvedRequests": [
-        {
-          "code": "26REQ018458183"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL543",
-            "value": "Ιωάννινα"
-          }
-        }
-      ],
-      "organization": {
-        "key": "99222011",
-        "value": "ΠΕΡΙΦ. ΠΑΝΕΠΙΣΤ. ΓΕΝ. ΝΟΣΟΚ. ΙΩΑΝΝΙΝΩΝ"
-      },
-      "typeOfProcedure": {
-        "key": "7",
-        "value": "Ανταγωνιστική διαδικασία με διαπραγμάτευση"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "awardProcedure": {
-        "key": "51",
-        "value": "Οι ανάγκες δεν μπορούν να ικανοποιηθούν χωρίς προσαρμογή των άμεσα διαθέσιμων λύσεων"
-      },
       "centralizedMarkets": [
         {
           "centralizedMarket": {
@@ -535,218 +130,20 @@
         "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "noticeType": {
-        "key": "2",
-        "value": "Προκήρυξη"
-      },
-      "contractingAuthorityActivity": {
-        "key": "6",
-        "value": "Υγεία"
-      },
-      "contractDuration": 3,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "totalCostWithVAT": 5927.2,
-      "totalCostWithoutVAT": 4780.0,
-      "objectDetails": [
-        {
-          "quantity": 33,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 4780,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ανάγκες της  Διαχείρισης Πάγιου Εξοπλισμού ",
-          "cpvs": [
-            {
-              "key": "85121280-9",
-              "value": "Οφθαλμολογικές"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 3,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "99222011",
-        "85121280"
-      ],
-      "cpv_divisions": [
-        "85"
-      ],
-      "all_domains": [
-        "Health & Social Work Services"
-      ],
-      "primary_domain": "Health & Social Work Services"
-    },
-    {
-      "title": "ΕΠΙΛΟΓΗ ΕΞΩΤ.ΣΥΜΒΟΥΛΟΥ ΓΙΑ ΤΗΝ ΥΛΟΠΟΙΗΣΗ ΤΟΥ ERASMUS ",
-      "referenceNumber": "26PROC018457890",
-      "signedDate": "2026-02-10T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-11T12:00:00",
-      "submissionDate": "2026-02-10T12:49:18.157",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1015.E00035.0001",
-      "biddingWebsite": null,
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 1,
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "11527",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "77457",
-          "value": "ΓΡΑΦΕΙΟ ΠΡΟΕΔΡΟΥ"
-        },
-        "signers": {
-          "key": "100097505",
-          "value": "ΓΕΩΡΓΙΟΣ ΧΑΡΑΛΑΜΠΟΥΣ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2420989"
-      },
-      "systemicNumbers": [],
-      "approvedRequests": [
-        {
-          "code": "26REQ018456609"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL",
-            "value": "ΕΛΛΑΔΑ"
-          }
-        }
-      ],
-      "organization": {
-        "key": "50184",
-        "value": "ΕΘΝΙΚΟ ΚΕΝΤΡΟ ΑΜΕΣΗΣ ΒΟΗΘΕΙΑΣ (ΕΚΑΒ)"
-      },
-      "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
-      },
-      "digitalPlatform": null,
-      "criteriaCode": {
-        "key": "4",
-        "value": "Βάσει κόστους – άλλο"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "3",
-        "value": "ΟΚΑ"
-      },
-      "noticeType": {
         "key": "4",
         "value": "Πρόσκληση"
       },
       "contractingAuthorityActivity": {
-        "key": "6",
-        "value": "Υγεία"
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 11,
+      "contractDuration": 2,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 37200.0,
-      "totalCostWithoutVAT": 30000.0,
+      "totalCostWithVAT": 1364.0,
+      "totalCostWithoutVAT": 1100.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -754,13 +151,13 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 30000,
+          "costWithoutVAT": 1100,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Εισήγηση Επιλογής Εξωτερικού Συμβούλου για την παροχή εξειδικευμένων υπηρεσιών για την απρόσκοπτη υλοποίηση του Έργου με τίτλο «Emergency Response Advancement: Strengthening Skills & Training in Prehospital Care (ERA)» στο πλαίσιο του Προγράμματος Erasmus+ KA 122-VET. Ο Κωδικός του Έργου είναι: 2025-1-ΕL01-KA 1 22-VET-000345605",
+          "shortDescription": "παροχή υποστηρικτικών και συμβουλευτικών υπηρεσιών για την διαμόρφωση του επενδυτικού σχεδίου «Αναβάθμιση Υφιστάμενων ή Δημιουργία νέων Εγκαταστάσεων Ιαματικού Τουρισμού.»",
           "cpvs": [
             {
               "key": "85312320-8",
@@ -803,12 +200,12 @@
       "primary_domain": "Health & Social Work Services"
     },
     {
-      "title": "παροχή υπηρεσιών γενικής επιχειρησιακής υποστήριξης και συμβουλευτικής καθοδήγησης ",
-      "referenceNumber": "26PROC018457258",
-      "signedDate": "2026-02-10T00:00:00",
+      "title": "Πρόσκληση υποβολής προσφορών με αντικείμενο την παροχή υπηρεσίας συμβουλευτικής υποστήριξης ",
+      "referenceNumber": "26PROC018473978",
+      "signedDate": "2026-02-12T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-16T14:00:00",
-      "submissionDate": "2026-02-10T12:14:02.518",
+      "finalSubmissionDate": "2026-02-17T10:00:00",
+      "submissionDate": "2026-02-12T14:00:22.922",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -820,8 +217,8 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1039.Ε00923.001",
-      "biddingWebsite": null,
+      "aaht": "1015.E00200.0001",
+      "biddingWebsite": "https://pgna.isupplies.gr/",
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
       "budget": null,
@@ -829,35 +226,35 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL51",
+        "value": "Aνατολική Μακεδονία, Θράκη"
       },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "10552",
+      "nutsCity": "ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ",
+      "nutsPostalCode": "68100",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
       },
       "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
+        "key": "2",
+        "value": "Όχι"
       },
       "socialContract": {
         "key": "2",
         "value": "Όχι"
       },
       "centralGovernmentAuthority": {
-        "key": "1",
-        "value": "Ναι"
+        "key": "2",
+        "value": "Όχι"
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100067257",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΠΡΟΜΗΘΕΙΩΝ ΚΑΙ ΑΝΕΦΟΔΙΑΣΜΟΥ"
+          "key": "76285",
+          "value": "ΔΙΟΙΚΗΤΙΚΗ ΥΠΗΡΕΣΙΑ"
         },
         "signers": {
-          "key": "100098400",
-          "value": "ΕΥΦΡΟΣΥΝΗ ΝΙΚΟΓΛΟΥ - Διευθυντής"
+          "key": "100065462",
+          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΤΣΙΦΕΤΑΚΗΣ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
         }
       },
       "fundingDetails": {
@@ -867,41 +264,45 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "6100"
+        "regularBudgetFundedProgramRef": "2420989"
       },
-      "systemicNumbers": [],
+      "systemicNumbers": [
+        {
+          "systemicNumber": "1116"
+        }
+      ],
       "approvedRequests": [
         {
-          "code": "26REQ018451223"
+          "code": "26REQ018452826"
         }
       ],
       "contractingAuthorities": [
         {
           "contractingAuthority": {
-            "key": "10",
-            "value": "ΝΠΙΔ"
+            "key": "9",
+            "value": "ΝΠΔΔ"
           }
         }
       ],
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL303",
-            "value": "Κεντρικός Τομέας Αθηνών"
+            "key": "EL511",
+            "value": "Έβρος"
           }
         }
       ],
       "organization": {
-        "key": "50083",
-        "value": "ΣΤΑΘΕΡΕΣ ΣΥΓΚΟΙΝΩΝΙΕΣ Α.Ε. (ΣΤΑΣΥ)"
+        "key": "99221985",
+        "value": "ΠΑΝΕΠΙΣΤΗΜΙΑΚΟ ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΕΒΡΟΥ"
       },
       "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
+        "key": "1",
+        "value": "Ανοιχτή διαδικασία"
       },
       "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
+        "key": "14",
+        "value": "Τεχνικές ή λοιπές συναφείς υπηρεσίες"
       },
       "awardProcedure": null,
       "centralizedMarkets": [
@@ -913,37 +314,40 @@
         }
       ],
       "legalContext": {
-        "key": "7",
-        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
       },
       "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
+        "key": "1",
+        "value": "Ηλεκτρονική Διαδικασία"
       },
-      "digitalPlatform": null,
+      "digitalPlatform": {
+        "key": "6",
+        "value": "iSupplies"
+      },
       "criteriaCode": {
         "key": "2",
         "value": "Βάσει τιμής"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "noticeType": {
         "key": "4",
         "value": "Πρόσκληση"
       },
       "contractingAuthorityActivity": {
-        "key": "19",
-        "value": "Μεταφορές με αστικό σιδηρόδρομο, τραμ, τρόλεϊ ή λεωφορείο"
+        "key": "6",
+        "value": "Υγεία"
       },
       "contractDuration": 12,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 36902.4,
-      "totalCostWithoutVAT": 29760.0,
+      "totalCostWithVAT": 31000.0,
+      "totalCostWithoutVAT": 25000.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -951,13 +355,13 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 29760,
+          "costWithoutVAT": 25000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Παροχή υπηρεσιών γενικής επιχειρησιακής υποστήριξης και συμβουλευτικής καθοδήγησης στη Διοίκηση της ΣΤΑ.ΣΥ. Μον. Α.Ε.",
+          "shortDescription": "ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΣΥΜΒΟΥΛΕΥΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΤΜΗΜΑΤΩΝ ΜΕ ΠΙΣΤΟΠΟΙΗΤΙΚΟ ΠΟΙΟΤΗΤΑΣ:ISO 9001:2015 KAI ΠΙΣΤΟΠΟΙΗΣΗΣ ΝΕΩΝ ΤΜΗΜΑΤΩΝ ΤΟΥ Π.Γ.Ν.Α.",
           "cpvs": [
             {
               "key": "85312300-2",
@@ -974,7 +378,7 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "offersValidTime": 3,
+      "offersValidTime": 2,
       "offersValidTimeUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -989,6 +393,7 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
+        "99221985",
         "85312300"
       ],
       "cpv_divisions": [
@@ -1000,12 +405,12 @@
       "primary_domain": "Health & Social Work Services"
     },
     {
-      "title": "\"Παροχή υπηρεσιών παιδιατρικής υποστήριξης προνοιακών δομών Βουκολιών Σκινέ & Κοντομαρίου 2026-2027\"",
-      "referenceNumber": "26PROC018456506",
-      "signedDate": "2026-02-10T00:00:00",
+      "title": "Παροχή υπηρεσιών θανάτωσης και ταφής μολυσμένων ζώων λόγω εμφάνισης νοσήματος με υψηλή μεταδοτικότ",
+      "referenceNumber": "26PROC018473617",
+      "signedDate": "2026-02-11T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-17T11:30:00",
-      "submissionDate": "2026-02-10T11:34:56.003",
+      "finalSubmissionDate": "2026-02-19T13:00:00",
+      "submissionDate": "2026-02-12T13:30:50.823",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -1017,7 +422,7 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007.Ε87406.0001",
+      "aaht": "1007.908.0001",
       "biddingWebsite": null,
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
@@ -1026,11 +431,11 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL434",
-        "value": "Χανιά"
+        "key": "EL645",
+        "value": "Φωκίδα"
       },
-      "nutsCity": "ΧΑΝΙΑ",
-      "nutsPostalCode": "73014",
+      "nutsCity": "ΆΜΦΙΣΣΑ",
+      "nutsPostalCode": "33100",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -1049,12 +454,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100010586",
-          "value": "ΤΜΗΜΑ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ,ΛΟΓΙΣΤΗΡΙΟΥ ΚΑΙ ΠΡΟΜΗΘΕΙΩΝ"
+          "key": "79168",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΟΥ-ΟΙΚΟΝΟΜΙΚΟΥ ΠΕ ΦΩΚΙΔΑΣ"
         },
         "signers": {
-          "key": "113919",
-          "value": "ΙΩΑΝΝΗΣ ΜΑΛΑΝΔΡΑΚΗΣ - Δήμαρχος"
+          "key": "100050126",
+          "value": "ΓΕΩΡΓΙΟΣ ΔΕΛΜΟΥΖΟΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
         }
       },
       "fundingDetails": {
@@ -1062,14 +467,14 @@
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": "055.2420904002",
+        "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
+        "regularBudgetFundedProgramRef": "2420989001"
       },
       "systemicNumbers": [],
       "approvedRequests": [
         {
-          "code": "26REQ018452871"
+          "code": "26REQ018416076"
         }
       ],
       "contractingAuthorities": [
@@ -1083,14 +488,14 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL434",
-            "value": "Χανιά"
+            "key": "EL645",
+            "value": "Φωκίδα"
           }
         }
       ],
       "organization": {
-        "key": "6250",
-        "value": "ΔΗΜΟΣ ΠΛΑΤΑΝΙΑ"
+        "key": "5013",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ"
       },
       "typeOfProcedure": {
         "key": "6",
@@ -1134,13 +539,13 @@
         "key": "1",
         "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 19,
+      "contractDuration": 1,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 6800.0,
-      "totalCostWithoutVAT": 6800.0,
+      "totalCostWithVAT": 5976.8,
+      "totalCostWithoutVAT": 4820.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -1148,17 +553,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 6800,
-          "vat": "0",
+          "costWithoutVAT": 4820,
+          "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Αμοιβή παιδιάτρου για παροχή υπηρεσιών Παιδιατρικής Υποστήριξης στους  Παιδικούς Σταθμούς  Βουκολιών, Σκινέ κ Βρεφονηπιακού  Σταθμού Κοντομαρίου Δ.Πλατανιά",
+          "shortDescription": "πρωτογενεσ αιτημα για την θανατωση και ταφη των ζωων εκτροφησ μολυσμενησ απο ευλογια",
           "cpvs": [
             {
-              "key": "85121291-9",
-              "value": "Παιδιατρικές υπηρεσίες"
+              "key": "85140000-2",
+              "value": "Διάφορες υγειονομικές υπηρεσίες"
             }
           ],
           "greenContracts": {
@@ -1171,7 +576,7 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "offersValidTime": 19,
+      "offersValidTime": 2,
       "offersValidTimeUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -1186,7 +591,1388 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "85121291"
+        "85140000"
+      ],
+      "cpv_divisions": [
+        "85"
+      ],
+      "all_domains": [
+        "Health & Social Work Services"
+      ],
+      "primary_domain": "Health & Social Work Services"
+    },
+    {
+      "title": "Αποστολή 150 παρασκευασμάτων προς  διάγνωση σε εξωτερικά παθολογοανατομικά εργαστήρια (ΑΔ_10/2026)",
+      "referenceNumber": "26PROC018472983",
+      "signedDate": "2026-02-12T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-19T10:00:00",
+      "submissionDate": "2026-02-12T12:47:26.432",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1011.2020000000.0044",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
+      },
+      "nutsCity": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "nutsPostalCode": "56429",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "91810",
+          "value": "ΓΕΣ/424 ΓΣΝΕ"
+        },
+        "signers": {
+          "key": "100101884",
+          "value": "ΠΕΤΡΟΣ ΤΟΥΛΙΟΣ - Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "-"
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018472734"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "12",
+            "value": "Κεντρική Διοίκηση"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL522",
+            "value": "Θεσσαλονίκη"
+          }
+        }
+      ],
+      "organization": {
+        "key": "6",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ"
+      },
+      "typeOfProcedure": {
+        "key": "2",
+        "value": "Κλειστή διαδικασία"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "6",
+        "value": "Υγεία"
+      },
+      "contractDuration": 30,
+      "contractDurationUnitOfMeasure": {
+        "key": "1",
+        "value": "Ημέρες"
+      },
+      "totalCostWithVAT": 11250.0,
+      "totalCostWithoutVAT": 11250.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 11250,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αποστολή 150 χειρουργικών παρασκευασμάτων προς  διάγνωση σε εξωτερικά παθολογοανατομικά εργαστήρια",
+          "cpvs": [
+            {
+              "key": "85145000-7",
+              "value": "Υπηρεσίες ιατρικών εργαστηρίων"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 12,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "85145000"
+      ],
+      "cpv_divisions": [
+        "85"
+      ],
+      "all_domains": [
+        "Health & Social Work Services"
+      ],
+      "primary_domain": "Health & Social Work Services"
+    },
+    {
+      "title": "ΠΡΟΣΚΛΗΣΗ  ΥΠΟΒΟΛΗΣ ΟΙΚΟΝΟΜΙΚΩΝ ΠΡΟΣΦΟΡΩΝ ΓΙΑ ΤΗΝ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗ ΥΠΗΡΕΣΙΩΝ ΣΕ ΨΥΧΟΛΟΓΟ",
+      "referenceNumber": "26PROC018472950",
+      "signedDate": "2026-02-09T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-13T12:00:00",
+      "submissionDate": "2026-02-12T12:45:40.075",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.Ε82201.0001",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL612",
+        "value": "Λάρισα"
+      },
+      "nutsCity": "ΛΑΡΙΣΑ",
+      "nutsPostalCode": "41221",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100085598",
+          "value": "ΔΗΜΟΤΙΚΟ ΩΔΕΙΟ"
+        },
+        "signers": {
+          "key": "100084724",
+          "value": "ΘΩΜΑΣ ΡΕΤΣΙΑΝΗΣ - Αντιδήμαρχος"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "015.1420989004"
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018471901"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "9",
+            "value": "ΝΠΔΔ"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL612",
+            "value": "Λάρισα"
+          }
+        }
+      ],
+      "organization": {
+        "key": "6167",
+        "value": "ΔΗΜΟΣ ΛΑΡΙΣΑΙΩΝ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "1",
+        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "10",
+        "value": "Πολιτισμός και θρησκεία"
+      },
+      "contractDuration": 6,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "totalCostWithVAT": 2740.0,
+      "totalCostWithoutVAT": 2740.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 2740,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "αμοιβές μουσικό-θεραπευτή και  με ειδικού στην Μουσική παιδαγωγική και ψυχολογία της μουσικής (ψυχολόγο)",
+          "cpvs": [
+            {
+              "key": "85121270-6",
+              "value": "Ψυχιατρικές ή ψυχολογικές υπηρεσίες"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 6,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "85121270"
+      ],
+      "cpv_divisions": [
+        "85"
+      ],
+      "all_domains": [
+        "Health & Social Work Services"
+      ],
+      "primary_domain": "Health & Social Work Services"
+    },
+    {
+      "title": "ΠΡΟΣΚΛΗΣΗ  ΥΠΟΒΟΛΗΣ ΟΙΚΟΝΟΜΙΚΩΝ ΠΡΟΣΦΟΡΩΝ ΓΙΑ ΤΗΝ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗ ΥΠΗΡΕΣΙΩΝ ΣΕ ΨΥΧΟΛΟΓΟ",
+      "referenceNumber": "26PROC018472774",
+      "signedDate": "2026-02-09T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-13T12:00:00",
+      "submissionDate": "2026-02-12T12:34:23.751",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.Ε82201.0001",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL612",
+        "value": "Λάρισα"
+      },
+      "nutsCity": "ΛΑΡΙΣΑ",
+      "nutsPostalCode": "41221",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100085598",
+          "value": "ΔΗΜΟΤΙΚΟ ΩΔΕΙΟ"
+        },
+        "signers": {
+          "key": "100084724",
+          "value": "ΘΩΜΑΣ ΡΕΤΣΙΑΝΗΣ - Αντιδήμαρχος"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "015.1420989004"
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018471901"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "9",
+            "value": "ΝΠΔΔ"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL612",
+            "value": "Λάρισα"
+          }
+        }
+      ],
+      "organization": {
+        "key": "6167",
+        "value": "ΔΗΜΟΣ ΛΑΡΙΣΑΙΩΝ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "1",
+        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "10",
+        "value": "Πολιτισμός και θρησκεία"
+      },
+      "contractDuration": 6,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "totalCostWithVAT": 3940.8,
+      "totalCostWithoutVAT": 3940.8,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 3940.8,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "αμοιβές μουσικό-θεραπευτή και  με ειδικού στην Μουσική παιδαγωγική και ψυχολογία της μουσικής (ψυχολόγο)",
+          "cpvs": [
+            {
+              "key": "85121270-6",
+              "value": "Ψυχιατρικές ή ψυχολογικές υπηρεσίες"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 6,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "85121270"
+      ],
+      "cpv_divisions": [
+        "85"
+      ],
+      "all_domains": [
+        "Health & Social Work Services"
+      ],
+      "primary_domain": "Health & Social Work Services"
+    },
+    {
+      "title": "ΠΡΟΣΚΛΗΣΗ ΥΠΟΒΟΛΗΣ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΣΥΝΑΨΗ ΣΥΜΒΑΣΗΣ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ ΥΓΙΕΙΝΗΣ",
+      "referenceNumber": "26PROC018472569",
+      "signedDate": "2026-02-12T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-03-16T14:00:00",
+      "submissionDate": "2026-02-12T12:24:01.626",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1024.F01229.0001",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "nutsCity": "ΑΘΗΝΑ",
+      "nutsPostalCode": "10671",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "10680",
+          "value": "ΑΕΔΙΚ ΚΕΝΤΡΙΚΟ"
+        },
+        "signers": {
+          "key": "100100795",
+          "value": "ΑΘΑΝΑΣΙΟΣ ΜΠΙΚΑΣ - Διευθύνων Σύμβουλος"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "6207",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018399401"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "10",
+            "value": "ΝΠΙΔ"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL652",
+            "value": "Κορινθία"
+          }
+        }
+      ],
+      "organization": {
+        "key": "99221127",
+        "value": "ΔΙΩΡΥΓΑ ΚΟΡΙΝΘΟΥ ΑΕ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 8,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "totalCostWithVAT": 4340.0,
+      "totalCostWithoutVAT": 3500.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 3500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Παροχή Υπηρεσιών Υγιεινής για τις ανάγκες της Α.Ε.ΔΙ.Κ.",
+          "cpvs": [
+            {
+              "key": "85142300-9",
+              "value": "Υπηρεσίες υγιεινής"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 90,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "1",
+        "value": "Ημέρες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "99221127",
+        "85142300"
+      ],
+      "cpv_divisions": [
+        "85"
+      ],
+      "all_domains": [
+        "Health & Social Work Services"
+      ],
+      "primary_domain": "Health & Social Work Services"
+    },
+    {
+      "title": "ΑΝΑΘΕΣΗ ΥΠΗΡΕΣΙΩΝ ΙΑΤΡΟΥ",
+      "referenceNumber": "26PROC018470816",
+      "signedDate": "2026-02-12T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-18T06:00:00",
+      "submissionDate": "2026-02-12T10:58:56.923",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.E80204.0001",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL514",
+        "value": "Δράμα"
+      },
+      "nutsCity": "ΠΑΡΑΝΕΣΤΙ",
+      "nutsPostalCode": "66035",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81355",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100048600",
+          "value": "ΑΝΑΣΤΑΣΙΟΣ ΚΑΓΙΑΟΓΛΟΥ - Δήμαρχος"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "015.2420989025"
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018470729"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "9",
+            "value": "ΝΠΔΔ"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL514",
+            "value": "Δράμα"
+          }
+        }
+      ],
+      "organization": {
+        "key": "6237",
+        "value": "ΔΗΜΟΣ ΠΑΡΑΝΕΣΤΙΟΥ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
+      },
+      "contractDuration": 10,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "totalCostWithVAT": 10000.0,
+      "totalCostWithoutVAT": 10000.0,
+      "objectDetails": [
+        {
+          "quantity": 400,
+          "type": {
+            "key": "MH",
+            "value": "Ανθρωποώρα"
+          },
+          "costWithoutVAT": 10000,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΝΑΘΕΣΗ ΥΠΗΡΕΣΙΩΝ ΙΑΤΡΟΥ",
+          "cpvs": [
+            {
+              "key": "85121000-3",
+              "value": "Ιατρικές υπηρεσίες"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 1,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "85121000"
+      ],
+      "cpv_divisions": [
+        "85"
+      ],
+      "all_domains": [
+        "Health & Social Work Services"
+      ],
+      "primary_domain": "Health & Social Work Services"
+    },
+    {
+      "title": "Πρόσκληση για την παροχή μηχανογραφικών - συμβουλευτικών υπηρεσιών, για τις ανάγκες του Εθνικού Σκοπ",
+      "referenceNumber": "26PROC018469117",
+      "signedDate": "2026-02-10T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-16T17:00:00",
+      "submissionDate": "2026-02-12T09:25:20.917",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1020.E00981.0001",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "nutsCity": "ΒΥΡΩΝΑΣ",
+      "nutsPostalCode": "16210",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100066737",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ - ΔΙΟΙΚΗΤΙΚΗ"
+        },
+        "signers": {
+          "key": "100066736",
+          "value": "ΔΙΟΝΥΣΙΟΣ ΓΕΩΡΓΑΚΟΠΟΥΛΟΣ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "2420903"
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018469063"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "9",
+            "value": "ΝΠΔΔ"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL303",
+            "value": "Κεντρικός Τομέας Αθηνών"
+          }
+        }
+      ],
+      "organization": {
+        "key": "100065114",
+        "value": "ΕΘΝΙΚΟ ΣΚΟΠΕΥΤΗΡΙΟ ΒΥΡΩΝΑ ΝΟΜ ΜΗ ΚΕΡΔΟΣΚΟΠΙΚΟ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "4",
+        "value": "Έτη"
+      },
+      "totalCostWithVAT": 7440.0,
+      "totalCostWithoutVAT": 6000.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 6000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πρόσκληση για την παροχή μηχανογραφικών - συμβουλευτικών υπηρεσιών, για τις ανάγκες του Εθνικού Σκοπευτηρίου Βύρωνα (Ε.Σ.Β.).",
+          "cpvs": [
+            {
+              "key": "85312320-8",
+              "value": "Υπηρεσίες παροχής συμβουλών"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 1,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "85312320"
+      ],
+      "cpv_divisions": [
+        "85"
+      ],
+      "all_domains": [
+        "Health & Social Work Services"
+      ],
+      "primary_domain": "Health & Social Work Services"
+    },
+    {
+      "title": "Πρόσκληση υποβολής προσφοράς για την ανάθεση υπηρεσιών εκπόνησης μελέτης Στρατηγικού Οικονομικού Μον",
+      "referenceNumber": "26PROC018468301",
+      "signedDate": "2026-02-12T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-20T15:00:00",
+      "submissionDate": "2026-02-12T08:22:11.405",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1015.E00848.0001",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL301",
+        "value": "Βόρειος Τομέας Αθηνών"
+      },
+      "nutsCity": "ΧΟΛΑΡΓΟΣ",
+      "nutsPostalCode": "15562",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "74233",
+          "value": "ΓΡΑΦΕΙΟ ΠΡΟΕΔΡΟΥ"
+        },
+        "signers": {
+          "key": "100098920",
+          "value": "ΣΠΥΡΙΔΩΝ ΣΑΠΟΥΝΑΣ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "ΑΛΕ 2420929"
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018400980"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "9",
+            "value": "ΝΠΔΔ"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL301",
+            "value": "Βόρειος Τομέας Αθηνών"
+          }
+        }
+      ],
+      "organization": {
+        "key": "99221514",
+        "value": "ΕΘΝΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΦΑΡΜΑΚΩΝ (ΕΟΦ)"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "6",
+        "value": "Υγεία"
+      },
+      "contractDuration": 3,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "totalCostWithVAT": 8680.0,
+      "totalCostWithoutVAT": 7000.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 7000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ανάθεση υπηρεσιών εκπόνησης μελέτης Στρατηγικού Οικονομικού Μοντέλου Βελτιστοποίησης & Πρόβλεψης για τον Εθνικό Οργανισμό Φαρμάκων",
+          "cpvs": [
+            {
+              "key": "85312320-8",
+              "value": "Υπηρεσίες παροχής συμβουλών"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 4,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "99221514",
+        "85312320"
       ],
       "cpv_divisions": [
         "85"

@@ -1,24 +1,24 @@
 {
   "domain": "Construction & Quarrying Machinery",
-  "count": 3,
+  "count": 9,
   "items": [
     {
-      "title": "Μεταφορά και Φόρτωση  αδρανών υλικών εντός του λατομείου Λιτοχώρου",
-      "referenceNumber": "26AWRD018460402",
-      "submissionDate": "2026-02-10T22:22:25.542",
+      "title": "ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΕΠΕΙΓΟΥΣΩΝ ΕΡΓΑΣΙΩΝ ΑΡΣΗΣ ΚΑΤΑΠΤΩΣΕΩΝ",
+      "referenceNumber": "26AWRD018472237",
+      "submissionDate": "2026-02-12T12:08:19.922",
       "lastUpdateDate": null,
-      "signedDate": "2026-02-10",
+      "signedDate": "2026-02-09",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1007.F00343.0001",
+      "aaht": "1007.912.0001",
       "authorEmail": null,
-      "organizationVatNumber": "094107233",
-      "greekOrganizationVatNumber": true,
-      "budget": 30000,
+      "organizationVatNumber": "998225768",
+      "greekOrganizationVatNumber": false,
+      "budget": 16700,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
@@ -38,12 +38,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100021728",
-          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+          "key": "100094624",
+          "value": "ΑΥΤΟΤΕΛΗΣ ΔΙΕΥΘΥΝΣΗ ΠΟΛΙΤΚΗΣ ΠΡΟΣΤΑΣΙΑΣ ΚΑΙ ΚΛΙΜΑΤΙΚΗΣ ΚΡΙΣΗΣ"
         },
         "signers": {
-          "key": "100096004",
-          "value": "ΑΣΤΕΡΙΟΣ ΦΑΡΜΑΚΗΣ - Πρόεδρος Δ.Σ."
+          "key": "100002024",
+          "value": "ΓΕΩΡΓΙΟΣ ΛΕΟΝΤΑΡΙΤΗΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
         }
       },
       "procedureType": {
@@ -51,8 +51,8 @@
         "value": "Απευθείας ανάθεση"
       },
       "organization": {
-        "key": "100021356",
-        "value": "ΜΟΝΟΜΕΤΟΧΙΚΗ ΑΝΩΝΥΜΗ ΔΗΜΟΤΙΚΗ ΕΤΑΙΡΕΙΑ ΑΝΑΠΤΥΞΗΣ ΒΙΟ ΠΑ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗΣ ΑΜΜΟΡΥΧΕΙΩΝ ΔΙΟΥ ΟΛΥΜΠΟΥ"
+        "key": "5011",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ"
       },
       "contractType": {
         "key": "9",
@@ -64,11 +64,11 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL525",
-        "value": "Πιερία"
+        "key": "EL42",
+        "value": "Νότιο Αιγαίο"
       },
-      "nutsCity": "ΛΙΤΟΧΩΡΟ",
-      "nutsPostalCode": "60200",
+      "nutsCity": "ΣΥΡΟΣ",
+      "nutsPostalCode": "84100",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -91,14 +91,14 @@
         "value": "ΟΤΑ"
       },
       "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
+        "key": "9",
+        "value": "ΝΠΔΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
+        "key": "4",
+        "value": "Περιβάλλον"
       },
-      "contractDuration": 12,
+      "contractDuration": 11,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -106,12 +106,12 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "800709873",
+            "vatNumber": "021659380",
             "greekVatNumber": false,
-            "name": "ΓΕΩΡΓΙΟΣ ΤΣΙΑΝΑΚΑΣ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ ",
+            "name": "ΚΥΡΙΤΣΗΣ ΙΩΑΝΝΗΣ ",
             "nutsCode": {
-              "key": "EL525",
-              "value": "Πιερία"
+              "key": "EL42",
+              "value": "Νότιο Αιγαίο"
             },
             "installationCountry": {
               "key": "GR",
@@ -120,52 +120,26 @@
           }
         ]
       },
-      "totalCostWithVAT": 37200.0,
-      "totalCostWithoutVAT": 30000.0,
+      "totalCostWithVAT": 20708.0,
+      "totalCostWithoutVAT": 16700.0,
       "objectDetailsList": [
         {
-          "quantity": 400,
+          "quantity": 450,
           "type": {
-            "key": "MH",
-            "value": "Ανθρωποώρα"
+            "key": "HUR",
+            "value": "Ώρα"
           },
-          "costWithoutVAT": 20000,
+          "costWithoutVAT": 16700,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Φόρτωση  αδρανών υλικών εντός του λατομείου Λιτοχώρου",
+          "shortDescription": "Εκτέλεση άμεσων και επειγουσών εργασιών, με την ενεργοποίηση του Μητρώου Αντιμετώπισης Φυσικών Καταστροφών με τη χρήση μηχανημάτων έργου",
           "cpvs": [
             {
-              "key": "43260000-3",
-              "value": "Αυτοκινούμενα μηχανικά πτύα"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 250,
-          "type": {
-            "key": "MH",
-            "value": "Ανθρωποώρα"
-          },
-          "costWithoutVAT": 10000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Μεταφορά αδρανών υλικών εντός του λατομείου Λιτοχώρου",
-          "cpvs": [
-            {
-              "key": "60000000-8",
-              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
+              "key": "43200000-5",
+              "value": "Μηχανήματα χωματουργικών εργασιών και εκσκαφών και συναφή μέρη"
             }
           ],
           "greenContracts": {
@@ -178,182 +152,17 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018430731",
+      "approvedRequestsList": [
+        {
+          "code": "26REQ018440550"
+        }
+      ],
+      "noticeRefNo": null,
       "amendsAuctionRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "43260000",
-        "60000000"
-      ],
-      "cpv_divisions": [
-        "43",
-        "60"
-      ],
-      "all_domains": [
-        "Construction & Quarrying Machinery",
-        "Transport Services"
-      ],
-      "primary_domain": "Construction & Quarrying Machinery"
-    },
-    {
-      "title": "Προμήθεια μαχαιριών των Σπαστήρων του Λατομείου Λιτοχώρου",
-      "referenceNumber": "26AWRD018460275",
-      "submissionDate": "2026-02-10T18:08:24.47",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-10",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1007.F00343.0001",
-      "authorEmail": null,
-      "organizationVatNumber": "094107233",
-      "greekOrganizationVatNumber": false,
-      "budget": 14186.5,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100021728",
-          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
-        },
-        "signers": {
-          "key": "100096004",
-          "value": "ΑΣΤΕΡΙΟΣ ΦΑΡΜΑΚΗΣ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "organization": {
-        "key": "100021356",
-        "value": "ΜΟΝΟΜΕΤΟΧΙΚΗ ΑΝΩΝΥΜΗ ΔΗΜΟΤΙΚΗ ΕΤΑΙΡΕΙΑ ΑΝΑΠΤΥΞΗΣ ΒΙΟ ΠΑ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗΣ ΑΜΜΟΡΥΧΕΙΩΝ ΔΙΟΥ ΟΛΥΜΠΟΥ"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL525",
-        "value": "Πιερία"
-      },
-      "nutsCity": "ΛΙΤΟΧΩΡΟ",
-      "nutsPostalCode": "60200",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
-      },
-      "contractDuration": 50,
-      "contractDurationUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "094519670",
-            "greekVatNumber": false,
-            "name": "ΕΓΝΑΤΙΑ ΧΥΤΗΡΙΟ Α.Ε.",
-            "nutsCode": {
-              "key": "EL522",
-              "value": "Θεσσαλονίκη"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            }
-          }
-        ]
-      },
-      "totalCostWithVAT": 17591.26,
-      "totalCostWithoutVAT": 14186.5,
-      "objectDetailsList": [
-        {
-          "quantity": 11,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 14186.5,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια μαχαιριών των Σπαστήρων του Λατομείου Λιτοχώρου",
-          "cpvs": [
-            {
-              "key": "43600000-9",
-              "value": "Μέρη μηχανημάτων ορυχείων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018430784",
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "43600000"
+        "43200000"
       ],
       "cpv_divisions": [
         "43"
@@ -364,22 +173,234 @@
       "primary_domain": "Construction & Quarrying Machinery"
     },
     {
-      "title": "ΕΡΓΑΣΙΑ ΠΡΟΣΒΑΣΗΣ ΚΑΙ ΚΑΘΑΡΙΣΜΟΥ ΦΕΡΤΩΝ ΥΛΙΚΩΝ ΥΔΡΟΜΑΣΤΕΥΣΗΣ ΤΟΥ ΟΙΚΙΣΜΟΥ ΚΑΛΟΝΕΡΙΟΥ ΤΗΣ Δ.Κ. ΜΕΓΑΡΧ",
-      "referenceNumber": "26AWRD018457826",
-      "submissionDate": "2026-02-10T12:45:18.709",
+      "title": "Ανάθεση σύμβασης παροχής υπηρεσιών ιδιόκτητων οχημάτων και μηχανημάτων για την υγειονομική ταφή ζώων",
+      "referenceNumber": "26AWRD018471976",
+      "submissionDate": "2026-02-12T11:57:19.701",
       "lastUpdateDate": null,
-      "signedDate": "2026-01-28",
+      "signedDate": "2026-02-10",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1007.F00625.001",
+      "aaht": "1007.905.0001",
       "authorEmail": null,
-      "organizationVatNumber": "094091267",
+      "organizationVatNumber": "997844846",
+      "greekOrganizationVatNumber": true,
+      "budget": 213780.5,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 2,
+      "assignedContract": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81998",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΚΤΗΝΙΑΤΡΙΚΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΘΕΣΣΑΛΙΑΣ"
+        },
+        "signers": {
+          "key": "100084263",
+          "value": "ΔΗΜΗΤΡΙΟΣ ΚΟΥΡΕΤΑΣ - ΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+        }
+      },
+      "procedureType": {
+        "key": "12",
+        "value": "Διαπραγμάτευση χωρίς προηγούμενη δημοσίευση"
+      },
+      "organization": {
+        "key": "5007",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": {
+        "key": "60",
+        "value": "Κατεπείγουσα ανάγκη οφειλόμενη σε  γεγονότα απρόβλεπτα για την αναθέτουσα αρχή"
+      },
+      "nutsCode": {
+        "key": "EL61",
+        "value": "Θεσσαλία"
+      },
+      "nutsCity": "ΛΑΡΙΣΑ",
+      "nutsPostalCode": "41100",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "3",
+            "value": "Ηλεκτρονικός Κατάλογος"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
+      },
+      "contractDuration": 4,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "110803643",
+            "greekVatNumber": true,
+            "name": "ΣΑΠΟΥΝΑΣ ΛΕΩΝΙΔΑΣ",
+            "nutsCode": {
+              "key": "EL61",
+              "value": "Θεσσαλία"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          },
+          {
+            "vatNumber": "104621683",
+            "greekVatNumber": true,
+            "name": "ΤΖΗΚΑΣ ΘΕΟΔΩΡΟΣ",
+            "nutsCode": {
+              "key": "EL61",
+              "value": "Θεσσαλία"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 265087.82,
+      "totalCostWithoutVAT": 213780.5,
+      "objectDetailsList": [
+        {
+          "quantity": 1533,
+          "type": {
+            "key": "HUR",
+            "value": "Ώρα"
+          },
+          "costWithoutVAT": 132131,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αίτημα για διάθεση πίστωσης του παρακάτω έργου: «Μέτρα κατά το στάδιο της Κατάστασης Ειδικής Κινητοποίησης Πολιτικής Προστασίας σε κτηνοτροφικές περιοχές» με Κωδικό ΟΠΣ 8849 στο «ΠΠΑ ΠΕΡΙΦΕΡΕΙΑΣ ΘΕΣΣΑΛΙΑΣ 2021-2025» ",
+          "cpvs": [
+            {
+              "key": "43262000-7",
+              "value": "Μηχανήματα εκσκαφής"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1024,
+          "type": {
+            "key": "HUR",
+            "value": "Ώρα"
+          },
+          "costWithoutVAT": 81649.5,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ανάθεση σύμβασης παροχής υπηρεσιών ιδιόκτητων οχημάτων και μηχανημάτων για την υγειονομική ταφή ζώων νοσούντων από Ευλογιά αιγοπροβάτων",
+          "cpvs": [
+            {
+              "key": "43262000-7",
+              "value": "Μηχανήματα εκσκαφής"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [
+        {
+          "code": "25REQ018049365"
+        }
+      ],
+      "noticeRefNo": null,
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "43262000"
+      ],
+      "cpv_divisions": [
+        "43"
+      ],
+      "all_domains": [
+        "Construction & Quarrying Machinery"
+      ],
+      "primary_domain": "Construction & Quarrying Machinery"
+    },
+    {
+      "title": "ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΕΠΕΙΓΟΥΣΩΝ ΕΡΓΑΣΙΩΝ ΑΡΣΗΣ ΚΑΤΑΠΤΩΣΕΩΝ",
+      "referenceNumber": "26AWRD018471741",
+      "submissionDate": "2026-02-12T11:45:42.863",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-09",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.912.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "998225768",
       "greekOrganizationVatNumber": false,
-      "budget": 3650,
+      "budget": 4230,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
@@ -399,12 +420,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100011590",
-          "value": "ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ ΔΕΥΑΤ"
+          "key": "100094624",
+          "value": "ΑΥΤΟΤΕΛΗΣ ΔΙΕΥΘΥΝΣΗ ΠΟΛΙΤΚΗΣ ΠΡΟΣΤΑΣΙΑΣ ΚΑΙ ΚΛΙΜΑΤΙΚΗΣ ΚΡΙΣΗΣ"
         },
         "signers": {
-          "key": "100092637",
-          "value": "ΧΑΡΙΛΑΟΣ ΚΑΛΛΙΑΡΑΣ - Γενικός Διευθυντής"
+          "key": "100002024",
+          "value": "ΓΕΩΡΓΙΟΣ ΛΕΟΝΤΑΡΙΤΗΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
         }
       },
       "procedureType": {
@@ -412,8 +433,8 @@
         "value": "Απευθείας ανάθεση"
       },
       "organization": {
-        "key": "51546",
-        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΤΡΙΚΑΛΩΝ"
+        "key": "5011",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ"
       },
       "contractType": {
         "key": "9",
@@ -425,11 +446,181 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL611",
-        "value": "Καρδίτσα, Τρίκαλα"
+        "key": "EL42",
+        "value": "Νότιο Αιγαίο"
       },
-      "nutsCity": "ΤΡΙΚΑΛΑ",
-      "nutsPostalCode": "42100",
+      "nutsCity": "ΣΥΡΟΣ",
+      "nutsPostalCode": "84100",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "4",
+        "value": "Περιβάλλον"
+      },
+      "contractDuration": 11,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "800431232",
+            "greekVatNumber": false,
+            "name": "ΝΙΚΟΛΑΟΣ ΚΑΙΓΕΩΡΓΙΟΣ ΓΕΡΟΝΤΟΠΟΥΛΟΣ ΟΕ",
+            "nutsCode": {
+              "key": "EL42",
+              "value": "Νότιο Αιγαίο"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 5245.2,
+      "totalCostWithoutVAT": 4230.0,
+      "objectDetailsList": [
+        {
+          "quantity": 115,
+          "type": {
+            "key": "HUR",
+            "value": "Ώρα"
+          },
+          "costWithoutVAT": 4230,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Εκτέλεση άμεσων και επειγουσών εργασιών, με την ενεργοποίηση του Μητρώου Αντιμετώπισης Φυσικών Καταστροφών με τη χρήση μηχανημάτων έργου",
+          "cpvs": [
+            {
+              "key": "43200000-5",
+              "value": "Μηχανήματα χωματουργικών εργασιών και εκσκαφών και συναφή μέρη"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [
+        {
+          "code": "26REQ018440010"
+        }
+      ],
+      "noticeRefNo": null,
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "43200000"
+      ],
+      "cpv_divisions": [
+        "43"
+      ],
+      "all_domains": [
+        "Construction & Quarrying Machinery"
+      ],
+      "primary_domain": "Construction & Quarrying Machinery"
+    },
+    {
+      "title": "Μίσθωση μηχανήματος έργου (τύπου JCB) για τις ανάγκες της Δ.Ε. Άρτας.",
+      "referenceNumber": "26AWRD018470978",
+      "submissionDate": "2026-02-12T11:06:15.466",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-12",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.F00261.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "090029040",
+      "greekOrganizationVatNumber": true,
+      "budget": 15000,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78959",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+        },
+        "signers": {
+          "key": "100088133",
+          "value": "ΓΕΩΡΓΙΟΣ ΚΑΡΑΓΕΩΡΓΟΣ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "50298",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΑΡΤΑΣ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "4",
+        "value": "Βάσει κόστους – άλλο"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL541",
+        "value": "Άρτα, Πρέβεζα"
+      },
+      "nutsCity": "ΑΡΤΑ",
+      "nutsPostalCode": "47132",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -459,7 +650,7 @@
         "key": "12",
         "value": "Τυχόν άλλη δραστηριότητα"
       },
-      "contractDuration": 6,
+      "contractDuration": 12,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -467,12 +658,12 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "034759354",
-            "greekVatNumber": false,
-            "name": "ΑΛΕΞΙΟΥ ΒΑΣΙΛΕΙΟΣ",
+            "vatNumber": "142157611",
+            "greekVatNumber": true,
+            "name": "ΓΚΙΖΑΣ ΧΡΗΣΤΟΣ",
             "nutsCode": {
-              "key": "EL6",
-              "value": "ΚΕΝΤΡΙΚΗ ΕΛΛΑΔΑ"
+              "key": "EL541",
+              "value": "Άρτα, Πρέβεζα"
             },
             "installationCountry": {
               "key": "GR",
@@ -481,8 +672,8 @@
           }
         ]
       },
-      "totalCostWithVAT": 4526.0,
-      "totalCostWithoutVAT": 3650.0,
+      "totalCostWithVAT": 18600.0,
+      "totalCostWithoutVAT": 15000.0,
       "objectDetailsList": [
         {
           "quantity": 1,
@@ -490,17 +681,357 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 3650,
+          "costWithoutVAT": 15000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΕΡΓΑΣΙΑ ΠΡΟΣΒΑΣΗΣ ΚΑΙ ΚΑΘΑΡΙΣΜΟΥ ΦΕΡΤΩΝ ΥΛΙΚΩΝ ΥΔΡΟΜΑΣΤΕΥΣΗΣ ΤΟΥ ΟΙΚΙΣΜΟΥ ΚΑΛΟΝΕΡΙΟΥ ΤΗΣ Δ.Κ. ΜΕΓΑΡΧΗΣ",
+          "shortDescription": "ΜΙΣΘΩΣΕΙΣ ΜΗΧΑΝΗΜΑΤΩΝ ΕΡΓΟΥ",
           "cpvs": [
             {
-              "key": "43210000-8",
-              "value": "Μηχανήματα χωματουργικών εργασιών"
+              "key": "43200000-5",
+              "value": "Μηχανήματα χωματουργικών εργασιών και εκσκαφών και συναφή μέρη"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [
+        {
+          "code": "26REQ018436619"
+        }
+      ],
+      "noticeRefNo": null,
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "43200000"
+      ],
+      "cpv_divisions": [
+        "43"
+      ],
+      "all_domains": [
+        "Construction & Quarrying Machinery"
+      ],
+      "primary_domain": "Construction & Quarrying Machinery"
+    },
+    {
+      "title": "Μίσθωση μηχανήματος έργου (τύπου JCB) για τις ανάγκες της Δ.Ε. Βλαχερνών.",
+      "referenceNumber": "26AWRD018470645",
+      "submissionDate": "2026-02-12T10:49:06.936",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-12",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.F00261.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "090029040",
+      "greekOrganizationVatNumber": true,
+      "budget": 15000,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78959",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+        },
+        "signers": {
+          "key": "100088133",
+          "value": "ΓΕΩΡΓΙΟΣ ΚΑΡΑΓΕΩΡΓΟΣ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "50298",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΑΡΤΑΣ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "4",
+        "value": "Βάσει κόστους – άλλο"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL541",
+        "value": "Άρτα, Πρέβεζα"
+      },
+      "nutsCity": "ΑΡΤΑ",
+      "nutsPostalCode": "47132",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "7",
+        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 12,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "134329984",
+            "greekVatNumber": true,
+            "name": "ΝΤΙΒΕΡΗΣ ΔΗΜΗΤΡΙΟΣ",
+            "nutsCode": {
+              "key": "EL541",
+              "value": "Άρτα, Πρέβεζα"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 18600.0,
+      "totalCostWithoutVAT": 15000.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 15000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΜΙΣΘΩΣΕΙΣ ΜΗΧΑΝΗΜΑΤΩΝ ΕΡΓΟΥ",
+          "cpvs": [
+            {
+              "key": "43200000-5",
+              "value": "Μηχανήματα χωματουργικών εργασιών και εκσκαφών και συναφή μέρη"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [
+        {
+          "code": "26REQ018436619"
+        }
+      ],
+      "noticeRefNo": null,
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "43200000"
+      ],
+      "cpv_divisions": [
+        "43"
+      ],
+      "all_domains": [
+        "Construction & Quarrying Machinery"
+      ],
+      "primary_domain": "Construction & Quarrying Machinery"
+    },
+    {
+      "title": "Προμήθεια Υλικών  Άρδευσης για τον  Δήμο  Αμυνταίου",
+      "referenceNumber": "26AWRD018470400",
+      "submissionDate": "2026-02-12T10:33:59.11",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-12",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.Ε81702.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "999108285",
+      "greekOrganizationVatNumber": false,
+      "budget": 54.03,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "86602",
+          "value": "ΤΕΧΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ, ΧΩΡΟΤΑΞΙΑΣ, ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΑΝΑΠΤΥΞΗΣ"
+        },
+        "signers": {
+          "key": "100084408",
+          "value": "ΙΩΑΝΝΗΣ ΛΙΑΣΗΣ - Δήμαρχος"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "6029",
+        "value": "ΔΗΜΟΣ ΑΜΥΝΤΑΙΟΥ"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL533",
+        "value": "Φλώρινα"
+      },
+      "nutsCity": "ΑΜΥΝΤΑΙΟ",
+      "nutsPostalCode": "53200",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "999106114",
+            "greekVatNumber": false,
+            "name": "ΑΔΕΛΦΟΙ ΙΩΑΝΝΙΔΗ Ο.Ε",
+            "nutsCode": {
+              "key": "EL533",
+              "value": "Φλώρινα"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 67.0,
+      "totalCostWithoutVAT": 54.03,
+      "objectDetailsList": [
+        {
+          "quantity": 2,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 54.03,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "• 2 τμχ Λάστιχο ποτίσματος 25m που θα χρησιμοποιηθούν από το εργατοτεχνικό προσωπικό του Δήμου Αμυνταίου σε κοινότητες του Δήμου για την άρδευση πάρκων",
+          "cpvs": [
+            {
+              "key": "43323000-3",
+              "value": "Εξοπλισμός άρδευσης"
             }
           ],
           "greenContracts": {
@@ -514,12 +1045,522 @@
       "additionalContractTypes": null,
       "mixedContract": false,
       "approvedRequestsList": [],
-      "noticeRefNo": "25PROC017833730",
+      "noticeRefNo": "26PROC018442828",
       "amendsAuctionRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "43210000"
+        "43323000"
+      ],
+      "cpv_divisions": [
+        "43"
+      ],
+      "all_domains": [
+        "Construction & Quarrying Machinery"
+      ],
+      "primary_domain": "Construction & Quarrying Machinery"
+    },
+    {
+      "title": "Μίσθωση μηχανήματος έργου (τύπου JCB) για τις ανάγκες της Δ.Ε. Ξηροβουνίου.",
+      "referenceNumber": "26AWRD018470106",
+      "submissionDate": "2026-02-12T10:19:37.554",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-12",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.F00261.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "090029040",
+      "greekOrganizationVatNumber": true,
+      "budget": 15000,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78959",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+        },
+        "signers": {
+          "key": "100088133",
+          "value": "ΓΕΩΡΓΙΟΣ ΚΑΡΑΓΕΩΡΓΟΣ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "50298",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΑΡΤΑΣ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "4",
+        "value": "Βάσει κόστους – άλλο"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL541",
+        "value": "Άρτα, Πρέβεζα"
+      },
+      "nutsCity": "ΑΡΤΑ",
+      "nutsPostalCode": "47132",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "7",
+        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 12,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "037440744",
+            "greekVatNumber": true,
+            "name": "ΚΑΣΣΑΡΑΣ ΚΩΝ/ΝΟΣ",
+            "nutsCode": {
+              "key": "EL541",
+              "value": "Άρτα, Πρέβεζα"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 18600.0,
+      "totalCostWithoutVAT": 15000.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 15000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΜΙΣΘΩΣΕΙΣ ΜΗΧΑΝΗΜΑΤΩΝ ΕΡΓΟΥ",
+          "cpvs": [
+            {
+              "key": "43200000-5",
+              "value": "Μηχανήματα χωματουργικών εργασιών και εκσκαφών και συναφή μέρη"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [
+        {
+          "code": "26REQ018436619"
+        }
+      ],
+      "noticeRefNo": null,
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "43200000"
+      ],
+      "cpv_divisions": [
+        "43"
+      ],
+      "all_domains": [
+        "Construction & Quarrying Machinery"
+      ],
+      "primary_domain": "Construction & Quarrying Machinery"
+    },
+    {
+      "title": "Μίσθωση μηχανήματος έργου (τύπου JCB) για τις ανάγκες της Δ.Ε. Αμβρακικού",
+      "referenceNumber": "26AWRD018469562",
+      "submissionDate": "2026-02-12T09:51:43.321",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-12",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.F00261.001",
+      "authorEmail": null,
+      "organizationVatNumber": "090029040",
+      "greekOrganizationVatNumber": true,
+      "budget": 10000,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78959",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+        },
+        "signers": {
+          "key": "100088133",
+          "value": "ΓΕΩΡΓΙΟΣ ΚΑΡΑΓΕΩΡΓΟΣ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "50298",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΑΡΤΑΣ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "4",
+        "value": "Βάσει κόστους – άλλο"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL541",
+        "value": "Άρτα, Πρέβεζα"
+      },
+      "nutsCity": "ΑΡΤΑ",
+      "nutsPostalCode": "47132",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "7",
+        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 12,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "043270872",
+            "greekVatNumber": true,
+            "name": "ΣΤΑΥΡΟΣ ΨΑΛΛΙΔΑ",
+            "nutsCode": {
+              "key": "EL541",
+              "value": "Άρτα, Πρέβεζα"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 12400.0,
+      "totalCostWithoutVAT": 10000.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 10000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Μίσθωση μηχανήματος έργου (τύπου JCB) για τις ανάγκες της Δ.Ε. Αμβρακικού",
+          "cpvs": [
+            {
+              "key": "43200000-5",
+              "value": "Μηχανήματα χωματουργικών εργασιών και εκσκαφών και συναφή μέρη"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [
+        {
+          "code": "26REQ018436619"
+        }
+      ],
+      "noticeRefNo": null,
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "43200000"
+      ],
+      "cpv_divisions": [
+        "43"
+      ],
+      "all_domains": [
+        "Construction & Quarrying Machinery"
+      ],
+      "primary_domain": "Construction & Quarrying Machinery"
+    },
+    {
+      "title": " Μίσθωση μηχανήματος έργου (τύπου JCB) για τις ανάγκες της  Δ.Ε. Φιλοθέης. ",
+      "referenceNumber": "26AWRD018469401",
+      "submissionDate": "2026-02-12T09:41:53.855",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-12",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.F00261.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "090029040",
+      "greekOrganizationVatNumber": true,
+      "budget": 13500,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78959",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+        },
+        "signers": {
+          "key": "100088133",
+          "value": "ΓΕΩΡΓΙΟΣ ΚΑΡΑΓΕΩΡΓΟΣ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "50298",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΑΡΤΑΣ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "4",
+        "value": "Βάσει κόστους – άλλο"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL541",
+        "value": "Άρτα, Πρέβεζα"
+      },
+      "nutsCity": "ΑΡΤΑ",
+      "nutsPostalCode": "47132",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "7",
+        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 12,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "801963375",
+            "greekVatNumber": true,
+            "name": "ΤΑΣΙΟΣ Α- ΤΑΣΙΟΣ Π. Ο.Ε",
+            "nutsCode": {
+              "key": "EL541",
+              "value": "Άρτα, Πρέβεζα"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 16740.0,
+      "totalCostWithoutVAT": 13500.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 13500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΜΙΣΘΩΣΕΙΣ ΜΗΧΑΝΗΜΑΤΩΝ ΕΡΓΟΥ",
+          "cpvs": [
+            {
+              "key": "43200000-5",
+              "value": "Μηχανήματα χωματουργικών εργασιών και εκσκαφών και συναφή μέρη"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [
+        {
+          "code": "26REQ018436619"
+        }
+      ],
+      "noticeRefNo": null,
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "43200000"
       ],
       "cpv_divisions": [
         "43"

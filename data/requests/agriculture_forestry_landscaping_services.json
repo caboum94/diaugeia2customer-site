@@ -1,740 +1,48 @@
 {
   "domain": "Agriculture/Forestry/Landscaping Services",
-  "count": 18,
+  "count": 14,
   "items": [
     {
-      "title": "Ανάγκη σύναψης δημόσιας σύμβασης (Antinero) ΔΧ ΑΤΑΛΑΝΤΗΣ ΘΗΒΩΝ ΛΙΒΑΔΕΙΑΣ ΣΠΕΡΧΕΙΑΔΑΣ ΧΑΛΚΙΔΑΣ",
-      "referenceNumber": "26REQ018460411",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
+      "title": "Συντήρηση αθλητικών γηπέδων",
+      "referenceNumber": "26REQ018474457",
+      "previousRequestReferenceNumber": "26REQ018431765",
+      "signedDate": "2026-02-12",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T23:41:42.702",
-      "procurementDeliveryDate": "2026-02-17",
+      "submissionDate": "2026-02-12T15:43:57.194",
+      "procurementDeliveryDate": "2026-02-16",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "ΥΠΕΝ/ΔΠΔ/14653/873/10-02-2026",
+      "protocolNumber": "143",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "090273987",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "100015996",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1031.0000000000.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100035661",
-          "value": "ΓΕΝΙΚΗ ΔΕΥΘΥΝΣΗ ΔΑΣΩΝ ΚΑΙ ΔΑΣΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ"
-        },
-        "signers": {
-          "key": "100082176",
-          "value": "ΕΥΣΤΑΘΙΟΣ ΣΤΑΘΟΠΟΥΛΟΣ - Γενικός Γραμματέας"
-        }
-      },
-      "totalCostWithVAT": 5169637.72,
-      "totalCostWithoutVAT": 4169062.68,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 4169062.68,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Ανάγκη σύναψης δημόσιας σύμβασης στο πλαίσιο του Προγράμματος Προστασίας Δασών «Antinero» για την υλοποίηση έργων αντιπυρικής προστασίας σε δημόσια και διακατεχόμενα δάση, δασικές και αναδασωτέες εκτάσεις, σε περιοχές αρμοδιότητας των Δασαρχείων Αταλάντης, Θηβών, Λιβαδειάς, Σπερχειάδας και Χαλκίδας, σύμφωνα με τις διατάξεις του αρ. 16 παρ. 5 του ν. 998/1979.",
-          "cpvs": [
-            {
-              "key": "45261000-4",
-              "value": "Οικοδομικές και συναφείς εργασίες επικάλυψης στεγών και κατασκευής διαχωριστικών πλαισίων"
-            },
-            {
-              "key": "45223500-1",
-              "value": "Κατασκευές από οπλισμένο σκυρόδεμα"
-            },
-            {
-              "key": "77211100-3",
-              "value": "Υπηρεσίες περισυλλογής ξυλείας"
-            },
-            {
-              "key": "45441000-0",
-              "value": "Υαλοτεχνικές εργασίες"
-            },
-            {
-              "key": "71354100-5",
-              "value": "Υπηρεσίες ψηφιακής χαρτογράφησης"
-            },
-            {
-              "key": "71320000-7",
-              "value": "Υπηρεσίες εκπόνησης τεχνικών μελετών"
-            },
-            {
-              "key": "77211200-4",
-              "value": "Μεταφορά κορμών δένδρων στο εσωτερικό δάσους"
-            },
-            {
-              "key": "77211300-5",
-              "value": "Υπηρεσίες υλοτόμισης"
-            },
-            {
-              "key": "79930000-2",
-              "value": "Ειδικές υπηρεσίες μελετών"
-            },
-            {
-              "key": "45432114-6",
-              "value": "Τοποθέτηση ξύλινων δαπέδων"
-            },
-            {
-              "key": "45233290-8",
-              "value": "Εγκατάσταση οδικών πινακίδων"
-            },
-            {
-              "key": "45421100-5",
-              "value": "Τοποθέτηση θυρών"
-            },
-            {
-              "key": "45112400-9",
-              "value": "Εργασίες εκσκαφών"
-            },
-            {
-              "key": "45430000-0",
-              "value": "Εργασίες επένδυσης δαπέδων και τοίχων"
-            },
-            {
-              "key": "90712200-3",
-              "value": "Στρατηγικός σχεδιασμός διατήρησης δασών"
-            },
-            {
-              "key": "77340000-5",
-              "value": "Κλάδεμα δένδρων και θάμνων"
-            },
-            {
-              "key": "79421200-3",
-              "value": "Υπηρεσίες μελέτης έργων"
-            },
-            {
-              "key": "77200000-2",
-              "value": "Υπηρεσίες δασοκομίας"
-            },
-            {
-              "key": "77231300-1",
-              "value": "Υπηρεσίες διαχείρισης δασών"
-            },
-            {
-              "key": "45442120-4",
-              "value": "Εργασίες βαφής και προστατευτικής επικάλυψης τεχνικών κατασκευών"
-            },
-            {
-              "key": "45420000-7",
-              "value": "Εργασίες τοποθέτησης στοιχείων από ξύλο"
-            },
-            {
-              "key": "77231900-7",
-              "value": "Υπηρεσίες δασικού τομεακού σχεδιασμού"
-            },
-            {
-              "key": "45312311-0",
-              "value": "Εργασίες εγκατάστασης αλεξικέραυνου"
-            },
-            {
-              "key": "77211000-2",
-              "value": "Υπηρεσίες σχετιζόμενες με την υλοτομία"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "45261000",
-        "45223500",
-        "77211100",
-        "45441000",
-        "71354100",
-        "71320000",
-        "77211200",
-        "77211300",
-        "79930000",
-        "45432114",
-        "45233290",
-        "45421100",
-        "45112400",
-        "45430000",
-        "90712200",
-        "77340000",
-        "79421200",
-        "77200000",
-        "77231300",
-        "45442120",
-        "45420000",
-        "77231900",
-        "45312311",
-        "77211000"
-      ],
-      "cpv_divisions": [
-        "45",
-        "77",
-        "71",
-        "79",
-        "90"
-      ],
-      "all_domains": [
-        "Construction & Works",
-        "Agriculture/Forestry/Landscaping Services",
-        "Architecture, Engineering & Inspection",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "Environmental, Cleaning & Waste Services"
-      ],
-      "primary_domain": "Construction & Works"
-    },
-    {
-      "title": "Ανάγκη σύναψης δημόσιας σύμβασης (Antinero) ΔΧ ΙΣΤΙΑΙΑΣ ΛΙΜΝΗΣ",
-      "referenceNumber": "26REQ018460407",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T23:09:28.923",
-      "procurementDeliveryDate": "2026-02-17",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "ΥΠΕΝ/ΔΠΔ/14654/874/10-02-2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "090273987",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "100015996",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1031.0000000000.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100035661",
-          "value": "ΓΕΝΙΚΗ ΔΕΥΘΥΝΣΗ ΔΑΣΩΝ ΚΑΙ ΔΑΣΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ"
-        },
-        "signers": {
-          "key": "100082176",
-          "value": "ΕΥΣΤΑΘΙΟΣ ΣΤΑΘΟΠΟΥΛΟΣ - Γενικός Γραμματέας"
-        }
-      },
-      "totalCostWithVAT": 5355263.39,
-      "totalCostWithoutVAT": 4318760.8,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 4318760.8,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Ανάγκη σύναψης δημόσιας σύμβασης στο πλαίσιο του Προγράμματος Προστασίας Δασών «Antinero» για την υλοποίηση έργων αντιπυρικής προστασίας σε δημόσια δάση και δασικές εκτάσεις, σε περιοχές αρμοδιότητας των Δασαρχείων Ιστιαίας και Λίμνης, σύμφωνα με τις διατάξεις του αρ. 16 παρ. 5 του ν. 998/1979.",
-          "cpvs": [
-            {
-              "key": "79421200-3",
-              "value": "Υπηρεσίες μελέτης έργων"
-            },
-            {
-              "key": "77231900-7",
-              "value": "Υπηρεσίες δασικού τομεακού σχεδιασμού"
-            },
-            {
-              "key": "51810000-3",
-              "value": "Υπηρεσίες εγκατάστασης δεξαμενών"
-            },
-            {
-              "key": "90712200-3",
-              "value": "Στρατηγικός σχεδιασμός διατήρησης δασών"
-            },
-            {
-              "key": "77211200-4",
-              "value": "Μεταφορά κορμών δένδρων στο εσωτερικό δάσους"
-            },
-            {
-              "key": "45442120-4",
-              "value": "Εργασίες βαφής και προστατευτικής επικάλυψης τεχνικών κατασκευών"
-            },
-            {
-              "key": "77340000-5",
-              "value": "Κλάδεμα δένδρων και θάμνων"
-            },
-            {
-              "key": "45420000-7",
-              "value": "Εργασίες τοποθέτησης στοιχείων από ξύλο"
-            },
-            {
-              "key": "79930000-2",
-              "value": "Ειδικές υπηρεσίες μελετών"
-            },
-            {
-              "key": "77211100-3",
-              "value": "Υπηρεσίες περισυλλογής ξυλείας"
-            },
-            {
-              "key": "44611500-1",
-              "value": "Δεξαμενές νερού"
-            },
-            {
-              "key": "45223500-1",
-              "value": "Κατασκευές από οπλισμένο σκυρόδεμα"
-            },
-            {
-              "key": "45442100-8",
-              "value": "Εργασίες βαφής"
-            },
-            {
-              "key": "77211300-5",
-              "value": "Υπηρεσίες υλοτόμισης"
-            },
-            {
-              "key": "71354100-5",
-              "value": "Υπηρεσίες ψηφιακής χαρτογράφησης"
-            },
-            {
-              "key": "45232150-8",
-              "value": "Εργασίες σχετιζόμενες με τους αγωγούς διανομής νερού"
-            },
-            {
-              "key": "71320000-7",
-              "value": "Υπηρεσίες εκπόνησης τεχνικών μελετών"
-            },
-            {
-              "key": "77231300-1",
-              "value": "Υπηρεσίες διαχείρισης δασών"
-            },
-            {
-              "key": "45112400-9",
-              "value": "Εργασίες εκσκαφών"
-            },
-            {
-              "key": "77211000-2",
-              "value": "Υπηρεσίες σχετιζόμενες με την υλοτομία"
-            },
-            {
-              "key": "77200000-2",
-              "value": "Υπηρεσίες δασοκομίας"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "79421200",
-        "77231900",
-        "51810000",
-        "90712200",
-        "77211200",
-        "45442120",
-        "77340000",
-        "45420000",
-        "79930000",
-        "77211100",
-        "44611500",
-        "45223500",
-        "45442100",
-        "77211300",
-        "71354100",
-        "45232150",
-        "71320000",
-        "77231300",
-        "45112400",
-        "77211000",
-        "77200000"
-      ],
-      "cpv_divisions": [
-        "79",
-        "77",
-        "51",
-        "90",
-        "45",
-        "44",
-        "71"
-      ],
-      "all_domains": [
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "Agriculture/Forestry/Landscaping Services",
-        "Installation Services (Non-Software)",
-        "Environmental, Cleaning & Waste Services",
-        "Construction & Works",
-        "Construction Materials & Structures",
-        "Architecture, Engineering & Inspection"
-      ],
-      "primary_domain": "Construction & Works"
-    },
-    {
-      "title": "Ανάγκη σύναψης δημόσιας σύμβασης (Antinero) ΔΔ ΗΡΑΚΛΕΙΟΥ ΛΑΣΙΘΙΟΥ ΡΕΘΥΜΝΟΥ ΧΑΝΙΩΝ",
-      "referenceNumber": "26REQ018460396",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T21:47:33.169",
-      "procurementDeliveryDate": "2026-02-17",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "ΥΠΕΝ/ΔΠΔ/14655/875/10-02-2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "090273987",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "100015996",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1031.0000000000.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100035661",
-          "value": "ΓΕΝΙΚΗ ΔΕΥΘΥΝΣΗ ΔΑΣΩΝ ΚΑΙ ΔΑΣΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ"
-        },
-        "signers": {
-          "key": "100082176",
-          "value": "ΕΥΣΤΑΘΙΟΣ ΣΤΑΘΟΠΟΥΛΟΣ - Γενικός Γραμματέας"
-        }
-      },
-      "totalCostWithVAT": 2662842.92,
-      "totalCostWithoutVAT": 2147453.97,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 2147453.97,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Ανάγκη σύναψης δημόσιας σύμβασης στο πλαίσιο του Προγράμματος Προστασίας Δασών «Antinero» για την υλοποίηση έργων αντιπυρικής προστασίας σε δημόσια δάση, δασικά συμπλέγματα, δασικές και αναδασωτέες εκτάσεις, σε περιοχές αρμοδιότητας των Διευθύνσεων Δασών Ηρακλείου, Λασιθίου, Ρεθύμνου και Χανίων, σύμφωνα με τις διατάξεις του αρ. 16 παρ. 5 του ν. 998/1979.",
-          "cpvs": [
-            {
-              "key": "77231300-1",
-              "value": "Υπηρεσίες διαχείρισης δασών"
-            },
-            {
-              "key": "45430000-0",
-              "value": "Εργασίες επένδυσης δαπέδων και τοίχων"
-            },
-            {
-              "key": "77231900-7",
-              "value": "Υπηρεσίες δασικού τομεακού σχεδιασμού"
-            },
-            {
-              "key": "90712200-3",
-              "value": "Στρατηγικός σχεδιασμός διατήρησης δασών"
-            },
-            {
-              "key": "77200000-2",
-              "value": "Υπηρεσίες δασοκομίας"
-            },
-            {
-              "key": "79421200-3",
-              "value": "Υπηρεσίες μελέτης έργων"
-            },
-            {
-              "key": "44611500-1",
-              "value": "Δεξαμενές νερού"
-            },
-            {
-              "key": "45442100-8",
-              "value": "Εργασίες βαφής"
-            },
-            {
-              "key": "77211300-5",
-              "value": "Υπηρεσίες υλοτόμισης"
-            },
-            {
-              "key": "45442120-4",
-              "value": "Εργασίες βαφής και προστατευτικής επικάλυψης τεχνικών κατασκευών"
-            },
-            {
-              "key": "51810000-3",
-              "value": "Υπηρεσίες εγκατάστασης δεξαμενών"
-            },
-            {
-              "key": "45112400-9",
-              "value": "Εργασίες εκσκαφών"
-            },
-            {
-              "key": "77340000-5",
-              "value": "Κλάδεμα δένδρων και θάμνων"
-            },
-            {
-              "key": "71354100-5",
-              "value": "Υπηρεσίες ψηφιακής χαρτογράφησης"
-            },
-            {
-              "key": "45421100-5",
-              "value": "Τοποθέτηση θυρών"
-            },
-            {
-              "key": "45432114-6",
-              "value": "Τοποθέτηση ξύλινων δαπέδων"
-            },
-            {
-              "key": "45223500-1",
-              "value": "Κατασκευές από οπλισμένο σκυρόδεμα"
-            },
-            {
-              "key": "45243510-0",
-              "value": "Εργασίες επιχωμάτωσης"
-            },
-            {
-              "key": "71320000-7",
-              "value": "Υπηρεσίες εκπόνησης τεχνικών μελετών"
-            },
-            {
-              "key": "45232150-8",
-              "value": "Εργασίες σχετιζόμενες με τους αγωγούς διανομής νερού"
-            },
-            {
-              "key": "45261000-4",
-              "value": "Οικοδομικές και συναφείς εργασίες επικάλυψης στεγών και κατασκευής διαχωριστικών πλαισίων"
-            },
-            {
-              "key": "45420000-7",
-              "value": "Εργασίες τοποθέτησης στοιχείων από ξύλο"
-            },
-            {
-              "key": "77211000-2",
-              "value": "Υπηρεσίες σχετιζόμενες με την υλοτομία"
-            },
-            {
-              "key": "77211200-4",
-              "value": "Μεταφορά κορμών δένδρων στο εσωτερικό δάσους"
-            },
-            {
-              "key": "79930000-2",
-              "value": "Ειδικές υπηρεσίες μελετών"
-            },
-            {
-              "key": "45312311-0",
-              "value": "Εργασίες εγκατάστασης αλεξικέραυνου"
-            },
-            {
-              "key": "77211100-3",
-              "value": "Υπηρεσίες περισυλλογής ξυλείας"
-            },
-            {
-              "key": "50514200-3",
-              "value": "Υπηρεσίες επισκευής και συντήρησης δεξαμενών"
-            },
-            {
-              "key": "45441000-0",
-              "value": "Υαλοτεχνικές εργασίες"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "77231300",
-        "45430000",
-        "77231900",
-        "90712200",
-        "77200000",
-        "79421200",
-        "44611500",
-        "45442100",
-        "77211300",
-        "45442120",
-        "51810000",
-        "45112400",
-        "77340000",
-        "71354100",
-        "45421100",
-        "45432114",
-        "45223500",
-        "45243510",
-        "71320000",
-        "45232150",
-        "45261000",
-        "45420000",
-        "77211000",
-        "77211200",
-        "79930000",
-        "45312311",
-        "77211100",
-        "50514200",
-        "45441000"
-      ],
-      "cpv_divisions": [
-        "77",
-        "45",
-        "90",
-        "79",
-        "44",
-        "51",
-        "71",
-        "50"
-      ],
-      "all_domains": [
-        "Agriculture/Forestry/Landscaping Services",
-        "Construction & Works",
-        "Environmental, Cleaning & Waste Services",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "Construction Materials & Structures",
-        "Installation Services (Non-Software)",
-        "Architecture, Engineering & Inspection",
-        "Repair & Maintenance"
-      ],
-      "primary_domain": "Construction & Works"
-    },
-    {
-      "title": "Ανάθεση παροχής υπηρεσιών σε εξωτερικό συνεργάτη",
-      "referenceNumber": "26REQ018459303",
-      "previousRequestReferenceNumber": "26REQ018456062",
-      "signedDate": "2026-02-09",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T14:21:22.699",
-      "procurementDeliveryDate": "2026-02-20",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "ΥΠΕΝ/ΔΠΔ/14612/857/09-02-2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "099338405",
+      "organizationVatNumber": "090296884",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "100015996",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ"
+        "key": "99202916",
+        "value": "ΔΗΜΟΣΙΟ ΠΡΟΤΥΠΟ ΠΑΙΔΙΚΟ ΓΥΜΝΑΣΤΗΡΙΟ ΚΑΙΣΑΡΙΑΝΗΣ"
       },
       "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
+        "key": "EL305",
+        "value": "Ανατολική Αττική"
       },
       "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
+        "key": "9",
+        "value": "ΝΠΔΔ"
       },
       "classificationOfPublicLawOrganization": {
         "key": "1",
         "value": "Κεντρική Κυβέρνηση"
       },
-      "aaht": "1031.Ε00771.0001",
+      "aaht": "1020.Ε00284.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -745,16 +53,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "100035661",
-          "value": "ΓΕΝΙΚΗ ΔΕΥΘΥΝΣΗ ΔΑΣΩΝ ΚΑΙ ΔΑΣΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ"
+          "key": "80144",
+          "value": "ΔΗΜΟΣΙΟ ΠΡΟΤΥΠΟ ΠΑΙΔΙΚΟ ΓΥΜΝΑΣΤΗΡΙΟ ΚΑΙΣΑΡΙΑΝΗΣ"
         },
         "signers": {
-          "key": "100045366",
-          "value": "ΕΥΑΓΓΕΛΟΣ ΓΚΟΥΝΤΟΥΦΑΣ - Α/Α (Αντί Αυτού) Προϊσταμένου Γενικής Διεύθυνσης"
+          "key": "100090515",
+          "value": "ΒΑΣΙΛΙΚΗ ΚΟΤΣΑΛΟΥ - Διευθυντής"
         }
       },
-      "totalCostWithVAT": 37200.0,
-      "totalCostWithoutVAT": 30000.0,
+      "totalCostWithVAT": 20000.0,
+      "totalCostWithoutVAT": 16129.03,
       "objectDetails": [
         {
           "quantity": 1,
@@ -762,13 +70,115 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 30000,
+          "costWithoutVAT": 16129.03,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "«Ανάγκη ανάθεσης παροχής υποστηρικτικών εργασιών εξυπηρέτησης αναγκών του οικείου Τμήματος σε εξωτερικό συνεργάτη».",
+          "shortDescription": "ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΓΕΩΠΟΝΟΥ ΓΕΩΤΕΧΝΙΚΟΥ ΓΙΑ ΤΗΝ ΣΥΝΤΗΡΗΣΗ ΤΟΥ ΧΛΟΟΤΑΠΗΤΑ ΤΟΥ ΓΗΠΕΔΟΥ ΠΟΔΟΣΦΑΙΡΟΥ ΚΑ ΤΗΝ ΣΥΝΤΗΡΗΣΗ - ΛΕΙΤΟΥΡΓΙΑ ΤΟΥ ΑΡΔΕΥΤΙΚΟΥ ΣΥΣΤΗΜΑΤΟΣ ΚΑΙ ΚΑΛΩΠΙΣΜΟΣ ΤΟΥ ΠΡΑΣΙΝΟΥ ΤΟΥ Δ.Π.Π.Γ.Κ",
+          "cpvs": [
+            {
+              "key": "77320000-9",
+              "value": "Συντήρηση αθλητικών γηπέδων"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99202916",
+        "77320000"
+      ],
+      "cpv_divisions": [
+        "77"
+      ],
+      "all_domains": [
+        "Agriculture/Forestry/Landscaping Services"
+      ],
+      "primary_domain": "Agriculture/Forestry/Landscaping Services"
+    },
+    {
+      "title": "ΑΑΥΣ 128/2026 «ΤΕΧΝΙΚΗ ΕΚΘΕΣΗ ΠΥΡΟΠΡΟΣΤΑΣΙΑΣ ΚΑΤΟΙΚΗΜΕΝΩΝ ΠΕΡΙΟΧΩΝ ΣΤΟ ΔΗΜΟ ΑΜΦΙΚΛΕΙΑΣ-ΕΛΑΤΕΙΑΣ»",
+      "referenceNumber": "26REQ018474260",
+      "previousRequestReferenceNumber": "24REQ015284763",
+      "signedDate": "2026-02-09",
+      "lastUpdateDate": "2025-03-27T00:00:00",
+      "submissionDate": "2026-02-12T14:40:30.096",
+      "procurementDeliveryDate": "2026-02-28",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "1040",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": "info@dimos-amfiklias-elatias.gr",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "800067050",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6030",
+        "value": "ΔΗΜΟΣ ΑΜΦΙΚΛΕΙΑΣ - ΕΛΑΤΕΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL644",
+        "value": "Φθιώτιδα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E82702.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "83361",
+          "value": "ΑΥΤΟΤΕΛΕΣ ΤΜΗΜΑ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100068832",
+          "value": "Παναγιώτα Σεφερλή - Αναπληρωτής Προϊστάμενος"
+        }
+      },
+      "totalCostWithVAT": 12400.0,
+      "totalCostWithoutVAT": 10000.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 10000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ανάθεση παροχής υπηρεσιών για τη σύνταξη Τεχνικής Έκθεσης στο πλαίσιο της πρόσκλησης υποβολής προτάσεων «Ενίσχυση Πυροπροστασίας Κατοικημένων Περιοχών σε ΟΤΑ Α΄ βαθμού με περιαστικά Δάση» στον άξονα προτεραιότητας 6 (Α.Π. 6) «Χρηματοδότηση δημιουργίας περιμετρικών ζωνών 10 μέτρων πέριξ οικισμών εντός ή πλησίον δασών και δασικών εκτάσεων υψηλής επικινδυνότητας για την εκδήλωση δασικών πυρκαγιών», τ",
           "cpvs": [
             {
               "key": "77231900-7",
@@ -796,36 +206,36 @@
       "primary_domain": "Agriculture/Forestry/Landscaping Services"
     },
     {
-      "title": "Έκδοση πολ. ΑΑΥ για αποψίλωση και καθαρισμό βλάστησης στις οδούς αρμοδιότητας ΠΑ 2026",
-      "referenceNumber": "26REQ018458812",
-      "previousRequestReferenceNumber": "24REQ014467486",
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": "2024-03-27T00:00:00",
-      "submissionDate": "2026-02-10T13:49:02.964",
-      "procurementDeliveryDate": "2026-12-31",
+      "title": "Πρωτογενές αίτημα για την εκτέλεση παροχή υπηρεσίας επικάληψης δενδροδόχων με ρητινούχο υλικό",
+      "referenceNumber": "26REQ018473421",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T13:15:32.588",
+      "procurementDeliveryDate": "2026-11-19",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "177170",
+      "protocolNumber": "38317",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
-      "authorEmail": "promna@patt.gov.gr",
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997875116",
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "998082845",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
-      "approved": true,
+      "approved": false,
       "organization": {
-        "key": "5002",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΑΤΤΙΚΗΣ"
+        "key": "6114",
+        "value": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ"
       },
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
       },
       "typeOfContractingAuthority": {
         "key": "9",
@@ -835,7 +245,7 @@
         "key": "2",
         "value": "ΟΤΑ"
       },
-      "aaht": "1007.909.0001",
+      "aaht": "1007.Ε80701.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -846,16 +256,124 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "100026298",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΗΣ ΔΙΑΧΕΙΡΙΣΗΣ"
+          "key": "100098007",
+          "value": "ΑΥΤΟΤΕΛΕΣ ΤΜΗΜΑ ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΓΕΝΙΚΗΣ ΔΙΕΥΘΥΝΣΗΣ ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ ΚΑΙ ΠΕΡΙΒΑΛΛΟΝΤΟΣ Τ01"
         },
         "signers": {
-          "key": "100100014",
-          "value": "ΣΤΑΥΡΟΥΛΑ ΜΑΚΡΗ - Αναπληρωτής Θεματικός Αντιπεριφερειάρχης"
+          "key": "100011150",
+          "value": "ΜΑΡΙΑ ΖΟΥΡΝΑ - Αναπληρωτης Προϊστάμενος Τμήματος"
         }
       },
-      "totalCostWithVAT": 627690.13,
-      "totalCostWithoutVAT": 506201.72,
+      "totalCostWithVAT": 599986.4,
+      "totalCostWithoutVAT": 483860.0,
+      "objectDetails": [
+        {
+          "quantity": 3722,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 483860,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προβλέπεται να γίνει επίστρωση των δενδροδόχων με μίγμα από έγχρωμο αδρανές υλικό και συγκολλητική ρητίνη, φιλικό στο περιβάλλον, για την αποτροπή ανάπτυξης ζιζανίων περιμετρικά του κορμού των δένδρων. Η καινοτόμα αυτή πρακτική προσφέρει πολλαπλά οφέλη: • Επιτρέπει τον αερισμό του εδαφικού υποστρώματος της δενδροδόχου • Συγκεντρώνει τα νερά της βροχής στις δενδροδόχους, ",
+          "cpvs": [
+            {
+              "key": "77211500-7",
+              "value": "Υπηρεσίες φροντίδας δένδρων"
+            },
+            {
+              "key": "45236230-1",
+              "value": "Εργασίες διάστρωσης κήπων"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "77211500",
+        "45236230"
+      ],
+      "cpv_divisions": [
+        "77",
+        "45"
+      ],
+      "all_domains": [
+        "Agriculture/Forestry/Landscaping Services",
+        "Construction & Works"
+      ],
+      "primary_domain": "Construction & Works"
+    },
+    {
+      "title": "ΑΝΤΙΜΕΤΩΠΙΣΗ ΕΧΘΡΩΝ ΚΑΙ ΑΣΘΕΝΕΙΩΝ ΠΡΑΣΙΝΟΥ",
+      "referenceNumber": "26REQ018472208",
+      "previousRequestReferenceNumber": "25REQ017167458",
+      "signedDate": "2026-02-09",
+      "lastUpdateDate": "2025-09-25T00:00:00",
+      "submissionDate": "2026-02-12T12:06:49.748",
+      "procurementDeliveryDate": "2026-02-12",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "3466",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997727390",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6230",
+        "value": "ΔΗΜΟΣ ΠΑΙΑΝΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL305",
+        "value": "Ανατολική Αττική"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E84908.001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81861",
+          "value": "ΔΗΜΟΣ ΠΑΙΑΝΙΑΣ/ΔΙΕΥΘΥΝΣΗ ΠΕΡΙΒΑΛΟΝΤΟΣ"
+        },
+        "signers": {
+          "key": "100048683",
+          "value": "ΙΣΙΔΩΡΟΣ ΜΑΔΗΣ - Δήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 12245.0,
+      "totalCostWithoutVAT": 9875.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -863,21 +381,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 506201.72,
+          "costWithoutVAT": 9875,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Έκδοση πολυετούς ΑΑΥ αρχικού συνολικού ποσού € 904.058,00 με ΦΠΑ για παροχή υπηρεσιών αποψίλωσης και καθαρισμού της βλάστησης και εύφλεκτης ύλης από νησίδες, πρανή και ερείσματα εκατέρωθεν οδικών αξόνων του οδικού δικτύου αρμοδιότητας της Δ/νσης Τεχνικών Έργων Π.Α. και της Δ/νσης Διαχείρισης Μητρ. Υποδομών Π.Α. για τρία έτη (2024-2026). Με την παρούσα δεσμεύονται €627.690,13(2026:€353.029,00)",
+          "shortDescription": "Αντιμετώπιση εχθρών και ασθενειών πρασίνου",
           "cpvs": [
             {
-              "key": "77312000-0",
-              "value": "Υπηρεσίες εκκαθάρισης από αγριόχορτα"
-            },
-            {
-              "key": "77211400-6",
-              "value": "Υπηρεσίες κοπής δένδρων"
+              "key": "77211500-7",
+              "value": "Υπηρεσίες φροντίδας δένδρων"
             }
           ]
         }
@@ -890,8 +404,7 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "77312000",
-        "77211400"
+        "77211500"
       ],
       "cpv_divisions": [
         "77"
@@ -902,46 +415,46 @@
       "primary_domain": "Agriculture/Forestry/Landscaping Services"
     },
     {
-      "title": "«Καθαρισμό – Αποψίλωση κοινόχρηστων χώρων και οικοπέδων του Δήμου προς πρόληψη πυρκαγιών»",
-      "referenceNumber": "26REQ018458223",
-      "previousRequestReferenceNumber": "25REQ016452420",
-      "signedDate": "2026-02-05",
-      "lastUpdateDate": "2025-03-20T00:00:00",
-      "submissionDate": "2026-02-10T13:07:10.322",
-      "procurementDeliveryDate": "2026-05-12",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
+      "title": "Αίτημα έγκρισης έκδοσης απόφασης ανάληψης υποχρέωσης ποσού τριάντα επτά χιλιάδων διακοσίων ευρώ (37.",
+      "referenceNumber": "26REQ018471343",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": "2026-02-12T11:37:00.311",
+      "submissionDate": "2026-02-12T11:25:22.967",
+      "procurementDeliveryDate": "2026-03-02",
+      "cancellationDate": "2026-02-12T11:37:00.311",
+      "cancelled": true,
+      "cancellationReason": "Επισύναψη εσφαλμένου αρχείου",
       "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "4222",
+      "cancellationType": "Ακύρωση λόγω λανθασμένης καταχώρησης",
+      "protocolNumber": "61808",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
-      "authorEmail": "e.galani@ilion.gr",
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090076918",
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090283815",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
-      "approved": true,
+      "approved": false,
       "organization": {
-        "key": "6123",
-        "value": "ΔΗΜΟΣ ΙΛΙΟΥ"
+        "key": "100081912",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΠΟΛΙΤΙΣΜΟΥ"
       },
       "nutsCode": {
-        "key": "EL302",
-        "value": "Δυτικός Τομέας Αθηνών"
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
       },
       "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
       },
-      "aaht": "1007.Ε84705.0001",
+      "aaht": "1022.0000000000.0045",
       "contractTypes": [
         {
           "contractType": {
@@ -952,54 +465,34 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "78721",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+          "key": "100037642",
+          "value": "ΕΦΟΡΕΙΑ ΑΡΧΑΙΟΤΗΤΩΝ ΠΕΙΡΑΙΩΣ ΚΑΙ ΝΗΣΩΝ"
         },
         "signers": {
-          "key": "100004859",
-          "value": "ΑΝΔΡΙΑΝΑ ΑΛΕΒΙΖΟΥ - Δήμαρχος"
+          "key": "101538",
+          "value": "ΑΝΝΑ-ΒΑΣΙΛΙΚΗ ΚΑΡΑΠΑΝΑΓΙΩΤΟΥ - Προϊστάμενος"
         }
       },
-      "totalCostWithVAT": 37150.4,
-      "totalCostWithoutVAT": 29960.0,
+      "totalCostWithVAT": 37200.0,
+      "totalCostWithoutVAT": 30000.0,
       "objectDetails": [
         {
-          "quantity": 15000,
+          "quantity": 1,
           "type": {
-            "key": "MTK",
-            "value": "m 2"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 1320,
+          "costWithoutVAT": 30000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Καθαρισμός πεζοδρομίων",
+          "shortDescription": "Αίτημα έγκρισης έκδοσης απόφασης ανάληψης υποχρέωσης ποσού τριάντα επτά χιλιάδων διακοσίων ευρώ (37.200,00€) για δέσμευση πίστωσης στον ΑΛΕ 2420204001 για υπηρεσίες αποψιλώσεων.",
           "cpvs": [
             {
-              "key": "77312000-0",
-              "value": "Υπηρεσίες εκκαθάρισης από αγριόχορτα"
-            }
-          ]
-        },
-        {
-          "quantity": 358000,
-          "type": {
-            "key": "MTK",
-            "value": "m 2"
-          },
-          "costWithoutVAT": 28640,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Καθαρισμός – Αποψίλωση κοινόχρηστων χώρων και οικοπέδων του Δήμου προς πρόληψη πυρκαγιών",
-          "cpvs": [
-            {
-              "key": "77312000-0",
-              "value": "Υπηρεσίες εκκαθάρισης από αγριόχορτα"
+              "key": "77341000-2",
+              "value": "Κλάδεμα δένδρων"
             }
           ]
         }
@@ -1012,7 +505,7 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "77312000"
+        "77341000"
       ],
       "cpv_divisions": [
         "77"
@@ -1023,36 +516,470 @@
       "primary_domain": "Agriculture/Forestry/Landscaping Services"
     },
     {
-      "title": "ΔΗΜΙΟΥΡΓΕΙΑ ΠΕΡΙΜΕΤΡΙΚΩΝ ΖΩΝΩΝ ΠΕΡΙΞ ΟΙΚΙΣΜΩΝ ΕΝΤΟΣ ή ΠΛΗΣΙΟΝ ΔΑΣΩΝ & ΔΑΣΙΚΩΝ ΕΚΤΑΣΕΩΝ ΥΨΗΛΗΣ ΕΠΙΚΙΝ",
-      "referenceNumber": "26REQ018457320",
-      "previousRequestReferenceNumber": "25REQ017446630",
-      "signedDate": "2025-08-27",
-      "lastUpdateDate": "2025-08-27T00:00:00",
-      "submissionDate": "2026-02-10T12:17:18.346",
-      "procurementDeliveryDate": "2025-09-30",
+      "title": "ΑΙΤΗΜΑ ΕΓΚΡΙΣΗΣ ΔΑΠΑΝΗΣ ΓΙΑ ΥΠΗΡΕΣΙΕΣ ΣΥΝΤΗΡΗΣΗΣ ΚΗΠΟΥ ΠΡΒ ΡΙΑΝΤ",
+      "referenceNumber": "26REQ018470803",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T10:58:15.228",
+      "procurementDeliveryDate": "2026-02-15",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "9120",
+      "protocolNumber": "129",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "998016240",
+      "organizationVatNumber": "ΑΝΕΥ",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "10",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "ΑΝΕΥ",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100017451",
+          "value": "ΠΡΕΣΒΕΙΑ ΤΗΣ ΕΛΛΑΔΟΣ ΣΤΗΝ ΣΑΟΥΔΙΚΗ ΑΡΑΒΙΑ (ΡΙΑΝΤ)"
+        },
+        "signers": {
+          "key": "100075854",
+          "value": "ΑΙΚΑΤΕΡΙΝΗ ΒΑΡΒΑΡΗΓΟΥ - Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 35650.0,
+      "totalCostWithoutVAT": 35650.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 35650,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΙΤΗΜΑ ΕΓΚΡΙΣΗΣ ΔΑΠΑΝΗΣ ΓΙΑ ΥΠΗΡΕΣΙΕΣ ΚΑΘΑΡΙΣΜΟΥ ΤΩΝ ΕΞΩΤΕΡΙΚΩΝ ΧΩΡΩΝ ΚΑΙ ΣΥΝΤΗΡΗΣΗΣ ΚΗΠΟΥ ΠΡΕΣΒΕΙΑΣ ΚΑΙ ΠΡΣΒΕΥΤΙΚΗΣ ΚΑΤΟΙΚΙΑΣ, ΠΡΒ ΡΙΑΝΤ",
+          "cpvs": [
+            {
+              "key": "77311000-3",
+              "value": "Συντήρηση διακοσμητικών κήπων ή κήπων αναψυχής"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "77311000"
+      ],
+      "cpv_divisions": [
+        "77"
+      ],
+      "all_domains": [
+        "Agriculture/Forestry/Landscaping Services"
+      ],
+      "primary_domain": "Agriculture/Forestry/Landscaping Services"
+    },
+    {
+      "title": "Αποφ.έγκρ.14.818,00€ συμπ/νου ΦΠΑ αποψίλωση & καθαρ.οικοπ.e-ΕΦΚΑ αρμ.ΠΥΣΥ Κ.Μακεδ",
+      "referenceNumber": "26REQ018469724",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T10:00:51.698",
+      "procurementDeliveryDate": "2026-05-01",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "287558",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": " 997072577",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "100059918",
+        "value": "ΗΛΕΚΤΡΟΝΙΚΟΣ ΕΘΝΙΚΟΣ ΦΟΡΕΑΣ ΚΟΙΝΩΝΙΚΗΣ ΑΣΦΑΛΙΣΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1032.Ε00922.0009",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100046178",
+          "value": "Π.Υ.Σ.Υ. ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ"
+        },
+        "signers": {
+          "key": "100027440",
+          "value": "ΕΥΑΓΓΕΛΙΑ ΠΑΤΕΡΑ - Προϊστάμενος Διεύθυνσης"
+        }
+      },
+      "totalCostWithVAT": 14818.0,
+      "totalCostWithoutVAT": 11950.0,
+      "objectDetails": [
+        {
+          "quantity": 0,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 11950,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Απόφαση έγκρισης πίστωσης ποσού # 14.818,00€ # συμπεριλαμβανομένου του ΦΠΑ 24%, που αφορά ενέργειες για την αποψίλωση και καθαρισμό οικοπέδων και αγροτεμαχίων ιδιοκτησίας e-ΕΦΚΑ αρμοδιότητας της ΠΥΣΥ Κεντρικής Μακεδονίας, για την αποφυγή ατυχήματος και κινδύνου πυρκαγιάς για τους θερινούς μήνες του έτους 2026.»",
+          "cpvs": [
+            {
+              "key": "77314000-4",
+              "value": "Υπηρεσίες συντήρησης οικοπέδων"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "77314000"
+      ],
+      "cpv_divisions": [
+        "77"
+      ],
+      "all_domains": [
+        "Agriculture/Forestry/Landscaping Services"
+      ],
+      "primary_domain": "Agriculture/Forestry/Landscaping Services"
+    },
+    {
+      "title": "ΔΕΣΜΕΥΣΗ ΠΙΣΤΩΣΗΣ ΓΙΑ ΤΟ ΟΙΚΟΝΟΜΙΚΟ ΕΤΟΣ 2026 ¨ΕΞΟΔΑ ΓΙΑ ΛΟΙΠΕΣ ΥΠΗΡΕΣΙΕΣ",
+      "referenceNumber": "26REQ018469571",
+      "previousRequestReferenceNumber": "26REQ018469520",
+      "signedDate": "2026-02-09",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T09:52:15.009",
+      "procurementDeliveryDate": "2026-02-16",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "47250",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090273987",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "6228",
-        "value": "ΔΗΜΟΣ ΟΡΧΟΜΕΝΟΥ"
+        "key": "100015996",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ"
       },
       "nutsCode": {
-        "key": "EL641",
-        "value": "Βοιωτία"
+        "key": "EL5",
+        "value": "ΒΟΡΕΙΑ ΕΛΛΑΔΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1031.2090000000.0003",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100073459",
+          "value": "ΕΠΙΘΕΩΡΗΣΗ ΕΦΑΡΜΟΓΗΣ ΔΑΣΙΚΗΣ ΠΟΛΙΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ"
+        },
+        "signers": {
+          "key": "100073727",
+          "value": "ΝΙΚΗΤΑΣ ΦΡΑΓΚΙΣΚΑΚΗΣ - Γενικός Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 148115.16,
+      "totalCostWithoutVAT": 119447.71,
+      "objectDetails": [
+        {
+          "quantity": 200,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 119447.71,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Δέσμευση ποσού 148.115,17€ ΑΛΕ 2420989001 \"Έξοδα για λοιπές υπηρεσίες\" του τακτικού Προϋπολογισμού ΥΠΕΝ οικονομικού έτους 2026 για απλήρωτες υποχρεώσεις έτους 2025 για διάθεση καυσόξυλων σε ευπαθείς ομάδαες, υλοποίηση καλλιεργητικών και λοιπών εργασιών συντήρησης δασών για τις ανάγκες της ΕΕΔΠΜΘ",
+          "cpvs": [
+            {
+              "key": "03413000-8",
+              "value": "Καυσόξυλα"
+            },
+            {
+              "key": "75130000-6",
+              "value": "Βοηθητικές κρατικές υπηρεσίες"
+            },
+            {
+              "key": "77231000-8",
+              "value": "Υπηρεσίες διαχείρισης δασοκομίας"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "03413000",
+        "75130000",
+        "77231000"
+      ],
+      "cpv_divisions": [
+        "03",
+        "75",
+        "77"
+      ],
+      "all_domains": [
+        "Agriculture & Forestry",
+        "Public Admin, Defence & Social Security",
+        "Agriculture/Forestry/Landscaping Services"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΑΙΤΗΜΑ ΔΕΣΜΕΥΣΗΣ ΠΙΣΤΩΣΗΣ ΓΙΑ ΤΟ ΟΙΚΟΝΟΜΙΚΟ ΕΤΟΣ 2026 ¨ΕΞΟΔΑ ΓΙΑ ΛΟΙΠΕΣ ΥΠΗΡΕΣΙΕΣ",
+      "referenceNumber": "26REQ018469520",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-05",
+      "lastUpdateDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T09:49:13.67",
+      "procurementDeliveryDate": "2026-02-16",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "43347",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090273987",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "100015996",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL5",
+        "value": "ΒΟΡΕΙΑ ΕΛΛΑΔΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1031.2090000000.0003",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100073459",
+          "value": "ΕΠΙΘΕΩΡΗΣΗ ΕΦΑΡΜΟΓΗΣ ΔΑΣΙΚΗΣ ΠΟΛΙΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ"
+        },
+        "signers": {
+          "key": "100073727",
+          "value": "ΝΙΚΗΤΑΣ ΦΡΑΓΚΙΣΚΑΚΗΣ - Γενικός Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 148115.16,
+      "totalCostWithoutVAT": 119447.71,
+      "objectDetails": [
+        {
+          "quantity": 200,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 119447.71,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αίτημα δέσμευσης ποσού 148.115,17€ ΑΛΕ 2420989001 \"Έξοδα για λοιπές υπηρεσίες\" του τακτικού Προϋπολογισμού ΥΠΕΝ οικονομικού έτους 2026 για απλήρωτες υποχρεώσεις έτους 2025 για διάθεση καυσόξυλων σε ευπαθείς ομάδαες, υλοποίηση καλλιεργητικών και λοιπών εργασιών συντήρησης δασών για τις ανάγκες της ΕΕΔΠΜΘ",
+          "cpvs": [
+            {
+              "key": "75130000-6",
+              "value": "Βοηθητικές κρατικές υπηρεσίες"
+            },
+            {
+              "key": "03413000-8",
+              "value": "Καυσόξυλα"
+            },
+            {
+              "key": "77231000-8",
+              "value": "Υπηρεσίες διαχείρισης δασοκομίας"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018469571"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "75130000",
+        "03413000",
+        "77231000"
+      ],
+      "cpv_divisions": [
+        "75",
+        "03",
+        "77"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security",
+        "Agriculture & Forestry",
+        "Agriculture/Forestry/Landscaping Services"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΑΝΑΠΛΑΣΗ ΤΗΣ ΠΕΡΙΟΧΗΣ ΤΟΥ ΑΔΡΙΑΝΕΙΟΥ ΥΔΡΑΓΩΓΕΙΟΥ ΣΤΟ ΠΛΑΙΣΙΟΥ ΤΗΣ ΕΠΕΝΔΥΣΗΣ ΤΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ UIA05-2",
+      "referenceNumber": "26REQ018469026",
+      "previousRequestReferenceNumber": "22REQ010135716",
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T09:20:17.671",
+      "procurementDeliveryDate": "2026-02-12",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "3953",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": "p.zografos@halandri.gr",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090191830",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6314",
+        "value": "ΔΗΜΟΣ ΧΑΛΑΝΔΡΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL301",
+        "value": "Βόρειος Τομέας Αθηνών"
       },
       "typeOfContractingAuthority": {
         "key": "9",
@@ -1062,7 +989,7 @@
         "key": "2",
         "value": "ΟΤΑ"
       },
-      "aaht": "1007.Ε82805.0001",
+      "aaht": "1007.E84612.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -1073,16 +1000,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "83025",
-          "value": "ΔΗΜΟΣ ΟΡΧΟΜΕΝΟΥ"
+          "key": "78607",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΗΣ ΔΙΑΧΕΙΡΙΣΗΣ"
         },
         "signers": {
-          "key": "100084396",
-          "value": "ΓΕΩΡΓΙΟΣ ΤΖΑΒΑΡΑΣ - Δήμαρχος"
+          "key": "137455",
+          "value": "ΕΙΡΗΝΗ ΝΤΑΒΙΑ - Προϊστάμενος Διεύθυνσης"
         }
       },
-      "totalCostWithVAT": 245612.4,
-      "totalCostWithoutVAT": 198074.52,
+      "totalCostWithVAT": 588019.0,
+      "totalCostWithoutVAT": 474208.87,
       "objectDetails": [
         {
           "quantity": 1,
@@ -1090,17 +1017,25 @@
             "key": "Erg",
             "value": "Έργο"
           },
-          "costWithoutVAT": 198074.52,
+          "costWithoutVAT": 474208.87,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "«Εργασίες για την ενίσχυση πυροπροστασίας κατοικημένων περιοχών Δήμου   Ορχομενού στο πλαίσιο της πρόσκλησης του Πράσινου Ταμείου με κωδικό ΔΑΠ6» στο πλαίσιο της δράσης «Ενίσχυση Πυροπροστασίας Κατοικημένων Περιοχών σε ΟΤΑ Α΄ βαθμού με Περιαστικά Δάση»",
+          "shortDescription": "ΑΝΑΠΛΑΣΗ ΤΗΣ ΠΕΡΙΟΧΗΣ ΤΟΥ ΑΔΡΙΑΝΕΙΟΥ ΥΔΡΑΓΩΓΕΙΟΥ ΣΤΟ ΠΛΑΙΣΙΟΥ ΤΗΣ ΕΠΕΝΔΥΣΗΣ ΤΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ UIA05-255 CULTURAL HIDRANT (URBAN INNOVATIVE ACTIONS)",
           "cpvs": [
             {
-              "key": "77200000-2",
-              "value": "Υπηρεσίες δασοκομίας"
+              "key": "77310000-6",
+              "value": "Φύτευση και συντήρηση χώρων πρασίνου"
+            },
+            {
+              "key": "45233222-1",
+              "value": "Κατασκευαστικές εργασίες για έργα οδοστρωσίας και ασφαλτόστρωσης"
+            },
+            {
+              "key": "45431000-7",
+              "value": "Εργασίες πλακόστρωσης"
             }
           ]
         }
@@ -1113,251 +1048,51 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "77200000"
+        "77310000",
+        "45233222",
+        "45431000"
       ],
       "cpv_divisions": [
-        "77"
+        "77",
+        "45"
       ],
       "all_domains": [
-        "Agriculture/Forestry/Landscaping Services"
+        "Agriculture/Forestry/Landscaping Services",
+        "Construction & Works"
       ],
-      "primary_domain": "Agriculture/Forestry/Landscaping Services"
+      "primary_domain": "Construction & Works"
     },
     {
-      "title": "Έγκριση οικονομικού αιτήματος στο πλαίσιο του τακτικού προϋπολογισμού του Α.Π.Θ. οικονομικού έτους 2",
-      "referenceNumber": "26REQ018456933",
-      "previousRequestReferenceNumber": "26REQ018386624",
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T11:58:39.209",
-      "procurementDeliveryDate": "2026-11-30",
+      "title": "ΑΝΑΠΛΑΣΗ ΤΗΣ ΠΕΡΙΟΧΗΣ ΤΟΥ ΑΔΡΙΑΝΕΙΟΥ ΥΔΡΑΓΩΓΕΙΟΥ ΣΤΟ ΠΛΑΙΣΙΟΥ ΤΗΣ ΕΠΕΝΔΥΣΗΣ ΤΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ UIA05-2",
+      "referenceNumber": "26REQ018468963",
+      "previousRequestReferenceNumber": "22REQ010135716",
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": "2025-07-22T00:00:00",
+      "submissionDate": "2026-02-12T09:16:26.541",
+      "procurementDeliveryDate": "2026-02-12",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "44949",
+      "protocolNumber": "3952",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090024798",
+      "authorEmail": "p.zografos@halandri.gr",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090191830",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "99202041",
-        "value": "ΑΡΙΣΤΟΤΕΛΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣ/ΝΙΚΗΣ"
+        "key": "6314",
+        "value": "ΔΗΜΟΣ ΧΑΛΑΝΔΡΙΟΥ"
       },
       "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1020.Ε00287.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100084028",
-          "value": "ΓΡΑΜΜΑΤΕΙΑ ΣΥΜΒΟΥΛΙΟΥ ΔΙΟΙΚΗΣΗΣ"
-        },
-        "signers": {
-          "key": "100098569",
-          "value": "ΚΥΡΙΑΚΟΣ ΑΝΑΣΤΑΣΙΑΔΗΣ - Πρύτανης"
-        }
-      },
-      "totalCostWithVAT": 5574.45,
-      "totalCostWithoutVAT": 5574.45,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 5574.45,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Έγκριση οικονομικού αιτήματος στο πλαίσιο του τακτικού προϋπολογισμού του Α.Π.Θ. οικονομικού έτους 2026 για την πραγματοποίηση της δαπάνης με τίτλο: «πληρωμή εργασιών διαμόρφωσης και μεταφοράς καύσιμου ξύλου ελάτης στα Δ.Τ. 506, 508 (λήμματος 2025) του Π.Δ. Περτουλίου», καθώς και την πίστωση ποσού €5.574,45 σε βάρος του ΑΛΕ 2420989001 του τακτικού προϋπολογισμού εξόδων του Α.Π.Θ. του οικονομικού έ",
-          "cpvs": [
-            {
-              "key": "77210000-5",
-              "value": "Υπηρεσίες υλοτομίας"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99202041",
-        "77210000"
-      ],
-      "cpv_divisions": [
-        "77"
-      ],
-      "all_domains": [
-        "Agriculture/Forestry/Landscaping Services"
-      ],
-      "primary_domain": "Agriculture/Forestry/Landscaping Services"
-    },
-    {
-      "title": "Έγκριση οικονομικού αιτήματος στο πλαίσιο του τακτικού προϋπολογισμού του Α.Π.Θ. οικονομικού έτους 2",
-      "referenceNumber": "26REQ018456771",
-      "previousRequestReferenceNumber": "26REQ018386758",
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T11:49:43.515",
-      "procurementDeliveryDate": "2026-11-30",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "44948",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090024798",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "99202041",
-        "value": "ΑΡΙΣΤΟΤΕΛΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣ/ΝΙΚΗΣ"
-      },
-      "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1020.Ε00287.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100084028",
-          "value": "ΓΡΑΜΜΑΤΕΙΑ ΣΥΜΒΟΥΛΙΟΥ ΔΙΟΙΚΗΣΗΣ"
-        },
-        "signers": {
-          "key": "100098569",
-          "value": "ΚΥΡΙΑΚΟΣ ΑΝΑΣΤΑΣΙΑΔΗΣ - Πρύτανης"
-        }
-      },
-      "totalCostWithVAT": 5817.93,
-      "totalCostWithoutVAT": 5817.93,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 5817.93,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Έγκριση οικονομικού αιτήματος στο πλαίσιο του τακτικού προϋπολογισμού του Α.Π.Θ. οικονομικού έτους 2026 για την πραγματοποίηση της δαπάνης με τίτλο: «πληρωμή εργασιών διαμόρφωσης και μεταφοράς καύσιμου ξύλου ελάτης στο Δ.Τ. 524 (λήμματος 2024) του Π.Δ. Περτουλίου», καθώς και την πίστωση ποσού €5.817,93 σε βάρος του ΑΛΕ 2420989001 του τακτικού προϋπολογισμού εξόδων του Α.Π.Θ. του οικονομικού έτους ",
-          "cpvs": [
-            {
-              "key": "77210000-5",
-              "value": "Υπηρεσίες υλοτομίας"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99202041",
-        "77210000"
-      ],
-      "cpv_divisions": [
-        "77"
-      ],
-      "all_domains": [
-        "Agriculture/Forestry/Landscaping Services"
-      ],
-      "primary_domain": "Agriculture/Forestry/Landscaping Services"
-    },
-    {
-      "title": "«Πρωτογενές αίτημα «ΕΡΓΑΣΙΕΣ ΣΥΝΤΗΡΗΣΗΣ ΝΗΣΙΔΩΝ - ΧΩΡΩΝ ΠΡΑΣΙΝΟΥ ΚΑΙ ΚΛΑΔΕΥΣΗ ΔΕΝΔΡΩΝ»",
-      "referenceNumber": "26REQ018456717",
-      "previousRequestReferenceNumber": "24REQ015213410",
-      "signedDate": "2024-07-30",
-      "lastUpdateDate": "2025-01-14T00:00:00",
-      "submissionDate": "2026-02-10T11:46:37.489",
-      "procurementDeliveryDate": "2026-09-15",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "42493",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": "e.galani@ilion.gr",
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090076918",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6123",
-        "value": "ΔΗΜΟΣ ΙΛΙΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL302",
-        "value": "Δυτικός Τομέας Αθηνών"
+        "key": "EL301",
+        "value": "Βόρειος Τομέας Αθηνών"
       },
       "typeOfContractingAuthority": {
         "key": "9",
@@ -1367,85 +1102,53 @@
         "key": "2",
         "value": "ΟΤΑ"
       },
-      "aaht": "1007.E84705.0001",
+      "aaht": "1007.E84612.0001",
       "contractTypes": [
         {
           "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
+            "key": "10",
+            "value": "Έργα"
           }
         }
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "78724",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ"
+          "key": "78607",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΗΣ ΔΙΑΧΕΙΡΙΣΗΣ"
         },
         "signers": {
-          "key": "135068",
-          "value": "ΕΥΑΓΓΕΛΙΑ ΓΑΛΑΝΗ - Προϊστάμενος Διεύθυνσης"
+          "key": "137455",
+          "value": "ΕΙΡΗΝΗ ΝΤΑΒΙΑ - Προϊστάμενος Διεύθυνσης"
         }
       },
-      "totalCostWithVAT": 228095.77,
-      "totalCostWithoutVAT": 183948.2,
+      "totalCostWithVAT": 1030000.0,
+      "totalCostWithoutVAT": 830645.16,
       "objectDetails": [
         {
-          "quantity": 440,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 50200,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΟΜΑΔΑ Β:Εργασίες Κλάδευσης Δένδρων   ",
-          "cpvs": [
-            {
-              "key": "77341000-2",
-              "value": "Κλάδεμα δένδρων"
-            }
-          ]
-        },
-        {
           "quantity": 1,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "Erg",
+            "value": "Έργο"
           },
-          "costWithoutVAT": 67888.2,
+          "costWithoutVAT": 830645.16,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΟΜΑΔΑ Α A1:Συντήρηση Νησίδων",
+          "shortDescription": "ΑΝΑΠΛΑΣΗ ΤΗΣ ΠΕΡΙΟΧΗΣ ΤΟΥ ΑΔΡΙΑΝΕΙΟΥ ΥΔΡΑΓΩΓΕΙΟΥ ΣΤΟ ΠΛΑΙΣΙΟΥ ΤΗΣ ΕΠΕΝΔΥΣΗΣ ΤΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ UIA05-255 CULTURAL HIDRANT (URBAN INNOVATIVE ACTIONS)",
           "cpvs": [
             {
               "key": "77310000-6",
               "value": "Φύτευση και συντήρηση χώρων πρασίνου"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 65860,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΟΜΑΔΑ Α\nA2 :Χώρων Πρασίνου",
-          "cpvs": [
+            },
             {
-              "key": "77310000-6",
-              "value": "Φύτευση και συντήρηση χώρων πρασίνου"
+              "key": "45233222-1",
+              "value": "Κατασκευαστικές εργασίες για έργα οδοστρωσίας και ασφαλτόστρωσης"
+            },
+            {
+              "key": "45431000-7",
+              "value": "Εργασίες πλακόστρωσης"
             }
           ]
         }
@@ -1458,48 +1161,51 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "77341000",
-        "77310000"
+        "77310000",
+        "45233222",
+        "45431000"
       ],
       "cpv_divisions": [
-        "77"
+        "77",
+        "45"
       ],
       "all_domains": [
-        "Agriculture/Forestry/Landscaping Services"
+        "Agriculture/Forestry/Landscaping Services",
+        "Construction & Works"
       ],
-      "primary_domain": "Agriculture/Forestry/Landscaping Services"
+      "primary_domain": "Construction & Works"
     },
     {
-      "title": "ΣΥΝΤΗΡΗΣΗ ΧΛΟΟΤΑΠΗΤΑ ΓΗΠΕΔΟΥ ΝΕΑΠΟΛΗΣ",
-      "referenceNumber": "26REQ018456521",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T11:35:29.779",
-      "procurementDeliveryDate": "2026-03-09",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
+      "title": "ΑΠΟΦΑΣΗ ΑΝΑΛΗΨΗΣ ΥΠΟΧΡΕΩΣΗΣ για την εργασία συντήρησης τεχνητών ταπήτων (2025) – ΤΜΗΜΑ ΑΘΛΗΤΙΣΜΟΥ.",
+      "referenceNumber": "26REQ018468296",
+      "previousRequestReferenceNumber": "25REQ017806938",
+      "signedDate": "2026-01-28",
+      "lastUpdateDate": "2026-02-12T08:25:11.801",
+      "submissionDate": "2026-02-12T08:21:25.588",
+      "procurementDeliveryDate": "2026-02-14",
+      "cancellationDate": "2026-02-12T08:25:11.801",
+      "cancelled": true,
+      "cancellationReason": "ΕΧΕΙ ΓΙΝΕΙ ΞΑΝΑ ΤΟ ΕΓΚΕΚΡΙΜΕΝΟ",
       "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "4339",
+      "cancellationType": "Ακύρωση λόγω λανθασμένης καταχώρησης",
+      "protocolNumber": "4717",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997642253",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997911992",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
-      "approved": false,
+      "approved": true,
       "organization": {
-        "key": "6215",
-        "value": "ΔΗΜΟΣ ΝΙΚΑΙΑΣ - ΑΓΙΟΥ Ι. ΡΕΝΤΗ"
+        "key": "6130",
+        "value": "ΔΗΜΟΣ ΚΑΛΑΜΑΤΑΣ"
       },
       "nutsCode": {
-        "key": "EL3",
-        "value": "ATTIKΗ"
+        "key": "EL653",
+        "value": "Λακωνία, Μεσσηνία"
       },
       "typeOfContractingAuthority": {
         "key": "9",
@@ -1509,7 +1215,7 @@
         "key": "2",
         "value": "ΟΤΑ"
       },
-      "aaht": "1007.E85104.0001",
+      "aaht": "1007.Ε84401.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -1520,16 +1226,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "100014698",
-          "value": "ΠΡΑΣΙΝΟΥ ΚΑΙ ΠΕΡΙΒΑΛΛΟΝΤΟΣ"
+          "key": "100090351",
+          "value": "ΑΥΤΟΤΕΛΕΣ ΤΜΗΜΑ ΑΘΛΗΤΙΣΜΟΥ"
         },
         "signers": {
-          "key": "100089370",
-          "value": "ΔΗΜΟΣΘΕΝΗΣ Π. ΣΤΑΜΑΤΑΤΟΣ - Αντιδήμαρχος"
+          "key": "100049926",
+          "value": "ΑΘΑΝΑΣΙΟΣ ΒΑΣΙΛΟΠΟΥΛΟΣ - Δήμαρχος"
         }
       },
-      "totalCostWithVAT": 27023.01,
-      "totalCostWithoutVAT": 21792.75,
+      "totalCostWithVAT": 27159.72,
+      "totalCostWithoutVAT": 21903.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -1537,13 +1243,13 @@
             "key": "AG-001",
             "value": "Μελέτη"
           },
-          "costWithoutVAT": 21792.75,
+          "costWithoutVAT": 21903,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΣΥΝΤΗΡΗΣΗ ΧΛΟΟΤΑΠΗΤΑ ΓΗΠΕΔΟΥ",
+          "shortDescription": "ΣΥΝΤΗΡΗΣΗ ΚΑΙ ΕΠΙΣΚΕΥΗ ΧΛΟΟΤΑΠΗΤΑ ΤΩΝ ΓΗΠΕΔΩΝ ΜΕ ΤΕΧΝΗΤΟ ΤΑΠΗΤΑ «ΔΥΤΙΚΗΣ ΠΑΡΑΛΙΑΣ» & «ΑΣΠΡΟΧΩΜΑΤΟΣ» ΤΟΥ ΔΗΜΟΥ ΚΑΛΑΜΑΤΑΣ ",
           "cpvs": [
             {
               "key": "77320000-9",
@@ -1571,24 +1277,24 @@
       "primary_domain": "Agriculture/Forestry/Landscaping Services"
     },
     {
-      "title": "ΔΕΑ - 7795261_2026 ΥΠΗΡΕΣΙΑ ΚΟΠΗΣ ΧΑΜΗΛΗΣ ΒΛΑΣΤΗΣΗΣ",
-      "referenceNumber": "26REQ018456100",
-      "previousRequestReferenceNumber": "26REQ018456083",
-      "signedDate": "2026-01-12",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T11:11:08.886",
-      "procurementDeliveryDate": "2026-04-01",
+      "title": "ΔΑΓΥ_26038_2026:ΚΟΠΗ ΚΑΙ ΑΠΟΜΑΚΡΥΝΣΗ ΕΞΙ ΔΕΝΤΡΩΝ ΠΛΗΣΙΟΝ ΥΠΟΣΤΑΘΜΟΥ ΔΟΞΑΣ",
+      "referenceNumber": "26REQ018468270",
+      "previousRequestReferenceNumber": "26REQ018468234",
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T08:17:59.853",
+      "procurementDeliveryDate": "2026-02-16",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "1771",
+      "protocolNumber": "ΔΑΓΥ-043/20359",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
-      "greekOrganizationVatNumber": true,
+      "greekOrganizationVatNumber": false,
       "organizationVatNumber": "099877486",
       "budget": null,
       "commitmentNo": null,
@@ -1621,16 +1327,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "100034535",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΕΦΟΔΙΑΣΤΙΚΗΣ ΑΛΥΣΙΔΑΣ"
+          "key": "100059639",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΑΚΙΝΗΤΩΝ & ΓΕΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
         },
         "signers": {
-          "key": "100044047",
-          "value": "ΖΗΝΕΛΛΗΣ ΑΡΙΣΤΕΙΔΗΣ - Διευθυντής Κλάδου"
+          "key": "100035097",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΖΩΗΤΟΣ - Διευθυντής"
         }
       },
-      "totalCostWithVAT": 16740.0,
-      "totalCostWithoutVAT": 13500.0,
+      "totalCostWithVAT": 7440.0,
+      "totalCostWithoutVAT": 6000.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -1638,17 +1344,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 13500,
+          "costWithoutVAT": 6000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΔΕΑ - 7795261_2026 ΥΠΗΡΕΣΙΑ ΚΟΠΗΣ ΧΑΜΗΛΗΣ ΒΛΑΣΤΗΣΗΣ",
+          "shortDescription": "ΚΟΠΗ ΚΑΙ ΑΠΟΜΑΚΡΥΝΣΗ ΕΞΙ ΔΕΝΤΡΩΝ ΠΛΗΣΙΟΝ ΥΠΟΣΤΑΘΜΟΥ ΔΟΞΑΣ",
           "cpvs": [
             {
-              "key": "77312000-0",
-              "value": "Υπηρεσίες εκκαθάρισης από αγριόχορτα"
+              "key": "77211400-6",
+              "value": "Υπηρεσίες κοπής δένδρων"
             }
           ]
         }
@@ -1660,10 +1366,10 @@
       "contractRefNo": [],
       "paymentRefNo": [],
       "auctionRefNo": [
-        "26AWRD018456246"
+        "26AWRD018468304"
       ],
       "cpv_codes_extracted": [
-        "77312000"
+        "77211400"
       ],
       "cpv_divisions": [
         "77"
@@ -1674,24 +1380,24 @@
       "primary_domain": "Agriculture/Forestry/Landscaping Services"
     },
     {
-      "title": "ΔΕΑ - 7795261_2026 ΥΠΗΡΕΣΙΑ ΚΟΠΗΣ ΧΑΜΗΛΗΣ ΒΛΑΣΤΗΣΗΣ",
-      "referenceNumber": "26REQ018456083",
+      "title": "ΔΑΓΥ_26038_2026:ΚΟΠΗ ΚΑΙ ΑΠΟΜΑΚΡΥΝΣΗ ΕΞΙ ΔΕΝΤΡΩΝ ΠΛΗΣΙΟΝ ΥΠΟΣΤΑΘΜΟΥ ΔΟΞΑΣ",
+      "referenceNumber": "26REQ018468234",
       "previousRequestReferenceNumber": null,
-      "signedDate": "2026-01-12",
-      "lastUpdateDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T11:10:13.097",
-      "procurementDeliveryDate": "2026-04-01",
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T08:11:12.065",
+      "procurementDeliveryDate": "2026-02-16",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "1771",
+      "protocolNumber": "ΔΑΓΥ-043/20359",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
-      "greekOrganizationVatNumber": true,
+      "greekOrganizationVatNumber": false,
       "organizationVatNumber": "099877486",
       "budget": null,
       "commitmentNo": null,
@@ -1724,16 +1430,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "100034535",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΕΦΟΔΙΑΣΤΙΚΗΣ ΑΛΥΣΙΔΑΣ"
+          "key": "100059639",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΑΚΙΝΗΤΩΝ & ΓΕΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
         },
         "signers": {
-          "key": "100044047",
-          "value": "ΖΗΝΕΛΛΗΣ ΑΡΙΣΤΕΙΔΗΣ - Διευθυντής Κλάδου"
+          "key": "100035097",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΖΩΗΤΟΣ - Διευθυντής"
         }
       },
-      "totalCostWithVAT": 16740.0,
-      "totalCostWithoutVAT": 13500.0,
+      "totalCostWithVAT": 7440.0,
+      "totalCostWithoutVAT": 6000.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -1741,340 +1447,13 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 13500,
+          "costWithoutVAT": 6000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΔΕΑ - 7795261_2026 ΥΠΗΡΕΣΙΑ ΚΟΠΗΣ ΧΑΜΗΛΗΣ ΒΛΑΣΤΗΣΗΣ",
-          "cpvs": [
-            {
-              "key": "77312000-0",
-              "value": "Υπηρεσίες εκκαθάρισης από αγριόχορτα"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018456100"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "77312000"
-      ],
-      "cpv_divisions": [
-        "77"
-      ],
-      "all_domains": [
-        "Agriculture/Forestry/Landscaping Services"
-      ],
-      "primary_domain": "Agriculture/Forestry/Landscaping Services"
-    },
-    {
-      "title": "Ανάθεση παροχής υπηρεσιών σε εξωτερικό συνεργάτη",
-      "referenceNumber": "26REQ018456062",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-09",
-      "lastUpdateDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T11:09:09.545",
-      "procurementDeliveryDate": "2026-02-20",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "ΥΠΕΝ/ΔΠΔ/14612/857/09-02-2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "099338405",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "100015996",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1031.Ε00771.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100035661",
-          "value": "ΓΕΝΙΚΗ ΔΕΥΘΥΝΣΗ ΔΑΣΩΝ ΚΑΙ ΔΑΣΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ"
-        },
-        "signers": {
-          "key": "100045366",
-          "value": "ΕΥΑΓΓΕΛΟΣ ΓΚΟΥΝΤΟΥΦΑΣ - Α/Α (Αντί Αυτού) Προϊσταμένου Γενικής Διεύθυνσης"
-        }
-      },
-      "totalCostWithVAT": 37200.0,
-      "totalCostWithoutVAT": 30000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 30000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "«Ανάγκη ανάθεσης παροχής υποστηρικτικών εργασιών εξυπηρέτησης αναγκών του οικείου Τμήματος σε εξωτερικό συνεργάτη».",
-          "cpvs": [
-            {
-              "key": "77231900-7",
-              "value": "Υπηρεσίες δασικού τομεακού σχεδιασμού"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018459303"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "77231900"
-      ],
-      "cpv_divisions": [
-        "77"
-      ],
-      "all_domains": [
-        "Agriculture/Forestry/Landscaping Services"
-      ],
-      "primary_domain": "Agriculture/Forestry/Landscaping Services"
-    },
-    {
-      "title": "ΕΡΓΑΣΙΕΣ ΣΥΝΤΗΡΗΣΗΣ ΧΛΟΟΤΑΠΗΤΑ ΑΝΟΙΧΤΟΥ ΔΗΜΟΤΙΚΟΥ ΓΗΠΕΔΟΥ ΑΡΙΔΑΙΑΣ",
-      "referenceNumber": "26REQ018455781",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-06",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T10:51:57.121",
-      "procurementDeliveryDate": "2026-02-10",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "03/2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997600077",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "6023",
-        "value": "ΔΗΜΟΣ ΑΛΜΩΠΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL524",
-        "value": "Πέλλα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.E81002.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100015144",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ,ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΠΟΛΕΟΔΟΜΙΑΣ"
-        },
-        "signers": {
-          "key": "125359",
-          "value": "ΣΑΠΦΩ ΠΑΠΑΔΟΠΟΥΛΟΥ - Προϊστάμενος Διεύθυνσης"
-        }
-      },
-      "totalCostWithVAT": 37076.0,
-      "totalCostWithoutVAT": 29900.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 29900,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΕΡΓΑΣΙΕΣ ΣΥΝΤΗΡΗΣΗΣ ΧΛΟΟΤΑΠΗΤΑ ΑΝΟΙΧΤΟΥ ΔΗΜΟΤΙΚΟΥ ΓΗΠΕΔΟΥ ΑΡΙΔΑΙΑΣ ",
-          "cpvs": [
-            {
-              "key": "77320000-9",
-              "value": "Συντήρηση αθλητικών γηπέδων"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "77320000"
-      ],
-      "cpv_divisions": [
-        "77"
-      ],
-      "all_domains": [
-        "Agriculture/Forestry/Landscaping Services"
-      ],
-      "primary_domain": "Agriculture/Forestry/Landscaping Services"
-    },
-    {
-      "title": "ΚΟΠΗ ΧΟΡΤΩΝ ΚΑΙ ΚΛΑΔΕΜΑ ΔΕΝΤΡΩΝ ΤΩΝ ΠΑΙΔΙΚΩΝ ΣΤΑΘΜΩΝ ΚΕΚΠΑ",
-      "referenceNumber": "26REQ018455371",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-06",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T10:25:31.066",
-      "procurementDeliveryDate": "2026-02-10",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "04/2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997600077",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "6023",
-        "value": "ΔΗΜΟΣ ΑΛΜΩΠΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL524",
-        "value": "Πέλλα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.E81002.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100015144",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ,ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΠΟΛΕΟΔΟΜΙΑΣ"
-        },
-        "signers": {
-          "key": "125359",
-          "value": "ΣΑΠΦΩ ΠΑΠΑΔΟΠΟΥΛΟΥ - Προϊστάμενος Διεύθυνσης"
-        }
-      },
-      "totalCostWithVAT": 19840.0,
-      "totalCostWithoutVAT": 16000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "AG-001",
-            "value": "Μελέτη"
-          },
-          "costWithoutVAT": 8800,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΟΠΗ ΧΟΡΤΩΝ ΠΑΙΔΙΚΩΝ ΣΤΑΘΜΩΝ ΚΕΚΠΑ",
-          "cpvs": [
-            {
-              "key": "77211400-6",
-              "value": "Υπηρεσίες κοπής δένδρων"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "AG-001",
-            "value": "Μελέτη"
-          },
-          "costWithoutVAT": 7200,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΛΑΔΕΜΑ ΔΕΝΤΡΩΝ ΠΑΙΔΙΚΩΝ ΣΤΑΘΜΩΝ ΚΕΚΠΑ",
+          "shortDescription": "ΚΟΠΗ ΚΑΙ ΑΠΟΜΑΚΡΥΝΣΗ ΕΞΙ ΔΕΝΤΡΩΝ ΠΛΗΣΙΟΝ ΥΠΟΣΤΑΘΜΟΥ ΔΟΞΑΣ",
           "cpvs": [
             {
               "key": "77211400-6",
@@ -2085,300 +1464,15 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "approvalRefNo": [],
+      "approvalRefNo": [
+        "26REQ018468270"
+      ],
       "noticeRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
         "77211400"
-      ],
-      "cpv_divisions": [
-        "77"
-      ],
-      "all_domains": [
-        "Agriculture/Forestry/Landscaping Services"
-      ],
-      "primary_domain": "Agriculture/Forestry/Landscaping Services"
-    },
-    {
-      "title": "ΕΡΓΑΣΙΕΣ ΣΥΝΤΗΡΗΣΗΣ ΧΩΡΩΝ ΠΡΑΣΙΝΟΥ ΔΕ ΜΑΛΙΩΝ»",
-      "referenceNumber": "26REQ018455239",
-      "previousRequestReferenceNumber": "24REQ015857498",
-      "signedDate": "2024-11-27",
-      "lastUpdateDate": "2025-03-14T00:00:00",
-      "submissionDate": "2026-02-10T10:17:36.44",
-      "procurementDeliveryDate": "2026-04-29",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "ΔΥ",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": "g.athanasiou@hersonisos.gr",
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997579272",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6319",
-        "value": "ΔΗΜΟΣ ΧΕΡΣΟΝΗΣΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL431",
-        "value": "Ηράκλειο"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.E87108.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "90949",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΠΕΡΙΒΑΛΟΝΤΟΣ"
-        },
-        "signers": {
-          "key": "100086389",
-          "value": "ΤΗΛΕΜΑΧΟΣ ΡΟΔΙΤΑΚΗΣ - Αντιδήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 5930.6,
-      "totalCostWithoutVAT": 4782.74,
-      "objectDetails": [
-        {
-          "quantity": 53,
-          "type": {
-            "key": "HUR",
-            "value": "Ώρα"
-          },
-          "costWithoutVAT": 1582.74,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Κλαδεμά δέντρων -Κλαδεμά δέντρων ",
-          "cpvs": [
-            {
-              "key": "77340000-5",
-              "value": "Κλάδεμα δένδρων και θάμνων"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Μηχανική καταπολέμηση ζιζανίων -Μηχανική καταπολέμηση ζιζανίων ",
-          "cpvs": [
-            {
-              "key": "77312100-1",
-              "value": "Υπηρεσίες εξόντωσης ζιζανίων"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 200,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Καταπολέμηση πιτυοκάμπης-Καταπολέμηση πιτυοκάμπης",
-          "cpvs": [
-            {
-              "key": "90922000-6",
-              "value": "Υπηρεσίες καταπολέμησης επιβλαβών εντόμων"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Συντήρηση φυτεύσεων πρώην ΧΑΔΑ Μαλίων-Συντήρηση φυτεύσεων πρώην ΧΑΔΑ Μαλίων",
-          "cpvs": [
-            {
-              "key": "77310000-6",
-              "value": "Φύτευση και συντήρηση χώρων πρασίνου"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Συντήρηση χώρων πρασίνου Σχολικών Συγκροτημάτων παιδικών σταθμών, Α/θμιας και Β/θμιας  εκπαίδευσης ΔΕ Επισκοπής -Συντήρηση χώρων πρασίνου Σχολικών Συγκροτημάτων παιδικών σταθμών, Α/θμιας και Β/θμιας  εκπαίδευσης ΔΕ Επισκοπής ",
-          "cpvs": [
-            {
-              "key": "77310000-6",
-              "value": "Φύτευση και συντήρηση χώρων πρασίνου"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "77340000",
-        "77312100",
-        "90922000",
-        "77310000"
-      ],
-      "cpv_divisions": [
-        "77",
-        "90"
-      ],
-      "all_domains": [
-        "Agriculture/Forestry/Landscaping Services",
-        "Environmental, Cleaning & Waste Services"
-      ],
-      "primary_domain": "Environmental, Cleaning & Waste Services"
-    },
-    {
-      "title": "Κηποτεχνική συντήρηση σε πάρκα και πλατείες του Δήμου μας",
-      "referenceNumber": "26REQ018454763",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T09:46:36.296",
-      "procurementDeliveryDate": "2026-12-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "6621",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090001251",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "6132",
-        "value": "ΔΗΜΟΣ ΚΑΛΛΙΘΕΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL304",
-        "value": "Νότιος Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.Ε84801.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "78919",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ"
-        },
-        "signers": {
-          "key": "100084770",
-          "value": "ΒΑΣΙΛΕΙΟΣ ΠΑΠΑΧΡΗΣΤΟΣ - Αντιδήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 37200.0,
-      "totalCostWithoutVAT": 30000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 30000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Κηποτεχνική συντήρηση σε πάρκα και πλατείες του Δήμου μας",
-          "cpvs": [
-            {
-              "key": "77312000-0",
-              "value": "Υπηρεσίες εκκαθάρισης από αγριόχορτα"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "77312000"
       ],
       "cpv_divisions": [
         "77"

@@ -3,11 +3,11 @@
   "count": 1,
   "items": [
     {
-      "title": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ Β10/2026",
-      "referenceNumber": "26PAY018457563",
+      "title": "ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ 42",
+      "referenceNumber": "26PAY018471069",
       "auctionReferenceNumber": null,
-      "signedDate": "2026-02-05T00:00:00",
-      "submissionDate": "2026-02-10T12:30:31.888",
+      "signedDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T11:10:43.282",
       "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
@@ -18,19 +18,19 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007.F00430.0001",
-      "paymentCommitmentCode": "228",
-      "organizationVatNumber": "090030037",
-      "greekOrganizationVatNumber": true,
+      "aaht": "1015.Ε00836.0001",
+      "paymentCommitmentCode": "ΕΒ8Σ4690Ω5-97Ο",
+      "organizationVatNumber": "998986625",
+      "greekOrganizationVatNumber": false,
       "commitmentNo": null,
       "contractValue": null,
       "organization": {
-        "key": "50369",
-        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ Δ.Ε.Υ.Α. ΗΡΑΚΛΕΙΟΥ"
+        "key": "99221990",
+        "value": "ΠΕΡ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ 'ΣΙΣΜΑΝΟΓΛΕΙΟ'"
       },
       "nutsCode": {
-        "key": "EL431",
-        "value": "Ηράκλειο"
+        "key": "EL301",
+        "value": "Βόρειος Τομέας Αθηνών"
       },
       "centralizedMarkets": [
         {
@@ -42,25 +42,25 @@
       ],
       "legalContext": null,
       "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
+        "key": "9",
+        "value": "Υπηρεσίες"
       },
       "classificationOfPublicLawOrganization": {
         "key": "4",
         "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
+        "key": "9",
+        "value": "ΝΠΔΔ"
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "83141",
-          "value": "ΓΕΝΙΚΟΣ ΔΙΕΥΘΥΝΤΗΣ Δ.Ε.Υ.Α.Η."
+          "key": "77381",
+          "value": "ΔΙΟΙΚΗΤΗ"
         },
         "signers": {
-          "key": "100078063",
-          "value": "ΕΜΜΑΝΟΥΗΛ ΚΟΣΜΑΔΑΚΗΣ - Γενικός Διευθυντής"
+          "key": "100097305",
+          "value": "ΖΩΗ ΡΑΚΟΠΟΥΛΟΥ - Διοικητής"
         }
       },
       "fundingDetails": {
@@ -68,27 +68,27 @@
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": "62.02.0003",
+        "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
+        "regularBudgetFundedProgramRef": "24202040000001"
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 542778.9,
-      "totalCostWithoutVAT": 480335.31,
+      "totalCostWithVAT": 2348.8,
+      "totalCostWithoutVAT": 2348.8,
       "objectDetails": [
         {
-          "quantity": 2500000,
+          "quantity": 1,
           "type": {
-            "key": "MTQ",
-            "value": "m 3"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 480335.31,
-          "vat": "13",
+          "costWithoutVAT": 2348.8,
+          "vat": "0",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΑΠΟΦΑΣΗ ΕΓΚΡΙΣΗΣ ΣΧΕΔΙΟΥ ΣΥΜΒΑΣΗΣ ΜΕΤΑΞΥ Δ.Ε.Υ.Α.Η. ΚΑΙ Ο.Α.Κ. ",
+          "shortDescription": "ΥΔΡΕΥΣΗ",
           "cpvs": [
             {
               "key": "41110000-3",
@@ -98,15 +98,15 @@
           "addressForDelivery": null,
           "streetNumber": null,
           "postalCode": null,
-          "city": "ΗΡΑΚΛΕΙΟ",
+          "city": "ΜΑΡΟΥΣΙ",
           "cityOfConstruction": null,
           "countryOfDelivery": {
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "997321341",
+          "vatNo": "094079101",
           "greekVatNo": false,
-          "name": "ΟΡΓΑΝΙΣΜΟΣ ΑΜΝΑΠΤΥΞΗΣ ΚΡΗΤΗΣ Α.Ε. ",
+          "name": "Ε.ΥΔ.Α.Π. Α.Ε.",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -120,8 +120,9 @@
       "mixedContract": false,
       "requestRefNo": null,
       "auctionRefNo": null,
-      "contractRefNo": "25SYMV017102812",
+      "contractRefNo": null,
       "cpv_codes_extracted": [
+        "99221990",
         "41110000"
       ],
       "cpv_divisions": [

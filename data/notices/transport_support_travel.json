@@ -1,14 +1,14 @@
 {
   "domain": "Transport Support & Travel",
-  "count": 5,
+  "count": 2,
   "items": [
     {
-      "title": "ΠΡΟΣΚΛΗΣΗ ΓΙΑ ΠΑΡΟΧΗ ΤΑΞΙΔΙΩΤΙΚΩΝ ΥΠΗΡΕΣΙΩΝ",
-      "referenceNumber": "26PROC018460288",
-      "signedDate": "2026-02-09T00:00:00",
+      "title": "ΔΙΑΚΥΡΗΞΗ ΗΛ/ΚΟΥ ΑΝΟΙΚΤΟΥ ΔΙΑΓΩΝΙΣΜΟΥ ΚΑΤΩ ΟΡΙΩΝ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ",
+      "referenceNumber": "26PROC018473458",
+      "signedDate": "2026-02-12T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-10T08:00:00",
-      "submissionDate": "2026-02-10T18:21:08.159",
+      "finalSubmissionDate": "2026-02-27T14:00:00",
+      "submissionDate": "2026-02-12T13:18:47.842",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -20,20 +20,20 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1020.F01369.0001",
-      "biddingWebsite": null,
+      "aaht": "1020.E00670.0001",
+      "biddingWebsite": "https://nepps.eprocurement.gov.gr/",
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
       "budget": null,
       "commitmentNo": null,
       "relatedNoticeADAM": null,
-      "numberOfSections": 1,
+      "numberOfSections": 2,
       "nutsCode": {
-        "key": "EL301",
-        "value": "Βόρειος Τομέας Αθηνών"
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
       },
-      "nutsCity": "ΜΑΡΟΥΣΙ",
-      "nutsPostalCode": "15122",
+      "nutsCity": "ΑΘΗΝΑ",
+      "nutsPostalCode": "11855",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -52,52 +52,56 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100097624",
-          "value": "ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
+          "key": "73234",
+          "value": "ΤΜΗΜΑ ΓΡΑΜΜΑΤΕΙΑΣ ΛΟΓΑΡΙΑΣΜΟΥ ΕΡΕΥΝΑΣ"
         },
         "signers": {
-          "key": "100097625",
-          "value": "ΟΛΓΑ-ΑΝΑΣΤΑΣΙΑ ΒΑΣΔΕΚΗ - Πρόεδρος"
+          "key": "100078390",
+          "value": "ΘΩΜΑΣ ΜΠΑΡΤΖΑΝΑΣ - Πρόεδρος"
         }
       },
       "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
+        "publicFundingRef": "Ε9867",
+        "publicFundingRefNum": "2025ΣΕ98670012",
+        "publicFundingRefOps": "6038983",
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "0856.0002"
+        "regularBudgetFundedProgramRef": null
       },
-      "systemicNumbers": [],
+      "systemicNumbers": [
+        {
+          "systemicNumber": "405030"
+        }
+      ],
       "approvedRequests": [
         {
-          "code": "26REQ018460281"
+          "code": "26REQ018467742"
         }
       ],
       "contractingAuthorities": [
         {
           "contractingAuthority": {
-            "key": "10",
-            "value": "ΝΠΙΔ"
+            "key": "9",
+            "value": "ΝΠΔΔ"
           }
         }
       ],
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL301",
-            "value": "Βόρειος Τομέας Αθηνών"
+            "key": "EL4",
+            "value": "NΗΣΙΑ ΑΙΓΑΙΟΥ, KΡΗΤΗ"
           }
         }
       ],
       "organization": {
-        "key": "100097608",
-        "value": "ΕΘΝΙΚΗ ΟΡΓΑΝΩΤΙΚΗ ΕΠΙΤΡΟΠΗ ΑΘΛΗΤΙΚΗΣ, ΟΛΥΜΠΙΑΚΗΣ, ΠΑΡΑΟΛΥΜΠΙΑΚΗΣ ΠΑΙΔΕΙΑΣ, ΙΣΤΟΡΙΑΣ ΚΑΙ ΑΞΙΩΝ ΔΗΜΗΤΡΙΟΣ ΒΙΚΕΛΑΣ"
+        "key": "99202112",
+        "value": "ΓΕΩΠΟΝΙΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
       },
       "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
+        "key": "1",
+        "value": "Ανοιχτή διαδικασία"
       },
       "contractType": {
         "key": "9",
@@ -107,43 +111,46 @@
       "centralizedMarkets": [
         {
           "centralizedMarket": {
-            "key": "1",
-            "value": "Συμφωνία-πλαίσιο"
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
           }
         }
       ],
       "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+        "key": "4",
+        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
       },
       "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
-      },
-      "digitalPlatform": null,
-      "criteriaCode": {
         "key": "1",
-        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
+        "value": "Ηλεκτρονική Διαδικασία"
+      },
+      "digitalPlatform": {
+        "key": "3",
+        "value": "ΕΣΗΔΗΣ ΠΥ"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
       },
       "classificationOfPublicLawOrganization": {
         "key": "4",
         "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
+        "key": "3",
+        "value": "Διακήρυξη"
       },
       "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
+        "key": "11",
+        "value": "Εκπαίδευση"
       },
-      "contractDuration": 10,
+      "contractDuration": 40,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 30000.0,
-      "totalCostWithoutVAT": 30000.0,
+      "totalCostWithVAT": 93000.0,
+      "totalCostWithoutVAT": 75000.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -152,16 +159,42 @@
             "value": "Υπηρεσία"
           },
           "costWithoutVAT": 30000,
-          "vat": "0",
+          "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Πρόσκληση για την παροχή υπηρεσιών ταξιδιωτικών υπηρεσιών",
+          "shortDescription": "Ναύλωση ενός (1) επαγγελματικού αλιευτικού σκάφους <12 μέτρων",
           "cpvs": [
             {
-              "key": "63515000-2",
-              "value": "Ταξιδιωτικές υπηρεσίες"
+              "key": "63726400-8",
+              "value": "Υπηρεσίες ναύλωσης σκαφών"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 45000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ναύλωση ενός (1) επαγγελματικού αλιευτικού σκάφους >12 μέτρων",
+          "cpvs": [
+            {
+              "key": "63726400-8",
+              "value": "Υπηρεσίες ναύλωσης σκαφών"
             }
           ],
           "greenContracts": {
@@ -174,12 +207,12 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "offersValidTime": 1,
+      "offersValidTime": 12,
       "offersValidTimeUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
+        "key": "3",
+        "value": "Μήνες"
       },
-      "maxNumberOfContractors": 1,
+      "maxNumberOfContractors": null,
       "optionRight": {
         "key": "2",
         "value": "Όχι"
@@ -189,7 +222,8 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "63515000"
+        "99202112",
+        "63726400"
       ],
       "cpv_divisions": [
         "63"
@@ -200,12 +234,12 @@
       "primary_domain": "Transport Support & Travel"
     },
     {
-      "title": "ΠΡΟΣΚΛΗΣΗ εκδήλωσης ενδιαφέροντος υποβολής οικονομικής προσφοράς για μετακίνηση σχολικών ομάδων",
-      "referenceNumber": "26PROC018459081",
-      "signedDate": "2026-02-10T00:00:00",
+      "title": "ΠΡΟΣΚΛΗΣΗ ΥΠΟΒΟΛΗΣ ΠΡΟΣΦΟΡΑΣ ΣΤΗΝ ΕΤΑΙΡΕΙΑ TICKET PLUS ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
+      "referenceNumber": "26PROC018471583",
+      "signedDate": "2026-02-12T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-13T11:00:00",
-      "submissionDate": "2026-02-10T14:06:25.438",
+      "finalSubmissionDate": "2026-02-17T00:00:00",
+      "submissionDate": "2026-02-12T11:36:55.744",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -217,7 +251,7 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1020.2069900800.0001",
+      "aaht": "1007.F00178.0001",
       "biddingWebsite": null,
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
@@ -226,11 +260,11 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL622",
-        "value": "Κέρκυρα"
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
       },
-      "nutsCity": "ΚΕΡΚΥΡΑ",
-      "nutsPostalCode": "49150",
+      "nutsCity": "ΑΘΗΝΑ ",
+      "nutsPostalCode": "11854",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -244,17 +278,17 @@
         "value": "Όχι"
       },
       "centralGovernmentAuthority": {
-        "key": "1",
-        "value": "Ναι"
+        "key": "2",
+        "value": "Όχι"
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "71824",
-          "value": "ΠΕΡΙΦΕΡΕΙΑΚΗ ΔΙΕΥΘΥΝΣΗ Π/ΘΜΙΑΣ & Δ/ΘΜΙΑΣ ΕΚΠ/ΣΗΣ ΙΟΝΙΩΝ ΝΗΣΩΝ"
+          "key": "83233",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
         },
         "signers": {
-          "key": "100046273",
-          "value": "ΠΕΤΡΟΣ ΑΓΓΕΛΟΠΟΥΛΟΣ - Διευθυντής"
+          "key": "100086143",
+          "value": "ΛΑΖΑΡΟΣ ΚΑΡΑΟΥΛΗΣ - Διευθύνων Σύμβουλος"
         }
       },
       "fundingDetails": {
@@ -262,35 +296,31 @@
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": null,
+        "selfFundProgramRef": "273515/03-11-2025",
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2420908001"
+        "regularBudgetFundedProgramRef": null
       },
       "systemicNumbers": [],
-      "approvedRequests": [
-        {
-          "code": "26REQ018326792"
-        }
-      ],
+      "approvedRequests": [],
       "contractingAuthorities": [
         {
           "contractingAuthority": {
-            "key": "12",
-            "value": "Κεντρική Διοίκηση"
+            "key": "10",
+            "value": "ΝΠΙΔ"
           }
         }
       ],
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL622",
-            "value": "Κέρκυρα"
+            "key": "EL303",
+            "value": "Κεντρικός Τομέας Αθηνών"
           }
         }
       ],
       "organization": {
-        "key": "100081880",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΠΑΙΔΕΙΑΣ, ΘΡΗΣΚΕΥΜΑΤΩΝ ΚΑΙ ΑΘΛΗΤΙΣΜΟΥ"
+        "key": "50471",
+        "value": "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ ΑΝΩΝΥΜΗ ΑΝΑΠΤΥΞΙΑΚΗ ΕΤΑΙΡΕΙΑ ΜΗΧΑΝΟΓΡΑΦΗΣΗΣ & ΕΠΙΧΕΙΡΗΣΙΑΚΩΝ ΜΟΝΑΔΩΝ ΟΤΑ"
       },
       "typeOfProcedure": {
         "key": "6",
@@ -323,663 +353,6 @@
         "value": "Βάσει τιμής"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
-      },
-      "contractingAuthorityActivity": {
-        "key": "11",
-        "value": "Εκπαίδευση"
-      },
-      "contractDuration": 1,
-      "contractDurationUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "totalCostWithVAT": 4060.09,
-      "totalCostWithoutVAT": 3593.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 3593,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "δαπάνες για μετακινήσεις (μεταφοράς, διαμονής, διατροφής) των μαθητών και των συνοδών αυτών - εξόδων διεξαγωγής των Σχολικών Αγώνων ",
-          "cpvs": [
-            {
-              "key": "63515000-2",
-              "value": "Ταξιδιωτικές υπηρεσίες"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 1,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "63515000"
-      ],
-      "cpv_divisions": [
-        "63"
-      ],
-      "all_domains": [
-        "Transport Support & Travel"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "ΔΙΑΚΗΡΥΞΗ ΑΝΟΙΚΤΟΥ ΗΛΕΚΤΡΟΝΙΚΟΥ ΔΙΑΓΩΝΙΣΜΟΥ ΜΕΣΩ ΕΣΗΔΗΣ ΓΙΑ ΤΗN ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΔΙΑΧΕΙΡΙΣΗΣ ΚΑΙ ΑΠΟ",
-      "referenceNumber": "26PROC018457615",
-      "signedDate": "2026-02-10T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-03-18T15:00:00",
-      "submissionDate": "2026-02-10T12:33:25.653",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1022.Ε00764.0001",
-      "biddingWebsite": "https://nepps.eprocurement.gov.gr/",
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 2,
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "10564",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100063642",
-          "value": "ΤΜΗΜΑ ΠΡΟΜΗΘΕΙΩΝ"
-        },
-        "signers": {
-          "key": "100069307",
-          "value": "ΝΙΚΟΛΕΤΤΑ ΔΙΒΑΡΗ ΒΑΛΑΚΟΥ - Αντιπρόεδρος Δ.Σ."
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "24209890005101"
-      },
-      "systemicNumbers": [
-        {
-          "systemicNumber": "398099/2026"
-        }
-      ],
-      "approvedRequests": [
-        {
-          "code": "26REQ018418305"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL303",
-            "value": "Κεντρικός Τομέας Αθηνών"
-          }
-        }
-      ],
-      "organization": {
-        "key": "100067816",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΚΑΙ ΑΝΑΠΤΥΞΗΣ ΠΟΛΙΤΙΣΤΙΚΩΝ ΠΟΡΩΝ"
-      },
-      "typeOfProcedure": {
-        "key": "1",
-        "value": "Ανοιχτή διαδικασία"
-      },
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "4",
-        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "1",
-        "value": "Ηλεκτρονική Διαδικασία"
-      },
-      "digitalPlatform": {
-        "key": "3",
-        "value": "ΕΣΗΔΗΣ ΠΥ"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "noticeType": {
-        "key": "3",
-        "value": "Διακήρυξη"
-      },
-      "contractingAuthorityActivity": {
-        "key": "10",
-        "value": "Πολιτισμός και θρησκεία"
-      },
-      "contractDuration": 24,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "totalCostWithVAT": 2161320.0,
-      "totalCostWithoutVAT": 1743000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 585000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΔΙΑΚΗΡΥΞΗ ΑΝΟΙΚΤΟΥ ΗΛΕΚΤΡΟΝΙΚΟΥ ΔΙΑΓΩΝΙΣΜΟΥ ΜΕΣΩ ΕΣΗΔΗΣ ΓΙΑ ΤΗN ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΔΙΑΧΕΙΡΙΣΗΣ ΚΑΙ ΑΠΟΘΗΚΕΥΣΗΣ ΕΜΠΟΡΕΥΜΑΤΩΝ ΣΕ ΤΡΙΤΟ ΠΑΡΟΧΟ (3PL).",
-          "cpvs": [
-            {
-              "key": "63100000-0",
-              "value": "Υπηρεσίες διακίνησης και αποθήκευσης εμπορευμάτων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1158000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΔΙΑΚΗΡΥΞΗ ΑΝΟΙΚΤΟΥ ΗΛΕΚΤΡΟΝΙΚΟΥ ΔΙΑΓΩΝΙΣΜΟΥ ΜΕΣΩ ΕΣΗΔΗΣ ΓΙΑ ΤΗN ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΔΙΑΧΕΙΡΙΣΗΣ ΚΑΙ ΑΠΟΘΗΚΕΥΣΗΣ ΕΜΠΟΡΕΥΜΑΤΩΝ ΣΤΙΣ ΑΠΟΘΗΚΕΣ ΤΟΥ Ο.Δ.Α.Π.",
-          "cpvs": [
-            {
-              "key": "63100000-0",
-              "value": "Υπηρεσίες διακίνησης και αποθήκευσης εμπορευμάτων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 365,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "optionRightDescription": "έως δώδεκα (12) μήνες",
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "63100000"
-      ],
-      "cpv_divisions": [
-        "63"
-      ],
-      "all_domains": [
-        "Transport Support & Travel"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "ΔΙΑΚΗΡΥΞΗ ΑΝΟΙΚΤΟΥ ΗΛΕΚΤΡΟΝΙΚΟΥ ΔΙΑΓΩΝΙΣΜΟΥ ΜΕΣΩ ΕΣΗΔΗΣ ΓΙΑ ΤΗN ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΔΙΑΧΕΙΡΙΣΗΣ ΚΑΙ ΑΠΟ",
-      "referenceNumber": "26PROC018457305",
-      "signedDate": "2026-02-10T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-03-18T15:00:00",
-      "submissionDate": "2026-02-10T12:16:45.359",
-      "lastUpdateDate": "2026-02-10T12:24:21.927",
-      "cancelled": true,
-      "cancellationDate": "2026-02-10T12:24:21.927",
-      "cancellationType": "Ακύρωση λόγω λανθασμένης καταχώρησης",
-      "cancellationReason": "Ακύρωση λόγω λάθους αρχείου",
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1022.Ε00764.0001",
-      "biddingWebsite": "https://nepps.eprocurement.gov.gr/",
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 2,
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "10564",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100063642",
-          "value": "ΤΜΗΜΑ ΠΡΟΜΗΘΕΙΩΝ"
-        },
-        "signers": {
-          "key": "100069307",
-          "value": "ΝΙΚΟΛΕΤΤΑ ΔΙΒΑΡΗ ΒΑΛΑΚΟΥ - Αντιπρόεδρος Δ.Σ."
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "24209890005101"
-      },
-      "systemicNumbers": [
-        {
-          "systemicNumber": "398099/2026"
-        }
-      ],
-      "approvedRequests": [
-        {
-          "code": "26REQ018418305"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL303",
-            "value": "Κεντρικός Τομέας Αθηνών"
-          }
-        }
-      ],
-      "organization": {
-        "key": "100067816",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΚΑΙ ΑΝΑΠΤΥΞΗΣ ΠΟΛΙΤΙΣΤΙΚΩΝ ΠΟΡΩΝ"
-      },
-      "typeOfProcedure": {
-        "key": "1",
-        "value": "Ανοιχτή διαδικασία"
-      },
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "4",
-        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "1",
-        "value": "Ηλεκτρονική Διαδικασία"
-      },
-      "digitalPlatform": {
-        "key": "3",
-        "value": "ΕΣΗΔΗΣ ΠΥ"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "noticeType": {
-        "key": "3",
-        "value": "Διακήρυξη"
-      },
-      "contractingAuthorityActivity": {
-        "key": "10",
-        "value": "Πολιτισμός και θρησκεία"
-      },
-      "contractDuration": 24,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "totalCostWithVAT": 2161320.0,
-      "totalCostWithoutVAT": 1743000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 585000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΔΙΑΚΗΡΥΞΗ ΑΝΟΙΚΤΟΥ ΗΛΕΚΤΡΟΝΙΚΟΥ ΔΙΑΓΩΝΙΣΜΟΥ ΜΕΣΩ ΕΣΗΔΗΣ ΓΙΑ ΤΗN ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΔΙΑΧΕΙΡΙΣΗΣ ΚΑΙ ΑΠΟΘΗΚΕΥΣΗΣ ΕΜΠΟΡΕΥΜΑΤΩΝ ΣΕ ΤΡΙΤΟ ΠΑΡΟΧΟ (3PL).",
-          "cpvs": [
-            {
-              "key": "63100000-0",
-              "value": "Υπηρεσίες διακίνησης και αποθήκευσης εμπορευμάτων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1158000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΔΙΑΚΗΡΥΞΗ ΑΝΟΙΚΤΟΥ ΗΛΕΚΤΡΟΝΙΚΟΥ ΔΙΑΓΩΝΙΣΜΟΥ ΜΕΣΩ ΕΣΗΔΗΣ ΓΙΑ ΤΗN ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΔΙΑΧΕΙΡΙΣΗΣ ΚΑΙ ΑΠΟΘΗΚΕΥΣΗΣ ΕΜΠΟΡΕΥΜΑΤΩΝ ΣΤΙΣ ΑΠΟΘΗΚΕΣ ΤΟΥ Ο.Δ.Α.Π.",
-          "cpvs": [
-            {
-              "key": "63100000-0",
-              "value": "Υπηρεσίες διακίνησης και αποθήκευσης εμπορευμάτων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 365,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "optionRightDescription": "έως δώδεκα (12) μήνες",
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "63100000"
-      ],
-      "cpv_divisions": [
-        "63"
-      ],
-      "all_domains": [
-        "Transport Support & Travel"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "Χρήση φορτηγών οχημάτων για την μεταφορά αποσκευών κρουαζιέρας, από 18/03 ως και 01/05/2026",
-      "referenceNumber": "26PROC018456257",
-      "signedDate": "2026-02-10T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-17T13:00:00",
-      "submissionDate": "2026-02-10T11:19:47.146",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1041.E00489.0001",
-      "biddingWebsite": null,
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 1,
-      "nutsCode": {
-        "key": "EL305",
-        "value": "Ανατολική Αττική"
-      },
-      "nutsCity": "ΛΑΥΡΙΟ",
-      "nutsPostalCode": "19500",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100039358",
-          "value": "ΔΙΕΥΘΥΝΩΝ ΣΥΜΒΟΥΛΟΣ"
-        },
-        "signers": {
-          "key": "100053466",
-          "value": "ΓΕΩΡΓΙΟΣ ΒΑΚΟΝΔΙΟΣ - Αναπληρωτής Πρόεδρος"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "6197"
-      },
-      "systemicNumbers": [],
-      "approvedRequests": [
-        {
-          "code": "26REQ018451763"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "10",
-            "value": "ΝΠΙΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL305",
-            "value": "Ανατολική Αττική"
-          }
-        }
-      ],
-      "organization": {
-        "key": "99221099",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΛΙΜΕΝΟΣ  ΛΑΥΡΙΟΥ Α.Ε"
-      },
-      "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "7",
-        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
-      },
-      "digitalPlatform": null,
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
         "key": "4",
         "value": "Εκτός Γενικής Κυβέρνησης"
       },
@@ -988,16 +361,16 @@
         "value": "Πρόσκληση"
       },
       "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 8,
+      "contractDuration": 2,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 12722.4,
-      "totalCostWithoutVAT": 10260.0,
+      "totalCostWithVAT": 26040.0,
+      "totalCostWithoutVAT": 21000.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -1005,17 +378,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 10260,
+          "costWithoutVAT": 21000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Παροχή φορτηγών οχημάτων, για τη μεταφορά αποσκευών των επιβατών κρουαζιέρας, από τα πλοία προς το check-in και την επιστροφή των αποσκευών στα πλοία, από 18/03/2026 έως και 01/05/2026",
+          "shortDescription": "Παροχή υπηρεσιών υποστήριξης καθημερινής λειτουργίας του υπόγειου σταθμού αυτοκινήτων της Πλατείας Κοτζιά",
           "cpvs": [
             {
-              "key": "63112100-8",
-              "value": "Υπηρεσίες διακίνησης αποσκευών επιβατών"
+              "key": "63712400-7",
+              "value": "Υπηρεσίες χώρων στάθμευσης οχημάτων"
             }
           ],
           "greenContracts": {
@@ -1043,8 +416,7 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "99221099",
-        "63112100"
+        "63712400"
       ],
       "cpv_divisions": [
         "63"

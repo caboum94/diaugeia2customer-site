@@ -1,14 +1,14 @@
 {
   "domain": "Construction & Quarrying Machinery",
-  "count": 2,
+  "count": 1,
   "items": [
     {
-      "title": "ΠΡΟΣΚΛΗΣΗ ΥΠΟΒΟΛΗΣ ΠΡΟΣΦΟΡΩΝ ΓΙΑ ΥΠΟΘΑΛΑΣΣΙΟ DRONE",
-      "referenceNumber": "26PROC018457300",
-      "signedDate": "2026-02-03T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-16T11:00:00",
-      "submissionDate": "2026-02-10T12:16:03.958",
+      "title": "ΑΝΑΚΑΤΑΣΚΕΥΗ ΠΑΙΔΙΚΗΣ ΧΑΡΑΣ ΛΟΦΟΥ ΦΙΝΟΠΟΥΛΟΥ",
+      "referenceNumber": "26PROC018469121",
+      "signedDate": "2026-02-12T00:00:00",
+      "publishedDate": "2026-02-11T00:00:00",
+      "finalSubmissionDate": "2026-03-19T00:00:00",
+      "submissionDate": "2026-02-12T09:25:28.551",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -20,8 +20,8 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007.907.0001",
-      "biddingWebsite": null,
+      "aaht": "1007.F01187.0001",
+      "biddingWebsite": "https://nepps.eprocurement.gov.gr/",
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
       "budget": null,
@@ -29,11 +29,11 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL63",
-        "value": "Δυτική Ελλάδα"
+        "key": "EL3",
+        "value": "ATTIKΗ"
       },
-      "nutsCity": "ΠΑΤΡΑ",
-      "nutsPostalCode": "26110",
+      "nutsCity": "ΚΑΛΛΙΘΕΑ",
+      "nutsPostalCode": "17672",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -52,52 +52,56 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "78067",
-          "value": "ΓΡΑΦΕΙΟ ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗ ΑΧΑΙΑΣ"
+          "key": "100064536",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
         },
         "signers": {
-          "key": "100050108",
-          "value": "ΦΩΚΙΩΝΑΣ ΖΑΪΜΗΣ - Αναπληρωτής Θεματικός Αντιπεριφερειάρχης"
+          "key": "100091035",
+          "value": "ΓΕΩΡΓΙΟΣ ΚΟΡΜΑΣ - Διευθύνων Σύμβουλος"
         }
       },
       "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
+        "publicFundingRef": "ΝΠ385",
+        "publicFundingRefNum": "2025ΝΠ38500006",
+        "publicFundingRefOps": "5226637",
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "01.0071/2420989"
+        "regularBudgetFundedProgramRef": null
       },
-      "systemicNumbers": [],
+      "systemicNumbers": [
+        {
+          "systemicNumber": "401064"
+        }
+      ],
       "approvedRequests": [
         {
-          "code": "26REQ018457181"
+          "code": "26REQ018458734"
         }
       ],
       "contractingAuthorities": [
         {
           "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
+            "key": "10",
+            "value": "ΝΠΙΔ"
           }
         }
       ],
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL63",
-            "value": "Δυτική Ελλάδα"
+            "key": "EL3",
+            "value": "ATTIKΗ"
           }
         }
       ],
       "organization": {
-        "key": "5004",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
+        "key": "100064528",
+        "value": "ΝΕΑ ΜΗΤΡΟΠΟΛΙΤΙΚΗ ΑΤΤΙΚΗ Α Ε   ΑΝΑΠΤΥΞΙΑΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΤΟΠΙΚΗΣ ΑΥΤΟΔΙΟΙΚΗΣΗΣ"
       },
       "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
+        "key": "1",
+        "value": "Ανοιχτή διαδικασία"
       },
       "contractType": {
         "key": "13",
@@ -113,14 +117,17 @@
         }
       ],
       "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+        "key": "4",
+        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
       },
       "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
+        "key": "1",
+        "value": "Ηλεκτρονική Διαδικασία"
       },
-      "digitalPlatform": null,
+      "digitalPlatform": {
+        "key": "3",
+        "value": "ΕΣΗΔΗΣ ΠΥ"
+      },
       "criteriaCode": {
         "key": "2",
         "value": "Βάσει τιμής"
@@ -130,217 +137,20 @@
         "value": "ΟΤΑ"
       },
       "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
+        "key": "2",
+        "value": "Προκήρυξη"
       },
       "contractingAuthorityActivity": {
         "key": "1",
         "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 10,
+      "contractDuration": 12,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 15000.01,
-      "totalCostWithoutVAT": 12096.78,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 12096.78,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΟΒΡΥΧΙΟ DRONE",
-          "cpvs": [
-            {
-              "key": "43135000-8",
-              "value": "Υποθαλάσσιος εξοπλισμός"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 5,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "43135000"
-      ],
-      "cpv_divisions": [
-        "43"
-      ],
-      "all_domains": [
-        "Construction & Quarrying Machinery"
-      ],
-      "primary_domain": "Construction & Quarrying Machinery"
-    },
-    {
-      "title": "ΠΡΟΣΚΛΗΣΗ ΥΠΟΒΟΛΗΣ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΑΝΤΑΛΛΑΚΤΙΚΩΝ ΓΙΑ ΜΟΝΑΔΕΣ ΕΠΕΞΕΡΓΑΣΙΑΣ ΝΕΡΟΥ",
-      "referenceNumber": "26PROC018457069",
-      "signedDate": "2026-02-10T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-16T11:00:00",
-      "submissionDate": "2026-02-10T12:05:21.711",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1015.Ε00230.0001",
-      "biddingWebsite": null,
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 1,
-      "nutsCode": {
-        "key": "EL622",
-        "value": "Κέρκυρα"
-      },
-      "nutsCity": "ΚΕΡΚΥΡΑ",
-      "nutsPostalCode": "49100",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "73783",
-          "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΚΕΡΚΥΡΑΣ"
-        },
-        "signers": {
-          "key": "100079068",
-          "value": "ΑΔΑΜΑΝΤΙΑ ΕΓΓΛΕΖΟΠΟΥΛΟΥ - Διοικητής"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "1429/24101060001001"
-      },
-      "systemicNumbers": [],
-      "approvedRequests": [
-        {
-          "code": "26REQ018456992"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL622",
-            "value": "Κέρκυρα"
-          }
-        }
-      ],
-      "organization": {
-        "key": "99221917",
-        "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΚΕΡΚΥΡΑΣ"
-      },
-      "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
-      },
-      "digitalPlatform": null,
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
-      },
-      "contractingAuthorityActivity": {
-        "key": "6",
-        "value": "Υγεία"
-      },
-      "contractDuration": 2,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "totalCostWithVAT": 14288.57,
-      "totalCostWithoutVAT": 11523.04,
+      "totalCostWithVAT": 415395.04,
+      "totalCostWithoutVAT": 334996.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -348,21 +158,21 @@
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 11523.04,
+          "costWithoutVAT": 334996,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΡΟΣΚΛΗΣΗ ΥΠΟΒΟΛΗΣ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΑΝΤΑΛΛΑΚΤΙΚΩΝ ΓΙΑ ΜΟΝΑΔΕΣ ΕΠΕΞΕΡΓΑΣΙΑΣ ΝΕΡΟΥ",
+          "shortDescription": "Αντικείμενο της σύμβασης  είναι η ανακατασκευή της υπάρχουσας παιδικής χαράς του Λόφου Φινοπούλου (Λόφος Εθνικής Αντίστασης), στο Δήμο Αθηναίων στο πλαίσιο της ανάδειξης, της αναβάθμισης και του εκσυγχρονισμού του πάρκου και βρίσκεται στο ανατολικό τμήμα του Πεδίου του Άρεως. ",
           "cpvs": [
             {
-              "key": "42122000-0",
-              "value": "Αντλίες"
+              "key": "44112200-0",
+              "value": "Επενδύσεις δαπέδων"
             },
             {
-              "key": "43328100-9",
-              "value": "Εξοπλισμός υδραυλικών εγκαταστάσεων"
+              "key": "43325000-7",
+              "value": "Εξοπλισμός πάρκων και παιδικής χαράς"
             }
           ],
           "greenContracts": {
@@ -375,7 +185,7 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "offersValidTime": 4,
+      "offersValidTime": 12,
       "offersValidTimeUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -390,19 +200,18 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "99221917",
-        "42122000",
-        "43328100"
+        "44112200",
+        "43325000"
       ],
       "cpv_divisions": [
-        "42",
+        "44",
         "43"
       ],
       "all_domains": [
-        "Industrial Machinery",
+        "Construction Materials & Structures",
         "Construction & Quarrying Machinery"
       ],
-      "primary_domain": "Construction & Quarrying Machinery"
+      "primary_domain": "Construction Materials & Structures"
     }
   ]
 }

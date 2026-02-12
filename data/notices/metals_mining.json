@@ -1,14 +1,14 @@
 {
   "domain": "Metals & Mining",
-  "count": 1,
+  "count": 2,
   "items": [
     {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΧΑΛΙΚΙΟΥ 3Α",
-      "referenceNumber": "26PROC018456139",
-      "signedDate": "2026-02-10T00:00:00",
+      "title": "Προμήθεια & τοποθέτηση υαλοπινάκων για τις ανάγκες σχολικών συγκροτημάτων Α/μίας  Εκπαίδευσης του Δή",
+      "referenceNumber": "26PROC018471709",
+      "signedDate": "2026-02-11T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-17T00:00:00",
-      "submissionDate": "2026-02-10T11:13:51.306",
+      "finalSubmissionDate": "2026-02-18T10:00:00",
+      "submissionDate": "2026-02-12T11:44:04.197",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -20,7 +20,7 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007.Ε82304.0001",
+      "aaht": "1007.F00804.0001",
       "biddingWebsite": null,
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
@@ -29,11 +29,11 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL611",
-        "value": "Καρδίτσα, Τρίκαλα"
+        "key": "EL632",
+        "value": "Αχαΐα"
       },
-      "nutsCity": "ΜΟΥΖΑΚΙ",
-      "nutsPostalCode": "43060",
+      "nutsCity": "ΠΑΤΡΑ",
+      "nutsPostalCode": "26221",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -52,12 +52,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "77872",
-          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
+          "key": "100044392",
+          "value": "ΣΧΟΛΙΚΗ ΕΠΙΤΡΟΠΗ ΣΧΟΛΕΙΩΝ ΠΡΩΤΟΒΑΘΜΙΑΣ ΕΚΠΑΙΔΕΥΣΗΣ ΔΗΜΟΥ ΠΑΤΡΕΩΝ"
         },
         "signers": {
-          "key": "100095828",
-          "value": "ΧΡΗΣΤΟΣ ΚΟΥΤΡΟΜΑΝΟΣ - Αντιδήμαρχος"
+          "key": "100087553",
+          "value": "ΕΙΡΗΝΗ ΣΚΑΡΛΑΤΟΥ - Πρόεδρος Επιτροπής"
         }
       },
       "fundingDetails": {
@@ -65,14 +65,14 @@
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": null,
+        "selfFundProgramRef": "Α6/23-05-2025",
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "00.030.2410106001"
+        "regularBudgetFundedProgramRef": null
       },
       "systemicNumbers": [],
       "approvedRequests": [
         {
-          "code": "26REQ018449996"
+          "code": "26REQ018407984"
         }
       ],
       "contractingAuthorities": [
@@ -86,14 +86,14 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL611",
-            "value": "Καρδίτσα, Τρίκαλα"
+            "key": "EL632",
+            "value": "Αχαΐα"
           }
         }
       ],
       "organization": {
-        "key": "6198",
-        "value": "ΔΗΜΟΣ ΜΟΥΖΑΚΙΟΥ"
+        "key": "100044331",
+        "value": "ΣΧΟΛΙΚΗ ΕΠΙΤΡΟΠΗ ΣΧΟΛΕΙΩΝ ΠΡΩΤΟΒΑΘΜΙΑΣ ΕΚΠΑΙΔΕΥΣΗΣ ΔΗΜΟΥ ΠΑΤΡΕΩΝ"
       },
       "typeOfProcedure": {
         "key": "6",
@@ -134,34 +134,112 @@
         "value": "Πρόσκληση"
       },
       "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
+        "key": "5",
+        "value": "Οικονομικές και δημοσιονομικές υποθέσεις"
       },
-      "contractDuration": 10,
+      "contractDuration": 12,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 9996.26,
-      "totalCostWithoutVAT": 8061.5,
+      "totalCostWithVAT": 23560.0,
+      "totalCostWithoutVAT": 19000.0,
       "objectDetails": [
         {
-          "quantity": 1,
+          "quantity": 95,
           "type": {
-            "key": "TNE",
-            "value": "Τόνος"
+            "key": "MTK",
+            "value": "m 2"
           },
-          "costWithoutVAT": 8061.5,
+          "costWithoutVAT": 5890,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΧΑΛΙΚΙΟΥ 3Α",
+          "shortDescription": "Υαλοπίνακας τρίπλεξ πάχους 3+3mm  (προμήθεια και τοποθέτηση)",
           "cpvs": [
             {
-              "key": "14212200-2",
-              "value": "Αδρανή υλικά"
+              "key": "14820000-5",
+              "value": "Γυαλί"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 40,
+          "type": {
+            "key": "MTK",
+            "value": "m 2"
+          },
+          "costWithoutVAT": 3260,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υαλοπίνακας τρίπλεξ πάχους 5+5mm  (προμήθεια και τοποθέτηση)",
+          "cpvs": [
+            {
+              "key": "14820000-5",
+              "value": "Γυαλί"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 70,
+          "type": {
+            "key": "MTK",
+            "value": "m 2"
+          },
+          "costWithoutVAT": 6790,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υαλοπίνακας διπλός με συνδυασμό τρίπλεξ 3+3mm /αποστάτης/τρίπλεξ πάχους 3+3m (προμήθεια και τοποθέτηση)",
+          "cpvs": [
+            {
+              "key": "14820000-5",
+              "value": "Γυαλί"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 45,
+          "type": {
+            "key": "MTK",
+            "value": "m 2"
+          },
+          "costWithoutVAT": 3060,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υαλοπίνακας αρμέ (οπλισμένος) πάχους 6mm  (προμήθεια και τοποθέτηση)",
+          "cpvs": [
+            {
+              "key": "14820000-5",
+              "value": "Γυαλί"
             }
           ],
           "greenContracts": {
@@ -174,10 +252,10 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "offersValidTime": 7,
+      "offersValidTime": 1,
       "offersValidTimeUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
+        "key": "3",
+        "value": "Μήνες"
       },
       "maxNumberOfContractors": null,
       "optionRight": {
@@ -189,7 +267,204 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "14212200"
+        "14820000"
+      ],
+      "cpv_divisions": [
+        "14"
+      ],
+      "all_domains": [
+        "Metals & Mining"
+      ],
+      "primary_domain": "Metals & Mining"
+    },
+    {
+      "title": "ΠΡΟΣΚΛΗΣΗ ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ -ΑΝΑΚΑΤΑΣΚΕΥΗ ΜΙΝΑΡΕ ΡΕΤΖΕΠ ΠΑΣΑ ΠΟΣΟΥ 7.200,000€ ΠΔΕ 2026",
+      "referenceNumber": "26PROC018469184",
+      "signedDate": "2026-02-11T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-17T15:00:00",
+      "submissionDate": "2026-02-12T09:28:56.148",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1022.0000000000.0058",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL421",
+        "value": "Κάλυμνος, Κάρπαθος, Κως, Ρόδος"
+      },
+      "nutsCity": "ΡΟΔΟΣ",
+      "nutsPostalCode": "85100",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100003647",
+          "value": "ΕΦΟΡΕΙΑ ΑΡΧΑΙΟΤΗΤΩΝ ΔΩΔΕΚΑΝΗΣΟΥ"
+        },
+        "signers": {
+          "key": "100025151",
+          "value": "ΕΛΕΝΗ ΦΑΡΜΑΚΙΔΟΥ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": "514",
+        "publicFundingRefNum": "2022ΝΑ51400038",
+        "publicFundingRefOps": "5150321",
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "25REQ017917057"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "12",
+            "value": "Κεντρική Διοίκηση"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL421",
+            "value": "Κάλυμνος, Κάρπαθος, Κως, Ρόδος"
+          }
+        }
+      ],
+      "organization": {
+        "key": "100081912",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΠΟΛΙΤΙΣΜΟΥ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "10",
+        "value": "Πολιτισμός και θρησκεία"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "totalCostWithVAT": 7200.0,
+      "totalCostWithoutVAT": 5806.45,
+      "objectDetails": [
+        {
+          "quantity": 1000,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 5806.45,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια υλικών για την ανακατασκευή του μιναρέ του Ρετζέπ Πασά.",
+          "cpvs": [
+            {
+              "key": "14711100-9",
+              "value": "Ακατέργαστος χυτοσίδηρος"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 3,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "14711100"
       ],
       "cpv_divisions": [
         "14"

@@ -1,36 +1,36 @@
 {
   "domain": "Printing & Publishing",
-  "count": 9,
+  "count": 5,
   "items": [
     {
-      "title": "ΣΥΜΒΑΣΗ ΨΑΡΡΑ ΒΑΣΙΛΕΙΟΥ ΣΤΑΜΑΤΙΟΥ",
-      "referenceNumber": "26SYMV018459955",
+      "title": "ΣΥΜΒΑΣΗ ΠΡΟΜ.25-ΠΡΟΜ.72-02 ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΣΕ ΚΑΤΑΓΡΑΦΙΚΟ ΧΑΡΤΙ",
+      "referenceNumber": "26SYMV018474137",
       "prevReferenceNo": null,
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-10T15:34:42.395",
+      "submissionDate": "2026-02-12T14:22:26.425",
       "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-10",
-      "startDate": "2026-02-10",
+      "contractSignedDate": "2026-02-09",
+      "startDate": "2026-02-09",
       "noEndDate": false,
-      "endDate": "2026-02-28",
+      "endDate": "2027-02-08",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "decisionRelatedAda": null,
-      "contractNumber": "614/2026",
+      "contractNumber": "25-ΠΡΟΜ.72-02",
       "authorEmail": null,
-      "organizationVatNumber": "997223821",
+      "organizationVatNumber": "998995401",
       "greekOrganizationVatNumber": false,
       "commitmentNo": null,
       "diavgeiaADA": null,
-      "aaht": "1022.E00951.0001",
+      "aaht": "1015.Ε00251.0001",
       "budget": null,
-      "contractBudget": 4400,
+      "contractBudget": 564,
       "bidsSubmitted": null,
-      "maxBidsSubmitted": 3,
-      "numberOfSections": 1,
+      "maxBidsSubmitted": 2,
+      "numberOfSections": 16,
       "assignedContract": {
         "key": "2",
         "value": "Όχι"
@@ -46,15 +46,15 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL522",
-            "value": "Θεσσαλονίκη"
+            "key": "EL653",
+            "value": "Λακωνία, Μεσσηνία"
           }
         }
       ],
       "approvedRequestsList": [],
       "organization": {
-        "key": "100044187",
-        "value": "ΜΗΤΡΟΠΟΛΙΤΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΜΟΥΣΕΙΩΝ ΕΙΚΑΣΤΙΚΩΝ ΤΕΧΝΩΝ ΘΕΣΣΑΛΟΝΙΚΗΣ"
+        "key": "99221912",
+        "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΚΑΛΑΜΑΤΑΣ"
       },
       "procedureType": {
         "key": "6",
@@ -62,11 +62,11 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
+        "key": "EL653",
+        "value": "Λακωνία, Μεσσηνία"
       },
-      "nutsCity": "ΘΕΣΣΑΛΟΝΙΚΗ",
-      "nutsPostalCode": "56430",
+      "nutsCity": "ΚΑΛΑΜΑΤΑ",
+      "nutsPostalCode": "24100",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -84,214 +84,11 @@
         "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
       },
       "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "assignCriteria": {
-        "key": "13",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "10",
-        "value": "Πολιτισμός και θρησκεία"
-      },
-      "contractDuration": 1,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "ΡΛ5Α46ΜΞ1Β-ΓΝ0"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "64.03.00.0400"
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "100044252",
-          "value": "ΠΡΟΕΔΡΟΣ ΔΙΟΙΚΗΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ"
-        },
-        "signers": {
-          "key": "100074992",
-          "value": "Επαμεινώνδας Χριστοφιλόπουλος - Πρόεδρος Δ.Σ."
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "137336815",
-            "greekVatNumber": true,
-            "name": "ΨΑΡΡΑΣ ΒΑΣΙΛΕΙΟΣ ΣΤΑΜΑΤΙΟΣ"
-          }
-        ]
-      },
-      "totalCostWithVAT": 4664.0,
-      "totalCostWithoutVAT": 4400.0,
-      "objectDetailsList": [
-        {
-          "quantity": 500,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 4400,
-          "vat": "6",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΕΚΤΥΠΩΣΗ ΚΑΤΑΛΟΓΟΥ «MARTIAL RAYSSE. SINEMA»",
-          "cpvs": [
-            {
-              "key": "22110000-4",
-              "value": "Τυπωμένα βιβλία"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΘΕΣΣΑΛΟΝΙΚΗ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018457574"
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "26AWRD018457574",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "22110000"
-      ],
-      "cpv_divisions": [
-        "22"
-      ],
-      "all_domains": [
-        "Printing & Publishing"
-      ],
-      "primary_domain": "Printing & Publishing"
-    },
-    {
-      "title": "ΚΡΙΤΣΕΛΑΣ ΝΙΚΟΛ ΚΩΝΣΤΑΝΤΙΝΟΣ 03-02-2026",
-      "referenceNumber": "26SYMV018455875",
-      "prevReferenceNo": null,
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-10T10:57:30.371",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-09",
-      "startDate": "2026-02-09",
-      "noEndDate": false,
-      "endDate": "2026-12-31",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "1272",
-      "authorEmail": null,
-      "organizationVatNumber": "998313850",
-      "greekOrganizationVatNumber": true,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1022.F01114.0001",
-      "budget": null,
-      "contractBudget": 24472.8,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 1,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL",
-            "value": "ΕΛΛΑΔΑ"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "99221400",
-        "value": "ΜΟΥΣΕΙΟ ΑΚΡΟΠΟΛΗΣ (Ν.3711/2008)"
-      },
-      "procedureType": {
         "key": "12",
-        "value": "Διαπραγμάτευση χωρίς προηγούμενη δημοσίευση"
-      },
-      "awardProcedure": {
-        "key": "59",
-        "value": "Προστασία αποκλειστικών δικαιωμάτων"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "11742",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
+        "value": "Μελέτες"
       },
       "assignCriteria": {
-        "key": "13",
+        "key": "12",
         "value": "Βάσει τιμής"
       },
       "classificationOfPublicLawOrganization": {
@@ -303,8 +100,8 @@
         "value": "ΝΠΔΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "10",
-        "value": "Πολιτισμός και θρησκεία"
+        "key": "6",
+        "value": "Υγεία"
       },
       "contractDuration": 12,
       "contractDurationUnitOfMeasure": {
@@ -314,25 +111,25 @@
       "contractRelatedADA": {
         "number1": null,
         "number2": null,
-        "number3": "6Γ0Ε469ΗΤ0-ΧΧΑ"
+        "number3": "930Λ4690ΒΦ-ΛΨΑ"
       },
       "fundingDetails": {
         "publicFundingRef": null,
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": "00.1259",
+        "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
+        "regularBudgetFundedProgramRef": "3.2.3.02.03(131101)"
       },
       "contractingDataDetails": {
         "unitsOperator": {
-          "key": "72871",
-          "value": "ΜΟΥΣΕΙΟ ΑΚΡΟΠΟΛΗΣ (Ν.3711/2008)"
+          "key": "75159",
+          "value": "ΠΡΟΜΗΘΕΙΩΝ"
         },
         "signers": {
-          "key": "100069229",
-          "value": "ΝΙΚΟΛΑΟΣ ΣΤΑΜΠΟΛΙΔΗΣ - Γενικός Διευθυντής"
+          "key": "100099423",
+          "value": "ΝΙΚΟΛΑΟΣ ΠΕΦΑΝΗΣ - Διοικητής"
         },
         "contractingMembersDataList": [
           {
@@ -340,32 +137,32 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "034037580",
-            "greekVatNumber": true,
-            "name": "ΚΡΙΤΣΕΛΑΣ ΝΙΚΟΛ ΚΩΝΣΤΑΝΤΙΝΟΣ"
+            "vatNumber": "044958989",
+            "greekVatNumber": false,
+            "name": "«BIOENGIN-ΦΕΤΕΙΝΙΔΟΥ ΑΙΚΑΤΕΡΙΝΗ ΙΑΤΡΙΚΑ ΜΗΧΑΝΗΜΑΤΑ»"
           }
         ]
       },
-      "totalCostWithVAT": 25941.17,
-      "totalCostWithoutVAT": 24472.8,
+      "totalCostWithVAT": 699.36,
+      "totalCostWithoutVAT": 564.0,
       "objectDetailsList": [
         {
-          "quantity": 3090,
+          "quantity": 1,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 24472.8,
-          "vat": "6",
+          "costWithoutVAT": 564,
+          "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Έγκριση ανάθεσης σύμβασης προμήθειας 3.090 βιβλίων του Μουσείου Ακρόπολης αξίας 24.472,80 € πλέον Φ.Π.Α 6.%. 00.1259",
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΣΕ ΚΑΤΑΓΡΑΦΙΚΟ ΧΑΡΤΙ",
           "cpvs": [
             {
-              "key": "22100000-1",
-              "value": "Τυπωμένα βιβλία"
+              "key": "22993000-7",
+              "value": "Φωτοευαίσθητο"
             }
           ],
           "greenContracts": {
@@ -380,10 +177,10 @@
           },
           "addressForDelivery": null,
           "postalCode": null,
-          "city": "ΑΘΗΝΑ",
+          "city": "ΚΑΛΑΜΑΤΑ",
           "streetNumber": null,
           "budgetCode": null,
-          "requestRefNo": "26AWRD018364268"
+          "requestRefNo": "26AWRD018473683"
         }
       ],
       "additionalContractTypes": null,
@@ -392,11 +189,11 @@
       "nextRefNo": null,
       "nextExtended": null,
       "nextModified": null,
-      "auctionRefNo": "26AWRD018364268",
+      "auctionRefNo": "26AWRD018473683",
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "99221400",
-        "22100000"
+        "99221912",
+        "22993000"
       ],
       "cpv_divisions": [
         "22"
@@ -407,34 +204,34 @@
       "primary_domain": "Printing & Publishing"
     },
     {
-      "title": "ΚΑΠΟΝ ΜΩΥΣΗΣ ΚΑΙ ΣΙΑ Ε.Ε. - 03-08-2025",
-      "referenceNumber": "26SYMV018454978",
+      "title": "ΣΥΜΒΑΣΗ ΠΡΟΜ.25-ΠΡΟΜ.72-01 ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΣΕ ΚΑΤΑΓΡΑΦΙΚΟ ΧΑΡΤΙ",
+      "referenceNumber": "26SYMV018473753",
       "prevReferenceNo": null,
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-10T10:00:51.154",
+      "submissionDate": "2026-02-12T13:41:51.593",
       "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-09",
-      "startDate": "2026-02-09",
+      "contractSignedDate": "2026-02-06",
+      "startDate": "2026-02-06",
       "noEndDate": false,
-      "endDate": "2026-12-31",
+      "endDate": "2027-02-05",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "decisionRelatedAda": null,
-      "contractNumber": "1271",
+      "contractNumber": "25-ΠΡΟΜ.72-01",
       "authorEmail": null,
-      "organizationVatNumber": "998313850",
-      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "998995401",
+      "greekOrganizationVatNumber": false,
       "commitmentNo": null,
       "diavgeiaADA": null,
-      "aaht": "1022.F01114.0001",
+      "aaht": "1015.Ε00251.0001",
       "budget": null,
-      "contractBudget": 42948,
+      "contractBudget": 26126.25,
       "bidsSubmitted": null,
-      "maxBidsSubmitted": 1,
-      "numberOfSections": 1,
+      "maxBidsSubmitted": 2,
+      "numberOfSections": 16,
       "assignedContract": {
         "key": "2",
         "value": "Όχι"
@@ -450,30 +247,27 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL",
-            "value": "ΕΛΛΑΔΑ"
+            "key": "EL653",
+            "value": "Λακωνία, Μεσσηνία"
           }
         }
       ],
       "approvedRequestsList": [],
       "organization": {
-        "key": "99221400",
-        "value": "ΜΟΥΣΕΙΟ ΑΚΡΟΠΟΛΗΣ (Ν.3711/2008)"
+        "key": "99221912",
+        "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΚΑΛΑΜΑΤΑΣ"
       },
       "procedureType": {
-        "key": "12",
-        "value": "Διαπραγμάτευση χωρίς προηγούμενη δημοσίευση"
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
       },
-      "awardProcedure": {
-        "key": "59",
-        "value": "Προστασία αποκλειστικών δικαιωμάτων"
-      },
+      "awardProcedure": null,
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL653",
+        "value": "Λακωνία, Μεσσηνία"
       },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "11742",
+      "nutsCity": "ΚΑΛΑΜΑΤΑ",
+      "nutsPostalCode": "24100",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -491,11 +285,11 @@
         "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
       },
       "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
+        "key": "12",
+        "value": "Μελέτες"
       },
       "assignCriteria": {
-        "key": "13",
+        "key": "12",
         "value": "Βάσει τιμής"
       },
       "classificationOfPublicLawOrganization": {
@@ -507,10 +301,10 @@
         "value": "ΝΠΔΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "10",
-        "value": "Πολιτισμός και θρησκεία"
+        "key": "6",
+        "value": "Υγεία"
       },
-      "contractDuration": 11,
+      "contractDuration": 12,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -518,25 +312,25 @@
       "contractRelatedADA": {
         "number1": null,
         "number2": null,
-        "number3": "6Γ0Ε469ΗΤ0-ΧΧΑ"
+        "number3": "Ρ4Δ54690ΒΦ-Ξ47"
       },
       "fundingDetails": {
         "publicFundingRef": null,
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": "00.1259",
+        "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
+        "regularBudgetFundedProgramRef": "3.2.3.02.03(131101)"
       },
       "contractingDataDetails": {
         "unitsOperator": {
-          "key": "72871",
-          "value": "ΜΟΥΣΕΙΟ ΑΚΡΟΠΟΛΗΣ (Ν.3711/2008)"
+          "key": "75159",
+          "value": "ΠΡΟΜΗΘΕΙΩΝ"
         },
         "signers": {
-          "key": "100069229",
-          "value": "ΝΙΚΟΛΑΟΣ ΣΤΑΜΠΟΛΙΔΗΣ - Γενικός Διευθυντής"
+          "key": "100099423",
+          "value": "ΝΙΚΟΛΑΟΣ ΠΕΦΑΝΗΣ - Διοικητής"
         },
         "contractingMembersDataList": [
           {
@@ -544,32 +338,32 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "082318647",
-            "greekVatNumber": true,
-            "name": "ΜΩΥΣΗΣ ΚΑΠΟΝ & ΣΙΑ Ε.Ε."
+            "vatNumber": "095083787",
+            "greekVatNumber": false,
+            "name": "«THERMOGRAFICA HELLAS E.Π.Ε.» "
           }
         ]
       },
-      "totalCostWithVAT": 45524.88,
-      "totalCostWithoutVAT": 42948.0,
+      "totalCostWithVAT": 32396.55,
+      "totalCostWithoutVAT": 26126.25,
       "objectDetailsList": [
         {
-          "quantity": 4383,
+          "quantity": 1,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 42948,
-          "vat": "6",
+          "costWithoutVAT": 26126.25,
+          "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Έγκριση ανάθεσης σύμβασης προμήθειας 4.383 βιβλίων του Μουσείου Ακρόπολης αξίας 42.948,00 €. € πλέον Φ.Π.Α 6.%.   ΚΑΕ - 00.1259 ΒΙΒΛΙΑ",
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΣΕ ΚΑΤΑΓΡΑΦΙΚΟ ΧΑΡΤΙ",
           "cpvs": [
             {
-              "key": "22100000-1",
-              "value": "Τυπωμένα βιβλία"
+              "key": "22993000-7",
+              "value": "Φωτοευαίσθητο"
             }
           ],
           "greenContracts": {
@@ -584,10 +378,10 @@
           },
           "addressForDelivery": null,
           "postalCode": null,
-          "city": "ΑΘΗΝΑ",
+          "city": "ΚΑΛΑΜΑΤΑ",
           "streetNumber": null,
           "budgetCode": null,
-          "requestRefNo": "26AWRD018373559"
+          "requestRefNo": "26AWRD018473683"
         }
       ],
       "additionalContractTypes": null,
@@ -596,11 +390,11 @@
       "nextRefNo": null,
       "nextExtended": null,
       "nextModified": null,
-      "auctionRefNo": "26AWRD018373559",
+      "auctionRefNo": "26AWRD018473683",
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "99221400",
-        "22100000"
+        "99221912",
+        "22993000"
       ],
       "cpv_divisions": [
         "22"
@@ -611,34 +405,34 @@
       "primary_domain": "Printing & Publishing"
     },
     {
-      "title": "ΤΜΗΜΑ 5: ΠΡΟΜΗΘΕΙΑ ΧΑΡΤΙΟΥ ΕΚΤΥΠΩΣΕΩΝ",
-      "referenceNumber": "26SYMV018454968",
+      "title": "Έγκριση  διοργάνωσης εκδηλώσεων για το Ηρακλειώτικο Καρναβάλι 2026»  ΟΜΑΔΑ Δ (ΣΕ ΕΝΤΥΠΑ – ΠΑΝΟ, ΑΦΙΣ",
+      "referenceNumber": "26SYMV018473220",
       "prevReferenceNo": null,
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-10T10:00:18.566",
+      "submissionDate": "2026-02-12T13:02:06.743",
       "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-10",
-      "startDate": "2026-02-10",
+      "contractSignedDate": "2026-02-12",
+      "startDate": "2026-02-12",
       "noEndDate": false,
-      "endDate": "2027-02-09",
+      "endDate": "2026-02-22",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "decisionRelatedAda": null,
-      "contractNumber": "22026021",
+      "contractNumber": "2538",
       "authorEmail": null,
-      "organizationVatNumber": "998154279",
-      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090084629",
+      "greekOrganizationVatNumber": true,
       "commitmentNo": null,
       "diavgeiaADA": null,
-      "aaht": "1007.Ε84609.0001",
+      "aaht": "1007.Ε84604.0001",
       "budget": null,
-      "contractBudget": 63015.5,
+      "contractBudget": 19756.4,
       "bidsSubmitted": null,
-      "maxBidsSubmitted": 6,
-      "numberOfSections": 5,
+      "maxBidsSubmitted": 3,
+      "numberOfSections": 4,
       "assignedContract": {
         "key": "2",
         "value": "Όχι"
@@ -661,20 +455,227 @@
       ],
       "approvedRequestsList": [],
       "organization": {
-        "key": "6236",
-        "value": "ΔΗΜΟΣ ΠΑΠΑΓΟΥ - ΧΟΛΑΡΓΟΥ"
+        "key": "6109",
+        "value": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ"
       },
       "procedureType": {
-        "key": "1",
-        "value": "Ανοιχτή διαδικασία"
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL301",
-        "value": "Βόρειος Τομέας Αθηνών"
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
       },
-      "nutsCity": "ΧΟΛΑΡΓΟΣ",
-      "nutsPostalCode": "15561",
+      "nutsCity": "ΗΡΑΚΛΕΙΟ ΑΤΤΙΚΗΣ",
+      "nutsPostalCode": "14121",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "assignCriteria": {
+        "key": "9",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "10",
+        "value": "Πολιτισμός και θρησκεία"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "1",
+        "value": "Ημέρες"
+      },
+      "contractRelatedADA": {
+        "number1": null,
+        "number2": null,
+        "number3": "9Υ87ΩΡ3-21Ψ"
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "015.2420908.006",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "contractingDataDetails": {
+        "unitsOperator": {
+          "key": "100101658",
+          "value": "ΓΡΑΦΕΙΟ ΓΡΑΜΜΑΤΕΙΑΣ ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΔΙΕΥΘΥΝΣΗΣ ΑΘΛΗΤΙΣΜΟΥ, ΠΟΛΙΤΙΣΜΟΥ & ΔΗΜΟΤΙΚΗΣ ΒΙΒΛΙΟΘΗΚΗΣ"
+        },
+        "signers": {
+          "key": "100002652",
+          "value": "ΝΙΚΟΛΑΟΣ ΜΠΑΜΠΑΛΟΣ - Δήμαρχος"
+        },
+        "contractingMembersDataList": [
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
+            "vatNumber": "800715911",
+            "greekVatNumber": true,
+            "name": "3DG-GRAFISTES.GR E.E."
+          }
+        ]
+      },
+      "totalCostWithVAT": 3707.54,
+      "totalCostWithoutVAT": 2989.95,
+      "objectDetailsList": [
+        {
+          "quantity": 3831,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2989.95,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΝΤΥΠΟ ΥΛΙΚΟ ΚΑΙ ΣΥΝΑΦΗ ΠΡΟΙΟΝΤΑ",
+          "cpvs": [
+            {
+              "key": "22000000-0",
+              "value": "Έντυπο υλικό και συναφή προϊόντα"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΗΡΑΚΛΕΙΟ ΑΤΤΙΚΗΣ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018466653"
+        }
+      ],
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "2",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "mixedContract": true,
+      "requestRefNo": null,
+      "nextRefNo": null,
+      "nextExtended": null,
+      "nextModified": null,
+      "auctionRefNo": "26AWRD018466653",
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "22000000"
+      ],
+      "cpv_divisions": [
+        "22"
+      ],
+      "all_domains": [
+        "Printing & Publishing"
+      ],
+      "primary_domain": "Printing & Publishing"
+    },
+    {
+      "title": "ΠΡΟΜΗΘΕΙΑ ΕΝΤΥΠΟΥ ΥΛΙΚΟΥ ΚΑΙ ΓΡΑΦΙΣΤΙΚΟΣ ΣΧΕΔΙΑΣΜΟΣ (ΔΗΜΙΟΥΡΓΙΚΟ) ΓΙΑ ΤΗΝ ΠΡΟΒΟΛΗ ΤΩΝ ΕΚΔΗΛΩΣΕΩΝ ΑΠΟ",
+      "referenceNumber": "26SYMV018472811",
+      "prevReferenceNo": null,
+      "noticeReferenceNumber": null,
+      "submissionDate": "2026-02-12T12:36:06.271",
+      "lastUpdateDate": null,
+      "contractSignedDate": "2026-02-12",
+      "startDate": "2026-02-12",
+      "noEndDate": false,
+      "endDate": "2026-04-11",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "decisionRelatedAda": null,
+      "contractNumber": "5566",
+      "authorEmail": null,
+      "organizationVatNumber": "090276406",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "diavgeiaADA": null,
+      "aaht": "1007.E84505.0001",
+      "budget": null,
+      "contractBudget": 1810.5,
+      "bidsSubmitted": null,
+      "maxBidsSubmitted": 1,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL303",
+            "value": "Κεντρικός Τομέας Αθηνών"
+          }
+        }
+      ],
+      "approvedRequestsList": [],
+      "organization": {
+        "key": "6104",
+        "value": "ΔΗΜΟΣ ΖΩΓΡΑΦΟΥ"
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "nutsCity": "ΖΩΓΡΑΦΟΥ",
+      "nutsPostalCode": "15772",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -711,7 +712,7 @@
         "key": "1",
         "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 12,
+      "contractDuration": 2,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -719,25 +720,25 @@
       "contractRelatedADA": {
         "number1": null,
         "number2": null,
-        "number3": "ΕΠΤΡΩΞ1-7ΤΝ"
+        "number3": "ΡΝΤΧΩΡΦ-6Θ6 "
       },
       "fundingDetails": {
         "publicFundingRef": null,
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": "010.2410103 , 070.2410103",
+        "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
+        "regularBudgetFundedProgramRef": "000.2420907003 "
       },
       "contractingDataDetails": {
         "unitsOperator": {
-          "key": "81505",
-          "value": "ΔΗΜΑΡΧΟΣ"
+          "key": "79651",
+          "value": "ΤΜΗΜΑ ΠΡΟΜΗΘΕΙΩΝ"
         },
         "signers": {
-          "key": "100002147",
-          "value": "Ηλίας Αποστολόπουλος - Δήμαρχος"
+          "key": "100084733",
+          "value": "ΤΙΝΑ ΚΑΦΑΤΣΑΚΗ - Δήμαρχος"
         },
         "contractingMembersDataList": [
           {
@@ -745,32 +746,32 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "094399030",
+            "vatNumber": "802772403",
             "greekVatNumber": false,
-            "name": "ΕΙΣΑΓΩΓΕΣ ΕΞΑΓΩΓΕΣ ΑΝΤΙΠΡΟΣΩΠΕΙΕΣ ΧΑΡΤΟΥ Δ ΚΑΙ Σ ΑΝΑΣΤΟΠΟΥΛΟΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ"
+            "name": "FASMASHOP"
           }
         ]
       },
-      "totalCostWithVAT": 19792.88,
-      "totalCostWithoutVAT": 15962.0,
+      "totalCostWithVAT": 2132.8,
+      "totalCostWithoutVAT": 1720.0,
       "objectDetailsList": [
         {
-          "quantity": 6915,
+          "quantity": 100,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 15962,
+          "costWithoutVAT": 70,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΤΜΗΜΑ 5: ΠΡΟΜΗΘΕΙΑ ΧΑΡΤΙΟΥ ΕΚΤΥΠΩΣΕΩΝ",
+          "shortDescription": "ΑΦΙΣΑ Α3, 4ΧΡΩΜΙΑ, ΜΟΝΗ ΟΨΗ, 80ΓΡ.",
           "cpvs": [
             {
-              "key": "30197643-5",
-              "value": "Φωτοαντιγραφικό χαρτί"
+              "key": "22000000-0",
+              "value": "Έντυπο υλικό και συναφή προϊόντα"
             }
           ],
           "greenContracts": {
@@ -785,10 +786,190 @@
           },
           "addressForDelivery": null,
           "postalCode": null,
-          "city": "ΠΑΠΑΓΟΣ ΧΟΛΑΡΓΟΣ",
+          "city": "ΖΩΓΡΑΦΟΥ",
           "streetNumber": null,
           "budgetCode": null,
-          "requestRefNo": "26AWRD018402628"
+          "requestRefNo": "26AWRD018465864"
+        },
+        {
+          "quantity": 5000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 350,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΝΤΥΠΟ ΦΥΛΛΑΔΙΟ Α5 FLYER, 4ΧΡΩΜΙΑ, ΔΥΟ ΟΨΕΩΝ ΜΟΝΟΦΥΛΑ, VELVET 135ΓΡ",
+          "cpvs": [
+            {
+              "key": "22000000-0",
+              "value": "Έντυπο υλικό και συναφή προϊόντα"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΖΩΓΡΑΦΟΥ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018465864"
+        },
+        {
+          "quantity": 6,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 420,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "BANNERS 2MX1M ΜΕ ΜΠΟΥΝΤΟΥΖΙΑ ΓΙΑ ΤΙΣ ΠΛΑΤΕΙΕΣ",
+          "cpvs": [
+            {
+              "key": "22000000-0",
+              "value": "Έντυπο υλικό και συναφή προϊόντα"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΖΩΓΡΑΦΟΥ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018465864"
+        },
+        {
+          "quantity": 12,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 180,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΔΗΜΙΟΥΡΓΙΑ ΗΛΕΚΤΡΟΝΙΚΩΝ BANNERS ΓΙΑ FB KAI INSTA",
+          "cpvs": [
+            {
+              "key": "79822500-7",
+              "value": "Υπηρεσίες γραφικού σχεδιασμού"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΖΩΓΡΑΦΟΥ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018465864"
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΙΔΕΑ/ΣΥΛΛΗΨΗ/ΕΠΙΜΕΛΕΙΑ ΔΗΜΙΟΥΡΓΙΑΣ/ΣΧΕΔΙΑΣΜΟΣ ΦΥΛΛΑΔΙΟΥ, ΑΦΙΣΑΣ, BANNERS",
+          "cpvs": [
+            {
+              "key": "79822500-7",
+              "value": "Υπηρεσίες γραφικού σχεδιασμού"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΖΩΓΡΑΦΟΥ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018465864"
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 200,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΟΠΟΘΕΤΗΣΗ ΚΑΙ ΑΠΟΞΗΛΩΣΗ BANNERS",
+          "cpvs": [
+            {
+              "key": "22000000-0",
+              "value": "Έντυπο υλικό και συναφή προϊόντα"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΖΩΓΡΑΦΟΥ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018465864"
         }
       ],
       "additionalContractTypes": null,
@@ -797,48 +978,48 @@
       "nextRefNo": null,
       "nextExtended": null,
       "nextModified": null,
-      "auctionRefNo": "26AWRD018402628",
+      "auctionRefNo": "26AWRD018465864",
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "22026021",
-        "30197643"
+        "22000000",
+        "79822500"
       ],
       "cpv_divisions": [
         "22",
-        "30"
+        "79"
       ],
       "all_domains": [
         "Printing & Publishing",
-        "Office & Computing (Non-Software)"
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)"
       ],
-      "primary_domain": "Office & Computing (Non-Software)"
+      "primary_domain": "Business Services (Legal/Marketing/Recruitment/Security/Print)"
     },
     {
-      "title": "ΕΚΔΟΣΕΙΣ ΔΙΑΠΛΑΣΗ ΜΟΝΟΠΡΟΣΩΠΗ ΙΔΙΩΤΙΚΗ  ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ - 03-02-2026",
-      "referenceNumber": "26SYMV018454782",
+      "title": "ΠΡΟΜΗΘΕΙΑ ΦΑΚΕΛΩΝ, ΕΝΗΜΕΡΩΤΙΚΩΝ ΕΝΤΥΠΩΝ, ΕΝΤΥΠΩΝ ΛΟΓΑΡΙΑΣΜΩΝ ΥΔΡΕΥΣΗΣ, ΑΠΟΧΕΤΕΥΣΗΣ,  ΔΙΠΛΩΜΑ ΚΑΙ ΕΜΦ",
+      "referenceNumber": "26SYMV018469566",
       "prevReferenceNo": null,
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-10T09:47:49.637",
+      "submissionDate": "2026-02-12T09:52:03.071",
       "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-09",
-      "startDate": "2026-02-09",
+      "contractSignedDate": "2026-02-10",
+      "startDate": "2026-02-10",
       "noEndDate": false,
-      "endDate": "2026-12-31",
+      "endDate": "2027-02-10",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "decisionRelatedAda": null,
-      "contractNumber": "1268",
+      "contractNumber": "516/2026",
       "authorEmail": null,
-      "organizationVatNumber": "998313850",
+      "organizationVatNumber": "800175059",
       "greekOrganizationVatNumber": true,
       "commitmentNo": null,
       "diavgeiaADA": null,
-      "aaht": "1022.F01114.0001",
+      "aaht": "1007.F00295.0001",
       "budget": null,
-      "contractBudget": 10177.2,
+      "contractBudget": 19600,
       "bidsSubmitted": null,
       "maxBidsSubmitted": 1,
       "numberOfSections": 1,
@@ -864,23 +1045,20 @@
       ],
       "approvedRequestsList": [],
       "organization": {
-        "key": "99221400",
-        "value": "ΜΟΥΣΕΙΟ ΑΚΡΟΠΟΛΗΣ (Ν.3711/2008)"
+        "key": "52410",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΔΗΜΟΥ ΒΟΛΒΗΣ"
       },
       "procedureType": {
-        "key": "12",
-        "value": "Διαπραγμάτευση χωρίς προηγούμενη δημοσίευση"
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
       },
-      "awardProcedure": {
-        "key": "59",
-        "value": "Προστασία αποκλειστικών δικαιωμάτων"
-      },
+      "awardProcedure": null,
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
       },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "11742",
+      "nutsCity": "ΑΣΠΡΟΒΑΛΤΑ",
+      "nutsPostalCode": "57021",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -894,8 +1072,8 @@
         }
       ],
       "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+        "key": "7",
+        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
       },
       "contractType": {
         "key": "13",
@@ -903,843 +1081,19 @@
       },
       "assignCriteria": {
         "key": "13",
-        "value": "Βάσει τιμής"
+        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
       },
       "classificationOfPublicLawOrganization": {
         "key": "4",
         "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
         "key": "10",
-        "value": "Πολιτισμός και θρησκεία"
-      },
-      "contractDuration": 11,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "6Γ0Ε469ΗΤ0-ΧΧΑ"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": "00.1259",
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "72871",
-          "value": "ΜΟΥΣΕΙΟ ΑΚΡΟΠΟΛΗΣ (Ν.3711/2008)"
-        },
-        "signers": {
-          "key": "100069229",
-          "value": "ΝΙΚΟΛΑΟΣ ΣΤΑΜΠΟΛΙΔΗΣ - Γενικός Διευθυντής"
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "800634914",
-            "greekVatNumber": true,
-            "name": "ΕΚΔΟΣΕΙΣ ΔΙΑΠΛΑΣΗ ΜΟΝΟΠΡΟΣΩΠΗ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ"
-          }
-        ]
-      },
-      "totalCostWithVAT": 10787.83,
-      "totalCostWithoutVAT": 10177.2,
-      "objectDetailsList": [
-        {
-          "quantity": 1980,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 10177.2,
-          "vat": "6",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Έγκριση ανάθεσης σύμβασης προμήθειας 1.980 βιβλίων του Μουσείου Ακρόπολης αξίας 10.177,20 € πλέον Φ.Π.Α 6.%.  ΚΑΕ 00.1259 - ΒΙΒΛΙΑ",
-          "cpvs": [
-            {
-              "key": "22100000-1",
-              "value": "Τυπωμένα βιβλία"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΑΘΗΝΑ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018363255"
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "26AWRD018363255",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "99221400",
-        "22100000"
-      ],
-      "cpv_divisions": [
-        "22"
-      ],
-      "all_domains": [
-        "Printing & Publishing"
-      ],
-      "primary_domain": "Printing & Publishing"
-    },
-    {
-      "title": "Προμήθεια συγγραμμάτων μέσω ΕΥΔΟΞΟΥ εαρινού εξαμήνου 2025-2026 (ΔΙΤ)",
-      "referenceNumber": "26SYMV018454595",
-      "prevReferenceNo": null,
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-10T09:34:38.712",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2026-01-28",
-      "startDate": "2026-01-28",
-      "noEndDate": false,
-      "endDate": "2026-03-27",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "4179/10-02-2026",
-      "authorEmail": null,
-      "organizationVatNumber": "997239923",
-      "greekOrganizationVatNumber": true,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1020.F01220.0001",
-      "budget": null,
-      "contractBudget": 7798.45,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 1,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL632",
-            "value": "Αχαΐα"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "99203044",
-        "value": "ΕΛΛΗΝΙΚΟ ΑΝΟΙΚΤΟ ΠΑΝΕΠΙΣΤΗΜΙΟ"
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL632",
-        "value": "Αχαΐα"
-      },
-      "nutsCity": "Πάτρα",
-      "nutsPostalCode": "26335",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "assignCriteria": {
-        "key": "13",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
+        "value": "ΝΠΙΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "11",
-        "value": "Εκπαίδευση"
-      },
-      "contractDuration": 2,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "6ΧΥΠ46ΨΖΣΘ-2ΑΡ"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": "80211",
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "100037362",
-          "value": "ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ"
-        },
-        "signers": {
-          "key": "100093293",
-          "value": "Αθανάσιος Μιχιώτης - Πρόεδρος Επιτροπής Ερευνών"
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "094206849",
-            "greekVatNumber": true,
-            "name": "ΕΚΔΟΣΕΙΣ ΚΡΙΤΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΛΟΓΟΤΕΧΝΙΚΩΝ ΚΑΙ ΚΑΛΛΙΤΕΧΝΙΚΩΝ ΕΚΔΟΣΕΩΝΕΠΙΣΤΗΜΟΝΙΚΩΝ "
-          }
-        ]
-      },
-      "totalCostWithVAT": 8266.36,
-      "totalCostWithoutVAT": 7798.45,
-      "objectDetailsList": [
-        {
-          "quantity": 425,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 7798.45,
-          "vat": "6",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Η προμήθεια των εν λόγω συγγραμμάτων, τα οποία περιλαμβάνονται στον κατάλογο των διδακτικών συγγραμμάτων του Κεντρικού Πληροφοριακού Συστήματος (ΚΠΣ) του «ΕΥΔΟΞΟΥ» θα πραγματοποιηθεί, σύμφωνα με την παρ. 3 του άρθρου 23 του Ν. 4452/2017",
-          "cpvs": [
-            {
-              "key": "22110000-4",
-              "value": "Τυπωμένα βιβλία"
-            },
-            {
-              "key": "22111000-1",
-              "value": "Σχολικά βιβλία"
-            },
-            {
-              "key": "22112000-8",
-              "value": "Βιβλία διδασκαλίας"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "Πάτρα",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018397692"
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "26AWRD018397692",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "99203044",
-        "22110000",
-        "22111000",
-        "22112000"
-      ],
-      "cpv_divisions": [
-        "22"
-      ],
-      "all_domains": [
-        "Printing & Publishing"
-      ],
-      "primary_domain": "Printing & Publishing"
-    },
-    {
-      "title": "Προμήθεια συγγραμμάτων μέσω ΕΥΔΟΞΟΥ εαρινού εξαμήνου 2025-2026 (ΣΚΙ)",
-      "referenceNumber": "26SYMV018454174",
-      "prevReferenceNo": null,
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-10T09:02:13.401",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2026-01-15",
-      "startDate": "2026-01-15",
-      "noEndDate": false,
-      "endDate": "2026-03-16",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "4173/10-02-2026",
-      "authorEmail": null,
-      "organizationVatNumber": "997239923",
-      "greekOrganizationVatNumber": true,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1020.F01220.001",
-      "budget": null,
-      "contractBudget": 65.8,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 1,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL632",
-            "value": "Αχαΐα"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "99203044",
-        "value": "ΕΛΛΗΝΙΚΟ ΑΝΟΙΚΤΟ ΠΑΝΕΠΙΣΤΗΜΙΟ"
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL632",
-        "value": "Αχαΐα"
-      },
-      "nutsCity": "Πάτρα",
-      "nutsPostalCode": "26335",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "assignCriteria": {
-        "key": "13",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "11",
-        "value": "Εκπαίδευση"
-      },
-      "contractDuration": 2,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "ΡΑΧΠ46ΨΖΣΘ-ΘΡΠ"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": "80400",
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "100037362",
-          "value": "ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ"
-        },
-        "signers": {
-          "key": "100093293",
-          "value": "Αθανάσιος Μιχιώτης - Πρόεδρος Επιτροπής Ερευνών"
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "070554376",
-            "greekVatNumber": true,
-            "name": "ΚΑΠΟΛΑ ΠΑΓΩΝΑ"
-          }
-        ]
-      },
-      "totalCostWithVAT": 69.75,
-      "totalCostWithoutVAT": 65.8,
-      "objectDetailsList": [
-        {
-          "quantity": 10,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 65.8,
-          "vat": "6",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Η προμήθεια των εν λόγω συγγραμμάτων, τα οποία περιλαμβάνονται στον κατάλογο των διδακτικών συγγραμμάτων του Κεντρικού Πληροφοριακού Συστήματος (ΚΠΣ) του «ΕΥΔΟΞΟΥ» θα πραγματοποιηθεί, σύμφωνα με την παρ. 3 του άρθρου 23 του Ν. 4452/2017",
-          "cpvs": [
-            {
-              "key": "22110000-4",
-              "value": "Τυπωμένα βιβλία"
-            },
-            {
-              "key": "22111000-1",
-              "value": "Σχολικά βιβλία"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "Πάτρα",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018343761"
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "26AWRD018343761",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "99203044",
-        "22110000",
-        "22111000"
-      ],
-      "cpv_divisions": [
-        "22"
-      ],
-      "all_domains": [
-        "Printing & Publishing"
-      ],
-      "primary_domain": "Printing & Publishing"
-    },
-    {
-      "title": "Προμήθεια συγγραμμάτων μέσω ΕΥΔΟΞΟΥ εαρινού εξαμήνου 2025-2026 (ΔΜΔ)",
-      "referenceNumber": "26SYMV018453943",
-      "prevReferenceNo": null,
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-10T08:42:59.862",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2026-01-15",
-      "startDate": "2026-01-15",
-      "noEndDate": false,
-      "endDate": "2026-03-16",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "4171/10-02-2026",
-      "authorEmail": null,
-      "organizationVatNumber": "997239923",
-      "greekOrganizationVatNumber": true,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1020.F01220.0001",
-      "budget": null,
-      "contractBudget": 897,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 1,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL632",
-            "value": "Αχαΐα"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "99203044",
-        "value": "ΕΛΛΗΝΙΚΟ ΑΝΟΙΚΤΟ ΠΑΝΕΠΙΣΤΗΜΙΟ"
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL632",
-        "value": "Αχαΐα"
-      },
-      "nutsCity": "Πάτρα",
-      "nutsPostalCode": "26335",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "assignCriteria": {
-        "key": "13",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "11",
-        "value": "Εκπαίδευση"
-      },
-      "contractDuration": 2,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "ΨΩΚ246ΨΖΣΘ-ΚΞ8"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": "80392",
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "100037362",
-          "value": "ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ"
-        },
-        "signers": {
-          "key": "100093293",
-          "value": "Αθανάσιος Μιχιώτης - Πρόεδρος Επιτροπής Ερευνών"
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "094438292",
-            "greekVatNumber": true,
-            "name": "ΕΤΑΙΡΕΙΑ ΑΞΙΟΠΟΙΗΣΗΣ ΚΑΙ ΔΙΑΧΕΙΡΙΣΗΣ ΤΗΣ ΠΕΡΙΟΥΣΙΑΣ ΤΟΥ ΟΙΚΟΝΟΜΙΚΟΥ ΠΑΝΕΠΙΣΤΗΜΙΟΥ ΑΘΗΝΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ"
-          }
-        ]
-      },
-      "totalCostWithVAT": 950.82,
-      "totalCostWithoutVAT": 897.0,
-      "objectDetailsList": [
-        {
-          "quantity": 60,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 897,
-          "vat": "6",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Η προμήθεια των εν λόγω συγγραμμάτων, τα οποία περιλαμβάνονται στον κατάλογο των διδακτικών συγγραμμάτων του Κεντρικού Πληροφοριακού Συστήματος (ΚΠΣ) του «ΕΥΔΟΞΟΥ» θα πραγματοποιηθεί, σύμφωνα με την παρ. 3 του άρθρου 23 του Ν. 4452/2017",
-          "cpvs": [
-            {
-              "key": "22110000-4",
-              "value": "Τυπωμένα βιβλία"
-            },
-            {
-              "key": "22111000-1",
-              "value": "Σχολικά βιβλία"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "Πάτρα",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018339694"
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "26AWRD018339694",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "99203044",
-        "22110000",
-        "22111000"
-      ],
-      "cpv_divisions": [
-        "22"
-      ],
-      "all_domains": [
-        "Printing & Publishing"
-      ],
-      "primary_domain": "Printing & Publishing"
-    },
-    {
-      "title": "Σύμβαση_33/86/3_για την προμήθεια εντύπων, για την κάλυψη των αναγκών του Νοσοκομείου",
-      "referenceNumber": "26SYMV018453625",
-      "prevReferenceNo": null,
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-10T08:01:13.458",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2025-12-04",
-      "startDate": "2025-12-08",
-      "noEndDate": false,
-      "endDate": "2026-12-07",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "33/86/3",
-      "authorEmail": null,
-      "organizationVatNumber": "999332744",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1015.E00170.0001",
-      "budget": null,
-      "contractBudget": 6110.73,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 6,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL303",
-            "value": "Κεντρικός Τομέας Αθηνών"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "99221870",
-        "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ «ΕΛΕΝΑ ΒΕΝΙΖΕΛΟΥ-ΑΛΕΞΑΝΔΡΑ» ΥΠΟΚΑΤΑΣΤΗΜΑ ΕΛΕΝΑ ΒΕΝΙΖΕΛΟΥ"
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "nutsCity": "ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑ",
-      "nutsPostalCode": "11521",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "assignCriteria": {
-        "key": "13",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "6",
-        "value": "Υγεία"
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
       },
       "contractDuration": 12,
       "contractDurationUnitOfMeasure": {
@@ -1749,7 +1103,7 @@
       "contractRelatedADA": {
         "number1": null,
         "number2": null,
-        "number3": "979Ν46904Ε-ΓΦΑ, ΨΦ9Ι46904Ε-Ξ20, 9ΨΒ746904Ε-ΘΔΨ"
+        "number3": "ΨΣ4ΔΟΛΛ0-ΓΤ6"
       },
       "fundingDetails": {
         "publicFundingRef": null,
@@ -1758,16 +1112,16 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "1261"
+        "regularBudgetFundedProgramRef": "64.07.01.00  61.98.00.21"
       },
       "contractingDataDetails": {
         "unitsOperator": {
-          "key": "76378",
-          "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ \\\"ΕΛΕΝΑ ΒΕΝΙΖΕΛΟΥ-ΑΛΕΞΑΝΔΡΑ\\\" ΕΛΕΝΑ ΒΕΝΙΖΕΛΟΥ - ΔΙΟΙΚΗΤΗΣ"
+          "key": "100000057",
+          "value": "ΔΕΥΑΒ"
         },
         "signers": {
-          "key": "100097477",
-          "value": "ΕΛΠΙΝΙΚΗ ΤΑΒΙΑΝΑΤΟΥ - Διοικητής"
+          "key": "100051773",
+          "value": "ΧΡΗΣΤΟΣ ΓΚΟΛΙΔΑΚΗΣ - Πρόεδρος"
         },
         "contractingMembersDataList": [
           {
@@ -1775,32 +1129,36 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "082325792",
-            "greekVatNumber": false,
-            "name": "Ν. Κολυτός και ΣΙΑ Ε.Ε "
+            "vatNumber": "099249040",
+            "greekVatNumber": true,
+            "name": "ΑΝΤΩΝΙΟΥ ΑΘΑΝΑΣΙΟΣ Μ.Ε.ΠΕ."
           }
         ]
       },
-      "totalCostWithVAT": 1294.56,
-      "totalCostWithoutVAT": 1044.0,
+      "totalCostWithVAT": 24304.0,
+      "totalCostWithoutVAT": 19600.0,
       "objectDetailsList": [
         {
-          "quantity": 1,
+          "quantity": 385,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 1044,
+          "costWithoutVAT": 8685,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Σύμβαση_33/86/3_για την προμήθεια εντύπων, για την κάλυψη των αναγκών του Νοσοκομείου",
+          "shortDescription": "ΦΑΚΕΛΑ 11Χ23, ΓΟΜΕ, ΔΕΞΙ ΠΑΡΑΘΥΡΟ, ΑΣΦΑΛΕΙΑΣ ΕΚΤΥΠΩΣΗ 'Α ΟΨΗ ΜΟΝΟΧΡΩΜΙΑ  ΕΝΤΥΠΟ-ΤΑΧΥΠΛΗΡΩΜΗΣ Α4 LASER 90gr Ά ΟΨΗ 2 -ΧΡΩΜΙΑ & ΄Β ΟΨΗ ΜΟΝΟΧΡΩΜΙΑ ΕΚΤΥΠΩΣΗ ΕΝΗΜΕΡΩΤΙΚΟ ΕΝΤΥΠΟ, 80 gr ΓΡΑΦΗΣ, 4-ΧΡΩΜΙΑ ΕΚΤΥΠΩΣΗ Ά & ΄Β ΟΨΗ ",
           "cpvs": [
             {
               "key": "22820000-4",
               "value": "Έντυπα"
+            },
+            {
+              "key": "30199230-1",
+              "value": "Φάκελοι"
             }
           ],
           "greenContracts": {
@@ -1815,31 +1173,79 @@
           },
           "addressForDelivery": null,
           "postalCode": null,
-          "city": "ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑ",
+          "city": "ΑΣΠΡΟΒΑΛΤΑ",
           "streetNumber": null,
           "budgetCode": null,
-          "requestRefNo": "25AWRD017996809"
+          "requestRefNo": "26AWRD018455716"
+        },
+        {
+          "quantity": 205,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 10915,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΚΤΥΠΩΣΗ ΛΟΓΑΡΙΑΣΜΩΝ ΜΕΤΑΒΛΗΤΑ ΔΕΔΟΜΕΝΑ, Ά ΟΨΗ, ΜΟΝΟΧΡΩΜΙΑ-ΔΙΠΛΩΜΑ & ΕΜΦΑΚΕΛΩΣΗ ΛΟΓΑΡΙΑΣΜΩΝ ΕΚΤΥΠΩΣΗ ΕΝΗΜΕΡΩΤΙΚΩΝ ΕΝΤΥΠΩΝ, 80 gr ΓΡΑΦΗΣ, 4-ΧΡΩΜΙΑ ΕΚΤΥΠΩΣΗ Ά & ΄Β ΟΨΗ, ΔΙΠΛΩΜΑ & ΕΜΦΑΚΕΛΩΣΗ ",
+          "cpvs": [
+            {
+              "key": "79800000-2",
+              "value": "Υπηρεσίες εκτύπωσης και συναφείς υπηρεσίες"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΑΣΠΟΒΑΛΤΑ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018455716"
         }
       ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "3",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "mixedContract": true,
       "requestRefNo": null,
       "nextRefNo": null,
       "nextExtended": null,
       "nextModified": null,
-      "auctionRefNo": "25AWRD017996809",
+      "auctionRefNo": "26AWRD018455716",
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "99221870",
-        "22820000"
+        "22820000",
+        "30199230",
+        "79800000"
       ],
       "cpv_divisions": [
-        "22"
+        "22",
+        "30",
+        "79"
       ],
       "all_domains": [
-        "Printing & Publishing"
+        "Printing & Publishing",
+        "Office & Computing (Non-Software)",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)"
       ],
-      "primary_domain": "Printing & Publishing"
+      "primary_domain": "Office & Computing (Non-Software)"
     }
   ]
 }

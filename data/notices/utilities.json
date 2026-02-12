@@ -3,12 +3,12 @@
   "count": 2,
   "items": [
     {
-      "title": "Καταμέτρηση υδρομετρητών στη ΔΕ Βοιών",
-      "referenceNumber": "26PROC018459453",
-      "signedDate": "2026-02-10T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T14:31:45.492",
+      "title": "ΠΑΡΑΧΩΡΗΣΗ ΔΙΚΑΙΩΜΑΤΟΣ ΧΡΗΣΗΣ ΛΕΙΤΟΥΡΓΙΑΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΚΜΕΤΑΛΛΕΥΣΗΣ ΜΥΗΣ ΘΕΣΗ ΦΛΟΚΑ",
+      "referenceNumber": "26PROC018474649",
+      "signedDate": "2026-02-12T00:00:00",
+      "publishedDate": "2026-02-10T00:00:00",
+      "finalSubmissionDate": "2026-03-20T15:00:00",
+      "submissionDate": "2026-02-12T20:14:16.167",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -20,8 +20,8 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007.Ε84305.0001",
-      "biddingWebsite": null,
+      "aaht": "1007.F01391.0001",
+      "biddingWebsite": "https://nepps.eprocurement.gov.gr/",
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
       "budget": null,
@@ -29,11 +29,11 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL653",
-        "value": "Λακωνία, Μεσσηνία"
+        "key": "EL63",
+        "value": "Δυτική Ελλάδα"
       },
-      "nutsCity": "ΝΕΑΠΟΛΗ",
-      "nutsPostalCode": "23052",
+      "nutsCity": "Πύργος",
+      "nutsPostalCode": "27131",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -52,12 +52,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "88880",
-          "value": "Δ/ΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+          "key": "100099541",
+          "value": "ΥΔΡΟΗΛΕΚΤΡΙΚΗ ΗΛΕΙΑΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ - ΠΡΟΕΔΡΟΣ"
         },
         "signers": {
-          "key": "129345",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΜΑΥΡΟΜΙΧΑΛΗΣ - Αντιδήμαρχος"
+          "key": "100099540",
+          "value": "ΝΙΚΟΛΑΟΣ ΚΟΡΟΒΕΣΗΣ - Α/Α Πρόεδρος"
         }
       },
       "fundingDetails": {
@@ -67,37 +67,41 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "025.2420989006"
+        "regularBudgetFundedProgramRef": "70.00.00.0000"
       },
-      "systemicNumbers": [],
+      "systemicNumbers": [
+        {
+          "systemicNumber": "383349,1"
+        }
+      ],
       "approvedRequests": [
         {
-          "code": "26REQ018458891"
+          "code": "25REQ017700974"
         }
       ],
       "contractingAuthorities": [
         {
           "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
+            "key": "10",
+            "value": "ΝΠΙΔ"
           }
         }
       ],
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL653",
-            "value": "Λακωνία, Μεσσηνία"
+            "key": "EL633",
+            "value": "Ηλεία"
           }
         }
       ],
       "organization": {
-        "key": "6196",
-        "value": "ΔΗΜΟΣ ΜΟΝΕΜΒΑΣΙΑΣ"
+        "key": "100099522",
+        "value": "ΥΔΡΟΗΛΕΚΤΡΙΚΗ ΗΛΕΙΑΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ"
       },
       "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
+        "key": "1",
+        "value": "Ανοιχτή διαδικασία"
       },
       "contractType": {
         "key": "9",
@@ -113,37 +117,40 @@
         }
       ],
       "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+        "key": "6",
+        "value": "ν.4412/2016 - Βιβλίο ΙΙ – άνω των ορίων"
       },
       "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
+        "key": "1",
+        "value": "Ηλεκτρονική Διαδικασία"
       },
-      "digitalPlatform": null,
+      "digitalPlatform": {
+        "key": "3",
+        "value": "ΕΣΗΔΗΣ ΠΥ"
+      },
       "criteriaCode": {
-        "key": "4",
-        "value": "Βάσει κόστους – άλλο"
+        "key": "1",
+        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
+        "key": "3",
+        "value": "Διακήρυξη"
       },
       "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
+        "key": "4",
+        "value": "Περιβάλλον"
       },
-      "contractDuration": 8,
+      "contractDuration": 360,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 6000.0,
-      "totalCostWithoutVAT": 4838.71,
+      "totalCostWithVAT": 16467200.0,
+      "totalCostWithoutVAT": 13280000.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -151,17 +158,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 4838.71,
+          "costWithoutVAT": 13280000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Καταμέτρηση υδρομετρητών στη ΔΕ Βοιών",
+          "shortDescription": "ΠΑΡΑΧΩΡΗΣΗ ΤΟΥ ΔΙΚΑΙΩΜΑΤΟΣ ΧΡΗΣΗΣ, ΛΕΙΤΟΥΡΓΙΑΣ, ΔΙΑΧΕΙΡΙΣΗΣ ΕΚΜΕΤΑΛΛΕΥΣΗΣ  ΥΔΡΟΗΛΕΚΤΡΙΚΟΥ  ΣΤΑΘΜΟΥ ΠΟΥ  ΒΡΙΣΚΕΤΑΙ ΣΤΗ ΘΕΣΗ ‘ΓΕΦΥΡΑ ΦΛΟΚΑ’ ΤΟΥ ΑΡΔΕΥΤΙΚΟΥ ΦΡΑΓΜΑΤΟΣ ΤΟΥ ΠΟΤΑΜΟΥ ΑΛΦΕΙΟΥ ",
           "cpvs": [
             {
-              "key": "65500000-8",
-              "value": "Υπηρεσίες ανάγνωσης μετρητών"
+              "key": "65300000-6",
+              "value": "Διανομή ηλεκτρικού και συναφείς υπηρεσίες"
             }
           ],
           "greenContracts": {
@@ -175,13 +182,13 @@
       "additionalContractTypes": [
         {
           "additionalContractType": {
-            "key": "3",
-            "value": "Υπηρεσίες"
+            "key": "5",
+            "value": "Τεχνικές ή λοιπές συναφείς υπηρεσίες"
           }
         }
       ],
-      "mixedContract": false,
-      "offersValidTime": 1,
+      "mixedContract": true,
+      "offersValidTime": 6,
       "offersValidTimeUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -196,23 +203,27 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "65500000"
+        "16467200",
+        "13280000",
+        "65300000"
       ],
       "cpv_divisions": [
+        "16",
         "65"
       ],
       "all_domains": [
+        "Agricultural Machinery",
         "Utilities"
       ],
       "primary_domain": "Utilities"
     },
     {
-      "title": "Καταμέτρηση υδρόμετρων στις ΔΕ ΜΟΛΑΩΝ,ΑΣΩΠΟΥ,ΖΑΡΑΚΑ",
-      "referenceNumber": "26PROC018459353",
-      "signedDate": "2026-02-10T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-16T00:00:00",
-      "submissionDate": "2026-02-10T14:24:41.834",
+      "title": "ΠΑΡΑΧΩΡΗΣΗ ΔΙΚΑΙΩΜΑΤΟΣ ΧΡΗΣΗΣ ΛΕΙΤΟΥΡΓΙΑΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΚΜΕΤΑΛΛΕΥΣΗΣ ΜΥΗΣ ΘΕΣΗ ΦΛΟΚΑ",
+      "referenceNumber": "26PROC018474123",
+      "signedDate": "2026-02-12T00:00:00",
+      "publishedDate": "2026-02-10T00:00:00",
+      "finalSubmissionDate": "2026-03-20T15:00:00",
+      "submissionDate": "2026-02-12T14:20:22.551",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -224,8 +235,8 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007.Ε84305.0001",
-      "biddingWebsite": null,
+      "aaht": "1007.F01391.0001",
+      "biddingWebsite": "https://nepps.eprocurement.gov.gr/",
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
       "budget": null,
@@ -233,18 +244,18 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL653",
-        "value": "Λακωνία, Μεσσηνία"
+        "key": "EL63",
+        "value": "Δυτική Ελλάδα"
       },
-      "nutsCity": "ΜΟΛΑΩΝ,  ΖΑΡΑΚΑ,ΑΣΩΠΟΣ",
-      "nutsPostalCode": "23052",
+      "nutsCity": "Πύργος",
+      "nutsPostalCode": "27131",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
       },
       "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
+        "key": "2",
+        "value": "Όχι"
       },
       "socialContract": {
         "key": "2",
@@ -256,12 +267,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "88880",
-          "value": "Δ/ΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+          "key": "100099541",
+          "value": "ΥΔΡΟΗΛΕΚΤΡΙΚΗ ΗΛΕΙΑΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ - ΠΡΟΕΔΡΟΣ"
         },
         "signers": {
-          "key": "129345",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΜΑΥΡΟΜΙΧΑΛΗΣ - Αντιδήμαρχος"
+          "key": "100099540",
+          "value": "ΝΙΚΟΛΑΟΣ ΚΟΡΟΒΕΣΗΣ - Α/Α Πρόεδρος"
         }
       },
       "fundingDetails": {
@@ -271,37 +282,41 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "25.2420989005"
+        "regularBudgetFundedProgramRef": "70.00.00.0000"
       },
-      "systemicNumbers": [],
+      "systemicNumbers": [
+        {
+          "systemicNumber": "383349,1"
+        }
+      ],
       "approvedRequests": [
         {
-          "code": "26REQ018458891"
+          "code": "25REQ017700974"
         }
       ],
       "contractingAuthorities": [
         {
           "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
+            "key": "10",
+            "value": "ΝΠΙΔ"
           }
         }
       ],
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL653",
-            "value": "Λακωνία, Μεσσηνία"
+            "key": "EL633",
+            "value": "Ηλεία"
           }
         }
       ],
       "organization": {
-        "key": "6196",
-        "value": "ΔΗΜΟΣ ΜΟΝΕΜΒΑΣΙΑΣ"
+        "key": "100099522",
+        "value": "ΥΔΡΟΗΛΕΚΤΡΙΚΗ ΗΛΕΙΑΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ"
       },
       "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
+        "key": "1",
+        "value": "Ανοιχτή διαδικασία"
       },
       "contractType": {
         "key": "9",
@@ -317,37 +332,40 @@
         }
       ],
       "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+        "key": "6",
+        "value": "ν.4412/2016 - Βιβλίο ΙΙ – άνω των ορίων"
       },
       "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
+        "key": "1",
+        "value": "Ηλεκτρονική Διαδικασία"
       },
-      "digitalPlatform": null,
+      "digitalPlatform": {
+        "key": "3",
+        "value": "ΕΣΗΔΗΣ ΠΥ"
+      },
       "criteriaCode": {
-        "key": "4",
-        "value": "Βάσει κόστους – άλλο"
+        "key": "1",
+        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
+        "key": "2",
+        "value": "Προκήρυξη"
       },
       "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
+        "key": "4",
+        "value": "Περιβάλλον"
       },
-      "contractDuration": 8,
+      "contractDuration": 360,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 16400.0,
-      "totalCostWithoutVAT": 13225.81,
+      "totalCostWithVAT": 16467200.0,
+      "totalCostWithoutVAT": 13280000.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -355,17 +373,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 13225.81,
+          "costWithoutVAT": 13280000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Καταμέτρηση υδρόμετρων στις ΔΕ ΜΟΛΑΩΝ,ΑΣΩΠΟΥ,ΖΑΡΑΚΑ",
+          "shortDescription": "ΠΑΡΑΧΩΡΗΣΗ ΤΟΥ ΔΙΚΑΙΩΜΑΤΟΣ ΧΡΗΣΗΣ, ΛΕΙΤΟΥΡΓΙΑΣ, ΔΙΑΧΕΙΡΙΣΗΣ ΕΚΜΕΤΑΛΛΕΥΣΗΣ  ΥΔΡΟΗΛΕΚΤΡΙΚΟΥ  ΣΤΑΘΜΟΥ ΠΟΥ  ΒΡΙΣΚΕΤΑΙ ΣΤΗ ΘΕΣΗ ‘ΓΕΦΥΡΑ ΦΛΟΚΑ’ ΤΟΥ ΑΡΔΕΥΤΙΚΟΥ ΦΡΑΓΜΑΤΟΣ ΤΟΥ ΠΟΤΑΜΟΥ ΑΛΦΕΙΟΥ ",
           "cpvs": [
             {
-              "key": "65500000-8",
-              "value": "Υπηρεσίες ανάγνωσης μετρητών"
+              "key": "65300000-6",
+              "value": "Διανομή ηλεκτρικού και συναφείς υπηρεσίες"
             }
           ],
           "greenContracts": {
@@ -379,13 +397,13 @@
       "additionalContractTypes": [
         {
           "additionalContractType": {
-            "key": "3",
-            "value": "Υπηρεσίες"
+            "key": "5",
+            "value": "Τεχνικές ή λοιπές συναφείς υπηρεσίες"
           }
         }
       ],
-      "mixedContract": false,
-      "offersValidTime": 1,
+      "mixedContract": true,
+      "offersValidTime": 6,
       "offersValidTimeUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -400,12 +418,16 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "65500000"
+        "16467200",
+        "13280000",
+        "65300000"
       ],
       "cpv_divisions": [
+        "16",
         "65"
       ],
       "all_domains": [
+        "Agricultural Machinery",
         "Utilities"
       ],
       "primary_domain": "Utilities"

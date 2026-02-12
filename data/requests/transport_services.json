@@ -1,326 +1,21 @@
 {
   "domain": "Transport Services",
-  "count": 33,
+  "count": 24,
   "items": [
     {
-      "title": "Αίτημα δαπάνης ενοικίασης αυτοκινήτου",
-      "referenceNumber": "26REQ018460408",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T23:10:03.721",
-      "procurementDeliveryDate": "2026-04-18",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "Φ.711/ΑΣ153",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "Λος Αντζελες - ΗΠΑ",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "10",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "ΛΟΣ ΑΝΤΖΕΛΕΣ ΗΠΑ",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100017537",
-          "value": "ΓΕΝΙΚΟ ΠΡΟΞΕΝΕΙΟ ΤΗΣ ΕΛΛΑΔΟΣ ΣΤΟ ΛΟΣ ΑΝΤΖΕΛΕΣ (Η.Π.Α.)"
-        },
-        "signers": {
-          "key": "100084203",
-          "value": "ΧΡΙΣΤΙΝΑ ΒΑΛΑΣΣΟΠΟΥΛΟΥ - Διευθυντής"
-        }
-      },
-      "totalCostWithVAT": 4575.27,
-      "totalCostWithoutVAT": 4575.27,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 4575.27,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Αίτημα δαπάνης ενοικίασης αυτοκινήτου",
-          "cpvs": [
-            {
-              "key": "60171000-7",
-              "value": "Ενοικίαση επιβατικών αυτοκινήτων με οδηγό"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "60171000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "ΥΠΗΡΕΣΙΕΣ ΟΔΗΓΟΥ ΜΕΤΑΦΟΡΙΚΟΥ ΜΕΣΟΥ ΓΙΑ ΤΟ ΚΕΝΤΡΟ ΦΙΛΟΞΕΝΙΑΣ ΑΣΥΝΟΔΕΥΤΩΝ ΑΝΗΛΙΚΩΝ ΠΕΝΤΑΛΟΦΟΥ",
-      "referenceNumber": "26REQ018460404",
-      "previousRequestReferenceNumber": "26REQ018460403",
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T22:31:41.135",
-      "procurementDeliveryDate": "2026-02-11",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "1792",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "998059393",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6056",
-        "value": "ΔΗΜΟΣ ΒΟΙΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL531",
-        "value": "Γρεβενά, Κοζάνη"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.Ε81402.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "82123",
-          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
-        },
-        "signers": {
-          "key": "100048616",
-          "value": "ΧΡΗΣΤΟΣ ΖΕΥΚΛΗΣ - Δήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 1426.0,
-      "totalCostWithoutVAT": 1150.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1150,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΟΔΗΓΟΥ ΜΕΤΑΦΟΡΙΚΟΥ ΜΕΣΟΥ ΓΙΑ ΤΟ ΚΕΝΤΡΟ ΦΙΛΟΞΕΝΙΑΣ ΑΣΥΝΟΔΕΥΤΩΝ ΑΝΗΛΙΚΩΝ ΠΕΝΤΑΛΟΦΟΥ",
-          "cpvs": [
-            {
-              "key": "60100000-9",
-              "value": "Υπηρεσίες οδικών μεταφορών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "60100000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "ΥΠΗΡΕΣΙΕΣ ΟΔΗΓΟΥ ΜΕΤΑΦΟΡΙΚΟΥ ΜΕΣΟΥ ΓΙΑ ΤΟ ΚΕΝΤΡΟ ΦΙΛΟΞΕΝΙΑΣ ΑΣΥΝΟΔΕΥΤΩΝ ΑΝΗΛΙΚΩΝ ΠΕΝΤΑΛΟΦΟΥ",
-      "referenceNumber": "26REQ018460403",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T22:30:27.319",
-      "procurementDeliveryDate": "2026-02-11",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "1792",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "998059393",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "6056",
-        "value": "ΔΗΜΟΣ ΒΟΙΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL531",
-        "value": "Γρεβενά, Κοζάνη"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.Ε81402.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "82123",
-          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
-        },
-        "signers": {
-          "key": "100048616",
-          "value": "ΧΡΗΣΤΟΣ ΖΕΥΚΛΗΣ - Δήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 1426.0,
-      "totalCostWithoutVAT": 1150.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1150,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΟΔΗΓΟΥ ΜΕΤΑΦΟΡΙΚΟΥ ΜΕΣΟΥ ΓΙΑ ΤΟ ΚΕΝΤΡΟ ΦΙΛΟΞΕΝΙΑΣ ΑΣΥΝΟΔΕΥΤΩΝ ΑΝΗΛΙΚΩΝ ΠΕΝΤΑΛΟΦΟΥ",
-          "cpvs": [
-            {
-              "key": "60100000-9",
-              "value": "Υπηρεσίες οδικών μεταφορών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018460404"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "60100000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
       "title": "ΔΑΠΑΝΕΣ ΓΙΑ ΤΗ ΤΕΛΕΤΗ ΛΗΞΗΣ 2026",
-      "referenceNumber": "26REQ018460297",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
+      "referenceNumber": "26REQ018474647",
+      "previousRequestReferenceNumber": "26REQ018460297",
+      "signedDate": "2026-02-11",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T18:31:11.978",
+      "submissionDate": "2026-02-12T20:05:26.855",
       "procurementDeliveryDate": "2026-02-22",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "536",
+      "protocolNumber": "553",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
@@ -330,7 +25,7 @@
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
-      "approved": false,
+      "approved": true,
       "organization": {
         "key": "53359",
         "value": "ΚΟΙΝΩΦΕΛΗΣ ΕΠΙΧΕΙΡΗΣΗ ΔΗΜΟΥ ΠΑΤΡΕΩΝ - ΚΑΡΝΑΒΑΛΙ ΠΑΤΡΑΣ (ΚΕΔΗΠ)"
@@ -362,13 +57,33 @@
           "value": "ΚΕΔΗΠ/ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
         },
         "signers": {
-          "key": "100100439",
-          "value": "ΔΕΠΟΥΝΤΗΣ ΙΩΑΝΝΗΣ - Με μεταβίβαση αρμοδιοτήτων"
+          "key": "100091229",
+          "value": "ΠΑΥΛΟΣ ΣΚΟΥΡΑΣ - Πρόεδρος Δ.Σ."
         }
       },
       "totalCostWithVAT": 23996.01,
       "totalCostWithoutVAT": 19719.36,
       "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 15000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": " Καλλιτεχνικές υπηρεσίες (αμοιβές συγκροτήματος, ασφαλίσεις των καλλιτεχνών και οι νόμιμες κρατήσεις) ",
+          "cpvs": [
+            {
+              "key": "92312000-1",
+              "value": "Καλλιτεχνικές υπηρεσίες"
+            }
+          ]
+        },
         {
           "quantity": 1,
           "type": {
@@ -428,320 +143,109 @@
               "value": "Υπηρεσίες διερμηνείας"
             }
           ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 15000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": " Καλλιτεχνικές υπηρεσίες (αμοιβές συγκροτήματος, ασφαλίσεις των καλλιτεχνών και οι νόμιμες κρατήσεις) ",
-          "cpvs": [
-            {
-              "key": "92312000-1",
-              "value": "Καλλιτεχνικές υπηρεσίες"
-            }
-          ]
         }
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
       "approvalRefNo": [],
-      "noticeRefNo": [],
+      "noticeRefNo": [
+        "26PROC018474657"
+      ],
       "contractRefNo": [],
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "60651400",
         "92312000",
+        "60651400",
         "79540000"
       ],
       "cpv_divisions": [
-        "60",
         "92",
+        "60",
         "79"
       ],
       "all_domains": [
-        "Transport Services",
         "Recreation, Culture & Sports Services",
+        "Transport Services",
         "Business Services (Legal/Marketing/Recruitment/Security/Print)"
       ],
       "primary_domain": "Transport Services"
     },
     {
-      "title": "ΚΑΛΥΨΗ ΔΑΠΑΝΩΝ ΓΙΑ ΠΟΛΙΤΙΣΤΙΚΕΣ ΕΚΔΗΛΩΣΕΙΣ Αποκριάς και της Καθαρής Δευτέρας 20-23 Φεβρουαρίου",
-      "referenceNumber": "26REQ018460198",
-      "previousRequestReferenceNumber": "26REQ018459463",
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T17:00:31.117",
-      "procurementDeliveryDate": "2026-02-20",
+      "title": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ για την δαπάνη της «Ενοικίασης μικρού λεωφορείου για τη μεταφορά των φιλοξενούμενω",
+      "referenceNumber": "26REQ018473949",
+      "previousRequestReferenceNumber": "25REQ017793139",
+      "signedDate": "2025-10-23",
+      "lastUpdateDate": "2025-11-04T00:00:00",
+      "submissionDate": "2026-02-12T13:58:01.475",
+      "procurementDeliveryDate": "2026-01-01",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "380",
+      "protocolNumber": "119535",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090134594",
+      "organizationVatNumber": "997579296",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "6187",
-        "value": "ΔΗΜΟΣ ΜΕΓΑΝΗΣΙΟΥ"
+        "key": "6325",
+        "value": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)"
       },
       "nutsCode": {
-        "key": "EL624",
-        "value": "Λευκάδα"
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
       },
       "typeOfContractingAuthority": {
         "key": "9",
         "value": "ΝΠΔΔ"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
       },
-      "aaht": "1007.E83602.0001",
+      "aaht": "1007.Ε84604.0001",
       "contractTypes": [
         {
           "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
+            "key": "13",
+            "value": "Προμήθειες"
           }
         }
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "84013",
-          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
+          "key": "92161",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΚΟΙΝΩΝΙΚΗΣ ΑΝΑΠΤΥΞΗΣ"
         },
         "signers": {
-          "key": "100085508",
-          "value": "ΓΕΡΑΣΙΜΟΣ ΚΑΤΩΠΟΔΗΣ - Δήμαρχος"
+          "key": "100042133",
+          "value": "ΑΝΤΩΝΗΣ ΠΑΣΠΑΛΙΑΡΗΣ - Προϊστάμενος Τμήματος"
         }
       },
-      "totalCostWithVAT": 10600.0,
-      "totalCostWithoutVAT": 8638.67,
+      "totalCostWithVAT": 53754.0,
+      "totalCostWithoutVAT": 43350.0,
       "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΘΑΛΑΣΣΙΑΣ ΜΕΤΑΦΟΡΑΣ",
-          "cpvs": [
-            {
-              "key": "60000000-8",
-              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 4072.58,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΛΛΙΤΕΧΝΙΚΕΣ ΥΠΗΡΕΣΙΕΣ ΕΚΔΗΛΩΣΕΩΝ",
-          "cpvs": [
-            {
-              "key": "92312000-1",
-              "value": "Καλλιτεχνικές υπηρεσίες"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1017.7,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΠΑΡΟΧΗΣ ΦΑΓΗΤΟΥ",
-          "cpvs": [
-            {
-              "key": "55300000-3",
-              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΤΑΣΚΕΥΗ ΚΑΡΝΑΒΑΛΙΚΟΥ ΑΡΜΑΤΟΣ",
-          "cpvs": [
-            {
-              "key": "45262600-7",
-              "value": "Διάφορες κατασκευαστικές εργασίες ειδικής φύσης"
-            }
-          ]
-        },
         {
           "quantity": 1,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 1548.39,
+          "costWithoutVAT": 43350,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΑΠΟΚΡΙΑΤΙΚΕΣ ΣΤΟΛΕΣ",
-          "cpvs": [
-            {
-              "key": "18400000-3",
-              "value": "Ειδικά ενδύματα και εξαρτήματα ένδυσης"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "60000000",
-        "92312000",
-        "55300000",
-        "45262600",
-        "18400000"
-      ],
-      "cpv_divisions": [
-        "60",
-        "92",
-        "55",
-        "45",
-        "18"
-      ],
-      "all_domains": [
-        "Transport Services",
-        "Recreation, Culture & Sports Services",
-        "Hospitality, Retail & Catering Services",
-        "Construction & Works",
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Construction & Works"
-    },
-    {
-      "title": "ΕΓΚΕΚΡΙΜΕΝ ΑΙΤΗΜΑ ΔΕΣΜΕΥΣΗΣ ΠΙΣΤΩΣΗΣ ΓΙΑ ΤΗ ΜΕΤΑΦΟΡΑ ΜΑΘΗΤΩΝ ΣΧΟΛΙΚΟΥ ΕΤ ΑΠΟ 11.09.25 ΕΩΣ 31.12.25",
-      "referenceNumber": "26REQ018459973",
-      "previousRequestReferenceNumber": "23REQ012013154",
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": "2026-01-19T00:00:00",
-      "submissionDate": "2026-02-10T15:39:25.303",
-      "procurementDeliveryDate": "2026-02-11",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "22337/26",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": "x.konstantinidis@pdm.gov.gr",
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997769589",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "5005",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL533",
-        "value": "Φλώρινα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.903.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100071959",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΩΝ ΚΑΙ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ ΠΕ ΦΛΩΡΙΝΑΣ"
-        },
-        "signers": {
-          "key": "100084423",
-          "value": "ΑΘΑΝΑΣΙΟΣ ΤΑΣΚΑΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
-        }
-      },
-      "totalCostWithVAT": 442492.15,
-      "totalCostWithoutVAT": 391585.97,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 391585.97,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΕΓΚΕΚΡΙΜΕΝΟ ΑΙΤΗΜΑ ΔΕΣΜΕΥΣΗΣ ΠΙΣΤΩΣΗΣ ΓΙΑ ΤΗ ΜΕΤΑΦΟΡΑ ΜΑΘΗΤΩΝ ΣΧΟΛΙΚΟΥ ΕΤ. 2025-2026",
+          "shortDescription": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ για την δαπάνη της «Ενοικίασης μικρού λεωφορείου για τη μεταφορά των φιλοξενούμενων του Κέντρου Δημιουργικής Απασχόλησης Παιδιών και Ατόμων με Αναπηρία (Κ.Δ.Α.Π.ΑμεΑ) Δ. Ηρακλείου Κρήτης», σε βάρος του ΚΑ εξόδων: 15-6473.034 με τίτλο «Λειτουργία ΚΔΑΠΑμεΑ Δήμου Ηρακλείου με ίδιους πόρους» για δώδεκα (12) μήνες.",
           "cpvs": [
             {
               "key": "60130000-8",
@@ -769,815 +273,36 @@
       "primary_domain": "Transport Services"
     },
     {
-      "title": "ΑΝΑΛΗΨΗ ΔΑΠΑΝΗΣ",
-      "referenceNumber": "26REQ018459963",
-      "previousRequestReferenceNumber": "26REQ018459960",
-      "signedDate": "2026-01-07",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T15:36:57.839",
-      "procurementDeliveryDate": "2026-03-16",
+      "title": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ ΓΙΑ ΤΗΝ ΕΝΟΙΚ ΛΕΩΦ ΓΙΑ ΜΕΤΑΦΟΡΑ ΩΦΕΛΟΥΜΕΝΩΝ ΤΟΥ ΚΔΑΠΑμεΑ ΔΗΜΟΥ ΗΡΑΚΛΕΙΟΥ",
+      "referenceNumber": "26REQ018473930",
+      "previousRequestReferenceNumber": "23REQ012959485",
+      "signedDate": "2023-06-27",
+      "lastUpdateDate": "2025-09-29T00:00:00",
+      "submissionDate": "2026-02-12T13:55:37.182",
+      "procurementDeliveryDate": "2023-12-31",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "300126579",
+      "protocolNumber": "59275",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
-      "authorEmail": null,
+      "authorEmail": "koinoniki-anaptixi@heraklion.gr",
       "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "094079101",
+      "organizationVatNumber": "997579296",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "99201059",
-        "value": "ΕΥΔΑΠ ΑΕ"
+        "key": "6325",
+        "value": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)"
       },
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1039. F00987.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100023749",
-          "value": "ΥΠΗΡΕΣΙΑ Α΄ ΤΟΜΕΑ - ΑΘΗΝΑΣ"
-        },
-        "signers": {
-          "key": "100075227",
-          "value": "ΓΕΩΡΓΙΟΣ ΑΝΤΩΝΑΚΟΠΟΥΛΟΣ - Προϊστάμενος"
-        }
-      },
-      "totalCostWithVAT": 5500.95,
-      "totalCostWithoutVAT": 4436.25,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 4436.25,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΝΑΛΗΨΗ ΔΑΠΑΝΗΣ",
-          "cpvs": [
-            {
-              "key": "60181000-0",
-              "value": "Ενοικίαση φορτηγών αυτοκινήτων με οδηγό"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [
-        "26PAY018459978"
-      ],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99201059",
-        "60181000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "ΑΝΑΛΗΨΗ ΔΑΠΑΝΗΣ",
-      "referenceNumber": "26REQ018459960",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-01-07",
-      "lastUpdateDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T15:36:13.884",
-      "procurementDeliveryDate": "2026-03-16",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "300126579",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "094079101",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99201059",
-        "value": "ΕΥΔΑΠ ΑΕ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1039. F00987.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100023749",
-          "value": "ΥΠΗΡΕΣΙΑ Α΄ ΤΟΜΕΑ - ΑΘΗΝΑΣ"
-        },
-        "signers": {
-          "key": "100075227",
-          "value": "ΓΕΩΡΓΙΟΣ ΑΝΤΩΝΑΚΟΠΟΥΛΟΣ - Προϊστάμενος"
-        }
-      },
-      "totalCostWithVAT": 5500.95,
-      "totalCostWithoutVAT": 4436.25,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 4436.25,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΝΑΛΗΨΗ ΔΑΠΑΝΗΣ",
-          "cpvs": [
-            {
-              "key": "60181000-0",
-              "value": "Ενοικίαση φορτηγών αυτοκινήτων με οδηγό"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018459963"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99201059",
-        "60181000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "ΑΝΑΛΗΨΗ ΔΑΠΑΝΗΣ",
-      "referenceNumber": "26REQ018459909",
-      "previousRequestReferenceNumber": "26REQ018459907",
-      "signedDate": "2026-01-07",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T15:26:33.233",
-      "procurementDeliveryDate": "2026-03-16",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "300126282",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "094079101",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "99201059",
-        "value": "ΕΥΔΑΠ ΑΕ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1039. F00987.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100023751",
-          "value": "ΥΠΗΡΕΣΙΑ Β΄ ΤΟΜΕΑ - ΠΕΙΡΑΙΑ"
-        },
-        "signers": {
-          "key": "100100565",
-          "value": "ΕΜΜΑΝΟΥΗΛ ΜΑΛΛΙΩΤΑΚΗΣ - Προϊστάμενος"
-        }
-      },
-      "totalCostWithVAT": 3441.5,
-      "totalCostWithoutVAT": 2775.4,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 2775.4,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΝΑΛΗΨΗ ΔΑΠΑΝΗΣ",
-          "cpvs": [
-            {
-              "key": "60181000-0",
-              "value": "Ενοικίαση φορτηγών αυτοκινήτων με οδηγό"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [
-        "26PAY018459929"
-      ],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99201059",
-        "60181000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "ΑΝΑΛΗΨΗ ΔΑΠΑΝΗΣ",
-      "referenceNumber": "26REQ018459907",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-01-07",
-      "lastUpdateDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T15:26:07.2",
-      "procurementDeliveryDate": "2026-03-16",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "300126282",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "094079101",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99201059",
-        "value": "ΕΥΔΑΠ ΑΕ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1039. F00987.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100023751",
-          "value": "ΥΠΗΡΕΣΙΑ Β΄ ΤΟΜΕΑ - ΠΕΙΡΑΙΑ"
-        },
-        "signers": {
-          "key": "100100565",
-          "value": "ΕΜΜΑΝΟΥΗΛ ΜΑΛΛΙΩΤΑΚΗΣ - Προϊστάμενος"
-        }
-      },
-      "totalCostWithVAT": 3441.5,
-      "totalCostWithoutVAT": 2775.4,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 2775.4,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΝΑΛΗΨΗ ΔΑΠΑΝΗΣ",
-          "cpvs": [
-            {
-              "key": "60181000-0",
-              "value": "Ενοικίαση φορτηγών αυτοκινήτων με οδηγό"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018459909"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99201059",
-        "60181000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "ΑΝΑΛΗΨΗ ΔΑΠΑΝΗΣ",
-      "referenceNumber": "26REQ018459795",
-      "previousRequestReferenceNumber": "26REQ018459792",
-      "signedDate": "2026-01-08",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T15:04:30.345",
-      "procurementDeliveryDate": "2026-03-16",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "300126276",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "094079101",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "99201059",
-        "value": "ΕΥΔΑΠ ΑΕ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1039. F00987.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100023751",
-          "value": "ΥΠΗΡΕΣΙΑ Β΄ ΤΟΜΕΑ - ΠΕΙΡΑΙΑ"
-        },
-        "signers": {
-          "key": "100100565",
-          "value": "ΕΜΜΑΝΟΥΗΛ ΜΑΛΛΙΩΤΑΚΗΣ - Προϊστάμενος"
-        }
-      },
-      "totalCostWithVAT": 3314.68,
-      "totalCostWithoutVAT": 2673.13,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 2673.13,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΝΑΛΗΨΗ ΔΑΠΑΝΗΣ",
-          "cpvs": [
-            {
-              "key": "60181000-0",
-              "value": "Ενοικίαση φορτηγών αυτοκινήτων με οδηγό"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [
-        "26PAY018459813"
-      ],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99201059",
-        "60181000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "ΑΝΑΛΗΨΗ ΔΑΠΑΝΗΣ",
-      "referenceNumber": "26REQ018459792",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-01-08",
-      "lastUpdateDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T15:03:59.362",
-      "procurementDeliveryDate": "2026-03-16",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "300126276",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "094079101",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99201059",
-        "value": "ΕΥΔΑΠ ΑΕ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1039. F00987.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100023751",
-          "value": "ΥΠΗΡΕΣΙΑ Β΄ ΤΟΜΕΑ - ΠΕΙΡΑΙΑ"
-        },
-        "signers": {
-          "key": "100100565",
-          "value": "ΕΜΜΑΝΟΥΗΛ ΜΑΛΛΙΩΤΑΚΗΣ - Προϊστάμενος"
-        }
-      },
-      "totalCostWithVAT": 3314.68,
-      "totalCostWithoutVAT": 2673.13,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 2673.13,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΝΑΛΗΨΗ ΔΑΠΑΝΗΣ",
-          "cpvs": [
-            {
-              "key": "60181000-0",
-              "value": "Ενοικίαση φορτηγών αυτοκινήτων με οδηγό"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018459795"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99201059",
-        "60181000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "ΜΕΤΑΦΟΡΑ ΠΙΣΤΩΣΕΩΝ ΣΤΗΝ ΠΕΔΙ ΑΧΑΙΑΣ",
-      "referenceNumber": "26REQ018459571",
-      "previousRequestReferenceNumber": "25REQ017990417",
-      "signedDate": "2026-01-30",
-      "lastUpdateDate": "2025-12-05T00:00:00",
-      "submissionDate": "2026-02-10T14:41:35.875",
-      "procurementDeliveryDate": "2026-03-15",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "AAY M7",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997478553",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "54497",
-        "value": "ΕΘΝΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ ΥΓΕΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL632",
-        "value": "Αχαΐα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1015.E004600.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "91072",
-          "value": "ΠΕΡΙΦΕΡΕΙΑΚΗ Δ/ΝΣΗ ΕΟΠΥΥ ΑΧΑΙΑΣ"
-        },
-        "signers": {
-          "key": "100018144",
-          "value": "ΣΟΦΙΑ ΟΙΚΟΝΟΜΟΠΟΥΛΟΥ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
-        }
-      },
-      "totalCostWithVAT": 19887.19,
-      "totalCostWithoutVAT": 16038.06,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 8780,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Έγκριση σκοπιμότητας και δαπάνης για υπηρεσίες μεταστέγασης της ΠΕΔΙ Αχαΐας σε νέες εγκαταστάσεις.",
-          "cpvs": [
-            {
-              "key": "60000000-8",
-              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1612.9,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Έγκριση σκοπιμότητας και δαπάνης α) για υπηρεσίες μεταστέγασης της ΠΕΔΙ Αχαΐας σε νέες εγκαταστάσεις και β) προμήθεια, εγκατάσταση και παρακολούθηση συστήματος καταγραφής   θερμοκρασιών ψυγείων Φαρμάκων και  μεταφορά των σχετικών πιστώσεων  προς την εν λόγω  ΠΕΔΙ",
-          "cpvs": [
-            {
-              "key": "50413000-3",
-              "value": "Υπηρεσίες επισκευής και συντήρησης συσκευών ελέγχου"
-            },
-            {
-              "key": "60000000-8",
-              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
-            },
-            {
-              "key": "32584000-0",
-              "value": "Μέσα καταγραφής δεδομένων"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 5645.16,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Έγκριση σκοπιμότητας και δαπάνης α) για υπηρεσίες μεταστέγασης της ΠΕΔΙ Αχαΐας σε νέες εγκαταστάσεις και β) προμήθεια, εγκατάσταση και παρακολούθηση συστήματος καταγραφής   θερμοκρασιών ψυγείων Φαρμάκων και  μεταφορά των σχετικών πιστώσεων  προς την εν λόγω  ΠΕΔΙ",
-          "cpvs": [
-            {
-              "key": "32584000-0",
-              "value": "Μέσα καταγραφής δεδομένων"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "60000000",
-        "50413000",
-        "32584000"
-      ],
-      "cpv_divisions": [
-        "60",
-        "50",
-        "32"
-      ],
-      "all_domains": [
-        "Transport Services",
-        "Repair & Maintenance",
-        "Telecom & Electronics"
-      ],
-      "primary_domain": "Telecom & Electronics"
-    },
-    {
-      "title": "ΚΑΛΥΨΗ ΔΑΠΑΝΩΝ ΓΙΑ ΠΟΛΙΤΙΣΤΙΚΕΣ ΕΚΔΗΛΩΣΕΙΣ Αποκριάς και της Καθαρής Δευτέρας 20-23 Φεβρουαρίου",
-      "referenceNumber": "26REQ018459463",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T14:32:12.438",
-      "procurementDeliveryDate": "2026-02-20",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "374",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090134594",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "6187",
-        "value": "ΔΗΜΟΣ ΜΕΓΑΝΗΣΙΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL624",
-        "value": "Λευκάδα"
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
       },
       "typeOfContractingAuthority": {
         "key": "9",
@@ -1587,7 +312,7 @@
         "key": "2",
         "value": "ΟΤΑ"
       },
-      "aaht": "1007.E83602.0001",
+      "aaht": "1007.Ε84604.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -1598,309 +323,34 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "84014",
-          "value": "ΤΕΧΝΙΚΗ ΥΠΗΡΕΣΙΑ"
+          "key": "92161",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΚΟΙΝΩΝΙΚΗΣ ΑΝΑΠΤΥΞΗΣ"
         },
         "signers": {
-          "key": "100085508",
-          "value": "ΓΕΡΑΣΙΜΟΣ ΚΑΤΩΠΟΔΗΣ - Δήμαρχος"
+          "key": "100042133",
+          "value": "ΑΝΤΩΝΗΣ ΠΑΣΠΑΛΙΑΡΗΣ - Προϊστάμενος Τμήματος"
         }
       },
-      "totalCostWithVAT": 10600.0,
-      "totalCostWithoutVAT": 8638.67,
+      "totalCostWithVAT": 90718.4,
+      "totalCostWithoutVAT": 73160.0,
       "objectDetails": [
         {
           "quantity": 1,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "AG-001",
+            "value": "Μελέτη"
           },
-          "costWithoutVAT": 1000,
+          "costWithoutVAT": 73160,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΘΑΛΑΣΣΙΑΣ ΜΕΤΑΦΟΡΑΣ",
+          "shortDescription": "Η συνολική Δαπάνη για την μεταφορά των ωφελουμένων του ΚΔΑΠΑμεΑ ανέρχεται στο συνολ. ποσό των 73.160 ευρώ χωρίς ΦΠΑ και βαρύνει τον ΚΑ 15-6473.034 με τίτλο¨Λειτουργία ΚΔΑΠΑμεΑ Δήμου Ηρακλείου με ίδιους πόρους\" Ανάλυση: για το έτος 2023 ανέρχεται στο ποσό 13.120 ευρώ χωρίς ΦΠΑ, για το έτος 2024 ανέρχεται στο ποσό 37.080 χωρίς ΦΠΑ και για το έτος 2025 ανέρχεται  στο ποσό 22.960 ευρώ χωρίς ΦΠΑ.",
           "cpvs": [
             {
-              "key": "60000000-8",
-              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1548.39,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΠΟΚΡΙΑΤΙΚΕΣ ΣΤΟΛΕΣ",
-          "cpvs": [
-            {
-              "key": "18400000-3",
-              "value": "Ειδικά ενδύματα και εξαρτήματα ένδυσης"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΤΑΣΚΕΥΗ ΚΑΡΝΑΒΑΛΙΚΟΥ ΑΡΜΑΤΟΣ",
-          "cpvs": [
-            {
-              "key": "45262600-7",
-              "value": "Διάφορες κατασκευαστικές εργασίες ειδικής φύσης"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 4072.58,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΛΛΙΤΕΧΝΙΚΕΣ ΥΠΗΡΕΣΙΕΣ ΕΚΔΗΛΩΣΕΩΝ",
-          "cpvs": [
-            {
-              "key": "92312000-1",
-              "value": "Καλλιτεχνικές υπηρεσίες"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1017.7,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΠΑΡΟΧΗΣ ΦΑΓΗΤΟΥ",
-          "cpvs": [
-            {
-              "key": "55300000-3",
-              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018460198"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "60000000",
-        "18400000",
-        "45262600",
-        "92312000",
-        "55300000"
-      ],
-      "cpv_divisions": [
-        "60",
-        "18",
-        "45",
-        "92",
-        "55"
-      ],
-      "all_domains": [
-        "Transport Services",
-        "Clothing & PPE",
-        "Construction & Works",
-        "Recreation, Culture & Sports Services",
-        "Hospitality, Retail & Catering Services"
-      ],
-      "primary_domain": "Construction & Works"
-    },
-    {
-      "title": "ΚΑΛΥΨΗ ΔΑΠΑΝΩΝ ΓΙΑ ΠΟΛΙΤΙΣΤΙΚΕΣ ΕΚΔΗΛΩΣΕΙΣ Αποκριάς και της Καθαρής Δευτέρας 20-23 Φεβρουαρίου",
-      "referenceNumber": "26REQ018459352",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": "2026-02-10T14:26:54.025",
-      "submissionDate": "2026-02-10T14:24:32.464",
-      "procurementDeliveryDate": "2026-02-20",
-      "cancellationDate": "2026-02-10T14:26:54.025",
-      "cancelled": true,
-      "cancellationReason": "καταχωρήθηκαν λάθος σύνολο στο έντυπο, θα αναρτηθεί εκ νέου",
-      "cancellationADA": null,
-      "cancellationType": "Ακύρωση λόγω λανθασμένης καταχώρησης",
-      "protocolNumber": "374",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090134594",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "6187",
-        "value": "ΔΗΜΟΣ ΜΕΓΑΝΗΣΙΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL624",
-        "value": "Λευκάδα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.E83602.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "84014",
-          "value": "ΤΕΧΝΙΚΗ ΥΠΗΡΕΣΙΑ"
-        },
-        "signers": {
-          "key": "100085508",
-          "value": "ΓΕΡΑΣΙΜΟΣ ΚΑΤΩΠΟΔΗΣ - Δήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 10600.0,
-      "totalCostWithoutVAT": 8638.67,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΤΑΣΚΕΥΗ ΚΑΡΝΑΒΑΛΙΚΟΥ ΑΡΜΑΤΟΣ",
-          "cpvs": [
-            {
-              "key": "45262600-7",
-              "value": "Διάφορες κατασκευαστικές εργασίες ειδικής φύσης"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1017.7,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΠΑΡΟΧΗΣ ΦΑΓΗΤΟΥ",
-          "cpvs": [
-            {
-              "key": "55300000-3",
-              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΘΑΛΑΣΣΙΑΣ ΜΕΤΑΦΟΡΑΣ",
-          "cpvs": [
-            {
-              "key": "60000000-8",
-              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
-            }
-          ]
-        },
-        {
-          "quantity": 2,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 4072.58,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΛΛΙΤΕΧΝΙΚΕΣ ΥΠΗΡΕΣΙΕΣ ΕΚΔΗΛΩΣΕΩΝ",
-          "cpvs": [
-            {
-              "key": "92312000-1",
-              "value": "Καλλιτεχνικές υπηρεσίες"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1548.39,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΣΤΟΛΩΝ",
-          "cpvs": [
-            {
-              "key": "18400000-3",
-              "value": "Ειδικά ενδύματα και εξαρτήματα ένδυσης"
+              "key": "60130000-8",
+              "value": "Υπηρεσίες ειδικών οδικών μεταφορών επιβατών"
             }
           ]
         }
@@ -1913,275 +363,43 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "45262600",
-        "55300000",
-        "60000000",
-        "92312000",
-        "18400000"
+        "60130000"
       ],
       "cpv_divisions": [
-        "45",
-        "55",
-        "60",
-        "92",
-        "18"
-      ],
-      "all_domains": [
-        "Construction & Works",
-        "Hospitality, Retail & Catering Services",
-        "Transport Services",
-        "Recreation, Culture & Sports Services",
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Construction & Works"
-    },
-    {
-      "title": "Έγκριση για την προμήθεια αναλώσιμων αντιδραστηρίων ",
-      "referenceNumber": "26REQ018459192",
-      "previousRequestReferenceNumber": "26REQ018459159",
-      "signedDate": "2026-02-09",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T14:13:10.15",
-      "procurementDeliveryDate": "2026-02-28",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "052/2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "998010303",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "52823",
-        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΠΕΛΛΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL524",
-        "value": "Πέλλα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.F00810.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "86142",
-          "value": "ΔΙΟΙΚΗΤΙΚΟ - ΟΙΚΟΝΟΜΙΚΟ"
-        },
-        "signers": {
-          "key": "100095488",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΚΕΧΑΓΙΑΔΑΚΗΣ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 4551.79,
-      "totalCostWithoutVAT": 3670.8,
-      "objectDetails": [
-        {
-          "quantity": 36,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 3670.8,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΧΗΜΙΚΑ ΑΝΤΙΔΡΑΣΤΗΡΙΑ",
-          "cpvs": [
-            {
-              "key": "60000000-8",
-              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
-            },
-            {
-              "key": "33696300-8",
-              "value": "Χημικά αντιδραστήρια"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [
-        "26PROC018459355"
-      ],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "60000000",
-        "33696300"
-      ],
-      "cpv_divisions": [
-        "60",
-        "33"
-      ],
-      "all_domains": [
-        "Transport Services",
-        "Medical & Pharma"
-      ],
-      "primary_domain": "Medical & Pharma"
-    },
-    {
-      "title": "Εισήγηση για την προμήθεια αναλώσιμων αντιδραστηρίων ",
-      "referenceNumber": "26REQ018459159",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-01-22",
-      "lastUpdateDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T14:11:04.645",
-      "procurementDeliveryDate": "2026-02-28",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "01Α/2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "998010303",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "52823",
-        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΠΕΛΛΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL524",
-        "value": "Πέλλα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.F00810.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "86142",
-          "value": "ΔΙΟΙΚΗΤΙΚΟ - ΟΙΚΟΝΟΜΙΚΟ"
-        },
-        "signers": {
-          "key": "100095488",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΚΕΧΑΓΙΑΔΑΚΗΣ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 4551.79,
-      "totalCostWithoutVAT": 3670.8,
-      "objectDetails": [
-        {
-          "quantity": 36,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 3670.8,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΧΗΜΙΚΑ ΑΝΤΙΔΡΑΣΤΗΡΙΑ",
-          "cpvs": [
-            {
-              "key": "33696300-8",
-              "value": "Χημικά αντιδραστήρια"
-            },
-            {
-              "key": "60000000-8",
-              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018459192"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "33696300",
-        "60000000"
-      ],
-      "cpv_divisions": [
-        "33",
         "60"
       ],
       "all_domains": [
-        "Medical & Pharma",
         "Transport Services"
       ],
-      "primary_domain": "Medical & Pharma"
+      "primary_domain": "Transport Services"
     },
     {
-      "title": "ΑΙΤΗΣΗ ΕΚΔΟΣΗΣ ΑΠΟΦΑΣΗΣ ΠΟΛΥΕΤΟΥΣ ΔΑΠΑΝΗΣ ΜΙΣΘΩΣΗ ΠΟΥΛΜΑΝ 2025 2026",
-      "referenceNumber": "26REQ018459074",
-      "previousRequestReferenceNumber": "25REQ016827832",
-      "signedDate": "2025-05-15",
-      "lastUpdateDate": "2025-05-27T00:00:00",
-      "submissionDate": "2026-02-10T14:06:02.414",
-      "procurementDeliveryDate": "2025-06-25",
+      "title": " Παροχή υπηρεσιών μεταφορών/μετακομίσεων μικρής κλίμακας",
+      "referenceNumber": "26REQ018473805",
+      "previousRequestReferenceNumber": "25REQ018047229",
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": "2025-12-09T00:00:00",
+      "submissionDate": "2026-02-12T13:45:33.48",
+      "procurementDeliveryDate": "2026-12-31",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "6432",
+      "protocolNumber": "16317",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997420620",
+      "organizationVatNumber": "090010689",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "54511",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΠΟΛΙΤΙΣΜΟΥ ΑΘΛΗΤΙΣΜΟΥ ΚΑΙ ΝΕΟΛΑΙΑΣ ΔΗΜΟΥ ΑΘΗΝΑΙΩΝ"
+        "key": "99203020",
+        "value": "ΕΘΝΙΚΟ & ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
       },
       "nutsCode": {
         "key": "EL303",
@@ -2192,10 +410,10 @@
         "value": "ΝΠΔΔ"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
       },
-      "aaht": "1007.E89525.0001",
+      "aaht": "1020.Ε00286.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -2206,15 +424,15 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "92907",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΟΥ"
+          "key": "73426",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
         },
         "signers": {
-          "key": "100101807",
-          "value": "ΡΩΞΑΝΗ ΕΥΑΓΓΕΛΙΑ ΜΠΕΗ ΚΑΡΑΜΠΟΤΣΟΥ - Πρόεδρος Δ.Σ."
+          "key": "100060315",
+          "value": "ΓΕΡΑΣΙΜΟΣ ΣΙΑΣΟΣ - Πρόεδρος Επιτροπής Ερευνών"
         }
       },
-      "totalCostWithVAT": 33900.0,
+      "totalCostWithVAT": 37200.0,
       "totalCostWithoutVAT": 30000.0,
       "objectDetails": [
         {
@@ -2224,12 +442,114 @@
             "value": "Υπηρεσία"
           },
           "costWithoutVAT": 30000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Παροχή υπηρεσιών μεταφορών/μετακομίσεων μικρής κλίμακας για κάλυψη αναγκών Διοικητικών μονάδων του Ιδρύματος",
+          "cpvs": [
+            {
+              "key": "60000000-8",
+              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99203020",
+        "60000000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "Α.Α. 293 \"ΥΠΗΡΕΣΙΕΣ ΜΕΤΑΦΟΡΩΝ ΔΗΜΟΤΩΝ ΤΟΥ ΔΗΜΟΥ ΦΥΛΗΣ\"",
+      "referenceNumber": "26REQ018473642",
+      "previousRequestReferenceNumber": "24REQ015570387",
+      "signedDate": "2026-01-02",
+      "lastUpdateDate": "2025-01-31T00:00:00",
+      "submissionDate": "2026-02-12T13:32:44.693",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "293",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": "dperiouspromhth@fyli.gr",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997675481",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6312",
+        "value": "ΔΗΜΟΣ ΦΥΛΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL306",
+        "value": "Δυτική Αττική"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε85005.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "89907",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100047592",
+          "value": "ΠΑΝΤΕΛΗΣ ΒΑΜΒΟΥΚΑΣ - Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 99999.99,
+      "totalCostWithoutVAT": 88495.57,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 88495.57,
           "vat": "13",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΑΙΤΗΣΗ ΕΚΔΟΣΗΣ ΑΠΟΦΑΣΗΣ ΠΟΛΥΕΤΟΥΣ ΔΑΠΑΝΗΣ ΜΙΣΘΩΣΗ ΠΟΥΛΜΑΝ 2025 2026  Α.Α.Υ. ΑΠΟ ΠΟΛΥΕΤΗ 2026",
+          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΜΕΤΑΦΟΡΩΝ ΔΗΜΟΤΩΝ ΤΟΥ ΔΗΜΟΥ ΦΥΛΗΣ",
           "cpvs": [
             {
               "key": "60172000-4",
@@ -2257,19 +577,1909 @@
       "primary_domain": "Transport Services"
     },
     {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΧΗΜΙΚΩΝ ΑΝΤΙΔΡΑΣΤΗΡΙΩΝ ΕΤΩΝ 2025-2026",
-      "referenceNumber": "26REQ018458955",
-      "previousRequestReferenceNumber": "25REQ017476041",
-      "signedDate": "2025-09-02",
-      "lastUpdateDate": "2025-09-02T00:00:00",
-      "submissionDate": "2026-02-10T13:58:36",
-      "procurementDeliveryDate": "2025-09-12",
+      "title": "ΕΓΚΡΙΣΗ ΔΑΠΑΝΗΣ ΓΙΑ ΣΥΜΒ.ΜΕΤΑΦΟΡΙΚΗΣ ΠΥΣΥ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ ",
+      "referenceNumber": "26REQ018473314",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T13:07:41.512",
+      "procurementDeliveryDate": "2026-03-01",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "2123",
+      "protocolNumber": "292124",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997072577",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "100059918",
+        "value": "ΗΛΕΚΤΡΟΝΙΚΟΣ ΕΘΝΙΚΟΣ ΦΟΡΕΑΣ ΚΟΙΝΩΝΙΚΗΣ ΑΣΦΑΛΙΣΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL64",
+        "value": "Στερεά Ελλάδα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1032.E00922.0013",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100046186",
+          "value": "Π.Υ.Σ.Υ. ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ"
+        },
+        "signers": {
+          "key": "100101065",
+          "value": "ΟΛΓΑ ΣΤΑΥΡΟΠΟΥΛΟΥ - Γενικός Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 37200.0,
+      "totalCostWithoutVAT": 30000.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 30000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Θέμα: A) Έγκριση προϋπολογισθείσας δαπάνης ποσού έως #30.000,00€# (τριάντα χιλιάδωνευρώ) πλέον ΦΠΑ 24%, ήτοι έως #37.200,00€# (τριάντα επτά χιλιάδων διακοσίων ευρώ) συμπεριλαμβανομένου ΦΠΑ 24%, για την σύναψη σύμβασης με αντικείμενο την παροχήΥπηρεσιών Μεταφορών (εκτός από την μεταφορά αποβλήτων) για κάλυψη αναγκών στιςδομές αρμοδιότητας της ΠΥΣΥ Στερεάς Ελλάδας. Η σχετική δαπάνη θα βαρύνει τον",
+          "cpvs": [
+            {
+              "key": "60000000-8",
+              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "60000000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "Μίσθωση φορτηγού για χαλικόστρωση Δημοτικών Δρόμων Αχελώου",
+      "referenceNumber": "26REQ018472347",
+      "previousRequestReferenceNumber": "24REQ016089067",
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": "2025-02-21T00:00:00",
+      "submissionDate": "2026-02-12T12:13:11.187",
+      "procurementDeliveryDate": "2026-02-13",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "753",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": "o.klara@argithea.gov.gr",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "800231953",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6041",
+        "value": "ΔΗΜΟΣ ΑΡΓΙΘΕΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL611",
+        "value": "Καρδίτσα, Τρίκαλα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E82302.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100003948",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100085288",
+          "value": "ΝΙΚΟΛΑΟΣ ΣΑΚΚΑΣ - Αντιδήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 4999.68,
+      "totalCostWithoutVAT": 4032.0,
+      "objectDetails": [
+        {
+          "quantity": 90,
+          "type": {
+            "key": "HUR",
+            "value": "Ώρα"
+          },
+          "costWithoutVAT": 4032,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Μίσθωση φορτηγού για χαλικόστρωση Δημοτικών Δρόμων Αχελώου",
+          "cpvs": [
+            {
+              "key": "60180000-3",
+              "value": "Ενοικίαση οχημάτων μεταφοράς εμπορευμάτων με οδηγό"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "60180000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "Δαπάνες ανάθεσης για μεταφορά-μετακίνηση μελών ΚΑΠΗ 2026",
+      "referenceNumber": "26REQ018471983",
+      "previousRequestReferenceNumber": "25REQ018016323",
+      "signedDate": "2026-02-05",
+      "lastUpdateDate": "2025-12-09T00:00:00",
+      "submissionDate": "2026-02-12T11:57:38.256",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "5026",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997645384",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6090",
+        "value": "ΔΗΜΟΣ ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL304",
+        "value": "Νότιος Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E84805.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81752",
+          "value": "Δ3: ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ"
+        },
+        "signers": {
+          "key": "100073857",
+          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΣΤΕΦΑΣ - Αντιδήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 30892.74,
+      "totalCostWithoutVAT": 27338.71,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 27338.71,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Η παρούσα Τεχνική Έκθεση συντάχθηκε από τη Διεύθυνση Κοινωνικής Συνοχής του Δήμου Ελληνικού Αργυρούπολης με αντικείμενο την παροχή υπηρεσιών μεταφοράς πολιτών που ωφελούνται από τις δομές και τις υπηρεσίες του Δήμου και συγκεκριμένα από το τμήμα Γ΄ Ηλικίας του Δήμου Ελληνικού Αργυρούπολης έτους 2026. ",
+          "cpvs": [
+            {
+              "key": "60172000-4",
+              "value": "Ενοικίαση λεωφορείων και πούλμαν με οδηγό"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "60172000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "ΑΑΥ -Ενοικίαση φορτηγού οχήματος με οδηγό",
+      "referenceNumber": "26REQ018471676",
+      "previousRequestReferenceNumber": "26REQ018471641",
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T11:42:07.935",
+      "procurementDeliveryDate": "2026-02-20",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "985",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "800161749",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6156",
+        "value": "ΔΗΜΟΣ ΚΟΝΙΤΣΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL543",
+        "value": "Ιωάννινα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε81806.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81788",
+          "value": "ΔΗΜΟΣ ΚΟΝΙΤΣΑΣ"
+        },
+        "signers": {
+          "key": "100002308",
+          "value": "ΑΝΔΡΕΑΣ ΠΑΠΑΣΠΥΡΟΥ - Δήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 1612.0,
+      "totalCostWithoutVAT": 1300.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1300,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΜΕΤΑΦΟΡΑ ΜΗΧΑΝΗΜΑΤΟΣ ΕΡΓΟΥ ΤΥΠΟΥ UNIMOG ΑΠΟ ΚΟΝΙΤΣΑ ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΗ ΚΑΙ ΠΑΛΙ ΠΙΣΩ ",
+          "cpvs": [
+            {
+              "key": "60180000-3",
+              "value": "Ενοικίαση οχημάτων μεταφοράς εμπορευμάτων με οδηγό"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [
+        "26PROC018472457"
+      ],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "60180000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "Ενοικίαση φορτηγού οχήματος με οδηγό",
+      "referenceNumber": "26REQ018471641",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T11:40:27.732",
+      "procurementDeliveryDate": "2026-02-20",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "966",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "800161749",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6156",
+        "value": "ΔΗΜΟΣ ΚΟΝΙΤΣΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL543",
+        "value": "Ιωάννινα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε81806.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81788",
+          "value": "ΔΗΜΟΣ ΚΟΝΙΤΣΑΣ"
+        },
+        "signers": {
+          "key": "100041590",
+          "value": "ΧΡΗΣΤΟΣ ΜΑΡΓΑΡΙΤΗΣ - Προϊστάμενος Υπηρεσίας"
+        }
+      },
+      "totalCostWithVAT": 1612.0,
+      "totalCostWithoutVAT": 1300.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1300,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΜΕΤΑΦΟΡΑ ΜΗΧΑΝΗΜΑΤΟΣ ΕΡΓΟΥ ΤΥΠΟΥ UNIMOG ΑΠΟ ΚΟΝΙΤΣΑ ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΗ ΚΑΙ ΠΑΛΙ ΠΙΣΩ ",
+          "cpvs": [
+            {
+              "key": "60180000-3",
+              "value": "Ενοικίαση οχημάτων μεταφοράς εμπορευμάτων με οδηγό"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018471676"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "60180000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "Μεταφορά υλικού (ενημερωτικά φυλλάδια και οδηγοί) από Ρέθυμνο και Ηράκλειο στα γραφεία του Ο.Α.Κ",
+      "referenceNumber": "26REQ018471473",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T11:32:03.545",
+      "procurementDeliveryDate": "2026-02-19",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "1948",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997321341",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "55291",
+        "value": "ΟΡΓΑΝΙΣΜΟΣ ΑΝΑΠΤΥΞΗΣ ΚΡΗΤΗΣ Α.Ε"
+      },
+      "nutsCode": {
+        "key": "EL434",
+        "value": "Χανιά"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1039.Ε00874.0001.",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "94536",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΣΤΡΑΤΗΓΙΚΟΥ ΣΧΕΔΙΑΣΜΟΥ & ΑΝΑΠΤΥΞΗΣ"
+        },
+        "signers": {
+          "key": "100062708",
+          "value": "ΣΟΦΙΑ ΜΙΧΑΚΗ - Προϊστάμενος Τμήματος"
+        }
+      },
+      "totalCostWithVAT": 285.2,
+      "totalCostWithoutVAT": 230.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 230,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Μεταφορά υλικού (ενημερωτικά φυλλάδια και οδηγοί) από Ρέθυμνο και Ηράκλειο στα γραφεία του Ο.Α.Κ. Α.Ε. στα Χανιά, στο πλαίσιο υλοποίησης του Τοπικού Προγράμματος CLLD/LEADER Ν. Χανίων της Ομάδας Τοπικής Δράσης Ο.Α.Κ. Α.Ε. ",
+          "cpvs": [
+            {
+              "key": "60000000-8",
+              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "60000000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "ΕΓΚΡΙΣΗ  ΓΙΑ ΤΗΝ ΠΑΡΟΧΗ ΥΠΗΡ.ΔΙΟΡΓΑΝΩΣΗ ΕΚΔΗΛΩΣΗΣ ΚΟΠΗ ΠΙΤΑΣ ΤΟΥ ΚΑΠΗ ΤΟΥ ΔΗΜΟΥ ΚΑΡΔΙΤΣΑΣ. ",
+      "referenceNumber": "26REQ018471061",
+      "previousRequestReferenceNumber": "26REQ018463996",
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T11:10:25.418",
+      "procurementDeliveryDate": "2026-03-11",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "459",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997648454",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6135",
+        "value": "ΔΗΜΟΣ ΚΑΡΔΙΤΣΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL611",
+        "value": "Καρδίτσα, Τρίκαλα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε82301.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "94918",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "136944",
+          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΚΟΡΚΟΝΤΖΕΛΟΣ - Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 8000.0,
+      "totalCostWithoutVAT": 6451.61,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "AG-001",
+            "value": "Μελέτη"
+          },
+          "costWithoutVAT": 6301.61,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσίες εκδηλώσεων(Κέντρο Διασκέδασης)",
+          "cpvs": [
+            {
+              "key": "79952000-2",
+              "value": "Υπηρεσίες εκδηλώσεων"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "AG-001",
+            "value": "Μελέτη"
+          },
+          "costWithoutVAT": 150,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσίες μεταφοράς επιβατών με Πούλμαν-Βαν-Επιβατικά (Μεταφορά των μελών του ΚΑΠΗ)",
+          "cpvs": [
+            {
+              "key": "60172000-4",
+              "value": "Ενοικίαση λεωφορείων και πούλμαν με οδηγό"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [
+        "26PROC018472797"
+      ],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "79952000",
+        "60172000"
+      ],
+      "cpv_divisions": [
+        "79",
+        "60"
+      ],
+      "all_domains": [
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "ΜΕΤΑΦΟΡΑ ΜΑΘΗΤΩΝ ΠΕ ΙΚΑΡΙΑΣ ΜΕ ΜΑΘΗΤΙΚΑ ΔΕΛΤΙΑ ΣΧΟΛΙΚΟ ΕΤΟΣ 2025-2026",
+      "referenceNumber": "26REQ018470855",
+      "previousRequestReferenceNumber": "23REQ012003737",
+      "signedDate": "2026-02-09",
+      "lastUpdateDate": "2025-09-17T00:00:00",
+      "submissionDate": "2026-02-12T11:00:48.17",
+      "procurementDeliveryDate": "2026-02-12",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "14172",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": "a.valamontis@samos.gr",
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997817101",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "5003",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL412",
+        "value": "Ικαρία, Σάμος"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.911.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100082179",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΟΥ-ΔΗΜΟΣΙΟΝΟΜΙΚΟΥ ΕΛΕΓΧΟΥ ΠΕ ΣΑΜΟΥ-ΙΚΑΡΙΑΣ"
+        },
+        "signers": {
+          "key": "100048622",
+          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΜΟΥΤΖΟΥΡΗΣ - ΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+        }
+      },
+      "totalCostWithVAT": 60000.01,
+      "totalCostWithoutVAT": 53097.35,
+      "objectDetails": [
+        {
+          "quantity": 132,
+          "type": {
+            "key": "DAY",
+            "value": "Ημέρα"
+          },
+          "costWithoutVAT": 53097.35,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΜΕΤΑΦΟΡΑ ΜΑΘΗΤΩΝ ΠΕ ΙΚΑΡΙΑΣ ΜΕ ΜΑΘΗΤΙΚΑ ΔΕΛΤΙΑ ΣΧΟΛΙΚΟ ΕΤΟΣ 2025-2026",
+          "cpvs": [
+            {
+              "key": "60130000-8",
+              "value": "Υπηρεσίες ειδικών οδικών μεταφορών επιβατών"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "60130000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "ΕΓΚΡΙΣH ΠΙΣΤΩΣΗΣ ΓΙΑ ΤΗΝ ΑΠΕΓΚΑΤΑΣΤΑΣΗ ΕΞΟΠΛΙΣΜΟΥ ΗΧΟΓΡΑΦΗΣΗΣ-ΑΠΟΗΧΟΓΡΑΦΗΣΗΣ",
+      "referenceNumber": "26REQ018470839",
+      "previousRequestReferenceNumber": "25REQ017799098",
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T11:00:13.909",
+      "procurementDeliveryDate": "2026-08-12",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "67949",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090169674",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "3377",
+        "value": "ΠΡΩΤΟΔΙΚΕΙΟ ΤΡΙΠΟΛΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1017.0000000000.0129",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "75089",
+          "value": "ΠΡΩΤΟΔΙΚΕΙΟ ΤΡΙΠΟΛΗΣ"
+        },
+        "signers": {
+          "key": "100078487",
+          "value": "ΚΥΡΙΑΚΗ ΚΟΚΚΙΝΑΚΗ - Πρόεδρος"
+        }
+      },
+      "totalCostWithVAT": 3100.0,
+      "totalCostWithoutVAT": 2500.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 2500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έγκρισης πίστωσης απεγκατάστασης, μεταφοράς και αποθήκευσης εξοπλισμού των πρώην Ειρηνοδικείων Άστρους και Ψωφίδος στο Πρωτοδικείο Τρίπολης.  ",
+          "cpvs": [
+            {
+              "key": "60000000-8",
+              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "60000000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "Mεταφορά μαθητών ΠΕ Ικαρίας για έτος 2026",
+      "referenceNumber": "26REQ018470799",
+      "previousRequestReferenceNumber": "24REQ014343956",
+      "signedDate": "2026-02-09",
+      "lastUpdateDate": "2025-07-30T00:00:00",
+      "submissionDate": "2026-02-12T10:57:50.788",
+      "procurementDeliveryDate": "2026-02-12",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "14170",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": "m.eleftheriou@ikaria.pvaigaiou.gov.gr",
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997817101",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "5003",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL412",
+        "value": "Ικαρία, Σάμος"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.911.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100082179",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΟΥ-ΔΗΜΟΣΙΟΝΟΜΙΚΟΥ ΕΛΕΓΧΟΥ ΠΕ ΣΑΜΟΥ-ΙΚΑΡΙΑΣ"
+        },
+        "signers": {
+          "key": "100048622",
+          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΜΟΥΤΖΟΥΡΗΣ - ΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+        }
+      },
+      "totalCostWithVAT": 966685.43,
+      "totalCostWithoutVAT": 855473.83,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 855473.83,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΜΕΤΑΦΟΡΑΣ ΜΑΘΗΤΩΝ ΠΕ ΙΚΑΡΙΑΣ ΜΕ ΔΗΜΟΣΙΕΣ ΣΥΜΒΑΣΕΙΣ ΓΙΑ ΤΑ ΣΧΟΛΙΚΑ ΕΤΗ 2025-2026 & 2026-2027",
+          "cpvs": [
+            {
+              "key": "60130000-8",
+              "value": "Υπηρεσίες ειδικών οδικών μεταφορών επιβατών"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "60130000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "ΠΑΡΑΤΑΣΗ ΣΥΜΒΑΣΗΣ Παροχή Υπηρεσίας / Εργασίας για την λειτουργία της Δημοτικής Συγκοινωνίας",
+      "referenceNumber": "26REQ018470794",
+      "previousRequestReferenceNumber": "23REQ012865136",
+      "signedDate": "2026-02-05",
+      "lastUpdateDate": "2025-11-12T00:00:00",
+      "submissionDate": "2026-02-12T10:57:34.861",
+      "procurementDeliveryDate": "2026-02-12",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "5030",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": "stolos@elliniko-argyroupoli.gr",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997645384",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6090",
+        "value": "ΔΗΜΟΣ ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E84805.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100005584",
+          "value": "Δ10: ΔΙΕΥΘΥΝΣΗ ΔΙΑΧΕΙΡΙΣΗΣ ΑΠΟΡΡΙΜΜΑΤΩΝ ΚΑΙ ΟΧΗΜΑΤΩΝ"
+        },
+        "signers": {
+          "key": "100014870",
+          "value": "ΓΕΩΡΓΙΟΣ ΠΑΡΟΥΣΗΣ - Προϊστάμενος Διεύθυνσης"
+        }
+      },
+      "totalCostWithVAT": 34791.99,
+      "totalCostWithoutVAT": 28058.06,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 28058.06,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΑΡΑΤΑΣΗ ΣΥΜΒΑΣΗΣ Παροχή Υπηρεσίας / Εργασίας για την λειτουργία της Δημοτικής Συγκοινωνίας",
+          "cpvs": [
+            {
+              "key": "60130000-8",
+              "value": "Υπηρεσίες ειδικών οδικών μεταφορών επιβατών"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "60130000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "«ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΑΣ / ΕΡΓΑΣΙΑΣ ΓΙΑ ΤΗ ΛΕΙΤΟΥΡΓΙΑ ΤΗΣ ΔΗΜΟΤΙΚΗΣ ΣΥΓΚΟΙΝΩΝΙΑΣ ΤΟΥ ΔΗΜΟΥ ΕΛΛΗΝΙΚΟΥ – ΑΡΓΥ",
+      "referenceNumber": "26REQ018470703",
+      "previousRequestReferenceNumber": "25REQ017602506",
+      "signedDate": "2026-02-05",
+      "lastUpdateDate": "2025-10-03T00:00:00",
+      "submissionDate": "2026-02-12T10:52:14.491",
+      "procurementDeliveryDate": "2026-02-12",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "5038",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997645384",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6090",
+        "value": "ΔΗΜΟΣ ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL304",
+        "value": "Νότιος Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E84805.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81752",
+          "value": "Δ3: ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ"
+        },
+        "signers": {
+          "key": "100073857",
+          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΣΤΕΦΑΣ - Αντιδήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 307284.65,
+      "totalCostWithoutVAT": 247810.2,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 247810.2,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Η παρούσα μελέτη αφορά την παροχή υπηρεσιών για την κάλυψη λειτουργίας της Δημοτικής Συγκοινωνίας του Δήμου Ελληνικού - Αργυρούπολης σε εξειδικευμένη εταιρεία παροχής αντίστοιχων υπηρεσιών από την λήξη των προηγούμενων συμβάσεων και για 24 μήνες .",
+          "cpvs": [
+            {
+              "key": "60130000-8",
+              "value": "Υπηρεσίες ειδικών οδικών μεταφορών επιβατών"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "60130000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "Σκοπ. δαπ. για την μετ. φοιτ. από τους χώρ. στεγ. ΦΚΧ στους χωρ. του Π. Αιγαίου ",
+      "referenceNumber": "26REQ018470103",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T10:19:29.335",
+      "procurementDeliveryDate": "2026-03-03",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "6450",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090166310",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "99206911",
+        "value": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΙΓΑΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL413",
+        "value": "Χίος"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1020.Ε00312.0001 ",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "72278",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΟΘΕΣΕΩΝ / ΠΕΡΙΦΕΡΕΙΑΚΟ ΤΜΗΜΑ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΟΘΕΣΕΩΝ ΧΙΟΥ"
+        },
+        "signers": {
+          "key": "100070941",
+          "value": "Γεώργιος Κολοκυθάς - Προϊστάμενος Γραμματείας"
+        }
+      },
+      "totalCostWithVAT": 3500.0,
+      "totalCostWithoutVAT": 3211.01,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 3211.01,
+          "vat": "9",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Μεταφορά των φοιτητών/τριών, από τις Φοιτητικές Κατοικίες Χίου προς τους χώρους του Πανεπιστημίου Αιγαίου στο κέντρο της Χίου και αντίστροφα",
+          "cpvs": [
+            {
+              "key": "60130000-8",
+              "value": "Υπηρεσίες ειδικών οδικών μεταφορών επιβατών"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99206911",
+        "60130000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "Απόφαση Ανάληψης Υποχρέωσης για την παροχή υπηρεσιών διαχείρισης ταξιδιού ",
+      "referenceNumber": "26REQ018469909",
+      "previousRequestReferenceNumber": "26REQ018469847",
+      "signedDate": "2026-02-06",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T10:09:39.234",
+      "procurementDeliveryDate": "2026-07-25",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "2373",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090196690",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "99221221",
+        "value": "ΕΘΝΙΚΗ ΛΥΡΙΚΗ ΣΚΗΝΗ"
+      },
+      "nutsCode": {
+        "key": "EL304",
+        "value": "Νότιος Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1022.E00370.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "84800",
+          "value": "ΤΟΜΕΑΣ ΔΙΟΙΚΗΤΙΚΩΝ ΕΝΕΡΓΕΙΩΝ"
+        },
+        "signers": {
+          "key": "100102070",
+          "value": "ΒΑΣΙΛΕΙΟΣ ΜΠΛΙΘΙΚΙΩΤΗΣ - Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 10304.4,
+      "totalCostWithoutVAT": 8310.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 8310,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Απόφαση Ανάληψης Υποχρέωσης για την παροχή υπηρεσιών διαχείρισης του ταξιδιού το οποίο θα πραγματοποιηθεί στο πλαίσιο του φεστιβάλ όπερας του Glyndebourne και στο οποίο θα παραβρεθούν μέλη ambassadors του OPERA CLUB",
+          "cpvs": [
+            {
+              "key": "63512000-1",
+              "value": "Υπηρεσίες πώλησης τουριστικών εισιτηρίων και οργανωμένων εκδρομών"
+            },
+            {
+              "key": "55320000-9",
+              "value": "Υπηρεσίες παροχής γευμάτων"
+            },
+            {
+              "key": "60100000-9",
+              "value": "Υπηρεσίες οδικών μεταφορών"
+            },
+            {
+              "key": "63516000-9",
+              "value": "Υπηρεσίες διαχείρισης ταξιδίων"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99221221",
+        "63512000",
+        "55320000",
+        "60100000",
+        "63516000"
+      ],
+      "cpv_divisions": [
+        "63",
+        "55",
+        "60"
+      ],
+      "all_domains": [
+        "Transport Support & Travel",
+        "Hospitality, Retail & Catering Services",
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "Πρωτογενές Αίτημα Δαπάνης",
+      "referenceNumber": "26REQ018469847",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-05",
+      "lastUpdateDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-12T10:06:29.618",
+      "procurementDeliveryDate": "2026-07-25",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "GenReq-21043",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090196690",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "99221221",
+        "value": "ΕΘΝΙΚΗ ΛΥΡΙΚΗ ΣΚΗΝΗ"
+      },
+      "nutsCode": {
+        "key": "EL304",
+        "value": "Νότιος Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1022.E00370.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "84800",
+          "value": "ΤΟΜΕΑΣ ΔΙΟΙΚΗΤΙΚΩΝ ΕΝΕΡΓΕΙΩΝ"
+        },
+        "signers": {
+          "key": "100102070",
+          "value": "ΒΑΣΙΛΕΙΟΣ ΜΠΛΙΘΙΚΙΩΤΗΣ - Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 10304.4,
+      "totalCostWithoutVAT": 8310.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 8310,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πρωτογενές Αίτημα Δαπάνης για την παροχή υπηρεσιών διαχείρισης του ταξιδιού το οποίο θα πραγματοποιηθεί στο πλαίσιο του φεστιβάλ όπερας του Glyndebourne και στο οποίο θα παραβρεθούν μέλη ambassadors του OPERA CLUB",
+          "cpvs": [
+            {
+              "key": "63512000-1",
+              "value": "Υπηρεσίες πώλησης τουριστικών εισιτηρίων και οργανωμένων εκδρομών"
+            },
+            {
+              "key": "63516000-9",
+              "value": "Υπηρεσίες διαχείρισης ταξιδίων"
+            },
+            {
+              "key": "55320000-9",
+              "value": "Υπηρεσίες παροχής γευμάτων"
+            },
+            {
+              "key": "60100000-9",
+              "value": "Υπηρεσίες οδικών μεταφορών"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018469909"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99221221",
+        "63512000",
+        "63516000",
+        "55320000",
+        "60100000"
+      ],
+      "cpv_divisions": [
+        "63",
+        "55",
+        "60"
+      ],
+      "all_domains": [
+        "Transport Support & Travel",
+        "Hospitality, Retail & Catering Services",
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "Ανάληψη υποχρέωσης 56.903,65€, ΑΛΕ 2420104, υπηρεσίες μεταφορών και ταχυμεταφορών (απλήρωτα 2025)",
+      "referenceNumber": "26REQ018469455",
+      "previousRequestReferenceNumber": "23REQ012990903",
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": "2025-01-28T00:00:00",
+      "submissionDate": "2026-02-12T09:45:12.524",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "ΔΣΥΠΕ Γ 106649 ΕΞ 2026",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": "support.gcsl@aade.gr",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997073525",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "100029495",
+        "value": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1024.8010000000.0005",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100030156",
+          "value": "ΓΕΝΙΚΗ Δ/ΝΣΗ ΓΕΝΙΚΟΥ ΧΗΜΕΙΟΥ ΤΟΥ ΚΡΑΤΟΥΣ"
+        },
+        "signers": {
+          "key": "100029598",
+          "value": "ΓΕΩΡΓΙΟΣ ΠΙΤΣΙΛΗΣ - Διοικητής"
+        }
+      },
+      "totalCostWithVAT": 56903.65,
+      "totalCostWithoutVAT": 45890.04,
+      "objectDetails": [
+        {
+          "quantity": 3,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 45890.04,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ανάληψη υποχρέωσης συνολικού ποσού πενήντα έξι χιλιάδων εννιακοσίων τριών ευρώ και εξήντα πέντε λεπτών (56.903,65€), σε βάρος του Προϋπολογισμού εξόδων του Ε.Τ.Ε.Π.Π.Α.Α., οικονομικού έτους 2026, ΑΛΕ 2420104 «Έξοδα μεταφοράς προσώπων, αγαθών και συναφών υπηρεσιών», για την πληρωμή υποχρεώσεων οικονομικού έτους 2025, για την προμήθεια υπηρεσιών μεταφορών και ταχυμεταφορών για τις ανάγκες του ΓΧΚ.",
+          "cpvs": [
+            {
+              "key": "60161000-4",
+              "value": "Υπηρεσίες μεταφοράς δεμάτων"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "60161000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "ΜΙΣΘΩΣΗ ΟΧΗΜΑΤΩΝ (ΠΟΥΛΜΑΝ) ΜΕ ΟΔΗΓΟ ΓΙΑ ΜΕΤΑΦΟΡΑ - ΜΕΤΑΚΙΝΗΣΗ ΜΕΛΩΝ ΤΩΝ ΔΟΜΩΝ ΤΟΥ ΔΗΜΟΥ ΙΛΙΟΥ",
+      "referenceNumber": "26REQ018469262",
+      "previousRequestReferenceNumber": "25REQ016236990",
+      "signedDate": "2026-02-05",
+      "lastUpdateDate": "2025-02-14T00:00:00",
+      "submissionDate": "2026-02-12T09:33:10.635",
+      "procurementDeliveryDate": "2026-02-12",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "4197",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": "egerasis@ilion.gr",
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090076918",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6123",
+        "value": "ΔΗΜΟΣ ΙΛΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL302",
+        "value": "Δυτικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E84705.0001 ",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78721",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100004859",
+          "value": "ΑΝΔΡΙΑΝΑ ΑΛΕΒΙΖΟΥ - Δήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 144137.15,
+      "totalCostWithoutVAT": 127555.0,
+      "objectDetails": [
+        {
+          "quantity": 270,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 127555,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΜΙΣΘΩΣΗ ΟΧΗΜΑΤΩΝ (ΠΟΥΛΜΑΝ) ΜΕ ΟΔΗΓΟ ΓΙΑ ΜΕΤΑΦΟΡΑ - ΜΕΤΑΚΙΝΗΣΗ ΜΕΛΩΝ ΤΩΝ ΔΟΜΩΝ ΤΟΥ ΔΗΜΟΥ ΙΛΙΟΥ",
+          "cpvs": [
+            {
+              "key": "60172000-4",
+              "value": "Ενοικίαση λεωφορείων και πούλμαν με οδηγό"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "60172000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "Νέα  δρομολόγια  μεταφοράς μαθητών ΠΕ Γρεβενών σχολ.έτους  2025-2026",
+      "referenceNumber": "26REQ018469227",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-09",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-12T09:31:09.751",
+      "procurementDeliveryDate": "2026-02-28",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "21671",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997769589",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "5005",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL531",
+        "value": "Γρεβενά, Κοζάνη"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.903.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100071975",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΩΝ ΚΑΙ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ ΠΕ ΓΡΕΒΕΝΩΝ"
+        },
+        "signers": {
+          "key": "100084424",
+          "value": "ΙΩΑΝΝΗΣ ΤΣΑΚΝΑΚΗΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+        }
+      },
+      "totalCostWithVAT": 19678.72,
+      "totalCostWithoutVAT": 17414.8,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 17414.8,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Νέα  δρομολόγια  μεταφοράς μαθητών ΠΕ Γρεβενών σχολ.έτους  2025-2026",
+          "cpvs": [
+            {
+              "key": "60130000-8",
+              "value": "Υπηρεσίες ειδικών οδικών μεταφορών επιβατών"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "60130000"
+      ],
+      "cpv_divisions": [
+        "60"
+      ],
+      "all_domains": [
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "ΜΕΤΑΦΟΡΕΣ - ΔΙΑΚΙΝΗΣΕΙΣ (ΣΥΜΠΛΗΡΩΜΑΤΙΚΑ έτους 2025 & έτους 2026)",
+      "referenceNumber": "26REQ018468916",
+      "previousRequestReferenceNumber": "25REQ018287626",
+      "signedDate": "2025-12-31",
+      "lastUpdateDate": "2025-12-31T00:00:00",
+      "submissionDate": "2026-02-12T09:13:53.972",
+      "procurementDeliveryDate": "2026-02-12",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "3257",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
@@ -2300,8 +2510,8 @@
       "contractTypes": [
         {
           "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
+            "key": "9",
+            "value": "Υπηρεσίες"
           }
         }
       ],
@@ -2315,157 +2525,26 @@
           "value": "ΙΩΑΝΝΗΣ ΣΑΡΡΗΣ - Γενικός Διευθυντής"
         }
       },
-      "totalCostWithVAT": 4939.79,
-      "totalCostWithoutVAT": 3983.7,
+      "totalCostWithVAT": 6076.0,
+      "totalCostWithoutVAT": 4900.0,
       "objectDetails": [
         {
-          "quantity": 2,
+          "quantity": 12,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "3C",
+            "value": "Ανθρωπομήνας"
           },
-          "costWithoutVAT": 200,
+          "costWithoutVAT": 4900,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΕΞΟΔΑ ΣΥΣΚΕΥΑΣΙΑΣ-ΑΠΟΣΤΟΛΗΣ",
+          "shortDescription": "ΜΕΤΑΦΟΡΕΣ - ΔΙΑΚΙΝΗΣΕΙΣ (ΣΥΜΠΛΗΡΩΜΑΤΙΚΑ έτους 2025 & έτους 2026)",
           "cpvs": [
             {
-              "key": "60161000-4",
-              "value": "Υπηρεσίες μεταφοράς δεμάτων"
-            }
-          ]
-        },
-        {
-          "quantity": 46,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 3783.7,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΧΗΜΙΚΩΝ ΑΝΤΙΔΡΑΣΤΗΡΙΩΝ ΕΤΩΝ 2025-2026",
-          "cpvs": [
-            {
-              "key": "33696300-8",
-              "value": "Χημικά αντιδραστήρια"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": [
-        {
-          "additionalContractType": {
-            "key": "3",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "mixedContract": true,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "60161000",
-        "33696300"
-      ],
-      "cpv_divisions": [
-        "60",
-        "33"
-      ],
-      "all_domains": [
-        "Transport Services",
-        "Medical & Pharma"
-      ],
-      "primary_domain": "Medical & Pharma"
-    },
-    {
-      "title": "ΑΠΟΦΑΣΗ ΠΟΛΥΕΤΟΥΣ ΕΓΚΡΙΣΗΣ ΔΑΠΑΝΗΣ ΓΙΑ ΤΗΝ ΜΕΤΑΦΟΡΑ ΜΑΘΗΤΩΝ 2026-2030",
-      "referenceNumber": "26REQ018458526",
-      "previousRequestReferenceNumber": "26REQ018441529",
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T13:27:33.641",
-      "procurementDeliveryDate": "2026-09-01",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "24627/440",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997908822",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "5006",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL542",
-        "value": "Θεσπρωτία"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1.007.904.001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "81268",
-          "value": "Δ/ΝΣΗ ΔΙΟΙΚΗΤΙΚΟΥ-ΟΙΚΟΝΟΜΙΚΟΥ ΠΕΡΙΦΕΡΕΙΑΚΗΣ ΕΝΟΤΗΤΑΣ ΘΕΣΠΡΩΤΙΑΣ"
-        },
-        "signers": {
-          "key": "111784",
-          "value": "ΘΩΜΑΣ ΠΙΤΟΥΛΗΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
-        }
-      },
-      "totalCostWithVAT": 8000000.0,
-      "totalCostWithoutVAT": 7079646.02,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 7079646.02,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΕΓΚΡΙΣΗ ΔΑΠΑΝΗΣ ΓΙΑ ΤΗΝ ΜΕΤΑΦΟΡΑ ΜΑΘΗΤΩΝ 2026-2030",
-          "cpvs": [
-            {
-              "key": "60130000-8",
-              "value": "Υπηρεσίες ειδικών οδικών μεταφορών επιβατών"
+              "key": "60000000-8",
+              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
             }
           ]
         }
@@ -2478,1369 +2557,12 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "60130000"
+        "60000000"
       ],
       "cpv_divisions": [
         "60"
       ],
       "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "ΕΓΚΡΙΣΗ ΔΑΠΑΝΗΣ ΜΕΤΑΦΟΡΑ ΜΑΘΗΤΩΝ ΣΤΟ ΝΕΟ (ΥΠΟ ΙΔΡΥΣΗ) 2ο ΕΙΔΙΚΟ ΔΣ ΡΕΘΥΜ ΣΤΟ ΡΟΥΣΣΟΣΠΙΤΙ, 2026-2027",
-      "referenceNumber": "26REQ018457958",
-      "previousRequestReferenceNumber": "25REQ018256181",
-      "signedDate": "2026-01-01",
-      "lastUpdateDate": "2025-12-29T00:00:00",
-      "submissionDate": "2026-02-10T12:52:59.957",
-      "procurementDeliveryDate": "2026-09-11",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "35187",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997579388",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "5010",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ"
-      },
-      "nutsCode": {
-        "key": "EL433",
-        "value": "Ρέθυμνο"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.F01328.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "81122",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΑΝΑΠΤΥΞΗΣ Π.Ε. ΡΕΘΥΜΝΗΣ"
-        },
-        "signers": {
-          "key": "111549",
-          "value": "ΜΑΡΙΑ ΛΙΟΝΗ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
-        }
-      },
-      "totalCostWithVAT": 27000.01,
-      "totalCostWithoutVAT": 23893.81,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 23893.81,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Αίτημα για Έγκριση Διάθεσης Πίστωσης και Έκδοση Απόφασης Ανάληψης  Υποχρέωσης για Δαπάνη για τη Μεταφορά Μαθητών στο Νέο (υπο ίδρυση) 2ο Ειδικό Δημοτικό Σχολείο Ρεθύμνου στο Ρουσσοσπίτι, Σχολικού Έτους 2026-2027.",
-          "cpvs": [
-            {
-              "key": "60130000-8",
-              "value": "Υπηρεσίες ειδικών οδικών μεταφορών επιβατών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "60130000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": " Έγκριση Διάθεσης Πίστωσης και Έκδοση Απόφασης Ανάληψης  Υποχρέωσης για ΕΜΔ / 2025-2026",
-      "referenceNumber": "26REQ018457869",
-      "previousRequestReferenceNumber": "25REQ017671855",
-      "signedDate": "2026-01-01",
-      "lastUpdateDate": "2025-10-03T00:00:00",
-      "submissionDate": "2026-02-10T12:48:06.14",
-      "procurementDeliveryDate": "2026-01-02",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "37000",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997579388",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "5010",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ"
-      },
-      "nutsCode": {
-        "key": "EL433",
-        "value": "Ρέθυμνο"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.F01328.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "81122",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΑΝΑΠΤΥΞΗΣ Π.Ε. ΡΕΘΥΜΝΗΣ"
-        },
-        "signers": {
-          "key": "111549",
-          "value": "ΜΑΡΙΑ ΛΙΟΝΗ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
-        }
-      },
-      "totalCostWithVAT": 897130.12,
-      "totalCostWithoutVAT": 793920.46,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 793920.46,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Δέσμευση πίστωσης δαπάνης, που αφορά στην προμήθεια υπηρεσιών για τη μεταφορά μαθητών Β’/θμιας Εκπαίδευσης του Ν. Ρεθύμνης με Ειδικά Μαθητικά Δελτία (ΕΜΔ), ενόψει έναρξης του σχολικού έτους 2025-2026. ",
-          "cpvs": [
-            {
-              "key": "60130000-8",
-              "value": "Υπηρεσίες ειδικών οδικών μεταφορών επιβατών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "60130000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "ΕΓΚΡΙΣΗ Διάθεσης πίστωσης για το πρόγραμμα κολύμβησης στην Α' βάθμια εκπαίδευση της Π.Ε.Ρεθύμνης",
-      "referenceNumber": "26REQ018457772",
-      "previousRequestReferenceNumber": "25REQ017534371",
-      "signedDate": "2026-01-01",
-      "lastUpdateDate": "2025-09-11T00:00:00",
-      "submissionDate": "2026-02-10T12:41:41.984",
-      "procurementDeliveryDate": "2026-01-02",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "35181",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997579388",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "5010",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ"
-      },
-      "nutsCode": {
-        "key": "EL433",
-        "value": "Ρέθυμνο"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.F01328.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "81122",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΑΝΑΠΤΥΞΗΣ Π.Ε. ΡΕΘΥΜΝΗΣ"
-        },
-        "signers": {
-          "key": "111549",
-          "value": "ΜΑΡΙΑ ΛΙΟΝΗ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
-        }
-      },
-      "totalCostWithVAT": 24000.0,
-      "totalCostWithoutVAT": 21238.94,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 21238.94,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Διάθεση πίστωσης για την κάλυψη δαπάνης που αφορά στην αμοιβή για την ανάθεση υπηρεσιών της μεταφοράς μαθητών για την εφαρμογή του αντικειμένου της κολύμβησης, στο πλαίσιο του μαθήματος Φυσικής Αγωγής στην Πρωτοβάθμια Εκπαίδευση της Π.Ε. Ρεθύμνης.",
-          "cpvs": [
-            {
-              "key": "60130000-8",
-              "value": "Υπηρεσίες ειδικών οδικών μεταφορών επιβατών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "60130000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "ΜΙΣΘΩΣΗ ΜΗΧΑΝΗΜΑΤΩΝ ΕΡΓΟΥ, ΦΟΡΤΗΓΩΝ ΚΑΙ ΛΟΙΠΟΥ ΕΞΟΠΛΙΣΜΟΥ ΓΙΑ ΤΗΝ ΚΑΛΥΨΗ ΤΩΝ ΑΝΑΓΚΩΝ ΤΟΥ ΔΗΜΟΥ ΙΛΙΟΥ",
-      "referenceNumber": "26REQ018457496",
-      "previousRequestReferenceNumber": "25REQ016676426",
-      "signedDate": "2026-02-05",
-      "lastUpdateDate": "2025-04-30T00:00:00",
-      "submissionDate": "2026-02-10T12:26:34.385",
-      "procurementDeliveryDate": "2026-05-29",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "4224",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090076918",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6123",
-        "value": "ΔΗΜΟΣ ΙΛΙΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL302",
-        "value": "Δυτικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.Ε84705.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "78721",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "100004859",
-          "value": "ΑΝΔΡΙΑΝΑ ΑΛΕΒΙΖΟΥ - Δήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 37200.0,
-      "totalCostWithoutVAT": 30000.0,
-      "objectDetails": [
-        {
-          "quantity": 110,
-          "type": {
-            "key": "DAY",
-            "value": "Ημέρα"
-          },
-          "costWithoutVAT": 30000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΜΙΣΘΩΣΗ ΜΗΧΑΝΗΜΑΤΩΝ ΕΡΓΟΥ, ΦΟΡΤΗΓΩΝ ΚΑΙ ΛΟΙΠΟΥ ΕΞΟΠΛΙΣΜΟΥ ΓΙΑ ΤΗΝ ΚΑΛΥΨΗ ΤΩΝ ΑΝΑΓΚΩΝ ΤΟΥ ΔΗΜΟΥ ΙΛΙΟΥ",
-          "cpvs": [
-            {
-              "key": "42123400-1",
-              "value": "Αεροσυμπιεστές"
-            },
-            {
-              "key": "90722300-7",
-              "value": "Υπηρεσίες αναμόρφωσης γαιών"
-            },
-            {
-              "key": "60181000-0",
-              "value": "Ενοικίαση φορτηγών αυτοκινήτων με οδηγό"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "42123400",
-        "90722300",
-        "60181000"
-      ],
-      "cpv_divisions": [
-        "42",
-        "90",
-        "60"
-      ],
-      "all_domains": [
-        "Industrial Machinery",
-        "Environmental, Cleaning & Waste Services",
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "ΠΡΩΤΟΓΕΝΕΣ - ΕΝΟΙΚΙΑΣΗ ΛΕΩΦΟΡΕΙΟΥ ",
-      "referenceNumber": "26REQ018457231",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T12:12:37.124",
-      "procurementDeliveryDate": "2026-03-24",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "2798",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "998583210",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "6225",
-        "value": "ΔΗΜΟΣ ΟΡΕΣΤΙΑΔΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL511",
-        "value": "Έβρος"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.Ε80303.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "90113",
-          "value": "ΑΥΤΟΤΕΛΕΣ ΤΜΗΜΑ ΚΟΙΝΩΝΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ ΠΑΙΔΕΙΑΣ ΚΑΙ ΠΟΛΙΤΙΣΜΟΥ"
-        },
-        "signers": {
-          "key": "100085136",
-          "value": "ΕΥΑΓΓΕΛΙΑ ΜΠΡΑΪΚΟΥΔΗ - Αντιδήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 900.0,
-      "totalCostWithoutVAT": 796.46,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 796.46,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΕΝΟΙΚΙΑΣΗ ΛΕΩΦΟΡΕΙΟΥ ΓΙΑ ΜΕΤΑΚΙΝΗΣΗ ΜΑΘΗΤΩΝ ",
-          "cpvs": [
-            {
-              "key": "60172000-4",
-              "value": "Ενοικίαση λεωφορείων και πούλμαν με οδηγό"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "60172000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "ΕΝΟΙΚΙΑΣΗ 9ΘΕΣΙΟ ΒΑΝ ΓΙΑ 12ΜΗΝΕΣ",
-      "referenceNumber": "26REQ018457030",
-      "previousRequestReferenceNumber": "26REQ018457019",
-      "signedDate": "2026-02-04",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T12:03:27.751",
-      "procurementDeliveryDate": "2027-02-17",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "20101014",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997180750",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "99200358",
-        "value": "ΕΛΛΗΝΙΚΑ ΑΜΥΝΤΙΚΑ ΣΥΣΤΗΜΑΤΑ  ΑΒΕΕ"
-      },
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1011.E00029.0001 ",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "84725",
-          "value": "ΓΡΑΦΕΙΟ ΔΙΕΥΘΥΝΟΝΤΟΣ ΣΥΜΒΟΥΛΟΥ"
-        },
-        "signers": {
-          "key": "100095044",
-          "value": "ΧΡΙΣΤΟΦΟΡΟΣ - ΕΜΜΑΝΟΥΗΛ ΜΠΟΥΤΣΙΚΑΚΗΣ - Διευθύνων Σύμβουλος"
-        }
-      },
-      "totalCostWithVAT": 27439.96,
-      "totalCostWithoutVAT": 22129.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 22129,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΕΝΟΙΚΙΑΣΗ 9ΘΕΣΙΟ ΒΑΝ ΓΙΑ 12ΜΗΝΕΣ",
-          "cpvs": [
-            {
-              "key": "60171000-7",
-              "value": "Ενοικίαση επιβατικών αυτοκινήτων με οδηγό"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "20101014",
-        "99200358",
-        "60171000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "ΕΝΟΙΚΙΑΣΗ 9ΘΕΣΙΟ ΒΑΝ ΓΙΑ 12ΜΗΝΕΣ",
-      "referenceNumber": "26REQ018457019",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-04",
-      "lastUpdateDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T12:02:55.778",
-      "procurementDeliveryDate": "2027-02-17",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "20101014",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997180750",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99200358",
-        "value": "ΕΛΛΗΝΙΚΑ ΑΜΥΝΤΙΚΑ ΣΥΣΤΗΜΑΤΑ  ΑΒΕΕ"
-      },
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1011.E00029.0001 ",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "84725",
-          "value": "ΓΡΑΦΕΙΟ ΔΙΕΥΘΥΝΟΝΤΟΣ ΣΥΜΒΟΥΛΟΥ"
-        },
-        "signers": {
-          "key": "100095044",
-          "value": "ΧΡΙΣΤΟΦΟΡΟΣ - ΕΜΜΑΝΟΥΗΛ ΜΠΟΥΤΣΙΚΑΚΗΣ - Διευθύνων Σύμβουλος"
-        }
-      },
-      "totalCostWithVAT": 27439.96,
-      "totalCostWithoutVAT": 22129.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 22129,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΕΝΟΙΚΙΑΣΗ 9ΘΕΣΙΟ ΒΑΝ ΓΙΑ 12ΜΗΝΕΣ",
-          "cpvs": [
-            {
-              "key": "60171000-7",
-              "value": "Ενοικίαση επιβατικών αυτοκινήτων με οδηγό"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018457030"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "20101014",
-        "99200358",
-        "60171000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "Υπηρεσίες πώλησης αεροπορικών εισιτηρίων και οδικής μεταφοράς για το 2ο ΦΠΠΚ",
-      "referenceNumber": "26REQ018455739",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T10:49:36.223",
-      "procurementDeliveryDate": "2026-03-02",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "42/2025",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "090147031",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "51774",
-        "value": "ΔΗΜΟΤΙΚΗ ΚΟΙΝΩΦΕΛΗΣ ΕΠΙΧΕΙΡΗΣΗ ΔΗΜΟΤΙΚΟΥ ΠΕΡΙΦΕΡΕΙΑΚΟΥ ΘΕΑΤΡΟΥ ΚΟΜΟΤΗΝΗΣ"
-      },
-      "nutsCode": {
-        "key": "EL51",
-        "value": "Aνατολική Μακεδονία, Θράκη"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.E89867.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "86307",
-          "value": "ΔΗΜΟΤΙΚΗ ΚΟΙΝΩΦΕΛΗΣ ΕΠΙΧΕΙΡΗΣΗ ΔΗΜΟΤΙΚΟΥ ΠΕΡΙΦΕΡΕΙΑΚΟΥ ΘΕΑΤΡΟΥ ΚΟΜΟΤΗΝΗΣ"
-        },
-        "signers": {
-          "key": "100100142",
-          "value": "ΠΕΤΡΟΣ ΖΩΓΡΑΦΟΥ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 2478.0,
-      "totalCostWithoutVAT": 2192.92,
-      "objectDetails": [
-        {
-          "quantity": 2,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 2192.92,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Πρωτογενές αίτημα για την δημόσια σύμβαση με τίτλο: «Υπηρεσίες πώλησης αεροπορικών εισιτηρίων και οδικής μεταφοράς για τις ανάγκες μετακίνησης συντελεστών, ηθοποιών, performers, τεχνικών και καλεσμένων του 2ου Φεστιβάλ Προφορικής Ποίησης Κομοτηνής»",
-          "cpvs": [
-            {
-              "key": "60400000-2",
-              "value": "Υπηρεσίες αεροπορικών μεταφορών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "60400000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": " Μεταφορές προσώπων",
-      "referenceNumber": "26REQ018455129",
-      "previousRequestReferenceNumber": "25REQ018074742",
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": "2025-12-04T00:00:00",
-      "submissionDate": "2026-02-10T10:10:25.799",
-      "procurementDeliveryDate": "2026-03-02",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "1770",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "998059393",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6056",
-        "value": "ΔΗΜΟΣ ΒΟΙΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL531",
-        "value": "Γρεβενά, Κοζάνη"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.Ε81402.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "82123",
-          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
-        },
-        "signers": {
-          "key": "100048616",
-          "value": "ΧΡΗΣΤΟΣ ΖΕΥΚΛΗΣ - Δήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 32905.6,
-      "totalCostWithoutVAT": 29120.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 29120,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": " Μεταφορές προσώπων",
-          "cpvs": [
-            {
-              "key": "60100000-9",
-              "value": "Υπηρεσίες οδικών μεταφορών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "60100000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "ΝΕΟ ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ",
-      "referenceNumber": "26REQ018454930",
-      "previousRequestReferenceNumber": "26REQ018454913",
-      "signedDate": "2026-02-05",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-10T09:57:51.959",
-      "procurementDeliveryDate": "2026-03-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "60/2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997687965",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "5001",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ"
-      },
-      "nutsCode": {
-        "key": "EL514",
-        "value": "Δράμα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.901.0002",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "79936",
-          "value": "ΓΡΑΦΕΙΟ ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗ Π.Ε. ΔΡΑΜΑΣ"
-        },
-        "signers": {
-          "key": "100086000",
-          "value": "ΝΙΚΟΛΑΟΣ ΕΥΚΑΡΠΙΔΗΣ - Πρόεδρος Επιτροπής"
-        }
-      },
-      "totalCostWithVAT": 501529.39,
-      "totalCostWithoutVAT": 443831.32,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 443831.32,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Την ανάθεση, των προσαρμοσμένων στα νέα δεδομένα όπου απαιτείται, δρομολογίων μεταφοράς μαθητών της ΠΕ Δράμας για το χρονικό διάστημα από 11-09-2025 έως 31-12-2025 για τη μεταφορά με λεωφορεία, minibus, ταξί, στους αναφερόμενους οικονομικούς φορείς του παραπάνω πίνακα με τις αντίστοιχες τιμές μονού δρομολογίου.",
-          "cpvs": [
-            {
-              "key": "60130000-8",
-              "value": "Υπηρεσίες ειδικών οδικών μεταφορών επιβατών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "60130000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "ΝΕΟ ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ",
-      "referenceNumber": "26REQ018454913",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-05",
-      "lastUpdateDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-10T09:56:51.246",
-      "procurementDeliveryDate": "2026-03-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "60/2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997687965",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "5001",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ"
-      },
-      "nutsCode": {
-        "key": "EL514",
-        "value": "Δράμα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.901.0002",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "79936",
-          "value": "ΓΡΑΦΕΙΟ ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗ Π.Ε. ΔΡΑΜΑΣ"
-        },
-        "signers": {
-          "key": "100086000",
-          "value": "ΝΙΚΟΛΑΟΣ ΕΥΚΑΡΠΙΔΗΣ - Πρόεδρος Επιτροπής"
-        }
-      },
-      "totalCostWithVAT": 501529.39,
-      "totalCostWithoutVAT": 443831.32,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 443831.32,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Την ανάθεση, των προσαρμοσμένων στα νέα δεδομένα όπου απαιτείται, δρομολογίων μεταφοράς μαθητών της ΠΕ Δράμας για το χρονικό διάστημα από 11-09-2025 έως 31-12-2025 για τη μεταφορά με λεωφορεία, minibus, ταξί, στους αναφερόμενους οικονομικούς φορείς του παραπάνω πίνακα με τις αντίστοιχες τιμές μονού δρομολογίου.",
-          "cpvs": [
-            {
-              "key": "60130000-8",
-              "value": "Υπηρεσίες ειδικών οδικών μεταφορών επιβατών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018454930"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "60130000"
-      ],
-      "cpv_divisions": [
-        "60"
-      ],
-      "all_domains": [
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "Μίσθωση μηχανημάτων έργου και μεταφορικών μέσων, για τις ανάγκες των υπηρεσιών του Δήμου Νεάπολης- Σ",
-      "referenceNumber": "26REQ018453775",
-      "previousRequestReferenceNumber": "24REQ014423267",
-      "signedDate": "2024-03-14",
-      "lastUpdateDate": "2026-02-02T00:00:00",
-      "submissionDate": "2026-02-10T08:26:31.498",
-      "procurementDeliveryDate": "2026-02-11",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "18543",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": "ty.neapoli-sykies@n3.syzefxis.gov.gr",
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "998502113",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6207",
-        "value": "ΔΗΜΟΣ ΝΕΑΠΟΛΗΣ - ΣΥΚΕΩΝ"
-      },
-      "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.Ε80710.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "82827",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "100039708",
-          "value": "ΣΤΕΛΙΟΣ ΓΚΑΤΖΕΣ - Αντιδήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 1023959.76,
-      "totalCostWithoutVAT": 825774.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "AG-001",
-            "value": "Μελέτη"
-          },
-          "costWithoutVAT": 825774,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Μίσθωση μηχανημάτων έργου και μεταφορικών μέσων, για τις ανάγκες των υπηρεσιών του Δήμου Νεάπολης- Συκεών",
-          "cpvs": [
-            {
-              "key": "90620000-9",
-              "value": "Υπηρεσίες εκχιονισμού"
-            },
-            {
-              "key": "60181000-0",
-              "value": "Ενοικίαση φορτηγών αυτοκινήτων με οδηγό"
-            },
-            {
-              "key": "60172000-4",
-              "value": "Ενοικίαση λεωφορείων και πούλμαν με οδηγό"
-            },
-            {
-              "key": "60182000-7",
-              "value": "Ενοικίαση οχημάτων επαγγελματικής χρήσης με οδηγό"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "90620000",
-        "60181000",
-        "60172000",
-        "60182000"
-      ],
-      "cpv_divisions": [
-        "90",
-        "60"
-      ],
-      "all_domains": [
-        "Environmental, Cleaning & Waste Services",
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "Υπηρεσίες δημόσιων οδικών μεταφορών",
-      "referenceNumber": "26REQ018453763",
-      "previousRequestReferenceNumber": "24REQ014123460",
-      "signedDate": "2024-01-12",
-      "lastUpdateDate": "2026-01-27T00:00:00",
-      "submissionDate": "2026-02-10T08:24:32.291",
-      "procurementDeliveryDate": "2024-01-13",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "ΠΡΟΜ033",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": "lefterisA@oasa.gr",
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "094419265",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "99200191",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΑΣΤΙΚΩΝ ΣΥΓΚΟΙΝΩΝΙΩΝ ΑΘΗΝΩΝ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100055422",
-          "value": "ΓΕΝΙΚΗ  ΔΙΕΥΘΥΝΣΗ ΣΥΓΚΟΙΝΩΝΙΑΚΗΣ & ΕΜΠΟΡΙΚΗΣ ΛΕΙΤΟΥΡΓΙΑΣ"
-        },
-        "signers": {
-          "key": "100101466",
-          "value": "ΑΝΤΩΝΙΟΣ ΚΕΡΑΣΤΑΡΗΣ - Διευθύνων Σύμβουλος"
-        }
-      },
-      "totalCostWithVAT": 24650565.43,
-      "totalCostWithoutVAT": 21814659.67,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 21814659.67,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υπηρεσίες δημόσιων οδικών μεταφορών",
-          "cpvs": [
-            {
-              "key": "60112000-6",
-              "value": "Υπηρεσίες δημόσιων οδικών μεταφορών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99200191",
-        "24650565",
-        "21814659",
-        "60112000"
-      ],
-      "cpv_divisions": [
-        "24",
-        "60"
-      ],
-      "all_domains": [
-        "Chemicals",
         "Transport Services"
       ],
       "primary_domain": "Transport Services"

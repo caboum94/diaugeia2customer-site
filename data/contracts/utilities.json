@@ -3,23 +3,23 @@
   "count": 1,
   "items": [
     {
-      "title": "ΠΡΟΜΗΘΕΙΑ, ΕΓΚΑΤΑΣΤΑΣΗ ΦΩΤΙΣΤΙΚΩΝ LED, ΕΠΙΣΚΕΥΗ/ΑΝΑΚΑΤΑΣΚΕΥΗ ΗΛΕΚΤΡΙΚΩΝ ΠΙΝΑΚΩΝ",
-      "referenceNumber": "26SYMV018459615",
+      "title": "ΚΑΘΑΡΙΣΜΟΣ ΔΑΣΙΚΗΣ ΚΑΙ ΛΟΙΠΗΣ ΒΛΑΣΤΗΣΗΣ",
+      "referenceNumber": "26SYMV018468355",
       "prevReferenceNo": null,
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-10T14:46:01.932",
+      "submissionDate": "2026-02-12T08:29:16.492",
       "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-10",
-      "startDate": "2026-02-10",
+      "contractSignedDate": "2026-02-11",
+      "startDate": "2026-02-11",
       "noEndDate": false,
-      "endDate": "2026-05-10",
+      "endDate": "2026-07-11",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "decisionRelatedAda": null,
-      "contractNumber": "9545/2026",
+      "contractNumber": "8061/2026",
       "authorEmail": null,
       "organizationVatNumber": "099793475",
       "greekOrganizationVatNumber": true,
@@ -27,7 +27,7 @@
       "diavgeiaADA": null,
       "aaht": "1020.E00318.0001",
       "budget": null,
-      "contractBudget": 25000,
+      "contractBudget": 29950,
       "bidsSubmitted": null,
       "maxBidsSubmitted": 2,
       "numberOfSections": 1,
@@ -103,7 +103,7 @@
         "key": "11",
         "value": "Εκπαίδευση"
       },
-      "contractDuration": 3,
+      "contractDuration": 5,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -111,14 +111,14 @@
       "contractRelatedADA": {
         "number1": null,
         "number2": null,
-        "number3": "Ρ49Κ46ΨΖΣ4-ΜΥΘ"
+        "number3": "ΡΗΙΧ46ΨΖΣ4-Θ4Χ"
       },
       "fundingDetails": {
         "publicFundingRef": null,
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": "65214600",
+        "selfFundProgramRef": "65220100",
         "espaFundProgramRef": null,
         "regularBudgetFundedProgramRef": null
       },
@@ -137,14 +137,14 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "802568140",
+            "vatNumber": "802874898",
             "greekVatNumber": true,
-            "name": "Ε Θ ΚΑΛΠΑΚΙΔΗ Ο Ε"
+            "name": "ΕΥΔΟΚΙΑ ΛΙΤΣΑ ΚΑΙ ΣΙΑ Ε Ε"
           }
         ]
       },
-      "totalCostWithVAT": 31000.0,
-      "totalCostWithoutVAT": 25000.0,
+      "totalCostWithVAT": 37138.0,
+      "totalCostWithoutVAT": 29950.0,
       "objectDetailsList": [
         {
           "quantity": 1,
@@ -152,17 +152,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 25000,
+          "costWithoutVAT": 29950,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "προμήθεια, εγκατάσταση φωτιστικών LED, επισκευή/ανακατασκευή ηλεκτρικών πινάκων που αφορούν την αναβάθμιση του φωτισμού και της ηλεκτρολογικής εγκατάστασης του χώρου του Μηχανουργείου στο κτιριακό συγκρότημα Πατησίων του ΕΜΠ.",
+          "shortDescription": "Καθαρισμός δασικής και λοιπής βλάστησης (κλαδέματα δέντρων και θάμνων, θρυμματισμός, απομά¬κρυνση καύσιμης ύλης) του τμήματος της Πολυτεχνειούπολης που βρίσκεται παράλληλα με τη λεωφόρο Κατεχάκη και γειτνιάζει με δασική έκταση Παπάγου, για λόγους αντιπυρικής προστασίας βάσει Πυροσβεστικής διάταξης 20/23 & Κανονισμού πυροπροστασίας ακινήτων (ΦΕΚ 3475/24.5.23)",
           "cpvs": [
             {
-              "key": "50000000-5",
-              "value": "Υπηρεσίες επισκευής και συντήρησης"
+              "key": "90910000-9",
+              "value": "Υπηρεσίες καθαρισμού"
             }
           ],
           "greenContracts": {
@@ -180,29 +180,36 @@
           "city": "ΑΘΗΝΑ",
           "streetNumber": null,
           "budgetCode": null,
-          "requestRefNo": "26AWRD018445439"
+          "requestRefNo": "26AWRD018421090"
         }
       ],
-      "additionalContractTypes": null,
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "3",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
       "mixedContract": false,
       "requestRefNo": null,
       "nextRefNo": null,
       "nextExtended": null,
       "nextModified": null,
-      "auctionRefNo": "26AWRD018445439",
+      "auctionRefNo": "26AWRD018421090",
       "paymentRefNo": [],
       "cpv_codes_extracted": [
         "99203026",
-        "65214600",
-        "50000000"
+        "65220100",
+        "90910000"
       ],
       "cpv_divisions": [
         "65",
-        "50"
+        "90"
       ],
       "all_domains": [
         "Utilities",
-        "Repair & Maintenance"
+        "Environmental, Cleaning & Waste Services"
       ],
       "primary_domain": "Utilities"
     }

@@ -1,15 +1,15 @@
 {
   "domain": "Real Estate",
-  "count": 5,
+  "count": 2,
   "items": [
     {
-      "title": "ΤΕΧΝΙΚΗ ΒΟΗΘΕΙΑ ΣΤΟ ΠΛΑΙΣΙΟ ΥΛΟΠΟΙΗΣΗΣ ΤΟΥ Χ.Π. ΔΡΑΣΕΙΣ ΠΕΡΙΒΑΛΛΟΝΤΙΚΟΥ ΙΣΟΖΥΓΙΟΥ 2026",
-      "referenceNumber": "26PROC018459964",
-      "signedDate": "2026-02-10T00:00:00",
+      "title": "Απόφαση τροποποίησης της προθεσμίας υποβολής των προσφορών ΕΠΑΝΑΧΡΗΣΗ, ΑΝΑΠΤΥΞΗ, ΑΝΑΔΕΙΞΗ ΤΑΤΟΙ",
+      "referenceNumber": "26PROC018472664",
+      "signedDate": "2026-02-12T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-15T00:00:00",
-      "submissionDate": "2026-02-10T15:37:07.852",
-      "lastUpdateDate": null,
+      "finalSubmissionDate": "2026-03-02T13:00:00",
+      "submissionDate": "2026-02-12T12:28:59.485",
+      "lastUpdateDate": "2026-02-12T00:00:00",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
@@ -20,8 +20,8 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1031.Ε00771.0001",
-      "biddingWebsite": null,
+      "aaht": "1",
+      "biddingWebsite": "https://publicworks.eprocurement.gov.gr/",
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
       "budget": null,
@@ -29,11 +29,11 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL301",
-        "value": "Βόρειος Τομέας Αθηνών"
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
       },
-      "nutsCity": "ΚΗΦΙΣΙΑ",
-      "nutsPostalCode": "14561",
+      "nutsCity": "ΑΘΗΝΑ",
+      "nutsPostalCode": "10562",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -52,12 +52,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "86148",
-          "value": "ΠΡΑΣΙΝΟ ΤΑΜΕΙΟ"
+          "key": "100095647",
+          "value": "ΜΟΝΑΔΑ ΣΥΜΒΑΣΕΩΝ ΣΤΡΑΤΗΓΙΚΗΣ ΣΗΜΑΣΙΑΣ"
         },
         "signers": {
-          "key": "100082939",
-          "value": "ΙΩΑΝΝΗΣ ΑΝΔΡΟΥΛΑΚΗΣ - Πρόεδρος Δ.Σ."
+          "key": "100095644",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΣΤΑΜΠΟΥΛΙΔΗΣ - Αναπληρωτής Διευθύνων Σύμβουλος"
         }
       },
       "fundingDetails": {
@@ -65,21 +65,21 @@
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": null,
+        "selfFundProgramRef": "Σύμβαση Παραχώρησης",
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2420989"
+        "regularBudgetFundedProgramRef": null
       },
-      "systemicNumbers": [],
-      "approvedRequests": [
+      "systemicNumbers": [
         {
-          "code": "26REQ018450672"
+          "systemicNumber": "217746"
         }
       ],
+      "approvedRequests": [],
       "contractingAuthorities": [
         {
           "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
+            "key": "10",
+            "value": "ΝΠΙΔ"
           }
         }
       ],
@@ -92,16 +92,16 @@
         }
       ],
       "organization": {
-        "key": "99201054",
-        "value": "ΠΡΑΣΙΝΟ ΤΑΜΕΙΟ"
+        "key": "100074686",
+        "value": "ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΣΥΜΜΕΤΟΧΩΝ ΚΑΙ ΠΕΡΙΟΥΣΙΑΣ ΑΕ"
       },
       "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
+        "key": "1",
+        "value": "Ανοιχτή διαδικασία"
       },
       "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
+        "key": "10",
+        "value": "Έργα"
       },
       "awardProcedure": null,
       "centralizedMarkets": [
@@ -113,67 +113,74 @@
         }
       ],
       "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+        "key": "4",
+        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
       },
       "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
+        "key": "1",
+        "value": "Ηλεκτρονική Διαδικασία"
       },
-      "digitalPlatform": null,
-      "criteriaCode": {
+      "digitalPlatform": {
         "key": "4",
-        "value": "Βάσει κόστους – άλλο"
+        "value": "ΕΣΗΔΗΣ ΔΕ"
+      },
+      "criteriaCode": {
+        "key": "1",
+        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
+        "key": "3",
+        "value": "Διακήρυξη"
       },
       "contractingAuthorityActivity": {
-        "key": "4",
-        "value": "Περιβάλλον"
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
       },
-      "contractDuration": 11,
+      "contractDuration": 65,
       "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
+        "key": "4",
+        "value": "Έτη"
       },
-      "totalCostWithVAT": 35960.0,
-      "totalCostWithoutVAT": 29000.0,
+      "totalCostWithVAT": 0.0,
+      "totalCostWithoutVAT": 0.0,
       "objectDetails": [
         {
           "quantity": 1,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "Erg",
+            "value": "Έργο"
           },
-          "costWithoutVAT": 29000,
+          "costWithoutVAT": 0,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Πρόσκληση υποβολής προσφοράς για την παροχή υπηρεσιών τεχνικής βοήθειας στο πλαίσιο υλοποίησης του Χρηματοδοτικού Προγράμματος «ΔΡΑΣΕΙΣ ΠΕΡΙΒΑΛΛΟΝΤΙΚΟΥ ΙΣΟΖΥΓΙΟΥ 2026».",
+          "shortDescription": "Απόφαση τροποποίησης της προθεσμίας υποβολής των προσφορών, της προθεσμίας ηλεκτρονικής αποσφράγισης των προσφορών και άλλων όρων στο πλαίσιο της από 10.12.2025 Πρόσκλησης Εκδήλωσης Ενδιαφέροντος (‘Α Φάση) για την ανάθεση σύμβασης παραχώρησης του έργου με τίτλο «ΕΠΑΝΑΧΡΗΣΗ, ΑΝΑΠΤΥΞΗ, ΑΝΑΔΕΙΞΗ ΚΑΙ ΑΞΙΟΠΟΙΗΣΗ ΚΤΗΡΙΩΝ ΚΑΙ ΧΩΡΩΝ ΤΟΥ ΠΡΩΗΝ ΒΑΣΙΛΙΚΟΥ ΚΤΗΜΑΤΟΣ ΤΑΤΟΪΟΥ» (ΑΔΑΜ: 25PROC018129905 2025-12-10) ",
           "cpvs": [
             {
-              "key": "70100000-2",
-              "value": "Υπηρεσίες που αφορούν ιδιόκτητα ακινήτα"
+              "key": "45453100-8",
+              "value": "Εργασίες αποκατάστασης"
             },
             {
-              "key": "71356200-0",
-              "value": "Υπηρεσίες τεχνικής βοήθειας"
+              "key": "45212000-6",
+              "value": "Κατασκευαστικές εργασίες για κτίρια αναψυχής"
             },
             {
-              "key": "72320000-4",
-              "value": "Υπηρεσίες βάσεων δεδομένων"
+              "key": "45212314-0",
+              "value": "Κατασκευαστικές εργασίες για ιστορικά μνημεία ή μνημεία"
             },
             {
-              "key": "71351810-4",
-              "value": "Τοπογραφικές υπηρεσίες"
+              "key": "45212350-4",
+              "value": "Κτίρια με ιδιαίτερο ιστορικό ή αρχιτεκτονικό ενδιαφέρον"
+            },
+            {
+              "key": "70110000-5",
+              "value": "Υπηρεσίες ανάπτυξης ακινήτων"
             }
           ],
           "greenContracts": {
@@ -201,708 +208,42 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "99201054",
-        "70100000",
-        "71356200",
-        "72320000",
-        "71351810"
+        "45453100",
+        "45212000",
+        "45212314",
+        "45212350",
+        "70110000"
       ],
       "cpv_divisions": [
-        "70",
-        "71",
-        "72"
-      ],
-      "all_domains": [
-        "Real Estate",
-        "Architecture, Engineering & Inspection",
-        "IT Services"
-      ],
-      "primary_domain": "Architecture, Engineering & Inspection"
-    },
-    {
-      "title": "ΑΓΟΡΑ ΑΚΙΝΗΤΟΥ (ΟΙΚΟΠΕΔΟΥ - ΓΗΠΕΔΟΥ) ΜΕ ΣΚΟΠΟ ΤΗΝ ΑΞΙΟΠΟΙΗΣΗ ΩΣ ΑΝΟΙΧΤΟΥ ΧΩΡΟΥ ΣΤΑΘΜΕΥΣΗΣ - ΜΕΛΕΤΗ",
-      "referenceNumber": "26PROC018459746",
-      "signedDate": "2026-02-10T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-17T00:00:00",
-      "submissionDate": "2026-02-10T14:59:09.89",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1007.Ε89569.0001",
-      "biddingWebsite": null,
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 1,
-      "nutsCode": {
-        "key": "EL543",
-        "value": "Ιωάννινα"
-      },
-      "nutsCity": "ΙΩΑΝΝΙΝΑ",
-      "nutsPostalCode": "45444",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "87530",
-          "value": "ΠΕΡΙΦΕΡΕΙΑΚΟ ΤΑΜΕΙΟ ΑΝΑΠΤΥΞΗΣ ΗΠΕΙΡΟΥ"
-        },
-        "signers": {
-          "key": "120798",
-          "value": "ΑΛΕΞΑΝΔΡΟΣ ΚΑΧΡΙΜΑΝΗΣ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "10.00.00.001"
-      },
-      "systemicNumbers": [],
-      "approvedRequests": [
-        {
-          "code": "26REQ018431467"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "10",
-            "value": "ΝΠΙΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL",
-            "value": "ΕΛΛΑΔΑ"
-          }
-        }
-      ],
-      "organization": {
-        "key": "5006",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ"
-      },
-      "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
-      },
-      "digitalPlatform": null,
-      "criteriaCode": {
-        "key": "4",
-        "value": "Βάσει κόστους – άλλο"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
-      },
-      "contractingAuthorityActivity": {
-        "key": "5",
-        "value": "Οικονομικές και δημοσιονομικές υποθέσεις"
-      },
-      "contractDuration": 10,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "totalCostWithVAT": 9920.0,
-      "totalCostWithoutVAT": 8000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 8000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΓΟΡΑ ΑΚΙΝΗΤΟΥ (ΟΙΚΟΠΕΔΟΥ - ΓΗΠΕΔΟΥ) ΜΕ ΣΚΟΠΟ ΤΗΝ ΑΞΙΟΠΟΙΗΣΗ ΩΣ ΑΝΟΙΧΤΟΥ ΧΩΡΟΥ ΣΤΑΘΜΕΥΣΗΣ - ΜΕΛΕΤΗ",
-          "cpvs": [
-            {
-              "key": "70120000-8",
-              "value": "Αγοραπωλησία ακινήτων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 11,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "70120000"
-      ],
-      "cpv_divisions": [
+        "45",
         "70"
       ],
       "all_domains": [
+        "Construction & Works",
         "Real Estate"
       ],
-      "primary_domain": "Real Estate"
+      "primary_domain": "Construction & Works"
     },
     {
-      "title": "Για την έκδοση ηλεκτρονικής ταυτότητας κτιρίων -  ακινήτων ιδιοκτησίας Κ.Ε.Α.Τ.",
-      "referenceNumber": "26PROC018458329",
-      "signedDate": "2026-02-10T00:00:00",
+      "title": "Τροποποίηση στην ΕΕ για την ΕΠΑΝΑΧΡΗΣΗ, ΑΝΑΠΤΥΞΗ, ΑΝΑΔΕΙΞΗ ΚΑΙ ΑΞΙΟΠΟΙΗΣΗ ΚΤΗΡΙΩΝ ΤΑΤΟΙ",
+      "referenceNumber": "26PROC018471246",
+      "signedDate": "2026-02-12T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-16T00:00:00",
-      "submissionDate": "2026-02-10T13:12:50.024",
+      "finalSubmissionDate": "2026-03-02T13:00:00",
+      "submissionDate": "2026-02-12T11:20:03.528",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
+      "amendPreviousNotice": true,
+      "amendedNoticeADAM": "26PROC018368491",
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1034.Ε00576.0001",
-      "biddingWebsite": null,
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 1,
-      "nutsCode": {
-        "key": "EL304",
-        "value": "Νότιος Τομέας Αθηνών"
-      },
-      "nutsCity": "ΚΑΛΛΙΘΕΑ",
-      "nutsPostalCode": "17675",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "77224",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΣΕΩΣ"
-        },
-        "signers": {
-          "key": "100062766",
-          "value": "ΣΟΦΙΑ - ΛΕΥΚΗ ΧΑΜΟΝΙΚΟΛΑΟΥ - Διοικητής"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2420989001"
-      },
-      "systemicNumbers": [],
-      "approvedRequests": [
-        {
-          "code": "26REQ018457682"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL304",
-            "value": "Νότιος Τομέας Αθηνών"
-          }
-        }
-      ],
-      "organization": {
-        "key": "99221632",
-        "value": "ΚΕΝΤΡΟ ΕΚΠ/ΣΗΣ ΚΑΙ ΑΠΟΚΑΤΑΣΤΑΣΗΣ ΤΥΦΛΩΝ (ΚΕΑΤ)"
-      },
-      "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
-      },
-      "digitalPlatform": null,
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
-      },
-      "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
-      },
-      "contractDuration": 10,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "totalCostWithVAT": 24000.0,
-      "totalCostWithoutVAT": 19354.84,
-      "objectDetails": [
-        {
-          "quantity": 40,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 19354.84,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": " Έκδοση ηλεκτρονικής ταυτότητας σαράντα (40) μη μισθωμένων – κενών ακινήτων ιδιοκτησίας του ΚΕΑΤ ",
-          "cpvs": [
-            {
-              "key": "70000000-1",
-              "value": "Υπηρεσίες που αφορούν τα ακίνητα"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 3,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "99221632",
-        "70000000"
-      ],
-      "cpv_divisions": [
-        "70"
-      ],
-      "all_domains": [
-        "Real Estate"
-      ],
-      "primary_domain": "Real Estate"
-    },
-    {
-      "title": "ΚΥ ΒΛΑΧΙΩΤΗ - ΙΑΤΡΙΚΟ ΟΞΥΓΟΝΟ ΠΡΟΜΗΘΕΙΑ",
-      "referenceNumber": "26PROC018458144",
-      "signedDate": "2026-02-10T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-18T12:34:00",
-      "submissionDate": "2026-02-10T13:03:05.409",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1015.Ε00813.0001",
-      "biddingWebsite": "https://dypede.isupplies.gr/",
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 1,
-      "nutsCode": {
-        "key": "EL632",
-        "value": "Αχαΐα"
-      },
-      "nutsCity": "ΠΑΤΡΑ",
-      "nutsPostalCode": "26441",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "73740",
-          "value": "6Η ΥΓΕΙΟΝΟΜΙΚΗ ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΛΟΠΟΝΗΣΟΥ ΙΟΝΙΩΝ ΗΠΕΙΡΟΥ & ΔΥΤ.ΕΛΛΑΔΑΣ"
-        },
-        "signers": {
-          "key": "100092477",
-          "value": "ΗΛΙΑΣ ΘΕΟΔΩΡΟΠΟΥΛΟΣ - Διοικητής"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "1311 , 819 , 829"
-      },
-      "systemicNumbers": [
-        {
-          "systemicNumber": "112/10-02-2026"
-        }
-      ],
-      "approvedRequests": [
-        {
-          "code": "26REQ018394662"
-        },
-        {
-          "code": "26REQ018404514"
-        },
-        {
-          "code": "26REQ018404454"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL632",
-            "value": "Αχαΐα"
-          }
-        }
-      ],
-      "organization": {
-        "key": "99221481",
-        "value": "6Η ΔΥΠΕ ΠΕΛΛΟΠΟΝΗΣΟΥ ΙΟΝΙΩΝ, ΗΠΕΙΡΟΥ & ΔΥΤ.ΕΛΛΑΔΑΣ"
-      },
-      "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "1",
-        "value": "Ηλεκτρονική Διαδικασία"
-      },
-      "digitalPlatform": {
-        "key": "6",
-        "value": "iSupplies"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
-      },
-      "contractingAuthorityActivity": {
-        "key": "6",
-        "value": "Υγεία"
-      },
-      "contractDuration": 12,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "totalCostWithVAT": 5984.24,
-      "totalCostWithoutVAT": 4826.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1925,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "53 ΕΞΟΔΑ ΜΕΤΑΦΟΡΩΝ ΚΑΙ ΕΠΙΚΟΙΝΩΝΙΩΝ ΓΙΑ ΤΑ ΚΕΝΤΡΑ ΥΓΕΙΑΣ ΑΡΜΟΔΙΟΤΗΤΑΣ 6ης ΥΠΕ.",
-          "cpvs": [
-            {
-              "key": "60000000-8",
-              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 35,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 501,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΔΕΣΜΕΥΣΗ 09-ΠΡΟΜΗΘΕΙΑ ΥΓΕΙΟΝΟΜΙΚΟΥ ΥΛΙΚΟΥ ΓΙΑ ΤΑ ΚΕΝΤΡΑ ΥΓΕΙΑΣ ΑΡΜΟΔΙΟΤΗΤΑΣ 6ης ΥΠΕ",
-          "cpvs": [
-            {
-              "key": "33140000-3",
-              "value": "Ιατρικά αναλώσιμα"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 2400,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "52 ΛΟΙΠΑ ΜΙΣΘΩΜΑΤΑ ΓΙΑ ΤΑ ΚΕΝΤΡΑ ΥΓΕΙΑΣ ΑΡΜΟΔΙΟΤΗΤΑΣ 6ης ΥΠΕ.",
-          "cpvs": [
-            {
-              "key": "70340000-6",
-              "value": "Υπηρεσίες χρονομεριστικής μίσθωσης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 4,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "99221481",
-        "60000000",
-        "33140000",
-        "70340000"
-      ],
-      "cpv_divisions": [
-        "60",
-        "33",
-        "70"
-      ],
-      "all_domains": [
-        "Transport Services",
-        "Medical & Pharma",
-        "Real Estate"
-      ],
-      "primary_domain": "Medical & Pharma"
-    },
-    {
-      "title": "ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΕΚΤΙΜΗΣΗ ΑΚΙΝΗΤΟΥ ΠΡΟΣ ΑΠΑΛΛΟΤΡΙΩΣΗ",
-      "referenceNumber": "26PROC018457249",
-      "signedDate": "2026-02-10T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-13T23:59:00",
-      "submissionDate": "2026-02-10T12:13:22.08",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1022.0000000000.0023",
-      "biddingWebsite": null,
+      "aaht": "1",
+      "biddingWebsite": "https://publicworks.eprocurement.gov.gr/",
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
       "budget": null,
@@ -914,7 +255,7 @@
         "value": "Κεντρικός Τομέας Αθηνών"
       },
       "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "10682",
+      "nutsPostalCode": "10562",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -928,17 +269,17 @@
         "value": "Όχι"
       },
       "centralGovernmentAuthority": {
-        "key": "1",
-        "value": "Ναι"
+        "key": "2",
+        "value": "Όχι"
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100073162",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΠΡΟΜΗΘΕΙΩΝ ΚΑΙ ΥΠΟΔΟΜΩΝ ΤΟΜΕΑ ΠΟΛΙΤΙΣΜΟΥ"
+          "key": "100095647",
+          "value": "ΜΟΝΑΔΑ ΣΥΜΒΑΣΕΩΝ ΣΤΡΑΤΗΓΙΚΗΣ ΣΗΜΑΣΙΑΣ"
         },
         "signers": {
-          "key": "100028238",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΙΣΣΑΡΗΣ - Διατάκτης"
+          "key": "100095644",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΣΤΑΜΠΟΥΛΙΔΗΣ - Αναπληρωτής Διευθύνων Σύμβουλος"
         }
       },
       "fundingDetails": {
@@ -946,43 +287,43 @@
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": null,
+        "selfFundProgramRef": "Σύμβασης Παραχώρησης",
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2420989001"
+        "regularBudgetFundedProgramRef": null
       },
-      "systemicNumbers": [],
-      "approvedRequests": [
+      "systemicNumbers": [
         {
-          "code": "26REQ018360910"
+          "systemicNumber": "217746"
         }
       ],
+      "approvedRequests": [],
       "contractingAuthorities": [
         {
           "contractingAuthority": {
-            "key": "12",
-            "value": "Κεντρική Διοίκηση"
+            "key": "10",
+            "value": "ΝΠΙΔ"
           }
         }
       ],
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL303",
-            "value": "Κεντρικός Τομέας Αθηνών"
+            "key": "EL301",
+            "value": "Βόρειος Τομέας Αθηνών"
           }
         }
       ],
       "organization": {
-        "key": "100081912",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΠΟΛΙΤΙΣΜΟΥ"
+        "key": "100074686",
+        "value": "ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΣΥΜΜΕΤΟΧΩΝ ΚΑΙ ΠΕΡΙΟΥΣΙΑΣ ΑΕ"
       },
       "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
+        "key": "1",
+        "value": "Ανοιχτή διαδικασία"
       },
       "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
+        "key": "10",
+        "value": "Έργα"
       },
       "awardProcedure": null,
       "centralizedMarkets": [
@@ -994,55 +335,74 @@
         }
       ],
       "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+        "key": "4",
+        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
       },
       "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
+        "key": "1",
+        "value": "Ηλεκτρονική Διαδικασία"
       },
-      "digitalPlatform": null,
+      "digitalPlatform": {
+        "key": "4",
+        "value": "ΕΣΗΔΗΣ ΔΕ"
+      },
       "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
+        "key": "1",
+        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
+        "key": "2",
+        "value": "Προκήρυξη"
       },
       "contractingAuthorityActivity": {
         "key": "12",
         "value": "Τυχόν άλλη δραστηριότητα"
       },
-      "contractDuration": 6,
+      "contractDuration": 65,
       "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
+        "key": "4",
+        "value": "Έτη"
       },
-      "totalCostWithVAT": 2480.0,
-      "totalCostWithoutVAT": 2000.0,
+      "totalCostWithVAT": 0.0,
+      "totalCostWithoutVAT": 0.0,
       "objectDetails": [
         {
           "quantity": 1,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "Erg",
+            "value": "Έργο"
           },
-          "costWithoutVAT": 2000,
+          "costWithoutVAT": 0,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Απόφαση ανάληψης πολυετούς υποχρέωσης για την παροχή υπηρεσιών εκτίμησης αξίας ακινήτου προς απαλλοτρίωση(Ν.2882/2001) στον αρχαιολογικό χώρο Ίσθμιας στη θέση “Κανόνι”ή “Ράχη”, Δ.Ε Λουτρακίου-Περαχώρας, Δ. Λουτρακίου-Περαχώρας-Αγ.Θεοδώρων, Π.Ε.Κορινθίας της Περιφέρειας Πελοποννήσου",
+          "shortDescription": "Τροποποίηση στην ΕΕ για την  «ΕΠΑΝΑΧΡΗΣΗ, ΑΝΑΠΤΥΞΗ, ΑΝΑΔΕΙΞΗ ΚΑΙ ΑΞΙΟΠΟΙΗΣΗ ΚΤΗΡΙΩΝ ΚΑΙ ΧΩΡΩΝ ΤΟΥ ΠΡΩΗΝ ΒΑΣΙΛΙΚΟΥ ΚΤΗΜΑΤΟΣ ΤΑΤΟΪΟΥ» OJ S 30/2026 12/02/2026",
           "cpvs": [
             {
-              "key": "70330000-3",
-              "value": "Υπηρεσίες διαχείρισης ακινήτων έναντι αμοιβής ή βάσει σύμβασης"
+              "key": "45212350-4",
+              "value": "Κτίρια με ιδιαίτερο ιστορικό ή αρχιτεκτονικό ενδιαφέρον"
+            },
+            {
+              "key": "45212000-6",
+              "value": "Κατασκευαστικές εργασίες για κτίρια αναψυχής"
+            },
+            {
+              "key": "70110000-5",
+              "value": "Υπηρεσίες ανάπτυξης ακινήτων"
+            },
+            {
+              "key": "45212314-0",
+              "value": "Κατασκευαστικές εργασίες για ιστορικά μνημεία ή μνημεία"
+            },
+            {
+              "key": "45453100-8",
+              "value": "Εργασίες αποκατάστασης"
             }
           ],
           "greenContracts": {
@@ -1055,7 +415,7 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "offersValidTime": 1,
+      "offersValidTime": 12,
       "offersValidTimeUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -1070,15 +430,21 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "70330000"
+        "45212350",
+        "45212000",
+        "70110000",
+        "45212314",
+        "45453100"
       ],
       "cpv_divisions": [
+        "45",
         "70"
       ],
       "all_domains": [
+        "Construction & Works",
         "Real Estate"
       ],
-      "primary_domain": "Real Estate"
+      "primary_domain": "Construction & Works"
     }
   ]
 }

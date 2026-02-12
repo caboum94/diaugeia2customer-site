@@ -1,24 +1,275 @@
 {
   "domain": "Sports, Toys & Recreation Goods",
-  "count": 8,
+  "count": 5,
   "items": [
     {
-      "title": "ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗ ΓΙΑ ΜΙΣΘΩΣΗ ΜΟΥΣΙΚΩΝ ΟΡΓΑΝΩΝ",
-      "referenceNumber": "26AWRD018459692",
-      "submissionDate": "2026-02-10T14:53:52.568",
+      "title": "Κατακύρωση για \"Προμήθεια οργάνων και λοιπού εξοπλισμού παιδικών χαρών\"",
+      "referenceNumber": "26AWRD018474513",
+      "submissionDate": "2026-02-12T16:15:34.243",
       "lastUpdateDate": null,
-      "signedDate": "2026-01-15",
+      "signedDate": "2026-02-05",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1022.E00374.0001 ",
+      "aaht": "1007.E84701.0001",
       "authorEmail": null,
-      "organizationVatNumber": "090340107",
+      "organizationVatNumber": "090094082",
       "greekOrganizationVatNumber": true,
-      "budget": 1300,
+      "budget": 241915,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 4,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100084857",
+          "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΤΡΟΠΗ"
+        },
+        "signers": {
+          "key": "100084859",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΛΥΚΟΣ - Πρόεδρος"
+        }
+      },
+      "procedureType": {
+        "key": "1",
+        "value": "Ανοιχτή διαδικασία"
+      },
+      "organization": {
+        "key": "6247",
+        "value": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL302",
+        "value": "Δυτικός Τομέας Αθηνών"
+      },
+      "nutsCity": "ΠΕΡΙΣΤΕΡΙ",
+      "nutsPostalCode": "12135",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "4",
+        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
+      },
+      "contractDuration": 3,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "996940560",
+            "greekVatNumber": true,
+            "name": "ΗΛΙΑΧΤΙΔΑ PLAYGROYNDS Α.Ε.",
+            "nutsCode": {
+              "key": "EL302",
+              "value": "Δυτικός Τομέας Αθηνών"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 296974.23,
+      "totalCostWithoutVAT": 239495.35,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 144787,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΜΗΜΑ 2 ΟΡΓΑΝΑ ΠΑΙΔΙΚΩΝ ΧΑΡΩΝ",
+          "cpvs": [
+            {
+              "key": "37535200-9",
+              "value": "Εξοπλισμός παιδικής χαράς"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 31897.8,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΜΗΜΑ 3 ΚΑΔΟΙ ΑΠΟΡΡΙΜΜΑΤΩΝ",
+          "cpvs": [
+            {
+              "key": "34928480-6",
+              "value": "Δοχεία και κάδοι απορριμμάτων"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 31942.35,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΜΗΜΑ 4 ΠΕΡΙΦΡΑΞΗ",
+          "cpvs": [
+            {
+              "key": "34928220-6",
+              "value": "Στοιχεία περίφραξης"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 30868.2,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΜΗΜΑ 5 ΕΛΑΣΤΙΚΑ ΠΛΑΚΙΔΙΑ ΑΣΦΑΛΕΙΑΣ",
+          "cpvs": [
+            {
+              "key": "33682000-4",
+              "value": "Πλακίδια από ελαστικό"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "25PROC017982658",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "37535200",
+        "34928480",
+        "34928220",
+        "33682000"
+      ],
+      "cpv_divisions": [
+        "37",
+        "34",
+        "33"
+      ],
+      "all_domains": [
+        "Sports, Toys & Recreation Goods",
+        "Transport & Vehicles",
+        "Medical & Pharma"
+      ],
+      "primary_domain": "Medical & Pharma"
+    },
+    {
+      "title": "ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΓΙΑ «ΜΙΣΘΩΣΗ ΟΡΓΑΝΩΝ ΛΕΙΤΟΥΡΓΙΑΣ ΠΑΙΔΟΤΟΠΟΥ ΣΤΟ ΔΗΜΟ ΠΕΡΙΣΤΕΡΙΟΥ»",
+      "referenceNumber": "26AWRD018474427",
+      "submissionDate": "2026-02-12T15:24:09.11",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-12",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.E89029.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "090093860",
+      "greekOrganizationVatNumber": true,
+      "budget": 30000,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
@@ -38,12 +289,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100001269",
-          "value": "Δ.Σ. Ε.Τ.Ο.Σ Κ.Ο.Α."
+          "key": "100030773",
+          "value": "ΑΥΤΟΤΕΛΕΣ ΤΜΗΜΑ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ ΚΑΙ ΑΝΑΠΤΥΞΗΣ (ΑΤΠΑ)"
         },
         "signers": {
-          "key": "100030808",
-          "value": "ΑΛΙΚΗ ΦΙΔΕΤΖΗ - Αναπληρωτής Διευθυντής"
+          "key": "100092969",
+          "value": "ΔΗΜΗΤΡΙΟΣ ΜΑΥΡΟΕΙΔΑΚΟΣ - Γενικός Γραμματέας"
         }
       },
       "procedureType": {
@@ -51,8 +302,8 @@
         "value": "Απευθείας ανάθεση"
       },
       "organization": {
-        "key": "99221258",
-        "value": "ΕΙΔΙΚΟ ΤΑΜΕΙΟ ΟΡΓΑΝΩΣΕΩΣ ΣΥΝΑΥΛΙΩΝ ΚΡΑΤΙΚΗΣ ΟΡΧΗΣΤΡΑΣ ΑΘΗΝΩΝ (ΕΤΟΣ ΚΟΑ)"
+        "key": "50065",
+        "value": "ΑΝΑΠΤΥΞΙΑΚΟΣ ΣΥΝΔΕΣΜΟΣ ΔΥΤΙΚΗΣ ΑΘΗΝΑΣ"
       },
       "contractType": {
         "key": "9",
@@ -64,11 +315,11 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL302",
+        "value": "Δυτικός Τομέας Αθηνών"
       },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "11521",
+      "nutsCity": "ΠΕΡΙΣΤΕΡΙ",
+      "nutsPostalCode": "12132",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -91,27 +342,27 @@
         "value": "Κεντρική Κυβέρνηση"
       },
       "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
+        "key": "9",
+        "value": "ΝΠΔΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "10",
-        "value": "Πολιτισμός και θρησκεία"
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 6,
+      "contractDuration": 1,
       "contractDurationUnitOfMeasure": {
-        "key": "2",
-        "value": "Εβδομάδες"
+        "key": "3",
+        "value": "Μήνες"
       },
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "015295341",
-            "greekVatNumber": true,
-            "name": "ΤΣΑΓΚΑΡΗΣ ΓΑΒΡΙΗΛ",
+            "vatNumber": "021176854",
+            "greekVatNumber": false,
+            "name": "ΠΑΝΟΥΣΗ ΜΑΡΙΑ",
             "nutsCode": {
-              "key": "EL303",
-              "value": "Κεντρικός Τομέας Αθηνών"
+              "key": "EL302",
+              "value": "Δυτικός Τομέας Αθηνών"
             },
             "installationCountry": {
               "key": "GR",
@@ -120,8 +371,8 @@
           }
         ]
       },
-      "totalCostWithVAT": 1612.0,
-      "totalCostWithoutVAT": 1300.0,
+      "totalCostWithVAT": 37200.0,
+      "totalCostWithoutVAT": 30000.0,
       "objectDetailsList": [
         {
           "quantity": 1,
@@ -129,17 +380,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 1300,
+          "costWithoutVAT": 30000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΑΠΕΥΘΕΙΑ ΑΝΑΘΕΣΗ ΓΙΑ ΜΙΣΘΩΣΗ ΜΟΥΣΙΚΩΝ ΟΡΓΑΝΩΝ ΓΙΑ ΣΥΝΑΥΛΙΑ 30/01/2026",
+          "shortDescription": "Μίσθωση οργάνων λειτουργίας παιδότοπου",
           "cpvs": [
             {
-              "key": "37316000-6",
-              "value": "Κρουστά μουσικά όργανα"
+              "key": "37529100-3",
+              "value": "Φουσκωτά παιχνίδια"
             }
           ],
           "greenContracts": {
@@ -152,20 +403,13 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "approvedRequestsList": [
-        {
-          "code": "26REQ018459613"
-        }
-      ],
-      "noticeRefNo": null,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018430880",
       "amendsAuctionRefNo": [],
-      "contractRefNo": [
-        "26SYMV018459736"
-      ],
+      "contractRefNo": [],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "99221258",
-        "37316000"
+        "37529100"
       ],
       "cpv_divisions": [
         "37"
@@ -176,865 +420,22 @@
       "primary_domain": "Sports, Toys & Recreation Goods"
     },
     {
-      "title": "Απόφαση ανάδειξης οριστικού αναδόχου προμήθεια παιδαγωγικού υλικού - ΒΝ.Σ. Ιωαννίνων",
-      "referenceNumber": "26AWRD018459634",
-      "submissionDate": "2026-02-10T14:48:11.049",
+      "title": "ΑΠΟΦΑΣΗ ΠΡΟΕΔΡΟΥ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗΣ ΠΡΟΜΗΘΕΙΑΣ ΔΙΧΤΥΟΥ ΠΕΡΙΦΡΑΞΗΣ ΚΑΙ ΚΑΘΙΣΜΑΤΩΝ ΚΕΡΚΙΔΑΣ ΓΗΠΕΔΟΥ.",
+      "referenceNumber": "26AWRD018472793",
+      "submissionDate": "2026-02-12T12:35:10.505",
       "lastUpdateDate": null,
-      "signedDate": "2026-02-10",
+      "signedDate": "2026-02-12",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1032.E00445.0004",
+      "aaht": "1007.F00624.0001",
       "authorEmail": null,
-      "organizationVatNumber": "090010376",
+      "organizationVatNumber": "999472777",
       "greekOrganizationVatNumber": false,
-      "budget": 4179.4,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 3,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "72352",
-          "value": "ΠΕΡΙΦΕΡΕΙΑΚΗ ΔΙΕΥΘΥΝΣΗ ΗΠΕΙΡΟΥ"
-        },
-        "signers": {
-          "key": "100062088",
-          "value": "ΕΛΕΝΗ ΠΑΠΙΓΚΙΩΤΗ - Προϊστάμενος Διεύθυνσης"
-        }
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "organization": {
-        "key": "99219675",
-        "value": "ΔΗΜΟΣΙΑ ΥΠΗΡΕΣΙΑ ΑΠΑΣΧΟΛΗΣΗΣ"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL543",
-        "value": "Ιωάννινα"
-      },
-      "nutsCity": "ΙΩΑΝΝΙΝΑ",
-      "nutsPostalCode": "45500",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "3",
-        "value": "ΟΚΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "8",
-        "value": "Κοινωνική προστασία"
-      },
-      "contractDuration": 1,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "091712060",
-            "greekVatNumber": false,
-            "name": "ΚΩΝΗΣ Ο.Ε.",
-            "nutsCode": {
-              "key": "EL543",
-              "value": "Ιωάννινα"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            }
-          }
-        ]
-      },
-      "totalCostWithVAT": 2104.79,
-      "totalCostWithoutVAT": 1697.41,
-      "objectDetailsList": [
-        {
-          "quantity": 273,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 811.62,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "30192700-8 Γραφική ύλη",
-          "cpvs": [
-            {
-              "key": "30192700-8",
-              "value": "Γραφική ύλη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 324,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 338.67,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "37823500-8 Χαρτί καλλιτεχνίας και χειροτεχνίας",
-          "cpvs": [
-            {
-              "key": "37823500-8",
-              "value": "Χαρτί καλλιτεχνίας και χειροτεχνίας"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 45,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 192.3,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "44812300-8 Χρώματα ως εκπαιδευτικό υλικό",
-          "cpvs": [
-            {
-              "key": "44812300-8",
-              "value": "Χρώματα ως εκπαιδευτικό υλικό"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 187,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 296.97,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "44423000-1 Διάφορα είδη",
-          "cpvs": [
-            {
-              "key": "44423000-1",
-              "value": "Διάφορα είδη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 25,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 57.85,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "19200000-8 Υφάσματα και συναφή είδη",
-          "cpvs": [
-            {
-              "key": "19200000-8",
-              "value": "Υφάσματα και συναφή είδη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018422993",
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "99219675",
-        "30192700",
-        "37823500",
-        "44812300",
-        "44423000",
-        "19200000"
-      ],
-      "cpv_divisions": [
-        "30",
-        "37",
-        "44",
-        "19"
-      ],
-      "all_domains": [
-        "Office & Computing (Non-Software)",
-        "Sports, Toys & Recreation Goods",
-        "Construction Materials & Structures",
-        "Textiles, Plastics & Rubber"
-      ],
-      "primary_domain": "Construction Materials & Structures"
-    },
-    {
-      "title": "Απόφαση ανάδειξης οριστικού αναδόχου προμήθεια παιδαγωγικού υλικού- ΒΝ.Σ. Ηγουμενίτσας",
-      "referenceNumber": "26AWRD018459557",
-      "submissionDate": "2026-02-10T14:40:19.155",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-10",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1032.E00445.0004",
-      "authorEmail": null,
-      "organizationVatNumber": "090010376",
-      "greekOrganizationVatNumber": false,
-      "budget": 4179.4,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 3,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "72352",
-          "value": "ΠΕΡΙΦΕΡΕΙΑΚΗ ΔΙΕΥΘΥΝΣΗ ΗΠΕΙΡΟΥ"
-        },
-        "signers": {
-          "key": "100062088",
-          "value": "ΕΛΕΝΗ ΠΑΠΙΓΚΙΩΤΗ - Προϊστάμενος Διεύθυνσης"
-        }
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "organization": {
-        "key": "99219675",
-        "value": "ΔΗΜΟΣΙΑ ΥΠΗΡΕΣΙΑ ΑΠΑΣΧΟΛΗΣΗΣ"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL543",
-        "value": "Ιωάννινα"
-      },
-      "nutsCity": "ΙΩΑΝΝΙΝΑ",
-      "nutsPostalCode": "45500",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "3",
-        "value": "ΟΚΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "8",
-        "value": "Κοινωνική προστασία"
-      },
-      "contractDuration": 1,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "047308532",
-            "greekVatNumber": false,
-            "name": "ΠΑΣΧΟΣ ΒΑΣ. ΔΗΜΗΤΡΙΟΣ ",
-            "nutsCode": {
-              "key": "EL542",
-              "value": "Θεσπρωτία"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            }
-          }
-        ]
-      },
-      "totalCostWithVAT": 2090.79,
-      "totalCostWithoutVAT": 1686.12,
-      "objectDetailsList": [
-        {
-          "quantity": 259,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 795.96,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "30192700-8 Γραφική ύλη",
-          "cpvs": [
-            {
-              "key": "30192700-8",
-              "value": "Γραφική ύλη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 324,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 338.59,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "37823500-8 Χαρτί καλλιτεχνίας και χειροτεχνίας",
-          "cpvs": [
-            {
-              "key": "37823500-8",
-              "value": "Χαρτί καλλιτεχνίας και χειροτεχνίας"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 50,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 208.8,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "44812300-8 Χρώματα ως εκπαιδευτικό υλικό",
-          "cpvs": [
-            {
-              "key": "44812300-8",
-              "value": "Χρώματα ως εκπαιδευτικό υλικό"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 183,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 292.57,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "44423000-1 Διάφορα είδη",
-          "cpvs": [
-            {
-              "key": "44423000-1",
-              "value": "Διάφορα είδη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 22,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 50.2,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "19200000-8 Υφάσματα και συναφή είδη",
-          "cpvs": [
-            {
-              "key": "19200000-8",
-              "value": "Υφάσματα και συναφή είδη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018422993",
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "99219675",
-        "30192700",
-        "37823500",
-        "44812300",
-        "44423000",
-        "19200000"
-      ],
-      "cpv_divisions": [
-        "30",
-        "37",
-        "44",
-        "19"
-      ],
-      "all_domains": [
-        "Office & Computing (Non-Software)",
-        "Sports, Toys & Recreation Goods",
-        "Construction Materials & Structures",
-        "Textiles, Plastics & Rubber"
-      ],
-      "primary_domain": "Construction Materials & Structures"
-    },
-    {
-      "title": "Απόφαση ανάδειξης οριστικού αναδόχου προμήθεια παιδαγωγικού υλικού- ΒΝ.Σ. Άρτας",
-      "referenceNumber": "26AWRD018459445",
-      "submissionDate": "2026-02-10T14:31:16.5",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-10",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1032.E00445.0004",
-      "authorEmail": null,
-      "organizationVatNumber": "090010376",
-      "greekOrganizationVatNumber": false,
-      "budget": 4179.4,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 3,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "72352",
-          "value": "ΠΕΡΙΦΕΡΕΙΑΚΗ ΔΙΕΥΘΥΝΣΗ ΗΠΕΙΡΟΥ"
-        },
-        "signers": {
-          "key": "100062088",
-          "value": "ΕΛΕΝΗ ΠΑΠΙΓΚΙΩΤΗ - Προϊστάμενος Διεύθυνσης"
-        }
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "organization": {
-        "key": "99219675",
-        "value": "ΔΗΜΟΣΙΑ ΥΠΗΡΕΣΙΑ ΑΠΑΣΧΟΛΗΣΗΣ"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL543",
-        "value": "Ιωάννινα"
-      },
-      "nutsCity": "ΙΩΑΝΝΙΝΑ",
-      "nutsPostalCode": "45500",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "3",
-        "value": "ΟΚΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "8",
-        "value": "Κοινωνική προστασία"
-      },
-      "contractDuration": 1,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "095162397",
-            "greekVatNumber": false,
-            "name": "ΑΦΟΙ ΚΩΝ/ΝΟΥ ΚΟΛΙΟΥ ΙΚΕ",
-            "nutsCode": {
-              "key": "EL54",
-              "value": "Ήπειρος"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            }
-          }
-        ]
-      },
-      "totalCostWithVAT": 968.75,
-      "totalCostWithoutVAT": 781.25,
-      "objectDetailsList": [
-        {
-          "quantity": 142,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 424.94,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "30192700-8 Γραφική ύλη",
-          "cpvs": [
-            {
-              "key": "30192700-8",
-              "value": "Γραφική ύλη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 199,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 235.05,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "37823500-8 Χαρτί καλλιτεχνίας και χειροτεχνίας",
-          "cpvs": [
-            {
-              "key": "37823500-8",
-              "value": "Χαρτί καλλιτεχνίας και χειροτεχνίας"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 15,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 68.45,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "44812300-8 Χρώματα ως εκπαιδευτικό υλικό",
-          "cpvs": [
-            {
-              "key": "44812300-8",
-              "value": "Χρώματα ως εκπαιδευτικό υλικό"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 28,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 43.43,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "44423000-1 Διάφορα είδη",
-          "cpvs": [
-            {
-              "key": "44423000-1",
-              "value": "Διάφορα είδη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 4,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 9.38,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "19200000-8 Υφάσματα και συναφή είδη",
-          "cpvs": [
-            {
-              "key": "19200000-8",
-              "value": "Υφάσματα και συναφή είδη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018422993",
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "99219675",
-        "30192700",
-        "37823500",
-        "44812300",
-        "44423000",
-        "19200000"
-      ],
-      "cpv_divisions": [
-        "30",
-        "37",
-        "44",
-        "19"
-      ],
-      "all_domains": [
-        "Office & Computing (Non-Software)",
-        "Sports, Toys & Recreation Goods",
-        "Construction Materials & Structures",
-        "Textiles, Plastics & Rubber"
-      ],
-      "primary_domain": "Construction Materials & Structures"
-    },
-    {
-      "title": "Ανάθεση προμήθειας αθλητικού υλικού, για τις ανάγκες των σχολικών μονάδων του Δήμου Πόρου",
-      "referenceNumber": "26AWRD018456787",
-      "submissionDate": "2026-02-10T11:50:25.544",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-10",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1007.E85206.0001",
-      "authorEmail": null,
-      "organizationVatNumber": "090120842",
-      "greekOrganizationVatNumber": false,
-      "budget": 2257.7,
+      "budget": 459,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
@@ -1054,12 +455,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "79882",
-          "value": "ΔΗΜΟΣ ΠΟΡΟΥ/ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
+          "key": "100011898",
+          "value": "ΑΠΟΦΑΣΗ ΠΡΟΕΔΡΟΥ ΓΙΑ ΤΗΝ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗ                                                    ΑΣΤΙΚΗ ΑΝΑΠΤΥΞΗ ΔΗΜΟΤΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ"
         },
         "signers": {
-          "key": "100085707",
-          "value": "ΓΕΩΡΓΙΟΣ ΚΑΝΑΤΣΙΔΗΣ - Αντιδήμαρχος"
+          "key": "100071248",
+          "value": "ΓΕΩΡΓΙΟΣ ΖΙΩΓΑΣ - Πρόεδρος Δ.Σ."
         }
       },
       "procedureType": {
@@ -1067,8 +468,8 @@
         "value": "Απευθείας ανάθεση"
       },
       "organization": {
-        "key": "6252",
-        "value": "ΔΗΜΟΣ ΠΟΡΟΥ"
+        "key": "51940",
+        "value": "ΑΣΤΙΚΗ ΑΝΑΠΤΥΞΗ ΔΗΜΟΤΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ"
       },
       "contractType": {
         "key": "13",
@@ -1080,11 +481,177 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL307",
-        "value": "Πειραιάς, Νήσοι"
+        "key": "EL611",
+        "value": "Καρδίτσα, Τρίκαλα"
       },
-      "nutsCity": "POROS",
-      "nutsPostalCode": "18020",
+      "nutsCity": "TΡΙΚΑΛΑ",
+      "nutsPostalCode": "42132",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 12,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "999616845",
+            "greekVatNumber": false,
+            "name": "VEGGA SPORT Ε.Π.Ε.",
+            "nutsCode": {
+              "key": "EL611",
+              "value": "Καρδίτσα, Τρίκαλα"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 569.16,
+      "totalCostWithoutVAT": 459.0,
+      "objectDetailsList": [
+        {
+          "quantity": 16,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 459,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "  Η ΑΣΤΙΚΗ ΑΝΑΠΤΥΞΗ ΜΟΝΟΜΕΤΟΧΙΚΗ Α.Ε. ΘΑ ΠΡΟΒΕΙ ΣΕ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΔΙΧΤΥΟΥ ΠΕΡΙΦΡΑΞΗΣ ΓΗΠΕΔΟΥ, ΚΑΘΩΣ ΚΑΙ ΣΤΗΝ ΠΡΟΜΗΘΕΙΑ ΚΑΘΙΣΜΑΤΩΝ ΚΕΡΚΙΔΑΣ ΓΗΠΕΔΟΥ ΜΕ ΔΙΠΛΗ ΠΛΑΤΗ, ΠΡΟΣ ΑΝΤΙΚΑΤΑΣΤΑΣΗ ΤΩΝ ΥΦΙΣΤΑΜΕΝΩΝ ΦΘΑΡΜΕΝΩΝ ΚΑΙ ΣΠΑΣΜΕΝΩΝ ΚΑΘΙΣΜΑΤΩΝ, ΜΕ ΣΚΟΠΟ ΤΗΝ ΕΥΡΥΘΜΗ ΚΑΙ ΑΣΦΑΛΗ ΛΕΙΤΟΥΡΓΙΑ ΤΗΣ ΑΘΛΗΤΙΚΗΣ ΕΓΚΑΤΑΣΤΑΣΗΣ BEACH VOLLEY ΣΤΟ ΑΘΛΗΤΙΚΟ ΠΑΡΚΟ ΑΓΙΟΥ ΓΕΩΡΓΙΟΥ",
+          "cpvs": [
+            {
+              "key": "37415000-0",
+              "value": "Αθλητικός εξοπλισμός"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018442648",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "37415000"
+      ],
+      "cpv_divisions": [
+        "37"
+      ],
+      "all_domains": [
+        "Sports, Toys & Recreation Goods"
+      ],
+      "primary_domain": "Sports, Toys & Recreation Goods"
+    },
+    {
+      "title": "ΔΑΠΑΝΕΣ ΓΙΑ ΤΗΝ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΤΟΥ ΠΑΙΔΙΚΟΥ ΠΑΡΤΥ ΔΩΡΕΑΝ ΓΙΑ ΤΑ ΠΑΙΔΙΑ ΤΟΥ ΔΗΜΟΥ ΠΡΕΒΕΖΑΣ",
+      "referenceNumber": "26AWRD018469311",
+      "submissionDate": "2026-02-12T09:35:56.349",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-11",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.Ε82101.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "997861879",
+      "greekOrganizationVatNumber": false,
+      "budget": 1742.3,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "92508",
+          "value": "ΤΜΗΜΑ ΠΟΛΙΤΙΣΜΟΥ"
+        },
+        "signers": {
+          "key": "100048717",
+          "value": "ΝΙΚΟΛΑΟΣ ΓΕΩΡΓΑΚΟΣ - Δήμαρχος"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "6253",
+        "value": "ΔΗΜΟΣ ΠΡΕΒΕΖΑΣ"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "criteriaCode": {
+        "key": "1",
+        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL541",
+        "value": "Άρτα, Πρέβεζα"
+      },
+      "nutsCity": "ΠΡΕΒΕΖΑ",
+      "nutsPostalCode": "48100",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -1111,10 +678,10 @@
         "value": "ΝΠΔΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
+        "key": "10",
+        "value": "Πολιτισμός και θρησκεία"
       },
-      "contractDuration": 40,
+      "contractDuration": 1,
       "contractDurationUnitOfMeasure": {
         "key": "1",
         "value": "Ημέρες"
@@ -1122,12 +689,64 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "999616845",
+            "vatNumber": "801519528",
             "greekVatNumber": false,
-            "name": "VEGGA SPORT Ε.Π.Ε.",
+            "name": "ΑΔΑΜΗΣ Ι.-ΜΠΙΤΣΙΟΥ Μ.",
             "nutsCode": {
-              "key": "EL307",
-              "value": "Πειραιάς, Νήσοι"
+              "key": "EL541",
+              "value": "Άρτα, Πρέβεζα"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          },
+          {
+            "vatNumber": "057269210",
+            "greekVatNumber": false,
+            "name": "ΦΑΜΠΙΑΝΟΣ ΑΝΤΩΝΙΟΣ",
+            "nutsCode": {
+              "key": "EL541",
+              "value": "Άρτα, Πρέβεζα"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          },
+          {
+            "vatNumber": "136694854",
+            "greekVatNumber": false,
+            "name": "ΓΛΑΡΑ Κ. ΕΛΕΝΗ",
+            "nutsCode": {
+              "key": "EL541",
+              "value": "Άρτα, Πρέβεζα"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          },
+          {
+            "vatNumber": "136694854",
+            "greekVatNumber": false,
+            "name": "ΓΛΑΡΑ Κ. ΕΛΕΝΗ",
+            "nutsCode": {
+              "key": "EL541",
+              "value": "Άρτα, Πρέβεζα"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          },
+          {
+            "vatNumber": "047486281",
+            "greekVatNumber": false,
+            "name": "ΑΥΔΙΚΟΣ ΝΙΚΟΛΑΟΣ",
+            "nutsCode": {
+              "key": "EL541",
+              "value": "Άρτα, Πρέβεζα"
             },
             "installationCountry": {
               "key": "GR",
@@ -1136,26 +755,26 @@
           }
         ]
       },
-      "totalCostWithVAT": 2799.55,
-      "totalCostWithoutVAT": 2257.7,
+      "totalCostWithVAT": 2052.65,
+      "totalCostWithoutVAT": 1742.3,
       "objectDetailsList": [
         {
-          "quantity": 216,
+          "quantity": 15,
           "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
+            "key": "KGM",
+            "value": "Kg"
           },
-          "costWithoutVAT": 2257.7,
-          "vat": "24",
+          "costWithoutVAT": 180,
+          "vat": "13",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Ανάθεση προμήθειας αθλητικού υλικού, για τις ανάγκες των σχολικών μονάδων του Δήμου Πόρου",
+          "shortDescription": "ΚΑΡΑΜΕΛΕΣ",
           "cpvs": [
             {
-              "key": "37415000-0",
-              "value": "Αθλητικός εξοπλισμός"
+              "key": "15833000-6",
+              "value": "Ζαχαρώδη προϊόντα"
             }
           ],
           "greenContracts": {
@@ -1164,164 +783,102 @@
           },
           "goodServices": null,
           "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018428739",
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "37415000"
-      ],
-      "cpv_divisions": [
-        "37"
-      ],
-      "all_domains": [
-        "Sports, Toys & Recreation Goods"
-      ],
-      "primary_domain": "Sports, Toys & Recreation Goods"
-    },
-    {
-      "title": "Προμήθεια δεκαπέντε (15) στρωμάτων στις εγκαταστάσεις της ΝΕΕΜΠ ",
-      "referenceNumber": "26AWRD018456431",
-      "submissionDate": "2026-02-10T11:29:50.194",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-10",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1020.Ε00721.0001",
-      "authorEmail": null,
-      "organizationVatNumber": "090044306",
-      "greekOrganizationVatNumber": false,
-      "budget": 3211.21,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100037571",
-          "value": "ΓΡΑΦΕΙΟ ΠΡΟΕΔΡΟΥ"
         },
-        "signers": {
-          "key": "100082794",
-          "value": "ΑΝΝΑ ΡΟΚΟΦΥΛΛΟΥ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "organization": {
-        "key": "99203024",
-        "value": "ΙΔΡΥΜΑ ΝΕΟΛΑΙΑΣ ΚΑΙ ΔΙΑ ΒΙΟΥ ΜΑΘΗΣΗΣ"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "nutsCity": "ΑΘΗΝΑ ",
-      "nutsPostalCode": "11143",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
         {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
-      },
-      "contractDuration": 30,
-      "contractDurationUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "095318624",
-            "greekVatNumber": false,
-            "name": "ΣΤΡΩΜΑΤΟΠΟΙΪΑ ΑΘΗΝΩΝ ΕΤΑΙΡΕΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
-            "nutsCode": {
-              "key": "EL306",
-              "value": "Δυτική Αττική"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
+          "quantity": 200,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 32.2,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΣΦΥΡΙΧΤΡΕΣ ",
+          "cpvs": [
+            {
+              "key": "37312500-3",
+              "value": "Σφυρίχτρες"
             }
-          }
-        ]
-      },
-      "totalCostWithVAT": 2685.84,
-      "totalCostWithoutVAT": 2166.0,
-      "objectDetailsList": [
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 400,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 128,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΣΕΡΠΑΤΙΝΕΣ",
+          "cpvs": [
+            {
+              "key": "39298900-6",
+              "value": "Διάφορα είδη διακόσμησης"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 565,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 602.1,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΙΝΕΛΑ ΖΩΓΡΑΦΙΚΗΣ,ΝΕΡΟΜΠΟΓΙΕΣ,ΤΕΜΠΕΡΕΣ,ΞΥΛΟΜΠΟΓΙΕΣ,ΜΑΡΚΑΔΟΡΟΙ,ΚΑΡΦΙΤΣΕΣ,ΠΙΝΕΖΕΣ,ΧΑΝΤΡΕΣ ΣΤΟΛΙΣΜΟΥ,ΣΕΤ ΜΑΣΚΩΤ ΧΑΡΤΙΝΩΝ",
+          "cpvs": [
+            {
+              "key": "37800000-6",
+              "value": "Είδη χειροτεχνίας και καλλιτεχνίας"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
         {
           "quantity": 1,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 2166,
-          "vat": "24",
+          "costWithoutVAT": 800,
+          "vat": "13",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": " Εγκρίνεται η ανάθεση για την « Προμήθεια δεκαπέντε (15) στρωμάτων στις εγκαταστάσεις της ΝΕΕΜΠ» στην εταιρεία με την επωνυμία «ΣΤΡΩΜΑΤΟΠΟΙΪΑ ΑΘΗΝΩΝ ΕΤΑΙΡΕΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ» με διακρ. τίτλο «GRECO STROM »  με ΑΦΜ: 095318624 &  Δ.Ο.Υ.: ΚΕΦΟΔΕ ΑΤΤΙΚΗΣ αντί εργολαβικού ποσού των # 2.166,00 € # μη συμπεριλαμβανομένου Φ.Π.Α  και  # 2.685,84 € # συμπεριλαμβανομένου του Φ.Π.Α.",
+          "shortDescription": "ΜΠΟΥΦΕΣΣ (ΤΥΡΟΠΙΤΑΚΙΑ-ΚΡΟΥΑΣΑΝΑΚΙΑ-ΣΑΝΤΟΥΙΤΣΑΚΙΑ)",
           "cpvs": [
             {
-              "key": "37414100-4",
-              "value": "Στρώματα ύπνου"
+              "key": "15894200-3",
+              "value": "Έτοιμα γεύματα"
             }
           ],
           "greenContracts": {
@@ -1335,212 +892,51 @@
       "additionalContractTypes": null,
       "mixedContract": false,
       "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018430694",
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [
-        "26SYMV018459217"
-      ],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "99203024",
-        "37414100"
-      ],
-      "cpv_divisions": [
-        "37"
-      ],
-      "all_domains": [
-        "Sports, Toys & Recreation Goods"
-      ],
-      "primary_domain": "Sports, Toys & Recreation Goods"
-    },
-    {
-      "title": "Προμήθεια υάλινων πιπών και ανταλλακτικών επιστόμιων σιλικόνης",
-      "referenceNumber": "26AWRD018455497",
-      "submissionDate": "2026-02-10T10:33:59.522",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-09",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1015.E00990.0001",
-      "authorEmail": null,
-      "organizationVatNumber": "996427402",
-      "greekOrganizationVatNumber": false,
-      "budget": 29970,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100096022",
-          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
-        },
-        "signers": {
-          "key": "100098319",
-          "value": "ΑΘΑΝΑΣΙΟΣ ΘΕΟΧΑΡΗΣ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "organization": {
-        "key": "100095525",
-        "value": "ΕΘΝΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΠΡΟΛΗΨΗΣ ΚΑΙ ΑΝΤΙΜΕΤΩΠΙΣΗΣ ΕΞΑΡΤΗΣΕΩΝ"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "10433",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "6",
-        "value": "Υγεία"
-      },
-      "contractDuration": 3,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "999961106",
-            "greekVatNumber": false,
-            "name": "MTEST ΣΠ.ΝΙΚΟΛΑΟΥ & ΣΙΑ ΕΕ",
-            "nutsCode": {
-              "key": "EL303",
-              "value": "Κεντρικός Τομέας Αθηνών"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            }
-          }
-        ]
-      },
-      "totalCostWithVAT": 37162.8,
-      "totalCostWithoutVAT": 29970.0,
-      "objectDetailsList": [
-        {
-          "quantity": 36000,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 29970,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια υάλινων πιπών και ανταλλακτικών επιστόμιων σιλικόνης",
-          "cpvs": [
-            {
-              "key": "37322300-4",
-              "value": "Επιστόμια"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": null,
+      "noticeRefNo": "26PROC018425791",
       "amendsAuctionRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "37322300"
+        "15833000",
+        "37312500",
+        "39298900",
+        "37800000",
+        "15894200"
       ],
       "cpv_divisions": [
-        "37"
+        "15",
+        "37",
+        "39"
       ],
       "all_domains": [
-        "Sports, Toys & Recreation Goods"
+        "Food & Catering",
+        "Sports, Toys & Recreation Goods",
+        "Furniture & Cleaning Products"
       ],
-      "primary_domain": "Sports, Toys & Recreation Goods"
+      "primary_domain": "Food & Catering"
     },
     {
-      "title": "ΥΠΗΡΕΣΙΕΣ ΧΟΡΔΙΣΜΑΤΟΣ ΤΩΝ ΠΙΑΝΩΝ ΤΩΝ ΜΟΥΣΙΚΩΝ ΣΥΝΟΛΩΝ",
-      "referenceNumber": "26AWRD018454590",
-      "submissionDate": "2026-02-10T09:34:24.497",
+      "title": "Aπόφαση ανάθεσης για προμήθεια αναλώσιμων υλικών για Αποκριάτικες Εκδηλώσεις 2026",
+      "referenceNumber": "26AWRD018468152",
+      "submissionDate": "2026-02-12T07:52:10.751",
       "lastUpdateDate": null,
-      "signedDate": "2026-02-10",
+      "signedDate": "2026-02-11",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1004.Ε00513.0001",
+      "aaht": "1007.E84706.0001",
       "authorEmail": null,
-      "organizationVatNumber": "997476074",
-      "greekOrganizationVatNumber": true,
-      "budget": 29800,
+      "organizationVatNumber": "090137535",
+      "greekOrganizationVatNumber": false,
+      "budget": 11525,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
       "amendPreviousAuction": false,
-      "numberOfSections": 1,
+      "numberOfSections": 8,
       "assignedContract": {
         "key": "2",
         "value": "Όχι"
@@ -1555,12 +951,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100043427",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΜΟΥΣΙΚΩΝ ΣΥΝΟΛΩΝ"
+          "key": "83040",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
         },
         "signers": {
-          "key": "100060337",
-          "value": "ΜΑΡΙΑ ΚΟΖΑΚΟΥ - Προϊστάμενος"
+          "key": "100084192",
+          "value": "ΑΙΚΑΤΕΡΙΝΗ ΤΣΕΠΕΡΚΑ - Αντιδήμαρχος"
         }
       },
       "procedureType": {
@@ -1568,8 +964,8 @@
         "value": "Απευθείας ανάθεση"
       },
       "organization": {
-        "key": "100012982",
-        "value": "ΕΛΛΗΝΙΚΗ ΡΑΔΙΟΦΩΝΙΑ ΤΗΛΕΟΡΑΣΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ (Ε.Ρ.Τ. Α.Ε.)"
+        "key": "6248",
+        "value": "ΔΗΜΟΣ ΠΕΤΡΟΥΠΟΛΗΣ"
       },
       "contractType": {
         "key": "9",
@@ -1581,11 +977,11 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL305",
-        "value": "Ανατολική Αττική"
+        "key": "EL302",
+        "value": "Δυτικός Τομέας Αθηνών"
       },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "11527",
+      "nutsCity": "ΠΕΤΡΟΥΠΟΛΗ",
+      "nutsPostalCode": "13232",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -1604,18 +1000,18 @@
       },
       "centralizedTypes": null,
       "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
+        "key": "2",
+        "value": "ΟΤΑ"
       },
       "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
+        "key": "9",
+        "value": "ΝΠΔΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "10",
-        "value": "Πολιτισμός και θρησκεία"
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 10,
+      "contractDuration": 1,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -1623,12 +1019,12 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "044949354",
-            "greekVatNumber": true,
-            "name": "ΤΣΟΥΚΑΛΗΣ ΣΩΤΗΡΗΣ",
+            "vatNumber": "094334651",
+            "greekVatNumber": false,
+            "name": "MAX STORES Α.Β.Ε.Ε.",
             "nutsCode": {
-              "key": "EL305",
-              "value": "Ανατολική Αττική"
+              "key": "EL304",
+              "value": "Νότιος Τομέας Αθηνών"
             },
             "installationCountry": {
               "key": "GR",
@@ -1637,26 +1033,26 @@
           }
         ]
       },
-      "totalCostWithVAT": 36952.0,
-      "totalCostWithoutVAT": 29800.0,
+      "totalCostWithVAT": 145.06,
+      "totalCostWithoutVAT": 116.98,
       "objectDetailsList": [
         {
-          "quantity": 1,
+          "quantity": 185,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "C62",
+            "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 29800,
+          "costWithoutVAT": 116.98,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Η διατήρηση των πιάνων της Διεύθυνσης Μουσικών Συνόλων καθώς και του Τρίτου Προγράμματος σε καλή και χρηστική κατάσταση, απαιτεί την τακτική συντήρησή τους από εξειδικευμένο χορδιστή. Πρόκειται για μια πολλή εξειδικευμένη εργασία που απαιτεί τεχνικό με σπουδές και μεγάλη εμπειρία στο χώρο αυτό, καθώς και διεθνής πιστοποιήσεις από τους μεγαλύτερους κατασκευαστές πιάνου στον κόσμο. ",
+          "shortDescription": "Προμήθεια αναλωσίμων υλικών (περούκες, χαρτοπόλεμος, σερπαντίνες, αυτοκόλλητα κοσμήματα, ειδικά make up, κραγιόν και body painting, σφυρίχτρες και σετ αποκριάτικα) τα οποία θα χρησιμοποιηθούν από τα τμήματα πολιτισμού του δήμου τα οποία θα συμμετέχουν στην αποκριάτικη παρέλαση.",
           "cpvs": [
             {
-              "key": "37311100-2",
-              "value": "Πιάνα"
+              "key": "37820000-2",
+              "value": "Υλικά καλλιτεχνίας"
             }
           ],
           "greenContracts": {
@@ -1667,19 +1063,24 @@
           "budgetCode": null
         }
       ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [
+      "additionalContractTypes": [
         {
-          "code": "26REQ018415438"
+          "additionalContractType": {
+            "key": "2",
+            "value": "Προμήθειες"
+          }
         }
       ],
-      "noticeRefNo": null,
+      "mixedContract": true,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018436779",
       "amendsAuctionRefNo": [],
-      "contractRefNo": [],
+      "contractRefNo": [
+        "26SYMV018469112"
+      ],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "37311100"
+        "37820000"
       ],
       "cpv_divisions": [
         "37"
