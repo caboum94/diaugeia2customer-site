@@ -51,16 +51,24 @@
     @media (min-width: 860px){ .card{grid-column:span 6;} }
     @media (min-width: 1120px){ .card{grid-column:span 4;} }
     .title{margin:0 0 10px 0;font-size:14px;line-height:1.35;font-weight:800}
+
+    /* NEW: short description */
+    .desc{
+      margin:0 0 10px 0;
+      color:var(--muted);
+      font-size:12px;
+      line-height:1.35;
+      display:-webkit-box;
+      -webkit-line-clamp:2;
+      -webkit-box-orient:vertical;
+      overflow:hidden;
+    }
+
     .meta{display:grid;gap:6px;font-size:12px;color:var(--muted)}
     .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
     .k{opacity:.9}
     .v{color:var(--text);font-weight:750}
-    .tags{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
-    .tag{
-      font-size:12px;border:1px solid var(--line);background:rgba(255,255,255,0.03);
-      padding:6px 10px;border-radius:999px;color:var(--muted);
-      max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap
-    }
+
     .actions{margin-top:12px;display:flex;gap:10px;flex-wrap:wrap}
     .btn{
       display:inline-block;padding:8px 12px;border-radius:12px;border:1px solid var(--line);
@@ -156,7 +164,6 @@
       <div class="controls">
         <div class="tabs" id="tabs"></div>
         <div class="right">
-          <!-- Custom dropdown replaces <select> -->
           <div class="dd" id="bucketDD">
             <button class="dd-btn" id="bucketBtn" type="button">Select bucket…</button>
             <div class="dd-menu" id="bucketMenu" hidden>
@@ -165,7 +172,7 @@
             </div>
           </div>
 
-          <input id="q" class="input" placeholder="Search title / reference / org / CPV…" />
+          <input id="q" class="input" placeholder="Search title / reference / org / location…" />
           <span class="pill" id="countPill">0 items</span>
         </div>
       </div>
@@ -203,7 +210,6 @@ const elStatus = document.getElementById("statusPill");
 const elCount = document.getElementById("countPill");
 const elFooter = document.getElementById("footerInfo");
 
-// dropdown elements
 const elBucketDD = document.getElementById("bucketDD");
 const elBucketBtn = document.getElementById("bucketBtn");
 const elBucketMenu = document.getElementById("bucketMenu");
@@ -237,7 +243,7 @@ function renderTabs(){
     b.textContent = c.label;
     b.onclick = () => {
       state.cat = c.key;
-      state.bucketFile = null;     // IMPORTANT: reset bucket when switching category
+      state.bucketFile = null;
       updateHash();
       loadCategory();
     };
@@ -266,58 +272,66 @@ function organizationName(item){
   return item.organization?.value || item.contractingData?.unitsOperator?.value || "";
 }
 
-function getAmount(item){
-  // Try common fields across KHMDHS payloads (requests/contracts/payments/etc.)
+function getShortDescription(item){
+  return item.objectDetails?.[0]?.shortDescription || item.shortDescription || item.description || "";
+}
+
+function getLocation(item){
+  return item.nutsCode?.value || item.placeOfPerformance?.value || item.placeOfPerformance || "";
+}
+
+function getContractType(item){
+  // requests example: item.contractTypes[0].contractType.value
+  const v =
+    item.contractTypes?.[0]?.contractType?.value ||
+    item.contractType?.value ||
+    item.contractType ||
+    "";
+  return v || null;
+}
+
+function formatMoneyEUR(n){
+  const num = Number(n);
+  if (!Number.isFinite(num)) return null;
+  return "€" + num.toLocaleString(undefined, { maximumFractionDigits: 2 });
+}
+
+function getAmountWithVat(item){
+  // Prefer the explicit field you showed: totalCostWithVAT
+  const direct = item.totalCostWithVAT ?? item.totalCost ?? item.totalAmountWithVat ?? null;
+  const fm = formatMoneyEUR(direct);
+  if (fm) return fm;
+
+  // Fallback: try the previous generic amount extraction
   const candidates = [
-    item.amount,
-    item.totalAmount,
-    item.totalValue,
-    item.value,
-    item.contractValue,
-    item.contractingData?.totalAmount,
-    item.contractingData?.totalValue,
-    item.contractingData?.awardValue,
-    item.contractingData?.price,
-    item.financialData?.amount,
-    item.financialData?.totalAmount,
-    item.paymentAmount,
-    item.payableAmount,
-    item.budget?.amount,
-    item.budget?.value,
-    item.award?.amount,
-    item.award?.value,
-    item.objectDetails?.[0]?.estimatedValue,
-    item.objectDetails?.[0]?.estimatedValueWithoutVat,
+    item.amount, item.totalAmount, item.totalValue, item.value, item.contractValue,
+    item.contractingData?.totalAmount, item.contractingData?.totalValue,
+    item.contractingData?.awardValue, item.contractingData?.price,
+    item.financialData?.amount, item.financialData?.totalAmount,
+    item.paymentAmount, item.payableAmount,
+    item.budget?.amount, item.budget?.value,
+    item.award?.amount, item.award?.value,
     item.objectDetails?.[0]?.estimatedValueWithVat,
+    item.objectDetails?.[0]?.estimatedValue,
     item.objectDetails?.[0]?.value
   ];
 
   let v = candidates.find(x => x !== undefined && x !== null && x !== "");
   if (v === undefined) return null;
 
-  // Handle {amount:..., currency:...} or {value:..., currency:...}
   let currency = item.currency || item.financialData?.currency || item.budget?.currency || item.contractingData?.currency;
 
   if (typeof v === "object" && v !== null) {
     currency = v.currency || currency;
     v = v.amount ?? v.value ?? v.total ?? v.net ?? v.gross ?? null;
   }
-
   if (v === null || v === undefined || v === "") return null;
 
   const num = Number(String(v).replace(",", "."));
   const pretty = Number.isFinite(num) ? num.toLocaleString(undefined, { maximumFractionDigits: 2 }) : String(v);
-  return currency ? `${pretty} ${currency}` : pretty;
-}
 
-
-
-
-
-function cpvList(item){
-  const od0 = item.objectDetails?.[0];
-  const cpvs = od0?.cpvs || [];
-  return cpvs.map(x => x?.key || x?.value).filter(Boolean);
+  if (!currency || currency === "EUR" || currency === "€") return "€" + pretty;
+  return `${pretty} ${currency}`;
 }
 
 function applyFilter(){
@@ -326,9 +340,13 @@ function applyFilter(){
   else {
     state.filtered = state.items.filter(item => {
       const parts = [
-        item.title, item.referenceNumber, item.protocolNumber,
-        organizationName(item), item.nutsCode?.value,
-        ...(cpvList(item))
+        item.title,
+        item.referenceNumber,
+        item.protocolNumber,
+        organizationName(item),
+        getLocation(item),
+        getShortDescription(item),
+        getContractType(item),
       ].filter(Boolean).map(x => String(x).toLowerCase());
       return parts.some(p => p.includes(q));
     });
@@ -343,16 +361,16 @@ function renderGrid(){
     elGrid.innerHTML = `<div class="empty">No items found.</div>`;
     return;
   }
+
   for (const item of state.filtered){
     const ref = item.referenceNumber || "";
     const title = item.title || "(no title)";
     const org = organizationName(item);
-    const signed = item.signedDate || "";
     const submitted = item.submissionDate || "";
-    const amount = getAmount(item);
-
-    const cpvs = cpvList(item).slice(0,4);
-    const cpvTags = cpvs.length ? cpvs.map(c => `<span class="tag mono">${escapeHtml(c)}</span>`).join("") : `<span class="tag">No CPV</span>`;
+    const amountVat = getAmountWithVat(item);
+    const desc = getShortDescription(item);
+    const type = getContractType(item);
+    const loc = getLocation(item);
 
     const aUrl = attachmentUrl(state.cat, ref);
     const aBtn = aUrl ? `<a class="btn good" href="${aUrl}" target="_blank" rel="noopener">📄 Open file (KHMDHS)</a>` : "";
@@ -361,14 +379,15 @@ function renderGrid(){
     card.className = "card";
     card.innerHTML = `
       <div class="title">${escapeHtml(title)}</div>
+      ${desc ? `<div class="desc">${escapeHtml(desc)}</div>` : ""}
       <div class="meta">
-        <div class="row"><span class="k">Ref:</span> <span class="v mono">${escapeHtml(ref)}</span></div>
-        ${amount ? `<div class="row"><span class="k">Amount:</span> <span class="v mono">${escapeHtml(amount)}</span></div>` : ""}
-        ${org ? `<div class="row"><span class="k">Org:</span> <span class="v">${escapeHtml(org)}</span></div>` : ""}
-        ${signed ? `<div class="row"><span class="k">Signed:</span> <span class="v mono">${escapeHtml(signed)}</span></div>` : ""}
+        ${amountVat ? `<div class="row"><span class="k">Amount (VAT):</span> <span class="v mono">${escapeHtml(amountVat)}</span></div>` : ""}
+        ${type ? `<div class="row"><span class="k">Type:</span> <span class="v">${escapeHtml(type)}</span></div>` : ""}
+        ${loc ? `<div class="row"><span class="k">Location:</span> <span class="v">${escapeHtml(loc)}</span></div>` : ""}
         ${submitted ? `<div class="row"><span class="k">Submitted:</span> <span class="v mono">${escapeHtml(submitted)}</span></div>` : ""}
+        ${org ? `<div class="row"><span class="k">Org:</span> <span class="v">${escapeHtml(org)}</span></div>` : ""}
+        <div class="row"><span class="k">Ref:</span> <span class="v mono">${escapeHtml(ref)}</span></div>
       </div>
-      <div class="tags">${cpvTags}</div>
       <div class="actions">${aBtn}</div>
     `;
     elGrid.appendChild(card);
@@ -382,34 +401,19 @@ function openBucketMenu(){
   elBucketSearch.focus();
   renderBucketList();
 }
-function closeBucketMenu(){
-  elBucketMenu.hidden = true;
-}
-function toggleBucketMenu(){
-  if (elBucketMenu.hidden) openBucketMenu();
-  else closeBucketMenu();
-}
+function closeBucketMenu(){ elBucketMenu.hidden = true; }
+function toggleBucketMenu(){ elBucketMenu.hidden ? openBucketMenu() : closeBucketMenu(); }
 
-document.addEventListener("click", (e) => {
-  if (!elBucketDD.contains(e.target)) closeBucketMenu();
-});
-elBucketBtn.addEventListener("click", (e) => {
-  e.preventDefault();
-  e.stopPropagation();
-  toggleBucketMenu();
-});
+document.addEventListener("click", (e) => { if (!elBucketDD.contains(e.target)) closeBucketMenu(); });
+elBucketBtn.addEventListener("click", (e) => { e.preventDefault(); e.stopPropagation(); toggleBucketMenu(); });
 elBucketSearch.addEventListener("input", renderBucketList);
 
 function renderBuckets(){
   const buckets = state.manifest?.buckets || [];
-  if (!state.bucketFile && buckets.length){
-    state.bucketFile = buckets[0].file;
-  }
+  if (!state.bucketFile && buckets.length) state.bucketFile = buckets[0].file;
 
   const current = buckets.find(b => b.file === state.bucketFile) || buckets[0];
-  elBucketBtn.textContent = current
-    ? `${current.label} — ${current.count}`
-    : "Select bucket…";
+  elBucketBtn.textContent = current ? `${current.label} — ${current.count}` : "Select bucket…";
 
   renderBucketList();
 }
@@ -453,10 +457,9 @@ async function loadBucket(){
   elFooter.textContent = "";
   const items = await fetchJson(url);
 
-  // IMPORTANT: support your per-domain bucket format {domain,count,items:[...]}
   state.items = Array.isArray(items) ? items : (items.items || items.data || items.content || []);
-
   state.filtered = state.items.slice();
+
   elFooter.textContent = `${state.manifest?.generatedAt ? "generatedAt: " + state.manifest.generatedAt + " • " : ""}file: ${url}`;
   setStatus(true, `Loaded ${state.cat}`);
   applyFilter();
@@ -486,6 +489,7 @@ window.addEventListener("hashchange", () => { state.bucketFile=null; parseHash()
 parseHash();
 loadCategory();
 </script>
+
 <script data-goatcounter="https://caboum94.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 <noscript><img src="https://caboum94.goatcounter.com/count?p=/noscript"></noscript>
