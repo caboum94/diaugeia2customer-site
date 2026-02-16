@@ -3,11 +3,11 @@
   "count": 1,
   "items": [
     {
-      "title": "ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ 42",
-      "referenceNumber": "26PAY018471069",
+      "title": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ ΟΑΚ Α.Ε. ΓΙΑ ΑΓΟΡΑ ΝΕΡΟΥ ΑΠΟ 1/12/25 ΕΩΣ 31/12/25 ΚΑΙ ΕΚΠΤΩΣΗ 11ος/25",
+      "referenceNumber": "26PAY018477321",
       "auctionReferenceNumber": null,
-      "signedDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T11:10:43.282",
+      "signedDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T10:53:11.596",
       "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
@@ -18,19 +18,19 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1015.Ε00836.0001",
-      "paymentCommitmentCode": "ΕΒ8Σ4690Ω5-97Ο",
-      "organizationVatNumber": "998986625",
+      "aaht": "1007.F00678.0001",
+      "paymentCommitmentCode": "EAY00049/02.01.2026 ΑΔΑ ΨΖΥ5ΟΕΨΡ-1ΓΙ",
+      "organizationVatNumber": "997570622",
       "greekOrganizationVatNumber": false,
       "commitmentNo": null,
       "contractValue": null,
       "organization": {
-        "key": "99221990",
-        "value": "ΠΕΡ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ 'ΣΙΣΜΑΝΟΓΛΕΙΟ'"
+        "key": "51111",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΧΑΝΙΩΝ"
       },
       "nutsCode": {
-        "key": "EL301",
-        "value": "Βόρειος Τομέας Αθηνών"
+        "key": "EL434",
+        "value": "Χανιά"
       },
       "centralizedMarkets": [
         {
@@ -42,25 +42,25 @@
       ],
       "legalContext": null,
       "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
+        "key": "13",
+        "value": "Προμήθειες"
       },
       "classificationOfPublicLawOrganization": {
         "key": "4",
         "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
+        "key": "10",
+        "value": "ΝΠΙΔ"
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "77381",
-          "value": "ΔΙΟΙΚΗΤΗ"
+          "key": "81633",
+          "value": "ΓΡΑΦΕΙΟ ΓΕΝΙΚΟΥ ΔΙΕΥΘΥΝΤΗ"
         },
         "signers": {
-          "key": "100097305",
-          "value": "ΖΩΗ ΡΑΚΟΠΟΥΛΟΥ - Διοικητής"
+          "key": "100093121",
+          "value": "ΕΛΕΥΘΕΡΙΑ ΛΟΥΠΑΣΑΚΗ - Αναπληρωτής Γενικός Διευθυντής"
         }
       },
       "fundingDetails": {
@@ -70,25 +70,25 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "24202040000001"
+        "regularBudgetFundedProgramRef": "6211-000"
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 2348.8,
-      "totalCostWithoutVAT": 2348.8,
+      "totalCostWithVAT": 246057.06,
+      "totalCostWithoutVAT": 217749.61,
       "objectDetails": [
         {
-          "quantity": 1,
+          "quantity": 724628,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "MTQ",
+            "value": "m 3"
           },
-          "costWithoutVAT": 2348.8,
-          "vat": "0",
+          "costWithoutVAT": 217749.61,
+          "vat": "13",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΥΔΡΕΥΣΗ",
+          "shortDescription": "ΑΓΟΡΑ ΝΕΡΟΥ ΑΠΟ 1/12/25 ΕΩΣ 31/12/25 ΚΑΙ ΕΚΠΤΩΣΗ 11ος/25",
           "cpvs": [
             {
               "key": "41110000-3",
@@ -98,15 +98,15 @@
           "addressForDelivery": null,
           "streetNumber": null,
           "postalCode": null,
-          "city": "ΜΑΡΟΥΣΙ",
+          "city": "ΧΑΝΙΑ",
           "cityOfConstruction": null,
           "countryOfDelivery": {
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "094079101",
-          "greekVatNo": false,
-          "name": "Ε.ΥΔ.Α.Π. Α.Ε.",
+          "vatNo": "997321341",
+          "greekVatNo": true,
+          "name": "ΟΑΚ ΑΕ",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -120,9 +120,8 @@
       "mixedContract": false,
       "requestRefNo": null,
       "auctionRefNo": null,
-      "contractRefNo": null,
+      "contractRefNo": "25SYMV017197994",
       "cpv_codes_extracted": [
-        "99221990",
         "41110000"
       ],
       "cpv_divisions": [

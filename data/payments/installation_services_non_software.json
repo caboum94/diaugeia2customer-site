@@ -1,13 +1,13 @@
 {
   "domain": "Installation Services (Non-Software)",
-  "count": 7,
+  "count": 6,
   "items": [
     {
-      "title": "Δαπάνη Τεχνικού λειτουργίας Συνεδριακού Κέντρου και εκδηλώσεων Δήμου Καρπενησίου από 5-12-2025 έως 0",
-      "referenceNumber": "26PAY018472913",
+      "title": "Δαπάνες διοργάνωσης πολιτιστικών εκδηλώσεων θεσμών",
+      "referenceNumber": "26PAY018478821",
       "auctionReferenceNumber": null,
-      "signedDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T12:42:51.042",
+      "signedDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T12:21:33.912",
       "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
@@ -18,8 +18,757 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007.Ε83001.0001",
-      "paymentCommitmentCode": "28/2026",
+      "aaht": "1007.E81601.0001",
+      "paymentCommitmentCode": "870/25, 232/26",
+      "organizationVatNumber": "997840976",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "6141",
+        "value": "ΔΗΜΟΣ ΚΑΣΤΟΡΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL532",
+        "value": "Καστοριά"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "80033",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100035377",
+          "value": "ΜΑΓΔΑΛΗΝΗ ΠΕΤΜΕΖΑ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "15.6471.01"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 14299.99,
+      "totalCostWithoutVAT": 11532.25,
+      "objectDetails": [
+        {
+          "quantity": 6,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 9758.06,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ηχο-Φωτιστική κάλυψη εκδηλώσεων. ",
+          "cpvs": [
+            {
+              "key": "51313000-9",
+              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΚΑΣΤΟΡΙΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "801474506",
+          "greekVatNo": false,
+          "name": "LL SOUNDS & LIGHTS M. I.K.E",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1774.19,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αμοιβές διοργάνωσης πολιτιστικών, καλλιτεχνικών, μουσικών, θεατρικών και παιδικών εκδηλώσεων, καθώς και αμοιβές μουσικών, ηθοποιών, performer, ξεναγών κ.ά. ",
+          "cpvs": [
+            {
+              "key": "92312000-1",
+              "value": "Καλλιτεχνικές υπηρεσίες"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΚΑΣΤΟΡΙΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "801474506",
+          "greekVatNo": false,
+          "name": "LL SOUNDS & LIGHTS M. I.K.E",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV018202031",
+      "cpv_codes_extracted": [
+        "51313000",
+        "92312000"
+      ],
+      "cpv_divisions": [
+        "51",
+        "92"
+      ],
+      "all_domains": [
+        "Installation Services (Non-Software)",
+        "Recreation, Culture & Sports Services"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "«Διοργάνωση της ετήσιας Χριστουγεννιάτικης Συναυλίας του Ωδείου του Δήμου μας» (ηχητική κάλυψη)",
+      "referenceNumber": "26PAY018477417",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-01-30T00:00:00",
+      "submissionDate": "2026-02-13T10:58:58.976",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.Ε84611.0001",
+      "paymentCommitmentCode": "9Γ7ΦΩΗ8-ΑΗ4",
+      "organizationVatNumber": "997953565",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "6322",
+        "value": "ΔΗΜΟΣ ΦΙΛΟΘΕΗΣ - ΨΥΧΙΚΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL301",
+        "value": "Βόρειος Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "79086",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100075968",
+          "value": "Ιωάννα Χιώτη - Αναπληρωτής Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "15.6471.0001",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 992.0,
+      "totalCostWithoutVAT": 800.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 800,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Διοργάνωση της ετήσιας Χριστουγεννιάτικης Συναυλίας του Ωδείου του Δήμου μας",
+          "cpvs": [
+            {
+              "key": "79952100-3",
+              "value": "Υπηρεσίες οργάνωσης πολιτιστικών εκδηλώσεων"
+            },
+            {
+              "key": "51313000-9",
+              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΨΥΧΙΚΟ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "081612316",
+          "greekVatNo": true,
+          "name": "ΥΙΟΙ ΣΠ. ΑΞΑΡΛΗ & ΣΙΑ Ε.Ε",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV018160540",
+      "cpv_codes_extracted": [
+        "79952100",
+        "51313000"
+      ],
+      "cpv_divisions": [
+        "79",
+        "51"
+      ],
+      "all_domains": [
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Installation Services (Non-Software)"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "Έξοδα πολιτιστικών δραστηριοτήτων, «διοργάνωση εκδήλωσης, για τη φωταγώγηση του Χριστουγεννιάτικου δ",
+      "referenceNumber": "26PAY018477323",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-01-30T00:00:00",
+      "submissionDate": "2026-02-13T10:53:18.051",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.E84611.0001",
+      "paymentCommitmentCode": "991ΠΩΗ8-ΩΞΖ",
+      "organizationVatNumber": "997953565",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "6322",
+        "value": "ΔΗΜΟΣ ΦΙΛΟΘΕΗΣ - ΨΥΧΙΚΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL301",
+        "value": "Βόρειος Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "79086",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100075968",
+          "value": "Ιωάννα Χιώτη - Αναπληρωτής Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "15.6471.0001",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 1860.0,
+      "totalCostWithoutVAT": 1500.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΗΧΟΣ",
+          "cpvs": [
+            {
+              "key": "51313000-9",
+              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΨΥΧΙΚΟΥ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "081612316",
+          "greekVatNo": true,
+          "name": "ΥΙΟΙ ΣΠ. ΑΞΑΡΛΗ & ΣΙΑ Ε.Ε  ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV018051781",
+      "cpv_codes_extracted": [
+        "51313000"
+      ],
+      "cpv_divisions": [
+        "51"
+      ],
+      "all_domains": [
+        "Installation Services (Non-Software)"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "ΧΕΠ 83",
+      "referenceNumber": "26PAY018476872",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-13T10:27:57.098",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1015.Ε00164.0001",
+      "paymentCommitmentCode": "1439-35 0887-50 1439-36",
+      "organizationVatNumber": "090009795",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "99221957",
+        "value": "ΝΟΣΟΚ. ΑΦΡΟΔΙΣΙΩΝ & ΔΕΡΜ. ΠΑΘΗΣΕΩΝ ΑΘΗΝΩΝ «ΑΝΔΡΕΑΣ ΣΥΓΓΡΟΣ»"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "10648",
+          "value": "ΝΟΣΟΚΟΜΕΙΟ ΑΦΡΟΔΙΣΙΩΝ & ΔΕΡΜΑΤΙΚΩΝ ΝΟΣΩΝ ΑΝΔΡΕΑΣ ΣΥΓΓΡΟΣ"
+        },
+        "signers": {
+          "key": "100075570",
+          "value": "ΑΛΕΞΑΝΔΡΟΣ ΣΤΡΑΤΗΓΟΣ Ι. - Διοικητής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "1439,0887"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 7936.0,
+      "totalCostWithoutVAT": 6400.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 3200,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΡΓΑΣΙΕΣ ΑΝΤΙΚΑΤΑΣΤΑΣΗΣ ΣΥΜΠΙΕΣΤΗ ΓΙΑ ΤΗΝ ΕΠΙΣΚΕΥΗ ΤΗΣ ΚΛΙΜΑΤΙΣΤΙΚΗΣ ΜΟΝΑΔΑΣ ΤΟΥ ΤΜΗΜΑΤΟΣ ΣΠΙΛΩΝ ΚΑΙ ΜΕΛΑΝΩΜΑΤΟΣ",
+          "cpvs": [
+            {
+              "key": "51134000-0",
+              "value": "Υπηρεσίες εγκατάστασης συμπιεστών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "104312721",
+          "greekVatNo": false,
+          "name": "ΚΟΤΣΑΥΤΗΣ ΛΑΜΠΡΟΣ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 3200,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΣΥΜΠΙΕΣΤΗ ΓΙΑ ΤΗΝ ΕΠΙΣΚΕΥΗ ΤΗΣ ΚΛΙΜΑΤΙΣΤΙΚΗΣ ΜΟΝΑΔΑΣ ΤΟΥ ΤΜΗΜΑΤΟΣ ΣΠΙΛΩΝ ΚΑΙ ΜΕΛΑΝΩΜΑΤΟΣ",
+          "cpvs": [
+            {
+              "key": "42123000-7",
+              "value": "Συμπιεστές"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "104312721",
+          "greekVatNo": false,
+          "name": "ΚΟΤΣΑΥΤΗΣ ΛΑΜΠΡΟΣ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "3",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "mixedContract": true,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV018237079",
+      "cpv_codes_extracted": [
+        "99221957",
+        "51134000",
+        "42123000"
+      ],
+      "cpv_divisions": [
+        "51",
+        "42"
+      ],
+      "all_domains": [
+        "Installation Services (Non-Software)",
+        "Industrial Machinery"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "ΑΝΑΒΑΘΜΙΣΗ ΥΠΗΡΕΣΙΑΣ ΣΥΖΕΥΞΙΣ 1",
+      "referenceNumber": "26PAY018476455",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-09T00:00:00",
+      "submissionDate": "2026-02-13T10:05:27.343",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": true,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1034.Ε00873.0001",
+      "paymentCommitmentCode": "9ΒΘΤΟΞΧ1-Ζ2Δ",
+      "organizationVatNumber": "997497021",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "55400",
+        "value": "ΚΕΝΤΡΟ ΚΟΙΝΩΝΙΚΗΣ ΠΡΟΝΟΙΑΣ ΠΕΡΙΦΕΡΕΙΑΣ ΑΤΤΙΚΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "94611",
+          "value": "ΚΕΝΤΡΟ ΚΟΙΝΩΝΙΚΗΣ ΠΡΟΝΟΙΑΣ ΠΕΡΙΦΕΡΕΙΑΣ ΑΤΤΙΚΗΣ"
+        },
+        "signers": {
+          "key": "100069985",
+          "value": "ΓΕΩΡΓΙΟΣ ΔΕΛΗΓΙΑΝΝΗΣ - Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "24201010001000"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 3903.52,
+      "totalCostWithoutVAT": 3148.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 3148,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΝΑΒΑΘΜΙΣΗ ΥΠΗΡΕΣΙΑΣ ΣΥΖΕΥΞΙΣ 1",
+          "cpvs": [
+            {
+              "key": "51612000-5",
+              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού επεξεργασίας πληροφοριών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "094019245",
+          "greekVatNo": true,
+          "name": "ΟΡΓΑΝΙΣΜΟΣ ΤΗΛΕΠΙΚΟΙΝΩΝΙΩΝ ΤΗΣ ΕΛΛΑΔΟΣ Α.Ε",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "23SYMV012985675",
+      "cpv_codes_extracted": [
+        "51612000"
+      ],
+      "cpv_divisions": [
+        "51"
+      ],
+      "all_domains": [
+        "Installation Services (Non-Software)"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "Παροχή υπηρεσιών τεχνικού πεδίου για τον Δήμο Καρπενησίου μηνός Ιανουαρίου 2026 (αρ.σύμβ.6091/24-04-",
+      "referenceNumber": "26PAY018475696",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T09:18:06.493",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.E83001.0001",
+      "paymentCommitmentCode": "27/2026",
       "organizationVatNumber": "998895715",
       "greekOrganizationVatNumber": false,
       "commitmentNo": null,
@@ -70,43 +819,43 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "15-6162.009"
+        "regularBudgetFundedProgramRef": "15-6117.026"
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 1449.99,
-      "totalCostWithoutVAT": 1169.35,
+      "totalCostWithVAT": 1934.4,
+      "totalCostWithoutVAT": 1560.0,
       "objectDetails": [
         {
-          "quantity": 1,
+          "quantity": 1500,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "HUR",
+            "value": "Ώρα"
           },
-          "costWithoutVAT": 1169.35,
+          "costWithoutVAT": 1560,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Τεχνικός λειτουργίας Συνεδριακού Κέντρου και εκδηλώσεων Δήμου Καρπενησίου»",
+          "shortDescription": "ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΤΕΧΝΙΚΟΥ ΠΕΔΙΟΥ ΓΙΑ ΤΟ ΔΗΜΟ ΚΑΡΠΕΝΗΣΙΟΥ",
           "cpvs": [
             {
-              "key": "51313000-9",
-              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
+              "key": "51300000-5",
+              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού τηλεπικοινωνιών"
             }
           ],
-          "addressForDelivery": "ΠΑΠΑΝΔΡΕΟΥ ",
-          "streetNumber": "1",
-          "postalCode": "36100",
-          "city": "ΚΑΡΠΕΝΗΣΙ ",
-          "cityOfConstruction": "GR",
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΚΑΡΠΕΝΗΣΙ",
+          "cityOfConstruction": null,
           "countryOfDelivery": {
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "047548945",
+          "vatNo": "073926249",
           "greekVatNo": false,
-          "name": "ΚΑΚΟΥΡΑΣ ΑΝΤΡΕΑΣ ",
+          "name": "Δεληγεωργοπούλος Δημήτριος ",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -120,887 +869,9 @@
       "mixedContract": false,
       "requestRefNo": null,
       "auctionRefNo": null,
-      "contractRefNo": "25SYMV016409128",
+      "contractRefNo": "25SYMV016702342",
       "cpv_codes_extracted": [
-        "51313000"
-      ],
-      "cpv_divisions": [
-        "51"
-      ],
-      "all_domains": [
-        "Installation Services (Non-Software)"
-      ],
-      "primary_domain": "Installation Services (Non-Software)"
-    },
-    {
-      "title": "ΥΠΗΡΕΣΙΕΣ ΕΓΚΑΤΑΣΤΑΣΗΣ ΜΕΤΑΣΧΗΜΑΤΙΣΤΗ 250KVA",
-      "referenceNumber": "26PAY018472662",
-      "auctionReferenceNumber": null,
-      "signedDate": "2025-11-17T00:00:00",
-      "submissionDate": "2026-02-12T12:28:52.596",
-      "lastUpdateDate": null,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancelled": false,
-      "credit": false,
-      "paymentRelatedAda": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1011.2040000000.0013",
-      "paymentCommitmentCode": "65216-ΨΔΞ",
-      "organizationVatNumber": "090153025",
-      "greekOrganizationVatNumber": true,
-      "commitmentNo": null,
-      "contractValue": null,
-      "organization": {
-        "key": "6",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL612",
-        "value": "Λάρισα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": null,
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100028042",
-          "value": "ΓΕΑ/ΕΛΕΓΚΤΗΡΙΟ ΔΑΠΑΝΩΝ ΑΕΡΟΠΟΡΙΑΣ (ΕΛΔΑ) ΛΑΡΙΣΑΣ"
-        },
-        "signers": {
-          "key": "100093645",
-          "value": "ΑΠΟΣΤΟΛΟΣ ΜΕΚΚΑΣ - Διευθυντής"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2410207001"
-      },
-      "nutsCodes": [],
-      "totalCostWithVAT": 2480.0,
-      "totalCostWithoutVAT": 2000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 2000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΕΓΚΑΤΑΣΤΑΣΗΣ ΜΕΤΑΣΧΗΜΑΤΙΣΤΗ 250KVA",
-          "cpvs": [
-            {
-              "key": "51111300-6",
-              "value": "Υπηρεσίες εγκατάστασης μετασχηματιστών"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΛΑΡΙΣΑ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "117328812",
-          "greekVatNo": true,
-          "name": "ΓΚΑΜΠΤΖΑΣ ΕΥΑΓΓΕΛΟΣ",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": [
-        {
-          "additionalContractType": {
-            "key": "5",
-            "value": "Τεχνικές ή λοιπές συναφείς υπηρεσίες"
-          }
-        }
-      ],
-      "mixedContract": true,
-      "requestRefNo": null,
-      "auctionRefNo": null,
-      "contractRefNo": "25SYMV017363795",
-      "cpv_codes_extracted": [
-        "51111300"
-      ],
-      "cpv_divisions": [
-        "51"
-      ],
-      "all_domains": [
-        "Installation Services (Non-Software)"
-      ],
-      "primary_domain": "Installation Services (Non-Software)"
-    },
-    {
-      "title": "ΧΕΠΒ115/2026",
-      "referenceNumber": "26PAY018471609",
-      "auctionReferenceNumber": null,
-      "signedDate": "2025-11-27T00:00:00",
-      "submissionDate": "2026-02-12T11:38:43.998",
-      "lastUpdateDate": null,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancelled": false,
-      "credit": false,
-      "paymentRelatedAda": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1007.F00434.0001",
-      "paymentCommitmentCode": "97ΘΤΟΕΜΣ-Ι07",
-      "organizationVatNumber": "090100738",
-      "greekOrganizationVatNumber": true,
-      "commitmentNo": null,
-      "contractValue": null,
-      "organization": {
-        "key": "51876",
-        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ-ΑΠΟΧΕΤΕΥΣΗΣ ΝΑΟΥΣΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL521",
-        "value": "Ημαθία"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": null,
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "84058",
-          "value": "ΛΟΓΙΣΤΗΡΙΟ"
-        },
-        "signers": {
-          "key": "100074463",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΓΡΙΒΑΣ - Προϊστάμενος Οικονομικών Υπηρεσιών"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "62-07"
-      },
-      "nutsCodes": [],
-      "totalCostWithVAT": 827.77,
-      "totalCostWithoutVAT": 667.56,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 667.56,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΛΑΣΤΙΧΟ ΑΠΟΦΡΑΞΕΩΣ 100Μ",
-          "cpvs": [
-            {
-              "key": "51500000-7",
-              "value": "Υπηρεσίες εγκατάστασης μηχανημάτων και εξοπλισμού"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΝΑΟΥΣΑ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "046975552",
-          "greekVatNo": true,
-          "name": "Μπάμπος Ιωαν. Χρήστος  ",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "auctionRefNo": "25AWRD018020512",
-      "contractRefNo": null,
-      "cpv_codes_extracted": [
-        "51500000"
-      ],
-      "cpv_divisions": [
-        "51"
-      ],
-      "all_domains": [
-        "Installation Services (Non-Software)"
-      ],
-      "primary_domain": "Installation Services (Non-Software)"
-    },
-    {
-      "title": "Εργασίες Εγκάστασης",
-      "referenceNumber": "26PAY018469582",
-      "auctionReferenceNumber": null,
-      "signedDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-12T09:52:48.544",
-      "lastUpdateDate": null,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancelled": false,
-      "credit": false,
-      "paymentRelatedAda": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "52445 ΕΞ 2023",
-      "paymentCommitmentCode": "ΨΧΠΞ465ΧΙ8-Σ8Ο",
-      "organizationVatNumber": "099877486",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "contractValue": null,
-      "organization": {
-        "key": "100034350",
-        "value": "ΑΝΕΞΑΡΤΗΤΟΣ ΔΙΑΧΕΙΡΙΣΤΗΣ ΜΕΤΑΦΟΡΑΣ ΗΛΕΚΤΡΙΚΗΣ ΕΝΕΡΓΕΙΑΣ ΑΔΜΗΕ ΑΕ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": null,
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100034528",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΝΕΩΝ ΕΡΓΩΝ ΜΕΤΑΦΟΡΑΣ"
-        },
-        "signers": {
-          "key": "100035186",
-          "value": "ΙΩΑΝΝΗΣ ΑΛΕΞΑΝΔΡΗΣ - Τομεάρχης"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2025"
-      },
-      "nutsCodes": [],
-      "totalCostWithVAT": 24676.0,
-      "totalCostWithoutVAT": 19900.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 19900,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Εργασίες : • προετοιμασία καλωδίου και συναρμολόγηση επί αυτού ακροκιβωτίου (ΝΚΤ) • συναρμολόγηση τριών (3) ακροκιβωτίων 150KV τύπου ΧΕV του οίκου ΝΚΤ σε μονοπολικά καλώδια XLPE 87/150 (170) kV AL διατομής 400 mm2 του οίκου HEΝGΤONG • σύνδεση plug-in του αρσενικού τμήματος ακροκιβωτίου με το υφιστάμενο ίδιου κατασκευαστή (θηλυκό τμήμα) εντός της πύλης GIS • τελικό έλεγχο εγκατάστασης, σύμφωνα με τ",
-          "cpvs": [
-            {
-              "key": "51110000-6",
-              "value": "Υπηρεσίες εγκατάστασης ηλεκτρολογικού εξοπλισμού"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΑΘΗΝΑ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "999402382",
-          "greekVatNo": false,
-          "name": "ΕΝΙΑ Α.Ε",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "auctionRefNo": null,
-      "contractRefNo": "25SYMV018249878",
-      "cpv_codes_extracted": [
-        "51110000"
-      ],
-      "cpv_divisions": [
-        "51"
-      ],
-      "all_domains": [
-        "Installation Services (Non-Software)"
-      ],
-      "primary_domain": "Installation Services (Non-Software)"
-    },
-    {
-      "title": "Προμήθεια και αντικατάσταση φωτιστικών ",
-      "referenceNumber": "26PAY018468912",
-      "auctionReferenceNumber": null,
-      "signedDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T09:13:44.295",
-      "lastUpdateDate": null,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancelled": false,
-      "credit": false,
-      "paymentRelatedAda": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1032.Ε00400.0001",
-      "paymentCommitmentCode": "ΨΥΖΦΗ-ΕΗΙ",
-      "organizationVatNumber": "090016713",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "contractValue": null,
-      "organization": {
-        "key": "15",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ"
-      },
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": null,
-      "contractType": {
-        "key": "14",
-        "value": "Τεχνικές ή λοιπές συναφείς υπηρεσίες"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "73871",
-          "value": "ΜΕΤΟΧΙΚΟ ΤΑΜΕΙΟ ΠΟΛΙΤΙΚΩΝ ΥΠΑΛΛΗΛΩΝ (ΜΤΠΥ)"
-        },
-        "signers": {
-          "key": "100095581",
-          "value": "ΑΓΓΕΛΟΣ ΠΑΝΑΓΙΩΤΗΣ ΔΗΜΟΣΘΕΝΟΥΣ - Διοικητής"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2420301,2410106"
-      },
-      "nutsCodes": [],
-      "totalCostWithVAT": 14128.56,
-      "totalCostWithoutVAT": 11394.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 5400,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΤΟΠΟΘΕΤΗΣΗ ΦΩΤΙΣΤΙΚΩΝ",
-          "cpvs": [
-            {
-              "key": "51110000-6",
-              "value": "Υπηρεσίες εγκατάστασης ηλεκτρολογικού εξοπλισμού"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΑΘΗΝΑ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "068752447",
-          "greekVatNo": false,
-          "name": "ΘΕΟΔΩΡΟΣ ΜΠΙΜΠΗΣ",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 360,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 5994,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΦΩΤΙΣΤΙΚΩΝ",
-          "cpvs": [
-            {
-              "key": "31680000-6",
-              "value": "Προμήθειες ηλεκτρικών ειδών και εξαρτήματα"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΑΘΗΝΑ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "068752447",
-          "greekVatNo": false,
-          "name": "ΘΕΟΔΩΡΟΣ ΜΠΙΜΠΗΣ",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": [
-        {
-          "additionalContractType": {
-            "key": "2",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "mixedContract": true,
-      "requestRefNo": null,
-      "auctionRefNo": "25AWRD017850102",
-      "contractRefNo": null,
-      "cpv_codes_extracted": [
-        "51110000",
-        "31680000"
-      ],
-      "cpv_divisions": [
-        "51",
-        "31"
-      ],
-      "all_domains": [
-        "Installation Services (Non-Software)",
-        "Electrical Equipment & Lighting"
-      ],
-      "primary_domain": "Electrical Equipment & Lighting"
-    },
-    {
-      "title": "ΕΝΤΟΛΗ ΠΛΗΡΩΜΗΣ",
-      "referenceNumber": "26PAY018468788",
-      "auctionReferenceNumber": null,
-      "signedDate": "2026-02-05T00:00:00",
-      "submissionDate": "2026-02-12T09:06:39.301",
-      "lastUpdateDate": null,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancelled": false,
-      "credit": false,
-      "paymentRelatedAda": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1007.907.0001",
-      "paymentCommitmentCode": "9Γ427Λ6-3Ξ3",
-      "organizationVatNumber": "997824337",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "contractValue": null,
-      "organization": {
-        "key": "5004",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL631",
-        "value": "Αιτωλοακαρνανία"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": null,
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "78392",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΟΥ - ΔΗΜΟΣΙΟΝΟΜΙΚΟΥ ΕΛΕΓΧΟΥ"
-        },
-        "signers": {
-          "key": "100070479",
-          "value": "ΑΝΘΗ ΚΑΚΙΟΥ - Προϊστάμενος Διεύθυνσης"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "0899.01.1231, 1699.01.1231 "
-      },
-      "nutsCodes": [],
-      "totalCostWithVAT": 3997.76,
-      "totalCostWithoutVAT": 3224.0,
-      "objectDetails": [
-        {
-          "quantity": 10,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1209,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΣΥΜΒΑΣΗ  για την κάλυψη του κόστους, που αφορά την προμήθεια ειδών εορταστικού στολισμού του κτιρίου του Διοικητηρίου της Π.Ε Αιτωλοακαρνανίας και του περιβάλλοντα χώρου αυτού, του μεγάρου Χρυσόγελου και των λοιπών αποκεντρωμένων κτιρίων που στεγάζονται οι Υπηρεσίες της Π.Ε. Αιτωλ/νίας, ενόψει της εορτής των Χριστουγέννων έτους 2025, καθώς και παροχής υπηρεσιών τοποθέτησής – συναρμολόγησης ",
-          "cpvs": [
-            {
-              "key": "31681410-0",
-              "value": "Ηλεκτρολογικό υλικό"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "Ι.Π.ΜΕΣΟΛΟΓΓΙΟΥ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "049096041",
-          "greekVatNo": false,
-          "name": "ΚΑΡΒΕΛΗΣ ΔΗΜΗΤΡΙΟΣ",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 2015,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΣΥΜΒΑΣΗ  για την κάλυψη του κόστους, που αφορά την προμήθεια ειδών εορταστικού στολισμού του κτιρίου του Διοικητηρίου της Π.Ε Αιτωλοακαρνανίας και του περιβάλλοντα χώρου αυτού, του μεγάρου Χρυσόγελου και των λοιπών αποκεντρωμένων κτιρίων που στεγάζονται οι Υπηρεσίες της Π.Ε. Αιτωλ/νίας, ενόψει της εορτής των Χριστουγέννων έτους 2025, καθώς και παροχής υπηρεσιών τοποθέτησής – συναρμολόγησης ",
-          "cpvs": [
-            {
-              "key": "51110000-6",
-              "value": "Υπηρεσίες εγκατάστασης ηλεκτρολογικού εξοπλισμού"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "Ι.Π.ΜΕΣΟΛΟΓΓΙΟΥ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "049096041",
-          "greekVatNo": false,
-          "name": "ΚΑΡΒΕΛΗΣ ΔΗΜΗΤΡΙΟΣ",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "auctionRefNo": null,
-      "contractRefNo": "25SYMV018238481",
-      "cpv_codes_extracted": [
-        "31681410",
-        "51110000"
-      ],
-      "cpv_divisions": [
-        "31",
-        "51"
-      ],
-      "all_domains": [
-        "Electrical Equipment & Lighting",
-        "Installation Services (Non-Software)"
-      ],
-      "primary_domain": "Electrical Equipment & Lighting"
-    },
-    {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΗΛΜ ΕΞΟΠΛΙΣΜΟΥ ΑΝΤΛΙΟΣΤΑΣΙΩΝ ΚΑΙ ΓΕΩΤΡΗΣΕΩΝ ΥΔΡΕΥΣΗΣ ΤΗΣ Δ.Ε. ΛΑΧΑΝΑ ΤΟΥ ΔΗΜΟΥ ΛΑΓΚΑΔΑ",
-      "referenceNumber": "26PAY018468121",
-      "auctionReferenceNumber": null,
-      "signedDate": "2026-02-09T00:00:00",
-      "submissionDate": "2026-02-12T07:44:11.679",
-      "lastUpdateDate": null,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancelled": false,
-      "credit": false,
-      "paymentRelatedAda": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1007.F00058.0001",
-      "paymentCommitmentCode": "Ψ13ΗΟΕΦ8-Ω42",
-      "organizationVatNumber": "998246985",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "contractValue": null,
-      "organization": {
-        "key": "51508",
-        "value": "Δ.Ε.Υ.Α ΛΑΓΚΑΔΑ"
-      },
-      "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": null,
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100038373",
-          "value": "ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
-        },
-        "signers": {
-          "key": "100091888",
-          "value": "ΑΘΑΝΑΣΙΟΣ ΠΑΠΑΟΙΚΟΝΟΜΟΥ - Γενικός Διευθυντής"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "12.06.00.002 12.06.00.006 "
-      },
-      "nutsCodes": [],
-      "totalCostWithVAT": 2206.58,
-      "totalCostWithoutVAT": 1779.5,
-      "objectDetails": [
-        {
-          "quantity": 155,
-          "type": {
-            "key": "MTR",
-            "value": "m"
-          },
-          "costWithoutVAT": 1779.5,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια, συντήρηση και επισκευή ΗΛΜ εξοπλισμού αντλιοστασίων και γεωτρήσεων ύδρευσης της Δ.Ε. Λαχανά του Δήμου Λαγκαδά ",
-          "cpvs": [
-            {
-              "key": "51100000-3",
-              "value": "Υπηρεσίες εγκατάστασης ηλεκτρομηχανολογικού εξοπλισμού"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΛΑΓΚΑΔΑΣ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "065250558",
-          "greekVatNo": false,
-          "name": "ΛΑΖΟΥΔΗ Α. ΓΕΩΡΓΙΑ",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "auctionRefNo": null,
-      "contractRefNo": "25SYMV016854535",
-      "cpv_codes_extracted": [
-        "51100000"
+        "51300000"
       ],
       "cpv_divisions": [
         "51"

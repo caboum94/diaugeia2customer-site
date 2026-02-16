@@ -1,32 +1,32 @@
 {
   "domain": "Metals & Mining",
-  "count": 1,
+  "count": 2,
   "items": [
     {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΑΔΡΑΝΩΝ ΥΛΙΚΩΝ",
-      "referenceNumber": "26AWRD018468118",
-      "submissionDate": "2026-02-12T07:43:43.216",
+      "title": "ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ",
+      "referenceNumber": "26AWRD018476480",
+      "submissionDate": "2026-02-13T10:06:36.79",
       "lastUpdateDate": null,
-      "signedDate": "2026-02-12",
+      "signedDate": "2026-02-13",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1007.F00261.001",
+      "aaht": "1007.Ε86903.0001",
       "authorEmail": null,
-      "organizationVatNumber": "090029040",
-      "greekOrganizationVatNumber": true,
-      "budget": 20000,
+      "organizationVatNumber": "090001183",
+      "greekOrganizationVatNumber": false,
+      "budget": 29996.8,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
       "amendPreviousAuction": false,
       "numberOfSections": 1,
       "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
+        "key": "2",
+        "value": "Όχι"
       },
       "socialContract": {
         "key": "2",
@@ -38,12 +38,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "78959",
-          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+          "key": "78542",
+          "value": "ΔΗΜΟΣ ΣΥΜΗΣ - ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ ΚΑΙ ΠΕΡΙΒΑΛΛΟΝΤΟΣ"
         },
         "signers": {
-          "key": "100088133",
-          "value": "ΓΕΩΡΓΙΟΣ ΚΑΡΑΓΕΩΡΓΟΣ - Πρόεδρος Δ.Σ."
+          "key": "109414",
+          "value": "ΕΛΕΥΘΕΡΙΟΣ ΠΑΠΑΚΑΛΟΔΟΥΚΑΣ - Δήμαρχος"
         }
       },
       "procedureType": {
@@ -51,24 +51,24 @@
         "value": "Απευθείας ανάθεση"
       },
       "organization": {
-        "key": "50298",
-        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΑΡΤΑΣ"
+        "key": "6290",
+        "value": "ΔΗΜΟΣ ΣΥΜΗΣ"
       },
       "contractType": {
         "key": "13",
         "value": "Προμήθειες"
       },
       "criteriaCode": {
-        "key": "4",
-        "value": "Βάσει κόστους – άλλο"
+        "key": "2",
+        "value": "Βάσει τιμής"
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL541",
-        "value": "Άρτα, Πρέβεζα"
+        "key": "EL421",
+        "value": "Κάλυμνος, Κάρπαθος, Κως, Ρόδος"
       },
-      "nutsCity": "ΑΡΤΑ",
-      "nutsPostalCode": "47132",
+      "nutsCity": "ΣΥΜΗ",
+      "nutsPostalCode": "85600",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -82,23 +82,23 @@
         }
       ],
       "legalContext": {
-        "key": "7",
-        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
       },
       "centralizedTypes": null,
       "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
+        "key": "2",
+        "value": "ΟΤΑ"
       },
       "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
+        "key": "9",
+        "value": "ΝΠΔΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 12,
+      "contractDuration": 10,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -106,12 +106,12 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "031690550",
-            "greekVatNumber": true,
-            "name": "ΦΡΑΓΚΑΤΣΗΣ Χ. ΗΛΙΑΣ",
+            "vatNumber": "112256835",
+            "greekVatNumber": false,
+            "name": "ΜΟΣΚΙΟΥ Ι ΚΩΝΣΤΑΝΤΙΝΟΣ",
             "nutsCode": {
-              "key": "EL541",
-              "value": "Άρτα, Πρέβεζα"
+              "key": "EL421",
+              "value": "Κάλυμνος, Κάρπαθος, Κως, Ρόδος"
             },
             "installationCountry": {
               "key": "GR",
@@ -120,22 +120,48 @@
           }
         ]
       },
-      "totalCostWithVAT": 24800.0,
-      "totalCostWithoutVAT": 20000.0,
+      "totalCostWithVAT": 34997.63,
+      "totalCostWithoutVAT": 29912.5,
       "objectDetailsList": [
         {
-          "quantity": 1,
+          "quantity": 1706,
           "type": {
-            "key": "MMK",
-            "value": "mm 2"
+            "key": "C62",
+            "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 20000,
-          "vat": "24",
+          "costWithoutVAT": 8762.5,
+          "vat": "17",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΑΔΡΑΝΩΝ ΥΛΙΚΩΝ ",
+          "shortDescription": "Απόφαση ανάθεσης Δημάρχου για την προμήθεια αδρανών υλικών συσκευασία σακιά",
+          "cpvs": [
+            {
+              "key": "14212200-2",
+              "value": "Αδρανή υλικά"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 846,
+          "type": {
+            "key": "MTQ",
+            "value": "m 3"
+          },
+          "costWithoutVAT": 21150,
+          "vat": "17",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Απόφαση ανάθεσης Δημάρχου για την προμήθεια αδρανών υλικών σε κυβικά",
           "cpvs": [
             {
               "key": "14212200-2",
@@ -152,17 +178,181 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "approvedRequestsList": [
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018447548",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [
+        "26SYMV018476986"
+      ],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "14212200"
+      ],
+      "cpv_divisions": [
+        "14"
+      ],
+      "all_domains": [
+        "Metals & Mining"
+      ],
+      "primary_domain": "Metals & Mining"
+    },
+    {
+      "title": "ΑΠΟΦΑΣΗ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗΣ",
+      "referenceNumber": "26AWRD018475582",
+      "submissionDate": "2026-02-13T09:09:39.41",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-13",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1999",
+      "authorEmail": null,
+      "organizationVatNumber": "090153025",
+      "greekOrganizationVatNumber": false,
+      "budget": 11700,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "77733",
+          "value": "ΓΕΣ/303 ΠΕΒ"
+        },
+        "signers": {
+          "key": "100102039",
+          "value": "ΓΕΩΡΓΙΟΣ ΤΣΑΠΡΑΝΗΣ - Διοικητής"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "6",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL61",
+        "value": "Θεσσαλία"
+      },
+      "nutsCity": "Λάρισα",
+      "nutsPostalCode": "41500",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
         {
-          "code": "26REQ018428316"
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
         }
       ],
-      "noticeRefNo": null,
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "2",
+        "value": "Άμυνα"
+      },
+      "contractDuration": 45,
+      "contractDurationUnitOfMeasure": {
+        "key": "1",
+        "value": "Ημέρες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "800357525",
+            "greekVatNumber": false,
+            "name": "MENGIA Α.Ε.",
+            "nutsCode": {
+              "key": "EL522",
+              "value": "Θεσσαλονίκη"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 14508.0,
+      "totalCostWithoutVAT": 11700.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 11700,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΣΑΡΜΟΓΕΑΣ ΤΡΟΠΟΠΟΙΗΣΗΣ RPG-18 ΣΕ ΕΚΠΑΙΔΕΥΤΙΚΟ",
+          "cpvs": [
+            {
+              "key": "14724000-2",
+              "value": "Τιτάνιο"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018462762",
       "amendsAuctionRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "14212200"
+        "14724000"
       ],
       "cpv_divisions": [
         "14"

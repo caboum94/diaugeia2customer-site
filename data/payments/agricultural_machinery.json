@@ -1,0 +1,157 @@
+{
+  "domain": "Agricultural Machinery",
+  "count": 1,
+  "items": [
+    {
+      "title": "Προμήθεια εξοπλισμού για τις ανάγκες Πολιτικής Προστασίας",
+      "referenceNumber": "26PAY018477739",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-01-02T00:00:00",
+      "submissionDate": "2026-02-13T11:17:38.263",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.Ε83703.0001",
+      "paymentCommitmentCode": "119",
+      "organizationVatNumber": "998751013",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "6082",
+        "value": "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΑΧΑΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL632",
+        "value": "Αχαΐα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81547",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΩΝ & ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100056031",
+          "value": "ΓΕΡΑΣΙΜΙΝΑ ΚΟΤΣΑΛΗ - Προϊστάμενος Διεύθυνσης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "2410108"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 9783.6,
+      "totalCostWithoutVAT": 7890.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 7890,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια εξοπλισμού για τις ανάγκες της πολιτικής προστασίας",
+          "cpvs": [
+            {
+              "key": "31720000-9",
+              "value": "Ηλεκτρομηχανολογικός εξοπλισμός"
+            },
+            {
+              "key": "16160000-4",
+              "value": "Διάφορα είδη εξοπλισμού κηπουρικής"
+            },
+            {
+              "key": "42122000-0",
+              "value": "Αντλίες"
+            },
+            {
+              "key": "44510000-8",
+              "value": "Εργαλεία"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΚΑΤΩ ΑΧΑΙΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "044816140",
+          "greekVatNo": true,
+          "name": "ΘΕΟΔΩΡΑΚΟΠΟΥΛΟ ΑΘΑΝ. ΑΓΓΕΛΟ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV018186573",
+      "cpv_codes_extracted": [
+        "31720000",
+        "16160000",
+        "42122000",
+        "44510000"
+      ],
+      "cpv_divisions": [
+        "31",
+        "16",
+        "42",
+        "44"
+      ],
+      "all_domains": [
+        "Electrical Equipment & Lighting",
+        "Agricultural Machinery",
+        "Industrial Machinery",
+        "Construction Materials & Structures"
+      ],
+      "primary_domain": "Construction Materials & Structures"
+    }
+  ]
+}

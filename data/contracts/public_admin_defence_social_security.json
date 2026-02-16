@@ -1,35 +1,35 @@
 {
   "domain": "Public Admin, Defence & Social Security",
-  "count": 2,
+  "count": 5,
   "items": [
     {
-      "title": "Παροχή υπηρεσιών διοικητικής υποστήριξης στη Γενική Γραμματεία ΕΣΠΑ",
-      "referenceNumber": "26SYMV018472905",
-      "prevReferenceNo": null,
+      "title": "ΣΥΜΒΑΣΗ ΕΡΓΟΥ ΓΙΑ ΤΗΝ ΑΝΑΛΗΨΗ ΥΠΗΡΕΣΙΩΝ ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΣΤΟ ΤΕΠ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ",
+      "referenceNumber": "26SYMV018480222",
+      "prevReferenceNo": "25SYMV017123207",
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T12:42:30.239",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-12",
-      "startDate": "2026-02-12",
+      "submissionDate": "2026-02-13T13:44:54.624",
+      "lastUpdateDate": "2025-07-01",
+      "contractSignedDate": "2026-01-01",
+      "startDate": "2026-01-01",
       "noEndDate": false,
-      "endDate": "2027-02-11",
+      "endDate": "2026-06-30",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "decisionRelatedAda": null,
-      "contractNumber": "21918 ΕΞ 2026/06.02.2026",
-      "authorEmail": null,
-      "organizationVatNumber": "090165560",
-      "greekOrganizationVatNumber": true,
+      "contractNumber": "Σ097/Δ/67/2026",
+      "authorEmail": "pr@papageorgiou-hospital.gr",
+      "organizationVatNumber": "090074403",
+      "greekOrganizationVatNumber": false,
       "commitmentNo": null,
       "diavgeiaADA": null,
-      "aaht": "1024.2140000000.0009",
+      "aaht": "1015.Ε00152.0001",
       "budget": null,
-      "contractBudget": 29400,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 1,
+      "contractBudget": 3420,
+      "bidsSubmitted": 2,
+      "maxBidsSubmitted": 2,
       "numberOfSections": 1,
       "assignedContract": {
         "key": "2",
@@ -46,15 +46,15 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL303",
-            "value": "Κεντρικός Τομέας Αθηνών"
+            "key": "EL522",
+            "value": "Θεσσαλονίκη"
           }
         }
       ],
       "approvedRequestsList": [],
       "organization": {
-        "key": "15",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ"
+        "key": "99221567",
+        "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ «ΠΑΠΑΓΕΩΡΓΙΟΥ»"
       },
       "procedureType": {
         "key": "6",
@@ -62,11 +62,11 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
       },
-      "nutsCity": "Αθήνα",
-      "nutsPostalCode": "10563",
+      "nutsCity": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "nutsPostalCode": "56403",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -89,7 +89,409 @@
       },
       "assignCriteria": {
         "key": "9",
-        "value": "Βάσει τιμής"
+        "value": "Βάσει κόστους – άλλο"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "6",
+        "value": "Υγεία"
+      },
+      "contractDuration": 6,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractRelatedADA": {
+        "number1": null,
+        "number2": null,
+        "number3": "9Ρ0Ζ469ΗΑΞ-Ι8Ο"
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "410"
+      },
+      "contractingDataDetails": {
+        "unitsOperator": {
+          "key": "85768",
+          "value": "ΠΡΟΕΔΡΟΣ ΔΣ"
+        },
+        "signers": {
+          "key": "100057747",
+          "value": "ΜΙΧΑΗΛ ΚΑΡΑΒΙΩΤΗΣ - Πρόεδρος Δ.Σ."
+        },
+        "contractingMembersDataList": [
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
+            "vatNumber": "166259740",
+            "greekVatNumber": false,
+            "name": "ΜΟΥΡΑΤΙΔΗΣ ΗΛΙΑΣ"
+          }
+        ]
+      },
+      "totalCostWithVAT": 3420.0,
+      "totalCostWithoutVAT": 3420.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 3420,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Παράταση της υπ’ αρ. Σ759Α/Ζ/657/2023 σύμβασης έργου παροχής υπηρεσιών διοικητικής υποστήριξης στο Τμήμα Επειγόντων Περιστατικών (ΤΕΠ) του Νοσοκομείου, με τους ίδιους όρους και με τροποποίηση της μηνιαίας αμοιβής σε 570,00 €, έως τις 30-06-2026",
+          "cpvs": [
+            {
+              "key": "75122000-7",
+              "value": "Διοικητικές υγειονομικές υπηρεσίες"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΘΕΣΣΑΛΟΝΙΚΗ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "24AWRD015043431"
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "nextRefNo": null,
+      "nextExtended": null,
+      "nextModified": null,
+      "auctionRefNo": "24AWRD015043431",
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "99221567",
+        "75122000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΣΥΜΒΑΣΗ ΕΡΓΟΥ ΓΙΑ ΤΗΝ ΑΝΑΛΗΨΗ ΥΠΗΡΕΣΙΩΝ ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΣΤΟ ΤΕΠ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ",
+      "referenceNumber": "26SYMV018480093",
+      "prevReferenceNo": "25SYMV017123060",
+      "noticeReferenceNumber": null,
+      "submissionDate": "2026-02-13T13:36:02.115",
+      "lastUpdateDate": null,
+      "contractSignedDate": "2026-01-01",
+      "startDate": "2026-01-01",
+      "noEndDate": false,
+      "endDate": "2026-06-30",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "decisionRelatedAda": null,
+      "contractNumber": "Σ096/Δ/67/2026",
+      "authorEmail": "pr@papageorgiou-hospital.gr",
+      "organizationVatNumber": "090074403",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "diavgeiaADA": null,
+      "aaht": "1015.Ε00152.0001",
+      "budget": null,
+      "contractBudget": 3420,
+      "bidsSubmitted": 2,
+      "maxBidsSubmitted": 2,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL522",
+            "value": "Θεσσαλονίκη"
+          }
+        }
+      ],
+      "approvedRequestsList": [],
+      "organization": {
+        "key": "99221567",
+        "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ «ΠΑΠΑΓΕΩΡΓΙΟΥ»"
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
+      },
+      "nutsCity": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "nutsPostalCode": "56403",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "assignCriteria": {
+        "key": "9",
+        "value": "Βάσει κόστους – άλλο"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "6",
+        "value": "Υγεία"
+      },
+      "contractDuration": 6,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractRelatedADA": {
+        "number1": null,
+        "number2": null,
+        "number3": "9Ρ0Ζ469ΗΑΞ-Ι8Ο"
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "410"
+      },
+      "contractingDataDetails": {
+        "unitsOperator": {
+          "key": "85768",
+          "value": "ΠΡΟΕΔΡΟΣ ΔΣ"
+        },
+        "signers": {
+          "key": "100057747",
+          "value": "ΜΙΧΑΗΛ ΚΑΡΑΒΙΩΤΗΣ - Πρόεδρος Δ.Σ."
+        },
+        "contractingMembersDataList": [
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
+            "vatNumber": "117606773",
+            "greekVatNumber": false,
+            "name": "ΜΥΛΟΠΟΥΛΟΥ ΔΕΣΠΟΙΝΑ"
+          }
+        ]
+      },
+      "totalCostWithVAT": 3420.0,
+      "totalCostWithoutVAT": 3420.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 3420,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Παράτασης των υπ’ αρ. Σ760Α/Ζ/657/2023, συμβάσεων έργου παροχής υπηρεσιών διοικητικής υποστήριξης στο Τμήμα Επειγόντων Περιστατικών (ΤΕΠ) του Νοσοκομείου, με τους ίδιους όρους και με τροποποίηση της μηνιαίας αμοιβής σε 570,00 €, έως τις 30-06-2026",
+          "cpvs": [
+            {
+              "key": "75122000-7",
+              "value": "Διοικητικές υγειονομικές υπηρεσίες"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΘΕΣΣΑΛΟΝΙΚΗ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "24AWRD015043431"
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "nextRefNo": null,
+      "nextExtended": null,
+      "nextModified": null,
+      "auctionRefNo": "24AWRD015043431",
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "99221567",
+        "75122000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "Σύμβαση για την παροχή Διοικ και Οικ υπηρ και για γραμμ υποστ",
+      "referenceNumber": "26SYMV018477826",
+      "prevReferenceNo": null,
+      "noticeReferenceNumber": null,
+      "submissionDate": "2026-02-13T11:23:56.062",
+      "lastUpdateDate": null,
+      "contractSignedDate": "2026-02-12",
+      "startDate": "2026-02-12",
+      "noEndDate": false,
+      "endDate": "2026-12-31",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "decisionRelatedAda": null,
+      "contractNumber": "64088",
+      "authorEmail": null,
+      "organizationVatNumber": "090283815",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "diavgeiaADA": null,
+      "aaht": "1022.0000000000.0105",
+      "budget": null,
+      "contractBudget": 25500,
+      "bidsSubmitted": null,
+      "maxBidsSubmitted": 1,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL422",
+            "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
+          }
+        }
+      ],
+      "approvedRequestsList": [],
+      "organization": {
+        "key": "100081912",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΠΟΛΙΤΙΣΜΟΥ"
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL422",
+        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
+      },
+      "nutsCity": "Πύργος Τήνου",
+      "nutsPostalCode": "84200",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "assignCriteria": {
+        "key": "9",
+        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
       },
       "classificationOfPublicLawOrganization": {
         "key": "1",
@@ -100,10 +502,10 @@
         "value": "Κεντρική Διοίκηση"
       },
       "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
+        "key": "11",
+        "value": "Εκπαίδευση"
       },
-      "contractDuration": 12,
+      "contractDuration": 11,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -111,25 +513,25 @@
       "contractRelatedADA": {
         "number1": null,
         "number2": null,
-        "number3": "ΨΨΟΨΗ-40Π"
+        "number3": "Ρ6Μ346ΝΚΟΤ-ΦΤΤ"
       },
       "fundingDetails": {
-        "publicFundingRef": "Ε0512",
-        "publicFundingRefNum": "2024ΣΕ05120000",
-        "publicFundingRefOps": "2024ΣΕ05120000",
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
+        "regularBudgetFundedProgramRef": "2420989001"
       },
       "contractingDataDetails": {
         "unitsOperator": {
-          "key": "100081674",
-          "value": "ΕΙΔΙΚΗ ΥΠΗΡΕΣΙΑ ΔΙΑΧΕΙΡΙΣΗΣ ΠΡΟΓΡΑΜΜΑΤΟΣ \"ΤΕΧΝΙΚΗ ΒΟΗΘΕΙΑ ΚΑΙ ΥΠΟΣΤΗΡΙΞΗ ΔΙΚΑΙΟΥΧΩΝ\""
+          "key": "100096790",
+          "value": "ΑΝΩΤΕΡΗ ΣΧΟΛΗ ΚΑΛΩΝ ΤΕΧΝΩΝ ΜΑΡΜΑΡΟΤΕΧΝΙΑΣ ΠΑΝΟΡΜΟΥ ΤΗΝΟΥ"
         },
         "signers": {
-          "key": "100092766",
-          "value": "ΒΑΣΙΛΙΚΗ ΠΑΝΤΕΛΟΠΟΥΛΟΥ - Γενικός Γραμματέας"
+          "key": "100098160",
+          "value": "ΛΕΩΝΙΔΑΣ ΧΑΛΕΠΑΣ - Προϊστάμενος"
         },
         "contractingMembersDataList": [
           {
@@ -137,28 +539,228 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "998570724",
+            "vatNumber": "128238234",
             "greekVatNumber": true,
-            "name": "PEOPLE FOR BUSINESS ΙΔΙΩΤΙΚΟ ΓΡΑΦΕΙΟ ΣΥΜΒΟΥΛΩΝ ΕΡΓΑΣΙΑΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ"
+            "name": "ΕΛΠΙΔΑ ΖΑΛΩΝΗ"
           }
         ]
       },
-      "totalCostWithVAT": 36456.0,
-      "totalCostWithoutVAT": 29400.0,
+      "totalCostWithVAT": 31617.52,
+      "totalCostWithoutVAT": 25498.0,
       "objectDetailsList": [
         {
-          "quantity": 12,
+          "quantity": 1,
           "type": {
-            "key": "3C",
-            "value": "Ανθρωπομήνας"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 29400,
+          "costWithoutVAT": 25498,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Ο Ανάδοχος του έργου καλείται να υποστηρίζει σε καθημερινή βάση τη διοικητική και γραμματειακή οργάνωση της Γενικής Γραμματείας ΕΣΠΑ, με στόχο την αποτελεσματική και αποδοτική λειτουργία της Γενικής Γραμματείας.",
+          "shortDescription": "Παροχή Διοικητικών και Οικονομικών Υπηρεσιών στη Σχολή και για γραμματειακή υποστήριξη",
+          "cpvs": [
+            {
+              "key": "75100000-7",
+              "value": "Υπηρεσίες διοίκησης"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΠΥΡΓΟΣ ΤΗΝΟΥ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018474454"
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "nextRefNo": null,
+      "nextExtended": null,
+      "nextModified": null,
+      "auctionRefNo": "26AWRD018474454",
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "75100000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΣΥΜΒΑΣΗ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ ΔΙΑΘΕΣΗΣ ΕΝΟΣ ΑΤΟΜΟΥ ΔΙΑΡΚΕΙΑΣ 4 ΜΗΝΩΝ ΓΙΑ ΠΑΡΑΚΟΛΟΥΘΗΣΗ SCADA, ΔΕΥΑΜ",
+      "referenceNumber": "26SYMV018475865",
+      "prevReferenceNo": "26SYMV018474951",
+      "noticeReferenceNumber": null,
+      "submissionDate": "2026-02-13T09:29:18.625",
+      "lastUpdateDate": null,
+      "contractSignedDate": "2026-02-13",
+      "startDate": "2026-02-13",
+      "noEndDate": false,
+      "endDate": "2026-06-12",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "decisionRelatedAda": null,
+      "contractNumber": "298",
+      "authorEmail": null,
+      "organizationVatNumber": "090233584",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "diavgeiaADA": null,
+      "aaht": "1007.F00145.0001",
+      "budget": null,
+      "contractBudget": 11400,
+      "bidsSubmitted": null,
+      "maxBidsSubmitted": 1,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL422",
+            "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
+          }
+        }
+      ],
+      "approvedRequestsList": [],
+      "organization": {
+        "key": "50351",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ (Δ.Ε.Υ.Α.) ΜΥΚΟΝΟΥ"
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL422",
+        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
+      },
+      "nutsCity": "ΜΥΚΟΝΟΣ",
+      "nutsPostalCode": "84600",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "1",
+            "value": "Συμφωνία-πλαίσιο"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "7",
+        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "assignCriteria": {
+        "key": "9",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 4,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractRelatedADA": {
+        "number1": null,
+        "number2": null,
+        "number3": "26REQ018467215"
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "61-90-06",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "contractingDataDetails": {
+        "unitsOperator": {
+          "key": "81462",
+          "value": "ΔΙΟΙΚΗΤΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100087351",
+          "value": "ΔΗΜΗΤΡΙΟΣ ΛΑΖΑΡΙΔΗΣ - Πρόεδρος Δ.Σ."
+        },
+        "contractingMembersDataList": [
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
+            "vatNumber": "082735142",
+            "greekVatNumber": true,
+            "name": "ΑΚΑΤΤ Α.Ε."
+          }
+        ]
+      },
+      "totalCostWithVAT": 14136.0,
+      "totalCostWithoutVAT": 11400.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 11400,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Παροχή υπηρεσιών ενός (1) κατάλληλα εκπαιδευμένου ατόμου το οποίο θα επιφορτιστεί με την παρακολούθηση του συστήματος SCADA, για το διάστημα 4 μηνών.",
           "cpvs": [
             {
               "key": "75120000-3",
@@ -177,10 +779,10 @@
           },
           "addressForDelivery": null,
           "postalCode": null,
-          "city": "Αθήνα",
+          "city": "ΜΥΚΟΝΟΣ",
           "streetNumber": null,
           "budgetCode": null,
-          "requestRefNo": "26AWRD018445563"
+          "requestRefNo": "26AWRD018474937"
         }
       ],
       "additionalContractTypes": null,
@@ -189,7 +791,7 @@
       "nextRefNo": null,
       "nextExtended": null,
       "nextModified": null,
-      "auctionRefNo": "26AWRD018445563",
+      "auctionRefNo": "26AWRD018474937",
       "paymentRefNo": [],
       "cpv_codes_extracted": [
         "75120000"
@@ -203,70 +805,70 @@
       "primary_domain": "Public Admin, Defence & Social Security"
     },
     {
-      "title": "ΣΥΜΒΑΣΗ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ ΣΤΟ ΠΛΑΙΣΙΟ ΤΗΣ ΠΡΟΣΚΛΗΣΗΣ \"ΠΑΝ/ΜΙΑ ΑΡΙΣΤΕΙΑΣ\" (ΟΠΣ 5180665)",
-      "referenceNumber": "26SYMV018470995",
+      "title": "ΣΥΜΒΑΣΗ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ ΔΙΑΘΕΣΗΣ ΕΝΟΣ ΑΤΟΜΟΥ ΔΙΑΡΚΕΙΑΣ 4 ΜΗΝΩΝ ΓΙΑ ΠΑΡΑΚΟΛΟΥΘΗΣΗ SCADA, ΔΕΥΑΜ",
+      "referenceNumber": "26SYMV018474951",
       "prevReferenceNo": null,
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T11:07:02.133",
-      "lastUpdateDate": "2026-02-12",
+      "submissionDate": "2026-02-13T07:53:43.781",
+      "lastUpdateDate": "2026-02-13",
       "contractSignedDate": "2026-02-12",
       "startDate": "2026-02-12",
       "noEndDate": false,
-      "endDate": "2026-02-28",
+      "endDate": "2026-06-11",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "decisionRelatedAda": null,
-      "contractNumber": "03/25",
+      "contractNumber": "298",
       "authorEmail": null,
-      "organizationVatNumber": "090203611",
+      "organizationVatNumber": "090233584",
       "greekOrganizationVatNumber": true,
       "commitmentNo": null,
       "diavgeiaADA": null,
-      "aaht": "1020.Ε00680.0001",
+      "aaht": "1007.F00145.0001",
       "budget": null,
-      "contractBudget": 58325,
+      "contractBudget": 11400,
       "bidsSubmitted": null,
-      "maxBidsSubmitted": 3,
-      "numberOfSections": 3,
+      "maxBidsSubmitted": 1,
+      "numberOfSections": 1,
       "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
+        "key": "1",
+        "value": "Ναι"
       },
       "socialContract": {
         "key": "2",
         "value": "Όχι"
       },
       "centralGovernmentAuthority": {
-        "key": "1",
-        "value": "Ναι"
+        "key": "2",
+        "value": "Όχι"
       },
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL522",
-            "value": "Θεσσαλονίκη"
+            "key": "EL422",
+            "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
           }
         }
       ],
       "approvedRequestsList": [],
       "organization": {
-        "key": "99206919",
-        "value": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΜΑΚΕΔΟΝΙΑΣ"
+        "key": "50351",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ (Δ.Ε.Υ.Α.) ΜΥΚΟΝΟΥ"
       },
       "procedureType": {
-        "key": "1",
-        "value": "Ανοιχτή διαδικασία"
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
+        "key": "EL422",
+        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
       },
-      "nutsCity": "Θεσσαλονίκη",
-      "nutsPostalCode": "54636",
+      "nutsCity": "ΜΥΚΟΝΟΣ",
+      "nutsPostalCode": "84600",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -274,14 +876,14 @@
       "centralizedMarkets": [
         {
           "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
+            "key": "1",
+            "value": "Συμφωνία-πλαίσιο"
           }
         }
       ],
       "legalContext": {
-        "key": "4",
-        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
+        "key": "7",
+        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
       },
       "contractType": {
         "key": "9",
@@ -292,18 +894,18 @@
         "value": "Βάσει τιμής"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
+        "key": "10",
+        "value": "ΝΠΙΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "5",
-        "value": "Οικονομικές και δημοσιονομικές υποθέσεις"
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
       },
-      "contractDuration": 1,
+      "contractDuration": 4,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -311,25 +913,25 @@
       "contractRelatedADA": {
         "number1": null,
         "number2": null,
-        "number3": "9ΘΞ6469Β7Ι-Ν5Ρ"
+        "number3": "26REQ018467215"
       },
       "fundingDetails": {
-        "publicFundingRef": "047",
-        "publicFundingRefNum": "2022ΤΑ04700017",
-        "publicFundingRefOps": "16289-5180665",
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": null,
+        "selfFundProgramRef": "61-90-06",
         "espaFundProgramRef": null,
         "regularBudgetFundedProgramRef": null
       },
       "contractingDataDetails": {
         "unitsOperator": {
-          "key": "74652",
-          "value": "ΕΛΚΕ ΠΑΝΕΠΙΣΤΗΜΙΟΥ ΜΑΚΕΔΟΝΙΑΣ"
+          "key": "81462",
+          "value": "ΔΙΟΙΚΗΤΙΚΗ ΥΠΗΡΕΣΙΑ"
         },
         "signers": {
-          "key": "100042353",
-          "value": "ΣΤΥΛΙΑΝΟΣ ΚΑΤΡΑΝΙΔΗΣ - Πρύτανης"
+          "key": "100087351",
+          "value": "ΔΗΜΗΤΡΙΟΣ ΛΑΖΑΡΙΔΗΣ - Πρόεδρος Δ.Σ."
         },
         "contractingMembersDataList": [
           {
@@ -337,23 +939,14 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "800365297",
-            "greekVatNumber": false,
-            "name": "«VILABS O.E.»"
-          },
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "997982898",
+            "vatNumber": "082735142",
             "greekVatNumber": true,
-            "name": "«MAST ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΠΑΡΟΧΗΣ ΣΥΜΒΟΥΛΕΥΤΙΚΩΝ ΥΠΗΡΕΣΙΩΝ ΚΑΙ ΠΛΗΡΟΦΟΡΙΚΗΣ»"
+            "name": "ΑΚΑΤΤ Α.Ε."
           }
         ]
       },
-      "totalCostWithVAT": 34224.0,
-      "totalCostWithoutVAT": 27600.0,
+      "totalCostWithVAT": 14136.0,
+      "totalCostWithoutVAT": 11400.0,
       "objectDetailsList": [
         {
           "quantity": 1,
@@ -361,17 +954,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 7500,
+          "costWithoutVAT": 11400,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΤΜΗΜΑ 1 : ΠΕ 4.2 Υλοποίηση Προγραμμάτων Επιχειρηματικής Ωρίμανσης (Παραδοτέo: 4.2.5) ",
+          "shortDescription": "Παροχή υπηρεσιών ενός (1) κατάλληλα εκπαιδευμένου ατόμου το οποίο θα επιφορτιστεί με την παρακολούθηση του συστήματος SCADA, για το διάστημα 4 μηνών.",
           "cpvs": [
             {
-              "key": "80000000-4",
-              "value": "Υπηρεσίες εκπαίδευσης και επιμόρφωσης"
+              "key": "75120000-3",
+              "value": "Διοικητικές υπηρεσίες οργανισμών"
             }
           ],
           "greenContracts": {
@@ -386,67 +979,27 @@
           },
           "addressForDelivery": null,
           "postalCode": null,
-          "city": "Θεσσαλονίκη",
+          "city": "ΜΥΚΟΝΟΣ",
           "streetNumber": null,
           "budgetCode": null,
-          "requestRefNo": "26AWRD018443921"
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 20100,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΤΜΗΜΑ 2 : ΠΕ 4.3 Διοργάνωση Διαγωνισμών Καινοτομίας (Παραδοτέο: 4.3.1)",
-          "cpvs": [
-            {
-              "key": "75112000-4",
-              "value": "Διοικητικές υπηρεσίες επιχειρηματικών δραστηριοτήτων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "Θεσσαλονίκη",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018443921"
+          "requestRefNo": "26AWRD018474937"
         }
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
       "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "26AWRD018443921",
+      "nextRefNo": "26SYMV018475865",
+      "nextExtended": false,
+      "nextModified": true,
+      "auctionRefNo": "26AWRD018474937",
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "99206919",
-        "80000000",
-        "75112000"
+        "75120000"
       ],
       "cpv_divisions": [
-        "80",
         "75"
       ],
       "all_domains": [
-        "Education & Training",
         "Public Admin, Defence & Social Security"
       ],
       "primary_domain": "Public Admin, Defence & Social Security"

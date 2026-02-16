@@ -1,13 +1,13 @@
 {
   "domain": "Public Admin, Defence & Social Security",
-  "count": 3,
+  "count": 22,
   "items": [
     {
-      "title": "ΧΕΠ 134",
-      "referenceNumber": "26PAY018473479",
+      "title": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ",
+      "referenceNumber": "26PAY018480997",
       "auctionReferenceNumber": null,
-      "signedDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T13:20:01.675",
+      "signedDate": "2026-01-08T00:00:00",
+      "submissionDate": "2026-02-13T14:36:10.768",
       "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
@@ -18,19 +18,19 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1015.Ε00213.0001",
-      "paymentCommitmentCode": "6ΔΚ5469061-Η9Β",
-      "organizationVatNumber": "999161766",
+      "aaht": "1007.907.0001",
+      "paymentCommitmentCode": "110",
+      "organizationVatNumber": "997824337",
       "greekOrganizationVatNumber": true,
       "commitmentNo": null,
       "contractValue": null,
       "organization": {
-        "key": "99222010",
-        "value": "ΠΕΡΙΦ. ΠΑΝΕΠΙΣΤ. ΓΕΝ. ΝΟΣΟΚ. ΗΡΑΚΛΕΙΟΥ"
+        "key": "5004",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
       },
       "nutsCode": {
-        "key": "EL431",
-        "value": "Ηράκλειο"
+        "key": "EL63",
+        "value": "Δυτική Ελλάδα"
       },
       "centralizedMarkets": [
         {
@@ -46,8 +46,8 @@
         "value": "Υπηρεσίες"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
+        "key": "2",
+        "value": "ΟΤΑ"
       },
       "typeOfContractingAuthority": {
         "key": "9",
@@ -55,26 +55,26 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "74191",
-          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
+          "key": "78070",
+          "value": "ΓΡΑΦΕΙΟ ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑΣ ΕΡΕΥΝΑΣ ΚΑΙ ΚΑΙΝΟΤΟΜΙΑΣ"
         },
         "signers": {
-          "key": "100097922",
-          "value": "ΗΡΑΚΛΕΙΑ ΤΖΙΓΚΟΥΝΑΚΗ - Υποδιευθυντής"
+          "key": "100048698",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΠΑΠΑΔΟΠΟΥΛΟΣ - Αναπληρωτής Θεματικός Αντιπεριφερειάρχης"
         }
       },
       "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
+        "publicFundingRef": "301/2",
+        "publicFundingRefNum": "2023ΕΠ30120000",
+        "publicFundingRefOps": "01C0065",
+        "cofundProgramRef": "01C0065",
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "24209890000031"
+        "regularBudgetFundedProgramRef": null
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 1524.7,
-      "totalCostWithoutVAT": 1229.6,
+      "totalCostWithVAT": 2927.52,
+      "totalCostWithoutVAT": 2360.9,
       "objectDetails": [
         {
           "quantity": 1,
@@ -82,13 +82,13 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 1229.6,
+          "costWithoutVAT": 2360.9,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΤΕΧΝΟΛΟΓΟΥ ΤΡΟΦΙΜΩΝ ΓΙΑ ΤΟ ΤΜΗΜΑ ΔΙΑΤΡΟΦΗΣ",
+          "shortDescription": "Τροποποίηση σύμβασης μίσθωσης έργου στο πλαίσιο υλοποίησης του Ευρωπαϊκού έργου «CHERRY – Making Culture the N0 1 ally of European Recovery- Καθιστώντας τον πολιτισμό τον Ν0 1 Σύμμαχο της Ευρωπαϊκής Ανάκαμψης», το οποίο υλοποιείται στα πλαίσια του προγράμματος Interreg Europe 2021 – 2027.",
           "cpvs": [
             {
               "key": "75120000-3",
@@ -98,15 +98,15 @@
           "addressForDelivery": null,
           "streetNumber": null,
           "postalCode": null,
-          "city": "ΗΡΑΚΛΕΙΟ ΚΡΗΤΗΣ",
+          "city": "ΠΑΤΡΑ",
           "cityOfConstruction": null,
           "countryOfDelivery": {
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "170268351",
-          "greekVatNo": true,
-          "name": "ΧΑΛΑΜΠΑΛΑΚΗΣ ΓΕΩΡΓΙΟΣ",
+          "vatNo": "055360950",
+          "greekVatNo": false,
+          "name": "ΕΛΕΝΗ ΠΑΠΑΖΑΧΑΡΟΠΟΥΛΟΥ",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -120,9 +120,8 @@
       "mixedContract": false,
       "requestRefNo": null,
       "auctionRefNo": null,
-      "contractRefNo": "24SYMV014352524",
+      "contractRefNo": "25SYMV017523968",
       "cpv_codes_extracted": [
-        "99222010",
         "75120000"
       ],
       "cpv_divisions": [
@@ -134,11 +133,11 @@
       "primary_domain": "Public Admin, Defence & Social Security"
     },
     {
-      "title": "ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ",
-      "referenceNumber": "26PAY018472446",
+      "title": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ",
+      "referenceNumber": "26PAY018480943",
       "auctionReferenceNumber": null,
-      "signedDate": "2026-02-11T00:00:00",
-      "submissionDate": "2026-02-12T12:17:56.68",
+      "signedDate": "2026-01-08T00:00:00",
+      "submissionDate": "2026-02-13T14:31:40.976",
       "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
@@ -149,15 +148,412 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1015.E00970.0001",
-      "paymentCommitmentCode": "9ΟΤΔ46ΜΜΤΤ-ΠΝΗ",
-      "organizationVatNumber": "996763354",
+      "aaht": "1007.907.0001",
+      "paymentCommitmentCode": "148",
+      "organizationVatNumber": "997824337",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "5004",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL63",
+        "value": "Δυτική Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78070",
+          "value": "ΓΡΑΦΕΙΟ ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑΣ ΕΡΕΥΝΑΣ ΚΑΙ ΚΑΙΝΟΤΟΜΙΑΣ"
+        },
+        "signers": {
+          "key": "100048698",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΠΑΠΑΔΟΠΟΥΛΟΣ - Αναπληρωτής Θεματικός Αντιπεριφερειάρχης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": "101115116",
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "2420989049"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 1871.87,
+      "totalCostWithoutVAT": 1509.57,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1509.57,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Τροποποίηση Σύμβασης Μίσθωσης Έργου με έναν/μία (1) συνεργάτη/ιδα μέχρι 30.09.2026 για την κάλυψη των αναγκών του ευρωπαϊκού έργου «Advanced CoMputing Continuum Solutions for Boosting DigITalization across European RegionS-AMBITIOUS» - (Προηγμένες λύσεις συνεχούς υπολογιστικής λειτουργίας για την ενίσχυση της ψηφιοποίησης στις ευρωπαϊκές περιφέρειες)",
+          "cpvs": [
+            {
+              "key": "75120000-3",
+              "value": "Διοικητικές υπηρεσίες οργανισμών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΠΑΤΡΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "157129100",
+          "greekVatNo": false,
+          "name": "ΠΑΠΑΒΑΣΙΛΕΙΟΥ ΒΑΣΙΛΙΚΗ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV017521968",
+      "cpv_codes_extracted": [
+        "75120000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ",
+      "referenceNumber": "26PAY018480908",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-01-08T00:00:00",
+      "submissionDate": "2026-02-13T14:29:02.279",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.907.0001",
+      "paymentCommitmentCode": "82",
+      "organizationVatNumber": "997824337",
       "greekOrganizationVatNumber": false,
       "commitmentNo": null,
       "contractValue": null,
       "organization": {
-        "key": "100062974",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΔΙΑΣΦΑΛΙΣΗΣ ΤΗΣ ΠΟΙΟΤΗΤΑΣ ΣΤΗΝ ΥΓΕΙΑ"
+        "key": "5004",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL63",
+        "value": "Δυτική Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78070",
+          "value": "ΓΡΑΦΕΙΟ ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑΣ ΕΡΕΥΝΑΣ ΚΑΙ ΚΑΙΝΟΤΟΜΙΑΣ"
+        },
+        "signers": {
+          "key": "100048698",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΠΑΠΑΔΟΠΟΥΛΟΣ - Αναπληρωτής Θεματικός Αντιπεριφερειάρχης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": "Euro-MED0200720",
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "242098019"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 1871.87,
+      "totalCostWithoutVAT": 1509.57,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1509.57,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Τροποποίηση Σύμβασης με την Σαράντη Παναγιώτα-Γεωργία, στο πλαίσιο του έργου «Promoting shared stewardship for Mediterranean Coasts – Προώθηση της ηθικής και κοινής διαχείρισης των πόρων για τις Ακτές της Μεσογείου», με ακρωνύμιο COASTRUST_ΘΕΣΗ Κ1",
+          "cpvs": [
+            {
+              "key": "75120000-3",
+              "value": "Διοικητικές υπηρεσίες οργανισμών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΠΑΤΡΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "153000926",
+          "greekVatNo": false,
+          "name": "ΣΑΡΑΝΤΗ ΠΑΝΑΓΙΩΤΑ-ΓΕΩΡΓΙΑ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV017520203",
+      "cpv_codes_extracted": [
+        "75120000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "Υπηρεσίες Υποστήριξης των υπηρεσιών του ΑΣΔΣΑ Δ.Ε. ΠΗ σε οικονομικά- διοικητικά ζητήματα για το χρον",
+      "referenceNumber": "26PAY018480658",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T14:13:22.506",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.E89018.0001",
+      "paymentCommitmentCode": "ΨΕΥΩ46Μ340-Ω37",
+      "organizationVatNumber": "998166881",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "100055352",
+        "value": "ΑΝΑΓΚΑΣΤΙΚΟΣ ΣΥΝΔΕΣΜΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΣΤΕΡΕΩΝ ΑΠΟΒΛΗΤΩΝ ΔΙΑΧΕΙΡΙΣΤΙΚΗΣ ΕΝΟΤΗΤΑΣ ΠΕΡΙΦΕΡΕΙΑΣ ΗΠΕΙΡΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL54",
+        "value": "Ήπειρος"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100057826",
+          "value": "ΠΡΟΕΔΡΟΣ"
+        },
+        "signers": {
+          "key": "100090916",
+          "value": "ΝΙΚΟΛΑΟΣ ΓΕΩΡΓΑΚΟΣ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "010.2.4.2.09.03",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 620.0,
+      "totalCostWithoutVAT": 500.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "3C",
+            "value": "Ανθρωπομήνας"
+          },
+          "costWithoutVAT": 500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "«Υπηρεσίες Υποστήριξης των υπηρεσιών του ΑΣΔΣΑ Δ.Ε. Π. Ηπείρου σε οικονομικά- διοικητικά ζητήματα» για υλοποίηση σύμβασης με πρόσωπο κατάλληλης ειδικότητας (ΠΕ Διοικητικού – Οικονομικού)» ",
+          "cpvs": [
+            {
+              "key": "75120000-3",
+              "value": "Διοικητικές υπηρεσίες οργανισμών"
+            },
+            {
+              "key": "66170000-2",
+              "value": "Υπηρεσίες παροχής οικονομικών συμβουλών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΙΩΑΝΝΙΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "121502888",
+          "greekVatNo": false,
+          "name": "Γαλανός Βασ. Γεώργιος  ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV016506183",
+      "cpv_codes_extracted": [
+        "75120000",
+        "66170000"
+      ],
+      "cpv_divisions": [
+        "75",
+        "66"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security",
+        "Financial & Insurance Services"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΕΝΤΟΛΗ ΠΛΗΡΩΜΩΝ",
+      "referenceNumber": "26PAY018480485",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-03T00:00:00",
+      "submissionDate": "2026-02-13T14:01:13.37",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1039.F00987.0001",
+      "paymentCommitmentCode": "300117854",
+      "organizationVatNumber": "094079101",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "99201059",
+        "value": "ΕΥΔΑΠ ΑΕ"
       },
       "nutsCode": {
         "key": "EL303",
@@ -186,12 +582,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100082927",
-          "value": "ΠΡΟΙΣΤΑΜΕΝΟΣ ΔΙΕΥΘΥΝΣΗΣ ΔΙΟΙΚΗΤΙΚΩΝ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+          "key": "100015321",
+          "value": "ΥΠΗΡΕΣΙΑ ΕΚΚΑΘΑΡΙΣΗΣ ΔΑΠΑΝΩΝ"
         },
         "signers": {
-          "key": "100082928",
-          "value": "Γεώργιος Νικολάου - Διευθυντής"
+          "key": "100015270",
+          "value": "ΕΛΕΝΗ ΚΑΛΟΚΥΡΗ - Αναπληρωτής Διευθυντής"
         }
       },
       "fundingDetails": {
@@ -199,13 +595,13 @@
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": null,
+        "selfFundProgramRef": "61.98.91.000008",
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "64"
+        "regularBudgetFundedProgramRef": null
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 2635.0,
-      "totalCostWithoutVAT": 2125.0,
+      "totalCostWithVAT": 4743.16,
+      "totalCostWithoutVAT": 3825.13,
       "objectDetails": [
         {
           "quantity": 1,
@@ -213,31 +609,31 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 2125,
+          "costWithoutVAT": 3825.13,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Σύμβαση ανεξάρτητων υπηρεσιών παροχής προσωπικού υποστήριξης των λειτουργιών της ΔΔΟΥ, σύμφωνα με το άρθρο του 118 του Ν.4412/16 ως ισχύει σήμερα.",
+          "shortDescription": "ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΓΙΑ ΤΗ ΔΙΟΙΚΗΤΙΚΗ ΥΠΟΣΤΗΡΙΞΗ ΤΗΣ ΕΣΩΤΕΡΙΚΗΣ ΥΠΗΡΕΣΙΑΣ ΠΡΟΣΤΑΣΙΑΣ ΚΑΙ ΠΡΟΛΗΨΗΣ (ΕΣ.Υ.Π.Π.) ",
           "cpvs": [
             {
-              "key": "75131100-4",
-              "value": "Γενικές υπηρεσίες προσωπικού για το δημόσιο"
+              "key": "75120000-3",
+              "value": "Διοικητικές υπηρεσίες οργανισμών"
             }
           ],
           "addressForDelivery": null,
           "streetNumber": null,
           "postalCode": null,
-          "city": "ΑΘΗΝΑ",
+          "city": "ΓΑΛΑΤΣΙ ΑΤΤΙΚΗΣ",
           "cityOfConstruction": null,
           "countryOfDelivery": {
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "803005181",
+          "vatNo": "996589476",
           "greekVatNo": false,
-          "name": "EUNOIA CAPITAL CONSULTING ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ",
+          "name": "MYSERVICES ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ ΛΕΙΤΟΥΡΓΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ – ΚΤΙΡΙΑΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ – ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ – ΞΕΝΟΔΟΧΕΙΑΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ – ΔΙΑΝΟΜΗΣ ΓΕΥΜΑΤΩΝ – ΙΔΙΩΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ ΑΣΦΑΛΕΙΑΣ",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -251,9 +647,10 @@
       "mixedContract": false,
       "requestRefNo": null,
       "auctionRefNo": null,
-      "contractRefNo": "25SYMV017645658",
+      "contractRefNo": "25SYMV017393021",
       "cpv_codes_extracted": [
-        "75131100"
+        "99201059",
+        "75120000"
       ],
       "cpv_divisions": [
         "75"
@@ -264,12 +661,12 @@
       "primary_domain": "Public Admin, Defence & Social Security"
     },
     {
-      "title": "ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΚΑΘΗΜΕΡΙΝΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΤΗΣ ΛΟΓΙΣΤΙΚΗΣ / ΙΚΟΝΟΜΙΚΗΣΔΙΑΧΕΙΡΙΣΗΣ",
-      "referenceNumber": "26PAY018470660",
+      "title": "Παροχή υπηρεσιών για την πυρασφάλεια και πυρόσβεση κτιρίων, εγκαταστάσεων και περιβάλλοντος χώρου",
+      "referenceNumber": "26PAY018480117",
       "auctionReferenceNumber": null,
       "signedDate": "2026-02-11T00:00:00",
-      "submissionDate": "2026-02-12T10:49:58.72",
-      "lastUpdateDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-13T13:37:41.665",
+      "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
@@ -279,19 +676,1216 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1022.E00755.0001",
-      "paymentCommitmentCode": "Ψ76Τ469ΗΤ6-7Ω3",
-      "organizationVatNumber": "099329107",
+      "aaht": "1007.E90025.0001",
+      "paymentCommitmentCode": "90",
+      "organizationVatNumber": "997229745",
       "greekOrganizationVatNumber": false,
       "commitmentNo": null,
       "contractValue": null,
       "organization": {
-        "key": "99221390",
-        "value": "ΛΑΟΓΡΑΦΙΚΟ ΚΑΙ ΕΘΝΟΛΟΓΙΚΟ ΜΟΥΣΕΙΟ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ"
+        "key": "100025666",
+        "value": "ΦΟΡΕΑΣ ΔΙΑΧΕΙΡΙΣΗΣ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΑΡΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΙΚΩΝ ΚΑΙ ΕΚΠΑΙΔΕΥΤΙΚΩΝ ΔΡΑΣΤΗΡΙΟΤΗΤΩΝ ΚΑΙ ΑΝΑΠΤΥΞΗΣ ΚΟΙΝΩΝΙΚΗΣ ΟΙΚΟΝ"
       },
       "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
+        "key": "EL302",
+        "value": "Δυτικός Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100025880",
+          "value": "ΦΟΡΕΑΣ ΔΙΑΧΕΙΡΙΣΗΣ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΑΡΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΙΚΩΝ ΚΑΙ ΕΚΠΑΙΔΕΥΤΙΚΩΝ ΔΡΑΣΤΗΡΙΟΤΗΤΩΝ ΚΑΙ ΑΝΑΠΤΥΞΗΣ ΚΟΙΝΩΝΙΚΗΣ ΟΙΚΟΝ"
+        },
+        "signers": {
+          "key": "100091550",
+          "value": "ΑΙΚΑΤΕΡΙΝΗ ΧΑΛΙΜΟΥΡΔΑ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "62.98.76.0001",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 17974.79,
+      "totalCostWithoutVAT": 14495.8,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 14495.8,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΧΕΠ Α/20 για τηΣύμβαση της υπηρεσίας με τίτλο: \"Παροχή υπηρεσιών για την πυρασφάλεια και πυρόσβεση κτιρίων, εγκαταστάσεων και περιβάλλοντος χώρου του Μητροπολιτικού Πάρκου “Αντώνης Τρίτσης”\"",
+          "cpvs": [
+            {
+              "key": "75251110-4",
+              "value": "Υπηρεσίες πρόληψης πυρκαγιών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "Ίλιον",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "800591565",
+          "greekVatNo": false,
+          "name": "GRGENESIS FACILITIES ΙΔΙΩΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ ΑΣΦΑΛΕΙΑΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV016754617",
+      "cpv_codes_extracted": [
+        "75251110"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ",
+      "referenceNumber": "26PAY018479825",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-01-28T00:00:00",
+      "submissionDate": "2026-02-13T13:20:22.572",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.907.0001",
+      "paymentCommitmentCode": "756",
+      "organizationVatNumber": "997824337",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "5004",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL63",
+        "value": "Δυτική Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78070",
+          "value": "ΓΡΑΦΕΙΟ ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑΣ ΕΡΕΥΝΑΣ ΚΑΙ ΚΑΙΝΟΤΟΜΙΑΣ"
+        },
+        "signers": {
+          "key": "100048698",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΠΑΠΑΔΟΠΟΥΛΟΣ - Αναπληρωτής Θεματικός Αντιπεριφερειάρχης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": "6003188",
+        "regularBudgetFundedProgramRef": "2420989010"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 3074.39,
+      "totalCostWithoutVAT": 2479.35,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 2479.35,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Σύμβαση Μίσθωσης Έργου με τον Παυλέα Σωτήριο στο πλαίσιο του έργου ''RIS\"_Θέση Κ2 «Μηχανισμός για τη διακυβέρνηση, παρακολούθηση και υποστήριξη της υλοποίησης της Περιφερειακής Στρατηγικής Έξυπνης Εξειδίκευσης» με Κωδικό ΟΠΣ 6003188 ",
+          "cpvs": [
+            {
+              "key": "75120000-3",
+              "value": "Διοικητικές υπηρεσίες οργανισμών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΠΑΤΡΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "079678410",
+          "greekVatNo": false,
+          "name": "ΠΑΥΛΕΑΣ ΣΩΤΗΡΙΟΣ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV016772364",
+      "cpv_codes_extracted": [
+        "75120000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ",
+      "referenceNumber": "26PAY018479766",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-01-08T00:00:00",
+      "submissionDate": "2026-02-13T13:17:08.329",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.907.0001",
+      "paymentCommitmentCode": "199",
+      "organizationVatNumber": "997824337",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "5004",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL63",
+        "value": "Δυτική Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78070",
+          "value": "ΓΡΑΦΕΙΟ ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑΣ ΕΡΕΥΝΑΣ ΚΑΙ ΚΑΙΝΟΤΟΜΙΑΣ"
+        },
+        "signers": {
+          "key": "100048698",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΠΑΠΑΔΟΠΟΥΛΟΣ - Αναπληρωτής Θεματικός Αντιπεριφερειάρχης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": "6006312",
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "3120102001"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 1783.21,
+      "totalCostWithoutVAT": 1438.07,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1438.07,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Σύμβαση Μίσθωσης Έργου με την Παπαγιαννοπούλου Μαρίνα_\"AIR4HEALTH\"_Θέση Κ2",
+          "cpvs": [
+            {
+              "key": "75120000-3",
+              "value": "Διοικητικές υπηρεσίες οργανισμών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΠΑΤΡΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "155526121",
+          "greekVatNo": false,
+          "name": "ΠΑΠΑΓΙΑΝΝΟΠΟΥΛΟΥ ΜΑΡΙΝΑ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV018144584",
+      "cpv_codes_extracted": [
+        "75120000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ",
+      "referenceNumber": "26PAY018479728",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-01-08T00:00:00",
+      "submissionDate": "2026-02-13T13:14:51.778",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.907.0001",
+      "paymentCommitmentCode": "199",
+      "organizationVatNumber": "997824337",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "5004",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL63",
+        "value": "Δυτική Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78070",
+          "value": "ΓΡΑΦΕΙΟ ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑΣ ΕΡΕΥΝΑΣ ΚΑΙ ΚΑΙΝΟΤΟΜΙΑΣ"
+        },
+        "signers": {
+          "key": "100048698",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΠΑΠΑΔΟΠΟΥΛΟΣ - Αναπληρωτής Θεματικός Αντιπεριφερειάρχης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": "6006312",
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "3120102001"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 2225.3,
+      "totalCostWithoutVAT": 1794.6,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1794.6,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Σύμβαση Μίσθωσης Έργου με την Σεφεριάδη Αμαλία_\"Air4Health\"_ ΚΩΔΙΚΟΣ ΘΕΣΗΣ K1",
+          "cpvs": [
+            {
+              "key": "75120000-3",
+              "value": "Διοικητικές υπηρεσίες οργανισμών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΠΑΤΡΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "141874000",
+          "greekVatNo": false,
+          "name": "ΣΕΦΕΡΙΑΔΗ ΑΜΑΛΙΑ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV018104717",
+      "cpv_codes_extracted": [
+        "75120000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ",
+      "referenceNumber": "26PAY018479677",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-01-08T00:00:00",
+      "submissionDate": "2026-02-13T13:11:43.606",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.907.0001",
+      "paymentCommitmentCode": "82",
+      "organizationVatNumber": "997824337",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "5004",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL63",
+        "value": "Δυτική Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78070",
+          "value": "ΓΡΑΦΕΙΟ ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑΣ ΕΡΕΥΝΑΣ ΚΑΙ ΚΑΙΝΟΤΟΜΙΑΣ"
+        },
+        "signers": {
+          "key": "100048698",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΠΑΠΑΔΟΠΟΥΛΟΣ - Αναπληρωτής Θεματικός Αντιπεριφερειάρχης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": "Euro-MED0200720",
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "2420989019"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 523.6,
+      "totalCostWithoutVAT": 422.26,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 422.26,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Τροποποίηση Σύμβαση Μίσθωσης Έργου με τη Μαγνησαλή Αδαμαντία στο πλαίσιο του έργου \"COASTRUST\" _ Θέση Κ2 ",
+          "cpvs": [
+            {
+              "key": "75120000-3",
+              "value": "Διοικητικές υπηρεσίες οργανισμών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΠΑΤΡΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "129580086",
+          "greekVatNo": false,
+          "name": "Μαγνησαλή Αδαμαντία",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV017520091",
+      "cpv_codes_extracted": [
+        "75120000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ",
+      "referenceNumber": "26PAY018479620",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-01-08T00:00:00",
+      "submissionDate": "2026-02-13T13:08:52.942",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.907.0001",
+      "paymentCommitmentCode": "82",
+      "organizationVatNumber": "997824337",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "5004",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL63",
+        "value": "Δυτική Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78070",
+          "value": "ΓΡΑΦΕΙΟ ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑΣ ΕΡΕΥΝΑΣ ΚΑΙ ΚΑΙΝΟΤΟΜΙΑΣ"
+        },
+        "signers": {
+          "key": "100048698",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΠΑΠΑΔΟΠΟΥΛΟΣ - Αναπληρωτής Θεματικός Αντιπεριφερειάρχης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": "MED0200720",
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "2420989019"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 2636.72,
+      "totalCostWithoutVAT": 2126.39,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 2126.39,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Σύμβαση Μίσθωσης Έργου με τον Λευθεριώτη Γεώργιο_\"COASTRUST\"_ Κ3",
+          "cpvs": [
+            {
+              "key": "75120000-3",
+              "value": "Διοικητικές υπηρεσίες οργανισμών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΠΑΤΡΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "109944750",
+          "greekVatNo": false,
+          "name": "ΛΕΥΘΕΡΙΩΤΗΣ ΓΕΩΡΓΙΟΣ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV017933889",
+      "cpv_codes_extracted": [
+        "75120000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΠΡΟΜΗΘΕΙΑ ΖΩΟΟΤΡΟΦΩΝ (ΠΡΟΓΡΑΜΜΑ ΠΡΟΣΤΑΣΙΑΣ ΑΠΌ ΑΔΕΣΠΟΤΑ 2025-2026) ΑΡ. ΜΕΛ. 18/2025 & ΑΡ. ΣΥΜΒ. 2296",
+      "referenceNumber": "26PAY018479373",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-05T00:00:00",
+      "submissionDate": "2026-02-13T12:55:32.803",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.Ε84203.0001",
+      "paymentCommitmentCode": "287/2026",
+      "organizationVatNumber": "997860940",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "6177",
+        "value": "ΔΗΜΟΣ ΛΟΥΤΡΑΚΙΟΥ - ΠΕΡΑΧΩΡΑΣ - ΑΓΙΩΝ ΘΕΟΔΩΡΩΝ"
+      },
+      "nutsCode": {
+        "key": "EL652",
+        "value": "Κορινθία"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100031055",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "134975",
+          "value": "ΙΕΡΟΘΕΟΣ ΣΤΑΜΑΤΗΣ - Αναπληρωτής Προϊστάμενος Οικονομικών Υπηρεσιών"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "15-6474.018",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 334.18,
+      "totalCostWithoutVAT": 269.5,
+      "objectDetails": [
+        {
+          "quantity": 200,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 269.5,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια ξηρής γατοτροφής.",
+          "cpvs": [
+            {
+              "key": "39300000-5",
+              "value": "Ποικίλος εξοπλισμός"
+            },
+            {
+              "key": "15712000-2",
+              "value": "Ξηρή ζωοτροφή"
+            },
+            {
+              "key": "15712000-2",
+              "value": "Ξηρή ζωοτροφή"
+            },
+            {
+              "key": "75200000-8",
+              "value": "Παροχή υπηρεσιών στο κοινωνικό σύνολο"
+            },
+            {
+              "key": "80512000-6",
+              "value": "Υπηρεσίες εκπαίδευσης σκύλων"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΛΟΥΤΡΑΚΙ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "801106039",
+          "greekVatNo": false,
+          "name": "Ι. ΠΑΠΑΔΟΠΟΥΛΟ & ΣΙΑ Ε.Ε. ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV017951461",
+      "cpv_codes_extracted": [
+        "39300000",
+        "15712000",
+        "75200000",
+        "80512000"
+      ],
+      "cpv_divisions": [
+        "39",
+        "15",
+        "75",
+        "80"
+      ],
+      "all_domains": [
+        "Furniture & Cleaning Products",
+        "Food & Catering",
+        "Public Admin, Defence & Social Security",
+        "Education & Training"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΕΝΤΟΛΗ ΠΛΗΡΩΜΩΝ",
+      "referenceNumber": "26PAY018479118",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-04T00:00:00",
+      "submissionDate": "2026-02-13T12:39:41.415",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1039. F00987.0001",
+      "paymentCommitmentCode": "300094107",
+      "organizationVatNumber": "094079101",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "99201059",
+        "value": "ΕΥΔΑΠ ΑΕ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100015321",
+          "value": "ΥΠΗΡΕΣΙΑ ΕΚΚΑΘΑΡΙΣΗΣ ΔΑΠΑΝΩΝ"
+        },
+        "signers": {
+          "key": "100015270",
+          "value": "ΕΛΕΝΗ ΚΑΛΟΚΥΡΗ - Αναπληρωτής Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "61.98.91.000008",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 4768.16,
+      "totalCostWithoutVAT": 3845.29,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 3845.29,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ  ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΤΗΣ ΔΙΕΥΘΥΝΣΗΣ ΔΙΑΧΕΙΡΙΣΗΣ ΠΡΟΜΗΘΕΙΩΝ ΚΑΙ ΕΡΓΩΝ ΚΑΘΩΣ ΚΑΙ ΤΩΝ ΥΠΗΡΕΣΙΩΝ ΤΗΣ.",
+          "cpvs": [
+            {
+              "key": "75120000-3",
+              "value": "Διοικητικές υπηρεσίες οργανισμών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΓΑΛΑΤΣΙ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "996589476",
+          "greekVatNo": false,
+          "name": "MYSERVICES A.E.",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV016240984",
+      "cpv_codes_extracted": [
+        "99201059",
+        "75120000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΕΝΤΟΛΗ ΠΛΗΡΩΜΩΝ",
+      "referenceNumber": "26PAY018478768",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-04T00:00:00",
+      "submissionDate": "2026-02-13T12:18:42.46",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1039. F00987.0001",
+      "paymentCommitmentCode": "300094107",
+      "organizationVatNumber": "094079101",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "99201059",
+        "value": "ΕΥΔΑΠ ΑΕ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100015321",
+          "value": "ΥΠΗΡΕΣΙΑ ΕΚΚΑΘΑΡΙΣΗΣ ΔΑΠΑΝΩΝ"
+        },
+        "signers": {
+          "key": "100015270",
+          "value": "ΕΛΕΝΗ ΚΑΛΟΚΥΡΗ - Αναπληρωτής Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "61.98.91.000008",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 45517.4,
+      "totalCostWithoutVAT": 36707.58,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 36707.58,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ  ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΤΗΣ ΔΙΕΥΘΥΝΣΗΣ ΔΙΑΧΕΙΡΙΣΗΣ ΠΡΟΜΗΘΕΙΩΝ ΚΑΙ ΕΡΓΩΝ ΚΑΘΩΣ ΚΑΙ ΤΩΝ ΥΠΗΡΕΣΙΩΝ ΤΗΣ.",
+          "cpvs": [
+            {
+              "key": "75120000-3",
+              "value": "Διοικητικές υπηρεσίες οργανισμών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΓΑΛΑΤΣΙ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "996589476",
+          "greekVatNo": false,
+          "name": "MYSERVICES A.E.",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV016240984",
+      "cpv_codes_extracted": [
+        "99201059",
+        "75120000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΜΗΝΙΑΙΕΣ ΥΠΗΡΕΣΙΕΣ ΛΟΓΙΣΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ",
+      "referenceNumber": "26PAY018478746",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-10T00:00:00",
+      "submissionDate": "2026-02-13T12:17:48.121",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1041.Ε00991.0001",
+      "paymentCommitmentCode": "13",
+      "organizationVatNumber": "996558950",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "100099258",
+        "value": "ΛΙΜΕΝΙΚΟ ΤΑΜΕΙΟ ΗΡΑΚΛΕΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
       },
       "centralizedMarkets": [
         {
@@ -316,12 +1910,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "75066",
-          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+          "key": "100099399",
+          "value": "ΛΙΜΕΝΙΚΟ ΤΑΜΕΙΟ ΗΡΑΚΛΕΙΟΥ"
         },
         "signers": {
-          "key": "100074248",
-          "value": "ΦΩΤΙΟΣ ΚΙΛΙΠΙΡΗΣ - Πρόεδρος Δ.Σ."
+          "key": "100099262",
+          "value": "ΙΩΑΝΝΗΣ ΒΑΡΔΑΒΑΣ - Πρόεδρος"
         }
       },
       "fundingDetails": {
@@ -331,43 +1925,160 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "ΑΛΕ 2420989."
+        "regularBudgetFundedProgramRef": "0419"
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 2599.99,
-      "totalCostWithoutVAT": 2096.77,
+      "totalCostWithVAT": 31000.0,
+      "totalCostWithoutVAT": 25000.0,
       "objectDetails": [
+        {
+          "quantity": 3,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 6000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΜΗΝΙΑΙΕΣ ΥΠΗΡΕΣΙΕΣ ΛΟΓΙΣΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ (ΕΦΑΡΜΟΓΗ ΤΟΥ ΔΙΠΛΟΓΡΑΦΙΚΟΥ ΛΟΓΙΣΤΙΚΟΥ ΣΥΣΤΗΜΑΤΟΣ, ΦΟΡΟΤΕΧΝΙΚΗ ΥΠΟΣΤΗΡΙΞΗ ΚΑΙ ΛΟΙΠΕΣ ΛΟΓΙΣΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ)",
+          "cpvs": [
+            {
+              "key": "79211000-6",
+              "value": "Λογιστικές υπηρεσίες"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΗΡΑΚΛΕΙΟ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "052954512",
+          "greekVatNo": false,
+          "name": "ΠΑΡΑΣΥΡΗΣ ΑΝΤΩΝΗΣ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
         {
           "quantity": 1,
           "type": {
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 2096.77,
+          "costWithoutVAT": 3500,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Παροχή υπηρεσιών της καθημερινής λειτουργίας του λογιστηρίου με επιτόπια ή απομακρυσμένη υποστήριξη για το μήνα Ιανουάριο 2026",
+          "shortDescription": "ΕΦΑΡΜΟΓΗ ΔΙΠΛΟΓΡΑΦΙΚΟΥ ΣΥΣΤΗΜΑΤΟΣ ΚΑΙ ΚΑΤΑΡΤΗΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΚΑΤΑΣΤΑΣΕΩΝ ΚΑΙ ΙΣΟΛΟΓΙΣΜΟΥ ΤΗΣ ΟΙΚΟΝΟΜΙΚΗΣ ΧΡΗΣΗΣ 26/07/2024 – 31/12/2024  ",
           "cpvs": [
             {
-              "key": "75131100-4",
-              "value": "Γενικές υπηρεσίες προσωπικού για το δημόσιο"
+              "key": "79211000-6",
+              "value": "Λογιστικές υπηρεσίες"
             }
           ],
           "addressForDelivery": null,
           "streetNumber": null,
           "postalCode": null,
-          "city": "ΘΕΣΣΑΛΟΝΙΚΗ",
+          "city": "ΗΡΑΚΛΕΙΟ",
           "cityOfConstruction": null,
           "countryOfDelivery": {
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "131373098",
+          "vatNo": "052954512",
           "greekVatNo": false,
-          "name": "ΓΙΑΓΚΟΥΛΑ ΦΙΛΑΡΕΤΗ",
+          "name": "ΠΑΡΑΣΥΡΗΣ ΑΝΤΩΝΗΣ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 12000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΦΟΡΟΛΟΓΙΚΗ – ΔΙΟΙΚΗΤΙΚΗ ΚΑΤΑΓΡΑΦΗ ΚΑΙ ΑΞΙΟΛΟΓΗΣΗ ΥΦΙΣΤΑΜΕΝΗΣ ΚΑΤΑΣΤΑΣΗΣ.",
+          "cpvs": [
+            {
+              "key": "75120000-3",
+              "value": "Διοικητικές υπηρεσίες οργανισμών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΗΡΑΚΛΕΙΟ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "052954512",
+          "greekVatNo": false,
+          "name": "ΠΑΡΑΣΥΡΗΣ ΑΝΤΩΝΗΣ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 3500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΔΙΕΞΑΓΩΓΗ ΑΠΟΓΡΑΦΗΣ ΕΝΑΡΞΗΣ ΚΑΙ ΚΑΤΑΡΤΙΣΗ ΙΣΟΛΟΓΙΣΜΟΥ ΕΝΑΡΞΗΣ 26/07/2024 ",
+          "cpvs": [
+            {
+              "key": "79211000-6",
+              "value": "Λογιστικές υπηρεσίες"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΗΡΑΚΛΕΙΟ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "052954512",
+          "greekVatNo": false,
+          "name": "ΠΑΡΑΣΥΡΗΣ ΑΝΤΩΝΗΣ",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -381,10 +2092,923 @@
       "mixedContract": false,
       "requestRefNo": null,
       "auctionRefNo": null,
-      "contractRefNo": "26SYMV018355918",
+      "contractRefNo": "25SYMV017917515",
       "cpv_codes_extracted": [
-        "99221390",
-        "75131100"
+        "79211000",
+        "75120000"
+      ],
+      "cpv_divisions": [
+        "79",
+        "75"
+      ],
+      "all_domains": [
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "Υλοποίηση Προγραμματικης Σύμβασης με την Ανώνυμη Αναπτυξιακή Εταιρεία ΟΤΑ (Π.Ε.Τ.Α  Α.Ε) για την Διο",
+      "referenceNumber": "26PAY018477298",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-09T00:00:00",
+      "submissionDate": "2026-02-13T10:52:06.718",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.Ε80503.0001",
+      "paymentCommitmentCode": "6ΑΜΕΩΞΨ-ΨΦΥ",
+      "organizationVatNumber": "997732707",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "6229",
+        "value": "ΔΗΜΟΣ ΠΑΓΓΑΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL51",
+        "value": "Aνατολική Μακεδονία, Θράκη"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78413",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΟΥ"
+        },
+        "signers": {
+          "key": "11224",
+          "value": "ΒΑΣΙΛΙΚΗ ΖΑΧΟΠΟΥΛΟΥ - Προϊστάμενος Διεύθυνσης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "030.2420902001",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 12000.0,
+      "totalCostWithoutVAT": 9677.42,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 9677.42,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υλοποίηση Προγραμματικης Σύμβασης με την Ανώνυμη Αναπτυξιακή Εταιρεία ΟΤΑ (Π.Ε.Τ.Α  Α.Ε) για την Διοικητική & Τεχνική Υποστήριξη του Δ.Παγγαίου για την Υλοποιηση Εργων & Δρασεων",
+          "cpvs": [
+            {
+              "key": "75112100-5",
+              "value": "Διοικητικές υπηρεσίες σχετιζόμενες με αναπτυξιακά σχέδια"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΕΛΕΥΘΕΡΟΥΠΟΛΗ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "094280411",
+          "greekVatNo": false,
+          "name": "Π.Ε.Τ.Α Α.Ε",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": null,
+      "cpv_codes_extracted": [
+        "75112100"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΧΕΠ ΥΠΗΡΕΣΙΑ ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΤΩΝ ΔΙΕΥΘΥΝΣΕΩΝ ΔΠΠ ΟΦΥΠΕΚΑ ",
+      "referenceNumber": "26PAY018476504",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T10:07:50.205",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1031.Ε00768.0001",
+      "paymentCommitmentCode": "2",
+      "organizationVatNumber": "099965892",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "100061036",
+        "value": "ΟΡΓΑΝΙΣΜΟΣ ΦΥΣΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΚΛΙΜΑΤΙΚΗΣ ΑΛΛΑΓΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100061073",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΟΥ - ΟΙΚΟΝΟΜΙΚΟΥ"
+        },
+        "signers": {
+          "key": "100089763",
+          "value": "Κωνσταντίνος Τζαβάρας - Προϊστάμενος Διεύθυνσης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "61.00"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 3720.0,
+      "totalCostWithoutVAT": 3000.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 3000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": " Υπηρεσία διοικητικής υποστήριξης Διευθύνσεων Διαχείρισης Προστατευόμενων Περιοχών του Τομέα Α και Β του ΟΦΥΠΕΚΑ.",
+          "cpvs": [
+            {
+              "key": "75100000-7",
+              "value": "Υπηρεσίες διοίκησης"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "145525294",
+          "greekVatNo": false,
+          "name": "Κιβράκη Κωνσταντίνα",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV016147102",
+      "cpv_codes_extracted": [
+        "75100000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ",
+      "referenceNumber": "26PAY018476098",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-13T09:43:46.149",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.F01315.0001",
+      "paymentCommitmentCode": "355/2026",
+      "organizationVatNumber": "997579388",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "5010",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL434",
+        "value": "Χανιά"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81206",
+          "value": "Δ/ΝΣΗ ΔΙΟΙΚΗΤΙΚΟΥ - ΟΙΚΟΝΟΜΙΚΟΥ Π.Ε. ΧΑΝΙΩΝ"
+        },
+        "signers": {
+          "key": "130803",
+          "value": "ΧΡΥΣΟΥΛΑ ΚΟΥΝΑΛΑΚΗ - Αναπληρωτής Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "2024ΕΠ0300012",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 4133.33,
+      "totalCostWithoutVAT": 3333.33,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 3333.33,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Σύμβαση για την υπηρεσία με κωδ. 2024ΚΑΠ0300012, κωδ. OTS 03.07.24.002 και τίτλο: «ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΓΙΑ ΤΗ ΔΙΑΜΟΡΦΩΣΗ ΕΠΙΚΟΙΝΩΝΙΑΚΗΣ ΣΤΡΑΤΗΓΙΚΗΣ ΓΙΑ ΤΗΝ ΤΟΥΡΙΣΤΙΚΗ ΠΡΟΒΟΛΗ ΚΑΙ ΤΗΝ ΥΛΟΠΟΙΗΣΗ ΠΡΟΓΡΑΜΜΑΤΟΣ ΤΟΥΡΙΣΤΙΚΗΣ ΠΡΟΒΟΛΗΣ ΤΗΣ ΠΕ ΧΑΝΙΩΝ», προϋπολογισμού 37.200,00 € (με ΦΠΑ 24%), που χρηματοδοτείται από το Πρόγραμμα Δράσης της Περιφέρειας Κρήτης / ΚΑΠ-ΙΠ ΠΕ Χανίων.",
+          "cpvs": [
+            {
+              "key": "75125000-8",
+              "value": "Διοικητικές υπηρεσίες σχετιζόμενες με θέματα τουρισμού"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΧΑΝΙΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "024720556",
+          "greekVatNo": true,
+          "name": "ΔΙΑΜΑΝΤΑΚΗΣ ΑΝΑΣΤΑΣΙΟΣ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "24SYMV015864541",
+      "cpv_codes_extracted": [
+        "75125000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΥΠΗΡΕΣΙΕΣ ΓΙΑ ΤΗ ΔΙΟΡΓΑΝΩΣΗ ΚΑΙ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΔΡΩΜΕΝΩΝ ΣΤΑ ΠΛΑΙΣΙΑ ΤΟΥ ΧΡΙΣΤΟΥΓΕΝΝΙΑΤΙΚΟΥ ΧΩΡΙΟΥ",
+      "referenceNumber": "26PAY018475847",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T09:28:32.403",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.E84607.0001",
+      "paymentCommitmentCode": "ΨΞΥΣΩΚΒ-ΚΒ2",
+      "organizationVatNumber": "090107358",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "6191",
+        "value": "ΔΗΜΟΣ ΜΕΤΑΜΟΡΦΩΣΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL301",
+        "value": "Βόρειος Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "79340",
+          "value": "ΙΔΙΑΙΤΕΡΟ ΓΡΑΦΕΙΟ ΔΗΜΑΡΧΟΥ"
+        },
+        "signers": {
+          "key": "100048403",
+          "value": "ΕΥΣΤΡΑΤΙΟΣ ΣΑΡΑΟΥΔΑΣ - Δήμαρχος"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "15.6142.0018"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 20720.4,
+      "totalCostWithoutVAT": 16710.0,
+      "objectDetails": [
+        {
+          "quantity": 60,
+          "type": {
+            "key": "HUR",
+            "value": "Ώρα"
+          },
+          "costWithoutVAT": 16710,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Καλλιτεχνικά δρώμενα από καλλιτέχνες - εμψυχωτές στο Χριστουγεννιάτικο Χωριό",
+          "cpvs": [
+            {
+              "key": "75124000-1",
+              "value": "Διοικητικές ψυχαγωγικές"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΜΕΤΑΜΟΡΦΩΣΗ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "801850590",
+          "greekVatNo": false,
+          "name": "ΜΑΘΑΙΝΟΝΤΑΣ ΜΟΝ. ΙΚΕ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV018198065",
+      "cpv_codes_extracted": [
+        "75124000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "Υπηρεσίες 16/01-15/02/26 Διοικητικής υποστήριξης τμήματος λιμενικών εξυπηρετήσεων του ΟΛΠΑ",
+      "referenceNumber": "26PAY018475196",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-13T08:35:46.24",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1041.Ε00607.0001",
+      "paymentCommitmentCode": "Ρ354469ΗΞΝ-ΠΚΙ",
+      "organizationVatNumber": "090017574",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "99221108",
+        "value": "ΟΡΓΑΝΙΣΜΟΣ ΛΙΜΕΝΟΣ ΠΑΤΡΩΝ  Α.Ε"
+      },
+      "nutsCode": {
+        "key": "EL632",
+        "value": "Αχαΐα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "91019",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΟΥ-ΟΙΚΟΝΟΜΙΚΟΥ"
+        },
+        "signers": {
+          "key": "128690",
+          "value": "ΝΙΚΟΣ ΓΙΑΚΟΥΜΑΚΗΣ - Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "61",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 1674.0,
+      "totalCostWithoutVAT": 1350.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1350,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Παροχή υπηρεσιών Διοικητικής υποστήριξης τμήματος λιμενικών εξυπηρετήσεων της Ο.Λ.ΠΑ. ΑΕ.",
+          "cpvs": [
+            {
+              "key": "75120000-3",
+              "value": "Διοικητικές υπηρεσίες οργανισμών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΠΑΤΡΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "108394786",
+          "greekVatNo": false,
+          "name": "ΑΝΑΡΓΥΡΟΣ ΜΠΙΜΠΑΣ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV016923429",
+      "cpv_codes_extracted": [
+        "99221108",
+        "75120000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΑΜΟΙΒΗ ΔΙΚΗΓΟΡΟΥ",
+      "referenceNumber": "26PAY018475167",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T08:31:28.93",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.E82202.0001",
+      "paymentCommitmentCode": "225",
+      "organizationVatNumber": "099711740",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "6003",
+        "value": "ΔΗΜΟΣ ΑΓΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL612",
+        "value": "Λάρισα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100099627",
+          "value": "ΤΜΗΜΑ ΛΟΓΙΣΤΗΡΙΟΥ- ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ"
+        },
+        "signers": {
+          "key": "100081642",
+          "value": "Αγλαΐα Σοφλιού - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "000.2420901001"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 1130.04,
+      "totalCostWithoutVAT": 911.32,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 911.32,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΜΟΙΒΗ ΔΙΚΗΓΟΡΟΥ",
+          "cpvs": [
+            {
+              "key": "75231000-4",
+              "value": "Δικαστικές υπηρεσίες"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΓΙΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "099711740",
+          "greekVatNo": true,
+          "name": "ΓΚΟΥΜΑ ΣΤΑΥΡΟΥΛΑ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": null,
+      "cpv_codes_extracted": [
+        "75231000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΑΜΟΙΒΗ ΔΙΚΗΓΟΡΟΥ",
+      "referenceNumber": "26PAY018475067",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T08:18:42.821",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.E82202.0001",
+      "paymentCommitmentCode": "225",
+      "organizationVatNumber": "099711740",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "6003",
+        "value": "ΔΗΜΟΣ ΑΓΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL612",
+        "value": "Λάρισα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100099627",
+          "value": "ΤΜΗΜΑ ΛΟΓΙΣΤΗΡΙΟΥ- ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ"
+        },
+        "signers": {
+          "key": "100081642",
+          "value": "Αγλαΐα Σοφλιού - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "000.2420901001"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 590.24,
+      "totalCostWithoutVAT": 476.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 476,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΜΟΙΒΗ ΔΙΚΗΓΟΡΟΥ",
+          "cpvs": [
+            {
+              "key": "75231000-4",
+              "value": "Δικαστικές υπηρεσίες"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΓΙΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "043949608",
+          "greekVatNo": true,
+          "name": "ΓΚΟΥΜΑ ΣΤΑΥΡΟΥΛΑ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": null,
+      "cpv_codes_extracted": [
+        "75231000"
       ],
       "cpv_divisions": [
         "75"

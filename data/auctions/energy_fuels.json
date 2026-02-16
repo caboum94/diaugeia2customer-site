@@ -1,24 +1,24 @@
 {
   "domain": "Energy & Fuels",
-  "count": 14,
+  "count": 18,
   "items": [
     {
-      "title": "T1 Προμήθεια καυσίμων για τα οχήματα και τις κτιριακές εγκαταστάσεις του ΟΑΚ Α.Ε. για το έτος 2026",
-      "referenceNumber": "26AWRD018474164",
-      "submissionDate": "2026-02-12T14:25:44.496",
+      "title": "Απόφαση απευθείας ανάθεσης για την  προμήθεια πετρελαίου θέρμανσης του Μουσείου για το έτος 2026",
+      "referenceNumber": "26AWRD018481573",
+      "submissionDate": "2026-02-13T16:00:47.077",
       "lastUpdateDate": null,
-      "signedDate": "2026-02-12",
+      "signedDate": "2026-02-13",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1039.Ε00874.0001",
+      "aaht": "1022.E00755.0001",
       "authorEmail": null,
-      "organizationVatNumber": "997321341",
+      "organizationVatNumber": "099329107",
       "greekOrganizationVatNumber": false,
-      "budget": 72000,
+      "budget": 8064.52,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
@@ -38,191 +38,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "94540",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+          "key": "75066",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
         },
         "signers": {
-          "key": "100058680",
-          "value": "ΑΡΙΣΤΕΙΔΗΣ ΠΑΠΑΔΟΓΙΑΝΝΗΣ - Διευθύνων Σύμβουλος"
-        }
-      },
-      "procedureType": {
-        "key": "12",
-        "value": "Διαπραγμάτευση χωρίς προηγούμενη δημοσίευση"
-      },
-      "organization": {
-        "key": "55291",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΑΝΑΠΤΥΞΗΣ ΚΡΗΤΗΣ Α.Ε"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "awardProcedure": {
-        "key": "56",
-        "value": "Άγονη διαδικασία ανάθεσης σύμβασης"
-      },
-      "nutsCode": {
-        "key": "EL434",
-        "value": "Χανιά"
-      },
-      "nutsCity": "ΧΑΝΙΑ",
-      "nutsPostalCode": "73100",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
-      },
-      "contractDuration": 11,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "095669958",
-            "greekVatNumber": false,
-            "name": "ΚΑΥΣΙΜΑ ΧΑΝΙΩΝ ΕΠΕ",
-            "nutsCode": {
-              "key": "EL434",
-              "value": "Χανιά"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            }
-          }
-        ]
-      },
-      "totalCostWithVAT": 89280.0,
-      "totalCostWithoutVAT": 72000.0,
-      "objectDetailsList": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 72000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": " «Προμήθεια καυσίμων για τα οχήματα και τις κτιριακές εγκαταστάσεις του ΟΑΚ Α.Ε. για το έτος 2026» Τμημα 1 ",
-          "cpvs": [
-            {
-              "key": "09132100-4",
-              "value": "Αμόλυβδη βενζίνη"
-            },
-            {
-              "key": "09135100-5",
-              "value": "Πετρέλαιο θέρμανσης"
-            },
-            {
-              "key": "09134100-8",
-              "value": "Πετρέλαιο ντίζελ"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018364405",
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "09132100",
-        "09135100",
-        "09134100"
-      ],
-      "cpv_divisions": [
-        "09"
-      ],
-      "all_domains": [
-        "Energy & Fuels"
-      ],
-      "primary_domain": "Energy & Fuels"
-    },
-    {
-      "title": "ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΚΑΥΣΙΜΩΝ ΓΙΑ ΟΧΗΜΑΤΑ-ΗΛΕΚΤΡΟΓΕΝΝΗΤΡΙΕΣ 1ου ΚΑΙ 2ου ΤΕΛΩΝΕΙΟΥ ΠΕΙΡΑΙΑ",
-      "referenceNumber": "26AWRD018474028",
-      "submissionDate": "2026-02-12T14:07:58.626",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-12",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1024.8010430600.0002",
-      "authorEmail": null,
-      "organizationVatNumber": "997073525",
-      "greekOrganizationVatNumber": false,
-      "budget": 5887.1,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100029660",
-          "value": "1(ΠΡΩΤΟ) ΤΕΛΩΝΕΙΟ ΠΕΙΡΑΙΑ"
-        },
-        "signers": {
-          "key": "100079883",
-          "value": "ΑΝΝΑ ΚΑΤΡΙΝΑΚΗ - Α/Α (Αντι Αυτού) Προϊσταμένου Διεύθυνσης"
+          "key": "100074248",
+          "value": "ΦΩΤΙΟΣ ΚΙΛΙΠΙΡΗΣ - Πρόεδρος Δ.Σ."
         }
       },
       "procedureType": {
@@ -230,8 +51,8 @@
         "value": "Απευθείας ανάθεση"
       },
       "organization": {
-        "key": "100029495",
-        "value": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ"
+        "key": "99221390",
+        "value": "ΛΑΟΓΡΑΦΙΚΟ ΚΑΙ ΕΘΝΟΛΟΓΙΚΟ ΜΟΥΣΕΙΟ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ"
       },
       "contractType": {
         "key": "13",
@@ -243,177 +64,11 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL307",
-        "value": "Πειραιάς, Νήσοι"
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
       },
-      "nutsCity": "ΠΕΙΡΑΙΑΣ",
-      "nutsPostalCode": "18510",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "typeOfContractingAuthority": {
-        "key": "13",
-        "value": "Ανεξάρτητη αρχή (με νομική προσωπικότητα)"
-      },
-      "contractingAuthorityActivity": {
-        "key": "5",
-        "value": "Οικονομικές και δημοσιονομικές υποθέσεις"
-      },
-      "contractDuration": 11,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "802456744",
-            "greekVatNumber": false,
-            "name": "BTK POWER FUEL Ε.Ε.",
-            "nutsCode": {
-              "key": "EL307",
-              "value": "Πειραιάς, Νήσοι"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            }
-          }
-        ]
-      },
-      "totalCostWithVAT": 7300.0,
-      "totalCostWithoutVAT": 5887.1,
-      "objectDetailsList": [
-        {
-          "quantity": 0,
-          "type": {
-            "key": "LTR",
-            "value": "Λίτρο"
-          },
-          "costWithoutVAT": 5887.1,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΚΑΥΣΙΜΩΝ ΚΙΝΗΣΗΣ ΓΙΑ ΤΟΝ ΕΦΟΔΙΑΣΜΟ ΤΩΝ ΥΠΗΡΕΣΙΑΚΩΝ ΟΧΗΜΑΤΩΝ ΤΟΥ 1ου ΚΑΙ 2ου ΤΕΛΩΝΕΙΟΥ ΠΕΙΡΑΙΑ ΚΑΘΩΣ ΚΑΙ ΤΩΝ ΗΛΕΚΤΡΟΓΕΝΝΗΤΡΙΩΝ ΤΟΥ 1ου ΤΕΛΩΝΕΙΟΥ ΠΕΙΡΑΙΑ, ΓΙΑ  ΤΟ ΕΤΟΣ 2026",
-          "cpvs": [
-            {
-              "key": "09132100-4",
-              "value": "Αμόλυβδη βενζίνη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018368877",
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "09132100"
-      ],
-      "cpv_divisions": [
-        "09"
-      ],
-      "all_domains": [
-        "Energy & Fuels"
-      ],
-      "primary_domain": "Energy & Fuels"
-    },
-    {
-      "title": "ΑΠΟΦΑΣΗ 5/2026  ΓΙΑ ΕΤΗΣΙΑ ΠΡΟΜΗΘΕΙΑ ΚΑΥΣΙΜΩΝ  ΓΙΑ ΤΟ ΝΟΣΟΚΟΜΕΙΟ",
-      "referenceNumber": "26AWRD018473460",
-      "submissionDate": "2026-02-12T13:18:57.021",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-12",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1015.Ε00197.001",
-      "authorEmail": null,
-      "organizationVatNumber": "997136909",
-      "greekOrganizationVatNumber": false,
-      "budget": 27880,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "74809",
-          "value": "ΔΙΟΙΚΗΣΗ"
-        },
-        "signers": {
-          "key": "100097049",
-          "value": "ΝΙΚΟΛΑΟΣ ΦΑΝΙΟΣ - Διοικητής"
-        }
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "organization": {
-        "key": "99221882",
-        "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΚΕΝΤΡΟ ΥΓΕΙΑΣ ΚΩ ΙΠΠΟΚΡΑΤΕΙΟΝ"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL421",
-        "value": "Κάλυμνος, Κάρπαθος, Κως, Ρόδος"
-      },
-      "nutsCity": "ΚΩ",
-      "nutsPostalCode": "85300",
+      "nutsCity": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "nutsPostalCode": "54642",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -440,10 +95,10 @@
         "value": "ΝΠΔΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "6",
-        "value": "Υγεία"
+        "key": "10",
+        "value": "Πολιτισμός και θρησκεία"
       },
-      "contractDuration": 12,
+      "contractDuration": 1,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -451,12 +106,12 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "094138086",
+            "vatNumber": "064315717",
             "greekVatNumber": false,
-            "name": "ΑΡΓΩ ΑΕ",
+            "name": "Μότσιανος Ιωάννης",
             "nutsCode": {
-              "key": "EL421",
-              "value": "Κάλυμνος, Κάρπαθος, Κως, Ρόδος"
+              "key": "EL522",
+              "value": "Θεσσαλονίκη"
             },
             "installationCountry": {
               "key": "GR",
@@ -465,26 +120,26 @@
           }
         ]
       },
-      "totalCostWithVAT": 27880.0,
-      "totalCostWithoutVAT": 27880.0,
+      "totalCostWithVAT": 10000.0,
+      "totalCostWithoutVAT": 8064.52,
       "objectDetailsList": [
         {
-          "quantity": 17000,
+          "quantity": 8700,
           "type": {
             "key": "LTR",
             "value": "Λίτρο"
           },
-          "costWithoutVAT": 27880,
-          "vat": "0",
+          "costWithoutVAT": 8064.52,
+          "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΚΑΥΣΙΜΑ   (ΣΤΗΝ ΤΙΜΗ ΣΥΜΠΕΡΙΛΑΜΒΑΝΕΤΑΙ ΦΠΑ 24%  ΟΠΩΣ ΕΚΔΙΔΕΤΑΙ ΣΤΟ ΗΜΕΡΗΣΙΟ ΔΕΛΤΙΟ ΕΠΙΣΚΟΠΗΣΗΣ ΤΙΜΩΝ ΚΑΥΣΙΜΩΝ)",
+          "shortDescription": "Προμήθεια πετρελαίου θέρμανσης για τις ανάγκες του κεντρικού κτηρίου του Μουσείου για όλο το 2026.",
           "cpvs": [
             {
-              "key": "09100000-0",
-              "value": "Καύσιμα"
+              "key": "09135100-5",
+              "value": "Πετρέλαιο θέρμανσης"
             }
           ],
           "greenContracts": {
@@ -497,20 +152,14 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "approvedRequestsList": [
-        {
-          "code": "26REQ018400039"
-        }
-      ],
-      "noticeRefNo": null,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018423122",
       "amendsAuctionRefNo": [],
-      "contractRefNo": [
-        "26SYMV018473553"
-      ],
+      "contractRefNo": [],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "99221882",
-        "09100000"
+        "99221390",
+        "09135100"
       ],
       "cpv_divisions": [
         "09"
@@ -521,22 +170,22 @@
       "primary_domain": "Energy & Fuels"
     },
     {
-      "title": "Προμήθεια 9.000 λίτρων πετρελαίου θέρμανσης, για τις ανάγκες της ΑΣΠΑΙΤΕ",
-      "referenceNumber": "26AWRD018473183",
-      "submissionDate": "2026-02-12T13:00:08.763",
+      "title": "ΑΝΑΘΕΣΗ ΠΡΟΜΗΘΕΙΑΣ ΠΕΤΡΕΛΑΙΟΥ ΘΕΡΜΑΝΣΗΣ (Β ΔΙΑΔ) ΤΜ 4 ΟΦΥΠΕΚΑ 2026",
+      "referenceNumber": "26AWRD018481482",
+      "submissionDate": "2026-02-13T15:36:13.077",
       "lastUpdateDate": null,
-      "signedDate": "2026-02-12",
+      "signedDate": "2026-02-13",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1020.Ε00721.0001",
+      "aaht": "1031.E00768.0001",
       "authorEmail": null,
-      "organizationVatNumber": "090044306",
-      "greekOrganizationVatNumber": false,
-      "budget": 8012.9,
+      "organizationVatNumber": "099965892",
+      "greekOrganizationVatNumber": true,
+      "budget": 4580.65,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
@@ -556,21 +205,21 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100037571",
-          "value": "ΓΡΑΦΕΙΟ ΠΡΟΕΔΡΟΥ"
+          "key": "100069851",
+          "value": "ΤΜΗΜΑ ΠΡΟΜΗΘΕΙΩΝ"
         },
         "signers": {
-          "key": "100082794",
-          "value": "ΑΝΝΑ ΡΟΚΟΦΥΛΛΟΥ - Πρόεδρος Δ.Σ."
+          "key": "100061863",
+          "value": "Κωνσταντίνος Τριάντης - Διευθύνων Σύμβουλος"
         }
       },
       "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
+        "key": "12",
+        "value": "Διαπραγμάτευση χωρίς προηγούμενη δημοσίευση"
       },
       "organization": {
-        "key": "99203024",
-        "value": "ΙΔΡΥΜΑ ΝΕΟΛΑΙΑΣ ΚΑΙ ΔΙΑ ΒΙΟΥ ΜΑΘΗΣΗΣ"
+        "key": "100061036",
+        "value": "ΟΡΓΑΝΙΣΜΟΣ ΦΥΣΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΚΛΙΜΑΤΙΚΗΣ ΑΛΛΑΓΗΣ"
       },
       "contractType": {
         "key": "13",
@@ -580,13 +229,16 @@
         "key": "2",
         "value": "Βάσει τιμής"
       },
-      "awardProcedure": null,
+      "awardProcedure": {
+        "key": "56",
+        "value": "Άγονη διαδικασία ανάθεσης σύμβασης"
+      },
       "nutsCode": {
         "key": "EL303",
         "value": "Κεντρικός Τομέας Αθηνών"
       },
-      "nutsCity": "Αθήνα",
-      "nutsPostalCode": "11143",
+      "nutsCity": "ΑΘΗΝΑ",
+      "nutsPostalCode": "11525 ",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -613,179 +265,10 @@
         "value": "ΝΠΙΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
+        "key": "4",
+        "value": "Περιβάλλον"
       },
-      "contractDuration": 5,
-      "contractDurationUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "998323067",
-            "greekVatNumber": false,
-            "name": "ΑΘΗΝΑ ΔΙΟΝ. ΠΑΠΑΓΕΩΡΓΙΟΥ & ΣΙΑ Ε.Ε",
-            "nutsCode": {
-              "key": "EL303",
-              "value": "Κεντρικός Τομέας Αθηνών"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            }
-          }
-        ]
-      },
-      "totalCostWithVAT": 9810.09,
-      "totalCostWithoutVAT": 7911.36,
-      "objectDetailsList": [
-        {
-          "quantity": 9000,
-          "type": {
-            "key": "LTR",
-            "value": "Λίτρο"
-          },
-          "costWithoutVAT": 7911.36,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Έγκριση ανάθεσης για την «Προμήθεια 9.000 λίτρων πετρελαίου θέρμανσης, για τις ανάγκες της ΑΣΠΑΙΤΕ»",
-          "cpvs": [
-            {
-              "key": "09135100-5",
-              "value": "Πετρέλαιο θέρμανσης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018449364",
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [
-        "26SYMV018474511"
-      ],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "99203024",
-        "09135100"
-      ],
-      "cpv_divisions": [
-        "09"
-      ],
-      "all_domains": [
-        "Energy & Fuels"
-      ],
-      "primary_domain": "Energy & Fuels"
-    },
-    {
-      "title": "25.2026 Δ.Ε. ΕΓΚΡΙΣΗ ΠΡΑΚΤΙΚΟΥ ΠΡΟΜΗΘΕΙΑ ΠΕΤΡΕΛΑΙΟΥ ΘΕΡΜΑΝΣΗΣ Δ.Ε. ΜΟΥΡΕΣΙΟΥ",
-      "referenceNumber": "26AWRD018472596",
-      "submissionDate": "2026-02-12T12:25:16.012",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-12",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1007.Ε82403.0001",
-      "authorEmail": null,
-      "organizationVatNumber": "997898781 ",
-      "greekOrganizationVatNumber": false,
-      "budget": 14516.13,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 2,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "83401",
-          "value": "ΤΕΧΝΙΚΗ ΥΠΗΡΕΣΙΑ"
-        },
-        "signers": {
-          "key": "100085630",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΚΑΡΑΓΕΩΡΓΙΟΥ - Δήμαρχος"
-        }
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "organization": {
-        "key": "6098",
-        "value": "ΔΗΜΟΣ ΖΑΓΟΡΑΣ - ΜΟΥΡΕΣΙΟΥ"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL613",
-        "value": "Μαγνησία, Σποράδες"
-      },
-      "nutsCity": "ΖΑΓΟΡΑ",
-      "nutsPostalCode": "37001",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
-      },
-      "contractDuration": 2,
+      "contractDuration": 11,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -793,12 +276,12 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "043220531",
-            "greekVatNumber": false,
-            "name": "ΣΤΙΒΑΧΤΗ ΚΩΝ/ΝΟ του ΔΗΜΗΤΡΙΟΥ",
+            "vatNumber": "050446718",
+            "greekVatNumber": true,
+            "name": "ΚΑΡΑΓΚΙΑΒΟΥΡΙΔΗΣ ΧΑΡΑΛΑΜΠΟΣ",
             "nutsCode": {
-              "key": "EL613",
-              "value": "Μαγνησία, Σποράδες"
+              "key": "EL526",
+              "value": "Σέρρες"
             },
             "installationCountry": {
               "key": "GR",
@@ -807,48 +290,22 @@
           }
         ]
       },
-      "totalCostWithVAT": 18000.0,
-      "totalCostWithoutVAT": 14516.13,
+      "totalCostWithVAT": 5680.01,
+      "totalCostWithoutVAT": 4580.65,
       "objectDetailsList": [
         {
-          "quantity": 4277.16,
+          "quantity": 1,
           "type": {
             "key": "LTR",
             "value": "Λίτρο"
           },
-          "costWithoutVAT": 4032.26,
+          "costWithoutVAT": 4580.65,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΕΤΡΕΛΑΙΟ ΘΕΡΜΑΝΣΗΣ ΔΗΜΟΤΙΚΑ ΚΤΙΡΙΑ Δ.Ε. ΜΟΥΡΕΣΙΟΥ",
-          "cpvs": [
-            {
-              "key": "09135100-5",
-              "value": "Πετρέλαιο θέρμανσης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 11120.62,
-          "type": {
-            "key": "LTR",
-            "value": "Λίτρο"
-          },
-          "costWithoutVAT": 10483.87,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΕΤΡΕΛΑΙΟ ΘΕΡΜΑΝΣΗΣ ΣΧΟΛΙΚΑ ΚΤΙΡΙΑ Δ.Ε. ΜΟΥΡΕΣΙΟΥ",
+          "shortDescription": "Πολυετές αίτημα δαπάνης που αφορά την προμήθεια πετρελαίου θέρμανσης για τις ανάγκες των ΜΔΠΠ του ΟΦΥΠΕΚΑ έτος 2026 (ΤΜΗΜΑ 4)-ΜΔΠΠ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ-ΚΕΡΚΙΝΗ",
           "cpvs": [
             {
               "key": "09135100-5",
@@ -866,11 +323,9 @@
       "additionalContractTypes": null,
       "mixedContract": false,
       "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018457070",
+      "noticeRefNo": "26PROC018392455",
       "amendsAuctionRefNo": [],
-      "contractRefNo": [
-        "26SYMV018473729"
-      ],
+      "contractRefNo": [],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
         "09135100"
@@ -884,738 +339,22 @@
       "primary_domain": "Energy & Fuels"
     },
     {
-      "title": "T5 Προμήθεια καυσίμων για τα οχήματα και τις κτιριακές εγκαταστάσεις του ΟΑΚ Α.Ε. για το έτος 2026",
-      "referenceNumber": "26AWRD018472442",
-      "submissionDate": "2026-02-12T12:17:44.716",
+      "title": "Απόφαση Ανάθεσης για την Προμήθεια Πετρελαίου Κίνησης Χερσαίων Μέσων",
+      "referenceNumber": "26AWRD018481173",
+      "submissionDate": "2026-02-13T14:51:07.506",
       "lastUpdateDate": null,
-      "signedDate": "2026-02-12",
+      "signedDate": "2026-02-13",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1039.Ε00874.0001",
+      "aaht": "1041.202.9900807.001",
       "authorEmail": null,
-      "organizationVatNumber": "997321341",
+      "organizationVatNumber": "997881842",
       "greekOrganizationVatNumber": false,
-      "budget": 49500,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "94540",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "100058680",
-          "value": "ΑΡΙΣΤΕΙΔΗΣ ΠΑΠΑΔΟΓΙΑΝΝΗΣ - Διευθύνων Σύμβουλος"
-        }
-      },
-      "procedureType": {
-        "key": "12",
-        "value": "Διαπραγμάτευση χωρίς προηγούμενη δημοσίευση"
-      },
-      "organization": {
-        "key": "55291",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΑΝΑΠΤΥΞΗΣ ΚΡΗΤΗΣ Α.Ε"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "awardProcedure": {
-        "key": "56",
-        "value": "Άγονη διαδικασία ανάθεσης σύμβασης"
-      },
-      "nutsCode": {
-        "key": "EL434",
-        "value": "Χανιά"
-      },
-      "nutsCity": "ΧΑΝΙΑ",
-      "nutsPostalCode": "73100",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
-      },
-      "contractDuration": 11,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "802653334",
-            "greekVatNumber": false,
-            "name": "ΕΝΒΙΡΟΛ ΚΑΥΣΙΜΑ ΚΡΗΤΗΣ Α.Ε",
-            "nutsCode": {
-              "key": "EL431",
-              "value": "Ηράκλειο"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            }
-          }
-        ]
-      },
-      "totalCostWithVAT": 61380.0,
-      "totalCostWithoutVAT": 49500.0,
-      "objectDetailsList": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 49500,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": " «Προμήθεια καυσίμων για τα οχήματα και τις κτιριακές εγκαταστάσεις του ΟΑΚ Α.Ε. για το έτος 2026» Τμημα 5",
-          "cpvs": [
-            {
-              "key": "09134100-8",
-              "value": "Πετρέλαιο ντίζελ"
-            },
-            {
-              "key": "09135100-5",
-              "value": "Πετρέλαιο θέρμανσης"
-            },
-            {
-              "key": "09132100-4",
-              "value": "Αμόλυβδη βενζίνη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018364405",
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "09134100",
-        "09135100",
-        "09132100"
-      ],
-      "cpv_divisions": [
-        "09"
-      ],
-      "all_domains": [
-        "Energy & Fuels"
-      ],
-      "primary_domain": "Energy & Fuels"
-    },
-    {
-      "title": "T4 Προμήθεια καυσίμων για τα οχήματα και τις κτιριακές εγκαταστάσεις του ΟΑΚ Α.Ε. για το έτος 2026",
-      "referenceNumber": "26AWRD018472268",
-      "submissionDate": "2026-02-12T12:09:52.588",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-12",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1039.Ε00874.0001",
-      "authorEmail": null,
-      "organizationVatNumber": "997321341",
-      "greekOrganizationVatNumber": false,
-      "budget": 12000,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "94540",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "100058680",
-          "value": "ΑΡΙΣΤΕΙΔΗΣ ΠΑΠΑΔΟΓΙΑΝΝΗΣ - Διευθύνων Σύμβουλος"
-        }
-      },
-      "procedureType": {
-        "key": "12",
-        "value": "Διαπραγμάτευση χωρίς προηγούμενη δημοσίευση"
-      },
-      "organization": {
-        "key": "55291",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΑΝΑΠΤΥΞΗΣ ΚΡΗΤΗΣ Α.Ε"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "awardProcedure": {
-        "key": "56",
-        "value": "Άγονη διαδικασία ανάθεσης σύμβασης"
-      },
-      "nutsCode": {
-        "key": "EL434",
-        "value": "Χανιά"
-      },
-      "nutsCity": "ΧΑΝΙΑ",
-      "nutsPostalCode": "73100",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
-      },
-      "contractDuration": 11,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "802653334",
-            "greekVatNumber": false,
-            "name": "«ΕΝΒΙΡΟΛ ΚΑΥΣΙΜΑ ΚΡΗΤΗΣ Α.Ε",
-            "nutsCode": {
-              "key": "EL431",
-              "value": "Ηράκλειο"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            }
-          }
-        ]
-      },
-      "totalCostWithVAT": 14880.0,
-      "totalCostWithoutVAT": 12000.0,
-      "objectDetailsList": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 12000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": " «Προμήθεια καυσίμων για τα οχήματα και τις κτιριακές εγκαταστάσεις του ΟΑΚ Α.Ε. για το έτος 2026» Τμημα 4",
-          "cpvs": [
-            {
-              "key": "09135100-5",
-              "value": "Πετρέλαιο θέρμανσης"
-            },
-            {
-              "key": "09134100-8",
-              "value": "Πετρέλαιο ντίζελ"
-            },
-            {
-              "key": "09132100-4",
-              "value": "Αμόλυβδη βενζίνη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018364405",
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "09135100",
-        "09134100",
-        "09132100"
-      ],
-      "cpv_divisions": [
-        "09"
-      ],
-      "all_domains": [
-        "Energy & Fuels"
-      ],
-      "primary_domain": "Energy & Fuels"
-    },
-    {
-      "title": "T3 Προμήθεια καυσίμων για τα οχήματα και τις κτιριακές εγκαταστάσεις του ΟΑΚ Α.Ε. για το έτος 2026",
-      "referenceNumber": "26AWRD018472170",
-      "submissionDate": "2026-02-12T12:05:38.053",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-12",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1039.Ε00874.0001",
-      "authorEmail": null,
-      "organizationVatNumber": "997321341",
-      "greekOrganizationVatNumber": false,
-      "budget": 11000,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "94540",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "100058680",
-          "value": "ΑΡΙΣΤΕΙΔΗΣ ΠΑΠΑΔΟΓΙΑΝΝΗΣ - Διευθύνων Σύμβουλος"
-        }
-      },
-      "procedureType": {
-        "key": "12",
-        "value": "Διαπραγμάτευση χωρίς προηγούμενη δημοσίευση"
-      },
-      "organization": {
-        "key": "55291",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΑΝΑΠΤΥΞΗΣ ΚΡΗΤΗΣ Α.Ε"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "awardProcedure": {
-        "key": "56",
-        "value": "Άγονη διαδικασία ανάθεσης σύμβασης"
-      },
-      "nutsCode": {
-        "key": "EL434",
-        "value": "Χανιά"
-      },
-      "nutsCity": "ΧΑΝΙΑ",
-      "nutsPostalCode": "73100",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
-      },
-      "contractDuration": 11,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "801223601",
-            "greekVatNumber": false,
-            "name": "ΚΑΛΑΜΠΟΚΑΝΑ Σ & ΣΙΑ ΟΕ",
-            "nutsCode": {
-              "key": "EL433",
-              "value": "Ρέθυμνο"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            }
-          }
-        ]
-      },
-      "totalCostWithVAT": 13640.0,
-      "totalCostWithoutVAT": 11000.0,
-      "objectDetailsList": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 11000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": " «Προμήθεια καυσίμων για τα οχήματα και τις κτιριακές εγκαταστάσεις του ΟΑΚ Α.Ε. για το έτος 2026» Τμημα 3",
-          "cpvs": [
-            {
-              "key": "09134100-8",
-              "value": "Πετρέλαιο ντίζελ"
-            },
-            {
-              "key": "09135100-5",
-              "value": "Πετρέλαιο θέρμανσης"
-            },
-            {
-              "key": "09132100-4",
-              "value": "Αμόλυβδη βενζίνη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018364405",
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "09134100",
-        "09135100",
-        "09132100"
-      ],
-      "cpv_divisions": [
-        "09"
-      ],
-      "all_domains": [
-        "Energy & Fuels"
-      ],
-      "primary_domain": "Energy & Fuels"
-    },
-    {
-      "title": "T2 Προμήθεια καυσίμων για τα οχήματα και τις κτιριακές εγκαταστάσεις του ΟΑΚ Α.Ε. για το έτος 2026",
-      "referenceNumber": "26AWRD018472044",
-      "submissionDate": "2026-02-12T12:00:46.784",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-12",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1039.Ε00874.0001",
-      "authorEmail": null,
-      "organizationVatNumber": "997321341",
-      "greekOrganizationVatNumber": false,
-      "budget": 11000,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "94540",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "100058680",
-          "value": "ΑΡΙΣΤΕΙΔΗΣ ΠΑΠΑΔΟΓΙΑΝΝΗΣ - Διευθύνων Σύμβουλος"
-        }
-      },
-      "procedureType": {
-        "key": "12",
-        "value": "Διαπραγμάτευση χωρίς προηγούμενη δημοσίευση"
-      },
-      "organization": {
-        "key": "55291",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΑΝΑΠΤΥΞΗΣ ΚΡΗΤΗΣ Α.Ε"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "awardProcedure": {
-        "key": "56",
-        "value": "Άγονη διαδικασία ανάθεσης σύμβασης"
-      },
-      "nutsCode": {
-        "key": "EL434",
-        "value": "Χανιά"
-      },
-      "nutsCity": "ΧΑΝΙΑ",
-      "nutsPostalCode": "73100",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
-      },
-      "contractDuration": 11,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "113163327",
-            "greekVatNumber": false,
-            "name": "ΚΟΥΚΛΙΝΟΣ ΝΙΚΟΛΑΟΣ",
-            "nutsCode": {
-              "key": "EL434",
-              "value": "Χανιά"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            }
-          }
-        ]
-      },
-      "totalCostWithVAT": 13640.0,
-      "totalCostWithoutVAT": 11000.0,
-      "objectDetailsList": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 11000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": " «Προμήθεια καυσίμων για τα οχήματα και τις κτιριακές εγκαταστάσεις του ΟΑΚ Α.Ε. για το έτος 2026» Τμημα 2",
-          "cpvs": [
-            {
-              "key": "09132100-4",
-              "value": "Αμόλυβδη βενζίνη"
-            },
-            {
-              "key": "09134100-8",
-              "value": "Πετρέλαιο ντίζελ"
-            },
-            {
-              "key": "09135100-5",
-              "value": "Πετρέλαιο θέρμανσης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018364405",
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "09132100",
-        "09134100",
-        "09135100"
-      ],
-      "cpv_divisions": [
-        "09"
-      ],
-      "all_domains": [
-        "Energy & Fuels"
-      ],
-      "primary_domain": "Energy & Fuels"
-    },
-    {
-      "title": "\"ΑΠΟΦΑΣΗ ΚΑΤΑΚΥΡΩΣΗΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΕΛΑΙΟΛΙΠΑΝΤΙΚΩΝ Κ.Α. ΓΙΑ ΤΗΝ ΔΙΕΥΘ. ΑΜ. ΔΡΑΣΗΣ ΑΤΤΙΚΗΣ.\"",
-      "referenceNumber": "26AWRD018471846",
-      "submissionDate": "2026-02-12T11:51:06.285",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-11",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1057.2010800900.0001",
-      "authorEmail": null,
-      "organizationVatNumber": "090169846",
-      "greekOrganizationVatNumber": true,
-      "budget": 6614.19,
+      "budget": 3850,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
@@ -1635,12 +374,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "70924",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΑΜΕΣΗΣ ΔΡΑΣΗΣ ΑΤΤΙΚΗΣ"
+          "key": "90615",
+          "value": "ΛΙΜΕΝΙΚΗ ΑΡΧΗ ΚΑΡΠΑΘΟΥ"
         },
         "signers": {
-          "key": "100074400",
-          "value": "ΓΕΩΡΓΙΟΣ ΜΙΧΑΗΛΙΔΗΣ - Διευθυντής"
+          "key": "100045254",
+          "value": "ΙΩΑΝΝΗΣ ΘΩΜΑΣ - Λιμενάρχης"
         }
       },
       "procedureType": {
@@ -1648,8 +387,8 @@
         "value": "Απευθείας ανάθεση"
       },
       "organization": {
-        "key": "100054489",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ"
+        "key": "100015969",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ"
       },
       "contractType": {
         "key": "13",
@@ -1661,11 +400,11 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL421",
+        "value": "Κάλυμνος, Κάρπαθος, Κως, Ρόδος"
       },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "11521",
+      "nutsCity": "Πηγάδια Καρπάθου",
+      "nutsPostalCode": "85700",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -1695,7 +434,7 @@
         "key": "3",
         "value": "Δημόσια τάξη και ασφάλεια"
       },
-      "contractDuration": 1,
+      "contractDuration": 11,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -1703,12 +442,12 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "800637338",
+            "vatNumber": "800687840",
             "greekVatNumber": true,
-            "name": "ΙΑΤΡΙΔΗΣ ΣΙΦΗΣ ΚΑΙ ΣΙΑ Ε.Ε.",
+            "name": "Ε Ι ΧΑΤΖΗΜΑΝΩΛΗΣ ΠΡΑΤΗΡΙΑ ΚΑΥΣΙΜΩΝ ΒΥΤΙΟΦΟΡΑ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
             "nutsCode": {
-              "key": "EL61",
-              "value": "Θεσσαλία"
+              "key": "EL",
+              "value": "ΕΛΛΑΔΑ"
             },
             "installationCountry": {
               "key": "GR",
@@ -1717,26 +456,26 @@
           }
         ]
       },
-      "totalCostWithVAT": 8201.6,
-      "totalCostWithoutVAT": 6614.19,
+      "totalCostWithVAT": 3850.0,
+      "totalCostWithoutVAT": 3290.6,
       "objectDetailsList": [
         {
-          "quantity": 1750,
+          "quantity": 2200,
           "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
+            "key": "LTR",
+            "value": "Λίτρο"
           },
-          "costWithoutVAT": 6614.19,
-          "vat": "24",
+          "costWithoutVAT": 3290.6,
+          "vat": "17",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "«Κατακύρωση των αποτελεσμάτων της απ’ ευθείας ανάθεσης προς ανάδειξη μειοδότη, για την προμήθεια ελαιολιπαντικών και λοιπών ειδών συντήρησης και επισκευής μεταφορικών μέσων ξηράς, προς κάλυψη αναγκών της Δ/νσης Άμεσης Δράσης Αττικής, ποσού 8.201,60 €».",
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΠΕΤΡΕΛΑΙΟΥ ΚΙΝΗΣΗΣ ΓΙΑ ΧΕΡΣΑΙΑ ΜΕΣΑ Λ/Χ ΚΑΡΠΑΘΟΥ ΠΟΛΣ-3454 ΚΑΙ ΠΟΛΣ 5954",
           "cpvs": [
             {
-              "key": "09211000-1",
-              "value": "Λιπαντικά έλαια και λιπαντικά μέσα"
+              "key": "09134100-8",
+              "value": "Πετρέλαιο ντίζελ"
             }
           ],
           "greenContracts": {
@@ -1750,12 +489,12 @@
       "additionalContractTypes": null,
       "mixedContract": false,
       "approvedRequestsList": [],
-      "noticeRefNo": null,
+      "noticeRefNo": "26PROC018398956",
       "amendsAuctionRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "09211000"
+        "09134100"
       ],
       "cpv_divisions": [
         "09"
@@ -1766,22 +505,188 @@
       "primary_domain": "Energy & Fuels"
     },
     {
-      "title": "Α.Γ.Δ. 2.26 ΠΡΟΜΗΘΕΙΑ ΛΙΠΑΝΤΙΚΩΝ ΓΙΑ ΤΗΣ ΑΝΑΓΚΕΣ ΤΗΣ ΔΕΥΑ ΠΑΤΡΑΣ",
-      "referenceNumber": "26AWRD018470999",
-      "submissionDate": "2026-02-12T11:07:12.309",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-12",
+      "title": "Απόφαση Ανάθεσης για την Προμήθεια Πετρελαίου Κίνησης Πλωτών Σκαφών",
+      "referenceNumber": "26AWRD018481070",
+      "submissionDate": "2026-02-13T14:41:41.443",
+      "lastUpdateDate": "2026-02-13",
+      "signedDate": "2026-02-13",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1007.F00802.0001",
+      "aaht": "1041.202.9900807.001",
       "authorEmail": null,
-      "organizationVatNumber": "997992818",
+      "organizationVatNumber": "997881842",
       "greekOrganizationVatNumber": false,
-      "budget": 6810,
+      "budget": 12463,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "90615",
+          "value": "ΛΙΜΕΝΙΚΗ ΑΡΧΗ ΚΑΡΠΑΘΟΥ"
+        },
+        "signers": {
+          "key": "100045254",
+          "value": "ΙΩΑΝΝΗΣ ΘΩΜΑΣ - Λιμενάρχης"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "100015969",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL421",
+        "value": "Κάλυμνος, Κάρπαθος, Κως, Ρόδος"
+      },
+      "nutsCity": "Κάρπαθος Πηγάδια",
+      "nutsPostalCode": "85700",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "3",
+        "value": "Δημόσια τάξη και ασφάλεια"
+      },
+      "contractDuration": 11,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "800687840",
+            "greekVatNumber": false,
+            "name": "Ε Ι ΧΑΤΖΗΜΑΝΩΛΗΣ ΠΡΑΤΗΡΙΑ ΚΑΥΣΙΜΩΝ ΒΥΤΙΟΦΟΡΑ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+            "nutsCode": {
+              "key": "EL",
+              "value": "ΕΛΛΑΔΑ"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 12463.0,
+      "totalCostWithoutVAT": 12463.0,
+      "objectDetailsList": [
+        {
+          "quantity": 8308,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 12463,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΠΕΤΡΕΛΑΙΟΥ ΚΙΝΗΣΗΣ ΓΙΑ ΠΛΩΤΑ ΜΕΣΑ Λ/Χ ΚΑΡΠΑΘΟΥ (Ν/Γ 515) ΚΑΙ Λ/Σ ΚΑΣΟΥ (ΠΛΣ 1115) ΥΠΑΓΩΓΗΣ ΜΑΣ",
+          "cpvs": [
+            {
+              "key": "09134100-8",
+              "value": "Πετρέλαιο ντίζελ"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018405319",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "09134100"
+      ],
+      "cpv_divisions": [
+        "09"
+      ],
+      "all_domains": [
+        "Energy & Fuels"
+      ],
+      "primary_domain": "Energy & Fuels"
+    },
+    {
+      "title": "«ΤΑΥΡΟΛΙΔΙΝΗΣ ΔΙΑΛΥΜΑ 2ο/ο 3ML»(209135)",
+      "referenceNumber": "26AWRD018480423",
+      "submissionDate": "2026-02-13T13:57:41.918",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-11",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1015.Ε00171.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "999233397",
+      "greekOrganizationVatNumber": true,
+      "budget": 3900,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
@@ -1801,12 +706,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "80551",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΗ"
+          "key": "75436",
+          "value": "TMHMA ΠΡΟΜΗΘΕΙΩN"
         },
         "signers": {
-          "key": "100014045",
-          "value": "ΓΕΩΡΓΙΟΣ ΜΑΣΤΡΑΝΤΩΝΑΚΗΣ - Γενικός Διευθυντής"
+          "key": "100056403",
+          "value": "ΣΑΡΑΝΤΟΣ ΕΥΣΤΑΘΟΠΟΥΛΟΣ - Διοικητής"
         }
       },
       "procedureType": {
@@ -1814,8 +719,8 @@
         "value": "Απευθείας ανάθεση"
       },
       "organization": {
-        "key": "50652",
-        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΠΑΤΡΑΣ ΔΕΥΑΠ"
+        "key": "99221995",
+        "value": "ΠΕΡ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΑΝΤΙΚΑΡΚΙΝΙΚΟ 'ΜΕΤΑΞΑ'"
       },
       "contractType": {
         "key": "13",
@@ -1827,11 +732,11 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL632",
-        "value": "Αχαΐα"
+        "key": "EL307",
+        "value": "Πειραιάς, Νήσοι"
       },
-      "nutsCity": "ΠΑΤΡΑ",
-      "nutsPostalCode": "26332",
+      "nutsCity": "ΠΕΙΡΑΙΑΣ",
+      "nutsPostalCode": "18537",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -1845,21 +750,21 @@
         }
       ],
       "legalContext": {
-        "key": "7",
-        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
       },
       "centralizedTypes": null,
       "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
+        "key": "9",
+        "value": "ΝΠΔΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
+        "key": "6",
+        "value": "Υγεία"
       },
       "contractDuration": 2,
       "contractDurationUnitOfMeasure": {
@@ -1869,12 +774,12 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "045503981",
-            "greekVatNumber": false,
-            "name": "ΕΥΘΥΜΙΟΥ ΘΕΟΔΩΡΟΣ / ΠΑΡΑΓΩΓΗ ΛΙΠΑΝΤΙΚΩΝ",
+            "vatNumber": "998871428",
+            "greekVatNumber": true,
+            "name": "MEDELLA AEBE",
             "nutsCode": {
-              "key": "EL51",
-              "value": "Aνατολική Μακεδονία, Θράκη"
+              "key": "EL3",
+              "value": "ATTIKΗ"
             },
             "installationCountry": {
               "key": "GR",
@@ -1883,34 +788,26 @@
           }
         ]
       },
-      "totalCostWithVAT": 3803.58,
-      "totalCostWithoutVAT": 3067.4,
+      "totalCostWithVAT": 4407.0,
+      "totalCostWithoutVAT": 3900.0,
       "objectDetailsList": [
         {
-          "quantity": 2760,
+          "quantity": 300,
           "type": {
-            "key": "LTR",
-            "value": "Λίτρο"
+            "key": "C62",
+            "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 3067.4,
-          "vat": "24",
+          "costWithoutVAT": 3900,
+          "vat": "13",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΛΙΠΑΝΤΙΚΩΝ -ADBLUE- ΑΝΤΙΨΥΚΤΙΚΟΥ ΥΓΡΟΥ ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΤΩΝ ΟΧΗΜΑΤΩΝ ΤΗΣ ΔΕΥΑΠ",
+          "shortDescription": "προμηθεια «ΤΑΥΡΟΛΙΔΙΝΗΣ ΔΙΑΛΥΜΑ 2ο/ο 3ML»(209135)",
           "cpvs": [
             {
-              "key": "24951311-8",
-              "value": "Αντιψυκτικά παρασκευάσματα"
-            },
-            {
-              "key": "09211000-1",
-              "value": "Λιπαντικά έλαια και λιπαντικά μέσα"
-            },
-            {
-              "key": "09211630-6",
-              "value": "Αντιδιαβρωτικά έλαια"
+              "key": "09344000-2",
+              "value": "Ραδιοϊσότοπα"
             }
           ],
           "greenContracts": {
@@ -1924,42 +821,376 @@
       "additionalContractTypes": null,
       "mixedContract": false,
       "approvedRequestsList": [],
-      "noticeRefNo": "25PROC018238765",
+      "noticeRefNo": "26PROC018425000",
       "amendsAuctionRefNo": [],
-      "contractRefNo": [],
+      "contractRefNo": [
+        "26SYMV018480453"
+      ],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "24951311",
-        "09211000",
-        "09211630"
+        "99221995",
+        "09344000"
       ],
       "cpv_divisions": [
-        "24",
         "09"
       ],
       "all_domains": [
-        "Chemicals",
         "Energy & Fuels"
       ],
       "primary_domain": "Energy & Fuels"
     },
     {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΠΕΤΡΕΛΑΙΟΥ ΘΕΡΜΑΝΣΗΣ",
-      "referenceNumber": "26AWRD018470040",
-      "submissionDate": "2026-02-12T10:16:36.028",
+      "title": "ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΠΕΤΡΕΛΑΙΟΥ ΘΕΡΜΑΝΣΗΣ ΓΙΑ ΤΟ ΤΕΛΩΝΕΙΟ ΚΑΒΑΛΑΣ ",
+      "referenceNumber": "26AWRD018479581",
+      "submissionDate": "2026-02-13T13:06:50.544",
       "lastUpdateDate": null,
-      "signedDate": "2026-02-12",
+      "signedDate": "2026-02-13",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1017.0000000000.0166",
+      "aaht": "1024.801432400.0002",
       "authorEmail": null,
-      "organizationVatNumber": "090169674",
-      "greekOrganizationVatNumber": true,
-      "budget": 5608,
+      "organizationVatNumber": "997073525",
+      "greekOrganizationVatNumber": false,
+      "budget": 2500,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100029633",
+          "value": "ΤΕΛΩΝΕΙΟ ΚΑΒΑΛΑΣ"
+        },
+        "signers": {
+          "key": "100030700",
+          "value": "ΒΑΣΙΛΙΚΗ ΚΑΡΑΒΑΣΙΛΗ - Προϊστάμενος Διεύθυνσης"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "100029495",
+        "value": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "criteriaCode": {
+        "key": "4",
+        "value": "Βάσει κόστους – άλλο"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL515",
+        "value": "Θάσος, Καβάλα"
+      },
+      "nutsCity": "ΚΑΒΑΛΑ",
+      "nutsPostalCode": "65201",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
+      },
+      "contractDuration": 10,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "091351642",
+            "greekVatNumber": false,
+            "name": "ΑΦΟΙ ΜΠΟΥΜΠΟΥΝΑ ΟΕ ",
+            "nutsCode": {
+              "key": "EL515",
+              "value": "Θάσος, Καβάλα"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 3100.0,
+      "totalCostWithoutVAT": 2500.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 2500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΚΑΥΣΙΜΩΝ ΘΕΡΜΑΝΣΗΣ ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΤΟΥ ΤΕΛΩΝΕΙΟΥ ΚΑΒΑΛΑΣ -ΑΛΕ  2410302001- ΕΙΔ. ΦΟΡΕΑΣ  1024-801-04324-00 ",
+          "cpvs": [
+            {
+              "key": "09135100-5",
+              "value": "Πετρέλαιο θέρμανσης"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018473837",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "09135100"
+      ],
+      "cpv_divisions": [
+        "09"
+      ],
+      "all_domains": [
+        "Energy & Fuels"
+      ],
+      "primary_domain": "Energy & Fuels"
+    },
+    {
+      "title": "ΥΠ΄ΑΡΙΘ. 77 ΑΠΟΦΑΣΗ Δ.Σ ΑΞΙΟΛΟΓΗΣΗΣ ΔΙΚΑΙΟΛΟΓΗΤΙΚΩΝ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΚΑΥΣΙΜΩΝ",
+      "referenceNumber": "26AWRD018479545",
+      "submissionDate": "2026-02-13T13:05:09.815",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-13",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1015.Ε00260.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "999227410",
+      "greekOrganizationVatNumber": false,
+      "budget": 30000,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "72796",
+          "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΚΟΜΟΤΗΝΗΣ ¨ΣΙΣΜΑΝΟΓΛΕΙΟ¨"
+        },
+        "signers": {
+          "key": "100099606",
+          "value": "ΕΛΕΝΗ ΡΟΦΑΕΛΑ - Διοικητής"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "99221921",
+        "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΚΟΜΟΤΗΝΗΣ"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL513",
+        "value": "Ροδόπη"
+      },
+      "nutsCity": "ΚΟΜΟΤΗΝΗ",
+      "nutsPostalCode": "69100",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "6",
+        "value": "Υγεία"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "999228615",
+            "greekVatNumber": false,
+            "name": "ΤΖΑΜΠΑΖΛΗΣ ΓΕΩΡΓΙΟΣ Α.Ε.",
+            "nutsCode": {
+              "key": "EL513",
+              "value": "Ροδόπη"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 37200.0,
+      "totalCostWithoutVAT": 30000.0,
+      "objectDetailsList": [
+        {
+          "quantity": 24855,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 30000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΥΠ΄ΑΡΙΘ. 77 ΑΠΟΦΑΣΗ Δ.Σ ΑΞΙΟΛΟΓΗΣΗΣ ΔΙΚΑΙΟΛΟΓΗΤΙΚΩΝ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΚΑΥΣΙΜΩΝ",
+          "cpvs": [
+            {
+              "key": "09134100-8",
+              "value": "Πετρέλαιο ντίζελ"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018443712",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [
+        "26SYMV018479987"
+      ],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "99221921",
+        "09134100"
+      ],
+      "cpv_divisions": [
+        "09"
+      ],
+      "all_domains": [
+        "Energy & Fuels"
+      ],
+      "primary_domain": "Energy & Fuels"
+    },
+    {
+      "title": "Ανάθεση υπηρεσιών για την παροχή ιατρικών υπηρεσιών  ΕΟΑΚ ",
+      "referenceNumber": "26AWRD018479475",
+      "submissionDate": "2026-02-13T13:01:08.079",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-13",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1020.F01075.0001 ",
+      "authorEmail": null,
+      "organizationVatNumber": "09010991",
+      "greekOrganizationVatNumber": false,
+      "budget": 2400,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
@@ -1979,12 +1210,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "75329",
-          "value": "ΠΡΩΤΟΔΙΚΕΙΟ ΞΑΝΘΗΣ"
+          "key": "100000930",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
         },
         "signers": {
-          "key": "100078448",
-          "value": "Αδαμαντία Κρόκου - Πρόεδρος"
+          "key": "100101436",
+          "value": "ΒΑΣΙΛΕΙΟΣ ΚΟΣΚΟΡΗΣ - Πρόεδρος Δ.Σ."
         }
       },
       "procedureType": {
@@ -1992,8 +1223,347 @@
         "value": "Απευθείας ανάθεση"
       },
       "organization": {
-        "key": "3426",
-        "value": "ΠΡΩΤΟΔΙΚΕΙΟ ΞΑΝΘΗΣ"
+        "key": "99221267",
+        "value": "ΕΛΛΗΝΙΚΗ ΟΜΟΣΠΟΝΔΙΑ ΑΘΛΗΤΙΣΜΟΥ ΚΩΦΩΝ (Ε.Ο.Α.Κ.)"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "1",
+        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
+      },
+      "nutsCity": "Μαρουσι",
+      "nutsPostalCode": "15123",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "4",
+        "value": "Έτη"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "115138627",
+            "greekVatNumber": false,
+            "name": "ΛΕΜΟΝΗΣ ΑΝΤΩΝΙΟΣ ",
+            "nutsCode": {
+              "key": "EL",
+              "value": "ΕΛΛΑΔΑ"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 2976.0,
+      "totalCostWithoutVAT": 2400.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 2400,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ιατρικές Υπηρεσίες έτους 2026",
+          "cpvs": [
+            {
+              "key": "85121100-4",
+              "value": "Ιατρικές υπηρεσίες παρεχόμενες από γιατρούς γενικής ιατρικής"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018433677",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "09010991",
+        "99221267",
+        "85121100"
+      ],
+      "cpv_divisions": [
+        "09",
+        "85"
+      ],
+      "all_domains": [
+        "Energy & Fuels",
+        "Health & Social Work Services"
+      ],
+      "primary_domain": "Health & Social Work Services"
+    },
+    {
+      "title": "ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΤΗΣ ΕΠΙΤΡΟΠΗΣ ΕΠΙΣΚΕΥΗΣ ΚΑΙ ΣΥΝΤΗΡΗΣΗΣ ΟΧΗΜΑΤΩΝ – ΜΗΧΑΝΗΜΑΤΩΝ ΚΗΟ 5112",
+      "referenceNumber": "26AWRD018479283",
+      "submissionDate": "2026-02-13T12:49:58.649",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-12",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.Ε84706.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "090137535",
+      "greekOrganizationVatNumber": false,
+      "budget": 1910,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100043938",
+          "value": "ΕΠΙΤΡΟΠΗ ΕΠΙΣΚΕΥΗΣ ΚΑΙ ΣΥΝΤΗΡΗΣΗΣ ΟΧΗΜΑΤΩΝ ΚΑΙ ΜΗΧΑΝΗΜΑΤΩΝ"
+        },
+        "signers": {
+          "key": "100087227",
+          "value": "ΒΑΣΙΛΕΙΟΣ ΑΡΩΝΙΑΔΑΣ - Πρόεδρος"
+        }
+      },
+      "procedureType": {
+        "key": "18",
+        "value": "Διαδικασία άρθρου 128 του ν.4412/16"
+      },
+      "organization": {
+        "key": "6248",
+        "value": "ΔΗΜΟΣ ΠΕΤΡΟΥΠΟΛΗΣ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL302",
+        "value": "Δυτικός Τομέας Αθηνών"
+      },
+      "nutsCity": "ΠΕΤΡΟΥΠΟΛΗ",
+      "nutsPostalCode": "132 32",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "5",
+        "value": "Οικονομικές και δημοσιονομικές υποθέσεις"
+      },
+      "contractDuration": 3,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "09141848",
+            "greekVatNumber": false,
+            "name": "ΚΑΞΕΚΩ",
+            "nutsCode": {
+              "key": "EL3",
+              "value": "ATTIKΗ"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 2368.4,
+      "totalCostWithoutVAT": 1910.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1910,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Συντήρηση και επισκευή μεταφορικών μέσων, (Α.Λ.Ε.: (010.2420302.002, 020.2420302.003, 030.2420302.001 & 035.2420302.001)",
+          "cpvs": [
+            {
+              "key": "50200000-7",
+              "value": "Επισκευή"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018471149",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "09141848",
+        "50200000"
+      ],
+      "cpv_divisions": [
+        "09",
+        "50"
+      ],
+      "all_domains": [
+        "Energy & Fuels",
+        "Repair & Maintenance"
+      ],
+      "primary_domain": "Energy & Fuels"
+    },
+    {
+      "title": "ΠΡΟΜΗΘΕΙΑ ΚΑΥΣΙΜΩΝ & ΕΛΑΙΟΛΙΠΑΝΤΙΚΩΝ 2025-2026 ΔΗΜΟΥ ΑΡΓΟΣΤΟΛΙΟΥ ΚΑΙ ΤΩΝ ΝΟΜΙΚΩΝ ΠΡΟΣΩΠΩΝ",
+      "referenceNumber": "26AWRD018479046",
+      "submissionDate": "2026-02-13T12:35:18.718",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-13",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.Ε87411.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "997627133",
+      "greekOrganizationVatNumber": true,
+      "budget": 361984.1,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 9,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100086171",
+          "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΤΡΟΠΗ"
+        },
+        "signers": {
+          "key": "100049152",
+          "value": "ΘΕΟΦΙΛΟΣ ΜΙΧΑΛΑΤΟΣ - Δήμαρχος"
+        }
+      },
+      "procedureType": {
+        "key": "1",
+        "value": "Ανοιχτή διαδικασία"
+      },
+      "organization": {
+        "key": "100049102",
+        "value": "ΔΗΜΟΣ ΑΡΓΟΣΤΟΛΙΟΥ"
       },
       "contractType": {
         "key": "13",
@@ -2005,8 +1575,1611 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL51",
-        "value": "Aνατολική Μακεδονία, Θράκη"
+        "key": "EL623",
+        "value": "Ιθάκη, Κεφαλληνία"
+      },
+      "nutsCity": "ΑΡΓΟΣΤΟΛΙ",
+      "nutsPostalCode": "28100",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "4",
+            "value": "Ηλεκτρονικός Πλειστηριασμός"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "4",
+        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 12,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "801089223",
+            "greekVatNumber": true,
+            "name": "ΑΦΟΙ ΓΑΛΙΑΤΣΑΤΟΥ ΟΕ",
+            "nutsCode": {
+              "key": "EL623",
+              "value": "Ιθάκη, Κεφαλληνία"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 448860.28,
+      "totalCostWithoutVAT": 361984.1,
+      "objectDetailsList": [
+        {
+          "quantity": 140507,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 178303.38,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πετρέλαιο Κίνησης Δ.Ε. ΑΡΓΟΣΤΟΛΙΟΥ/ΛΕΙΒΑΘΟΥΣ/ΟΜΑΛΩΝ",
+          "cpvs": [
+            {
+              "key": "09134100-8",
+              "value": "Πετρέλαιο ντίζελ"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 17570,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 25810.33,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Βενζίνη Αμόλυβδη Δ.Ε. ΑΡΓΟΣΤΟΛΙΟΥ/ΛΕΙΒΑΘΟΥΣ/ΟΜΑΛΩΝ",
+          "cpvs": [
+            {
+              "key": "09132100-4",
+              "value": "Αμόλυβδη βενζίνη"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 6019,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 37007.4,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Λιπαντικά Δ.Ε. ΑΡΓΟΣΤΟΛΙΟΥ/ΛΕΙΒΑΘΟΥΣ/ΟΜΑΛΩΝ",
+          "cpvs": [
+            {
+              "key": "09211000-1",
+              "value": "Λιπαντικά έλαια και λιπαντικά μέσα"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 138,
+          "type": {
+            "key": "KGM",
+            "value": "Kg"
+          },
+          "costWithoutVAT": 1410,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Λιπαντικά Δ.Ε. ΑΡΓΟΣΤΟΛΙΟΥ/ΛΕΙΒΑΘΟΥΣ/ΟΜΑΛΩΝ",
+          "cpvs": [
+            {
+              "key": "09211000-1",
+              "value": "Λιπαντικά έλαια και λιπαντικά μέσα"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 160,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1720,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Λιπαντικά Δ.Ε. ΑΡΓΟΣΤΟΛΙΟΥ/ΛΕΙΒΑΘΟΥΣ/ΟΜΑΛΩΝ",
+          "cpvs": [
+            {
+              "key": "09211000-1",
+              "value": "Λιπαντικά έλαια και λιπαντικά μέσα"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 13000,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 12194,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πετρέλαιο θέρμανσης 2026- κατ’ οίκον Β΄ΒΑΘΜΙΑ ΕΚΠΑΙΔΕΥΣΗ ΔΗΜΟΤΙΚΕΣ ΕΝΟΤΗΤΕΣ ΑΡΓΟΣΤΟΛΙΟΥ/ΛΕΙΒΑΘΟΥΣ/ΟΜΑΛΩΝ",
+          "cpvs": [
+            {
+              "key": "09135100-5",
+              "value": "Πετρέλαιο θέρμανσης"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 3710,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 5449.99,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Βενζίνη Αμόλυβδη ΒΟΗΘΕΙΑ ΣΤΟ ΣΠΙΤΙ Δ.Ε. ΑΡΓΟΣΤΟΛΙΟΥ/ΛΕΙΒΑΘΟΥΣ/ΟΜΑΛΩΝ",
+          "cpvs": [
+            {
+              "key": "09132100-4",
+              "value": "Αμόλυβδη βενζίνη"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 19000,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 24111,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πετρέλαιο Κίνησης ΝΠΔΔ ΠΡΟΣΩΠΟ ΔΗΜΟΥ ΑΡΓΟΣΤΟΛΙΟΥ ΔΗΜΟΤΙΚΟ ΓΗΡΟΚΟΜΕΙΟ ΑΡΓΟΣΤΟΛΙΟΥ",
+          "cpvs": [
+            {
+              "key": "09134100-8",
+              "value": "Πετρέλαιο ντίζελ"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 41000,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 38458,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πετρέλαιο θέρμανσης 2026-κατ’οίκον ΝΠΔΔ ΠΡΟΣΩΠΟ ΔΗΜΟΥ ΑΡΓΟΣΤΟΛΙΟΥ ΔΗΜΟΤΙΚΟ ΓΗΡΟΚΟΜΕΙΟ ΑΡΓΟΣΤΟΛΙΟΥ",
+          "cpvs": [
+            {
+              "key": "09135100-5",
+              "value": "Πετρέλαιο θέρμανσης"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 40000,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 37520,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πετρέλαιο θέρμανσης 2026- κατ’ οίκον Α΄ΒΑΘΜΙΑ ΕΚΠΑΙΔΕΥΣΗ ΔΗΜΟΤΙΚΕΣ ΕΝΟΤΗΤΕΣ ΑΡΓΟΣΤΟΛΙΟΥ/ΛΕΙΒΑΘΟΥΣ/ΟΜΑΛΩΝ",
+          "cpvs": [
+            {
+              "key": "09135100-5",
+              "value": "Πετρέλαιο θέρμανσης"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "25PROC017743310",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "09134100",
+        "09132100",
+        "09211000",
+        "09135100"
+      ],
+      "cpv_divisions": [
+        "09"
+      ],
+      "all_domains": [
+        "Energy & Fuels"
+      ],
+      "primary_domain": "Energy & Fuels"
+    },
+    {
+      "title": "ΠΡΟΜΗΘΕΙΑ ΠΕΤΡΕΛΑΙΟΥ ΘΕΡΜΑΝΣΗΣ ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΤΟΥ ΤΕΑΥΕ Α'&Β' ΤΟΜΕΑ ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ",
+      "referenceNumber": "26AWRD018478957",
+      "submissionDate": "2026-02-13T12:30:44.247",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-13",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1032-801-0000000",
+      "authorEmail": null,
+      "organizationVatNumber": "996642716",
+      "greekOrganizationVatNumber": false,
+      "budget": 1210,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100078632",
+          "value": "ΠΕΡΙΦΕΡΕΙΑΚΗ ΔΙΕΥΘΥΝΣΗ ΕΠΙΘΕΩΡΗΣΗΣ ΑΣΦΑΛΕΙΑΣ ΚΑΙ ΥΓΕΙΑΣ ΣΤΗΝ ΕΡΓΑΣΙΑ ΠΕΙΡΑΙΩΣ - ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ - ΑΙΓΑΙΟΥ"
+        },
+        "signers": {
+          "key": "100088129",
+          "value": "ΕΛΕΝΗ ΖΩΓΡΑΦΟΥ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "100078452",
+        "value": "ΕΠΙΘΕΩΡΗΣΗ ΕΡΓΑΣΙΑΣ"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL307",
+        "value": "Πειραιάς, Νήσοι"
+      },
+      "nutsCity": "ΠΕΙΡΑΙΑΣ",
+      "nutsPostalCode": "18531",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "13",
+        "value": "Ανεξάρτητη αρχή (με νομική προσωπικότητα)"
+      },
+      "contractingAuthorityActivity": {
+        "key": "6",
+        "value": "Υγεία"
+      },
+      "contractDuration": 9,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "998507876",
+            "greekVatNumber": false,
+            "name": "Ε. ΑΡΕΤΑΚΗΣ Ε.Ε.",
+            "nutsCode": {
+              "key": "EL306",
+              "value": "Δυτική Αττική"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 1500.4,
+      "totalCostWithoutVAT": 1210.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1220,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 1210,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΠΕΤΡΕΛΑΙΟΥ ΘΕΡΜΑΝΣΗΣ ΤΗΣ ΠΔΕΑΥΕ ΠΕΙΡΑΙΩΣ-ΔΥΤ.ΑΤΤΙΚΗΣ-ΑΙΓΑΙΟΥ ΓΙΑ ΤΟ ΕΤΟΣ 2026",
+          "cpvs": [
+            {
+              "key": "09135100-5",
+              "value": "Πετρέλαιο θέρμανσης"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018422230",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "09135100"
+      ],
+      "cpv_divisions": [
+        "09"
+      ],
+      "all_domains": [
+        "Energy & Fuels"
+      ],
+      "primary_domain": "Energy & Fuels"
+    },
+    {
+      "title": "ΑΠΟΦΑΣΗ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗΣ ΓΙΑ ΤΗΝ ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ",
+      "referenceNumber": "26AWRD018478517",
+      "submissionDate": "2026-02-13T12:03:06.298",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-13",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1011.2020000000.0018",
+      "authorEmail": null,
+      "organizationVatNumber": "090153025",
+      "greekOrganizationVatNumber": false,
+      "budget": 1598,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100071418",
+          "value": "ΓΕΣ/ΛΑΦ ΚΟΖΑΝΗΣ"
+        },
+        "signers": {
+          "key": "100082238",
+          "value": "ΔΗΜΗΤΡΙΟΣ ΤΖΑΛΑΖΙΔΗΣ - Διευθυντής"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "6",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "4",
+        "value": "Βάσει κόστους – άλλο"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL531",
+        "value": "Γρεβενά, Κοζάνη"
+      },
+      "nutsCity": "Κοζανη",
+      "nutsPostalCode": "50100",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "2",
+        "value": "Άμυνα"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "090116804",
+            "greekVatNumber": false,
+            "name": "ΔΕΥΑ Κοζανης",
+            "nutsCode": {
+              "key": "EL531",
+              "value": "Γρεβενά, Κοζάνη"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 1981.52,
+      "totalCostWithoutVAT": 1598.0,
+      "objectDetailsList": [
+        {
+          "quantity": 820,
+          "type": {
+            "key": "MTQ",
+            "value": "m 3"
+          },
+          "costWithoutVAT": 1598,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΠΟΦΑΣΗ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗΣ ΥΔΡΕΥΣΗ ΛΑΦ ΚΟΖΑΝΗΣ",
+          "cpvs": [
+            {
+              "key": "09324000-6",
+              "value": "Τηλεθέρμανση"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": null,
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "09324000"
+      ],
+      "cpv_divisions": [
+        "09"
+      ],
+      "all_domains": [
+        "Energy & Fuels"
+      ],
+      "primary_domain": "Energy & Fuels"
+    },
+    {
+      "title": "ΠΡΟΜΗΘΕΙΑ ΠΕΤΡΕΛΑΙΟΥ ΘΕΡΜΑΝΣΗΣ ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΤΟΥ ΤΕΑΥΕ ΑΝΔΡΟΥ",
+      "referenceNumber": "26AWRD018478461",
+      "submissionDate": "2026-02-13T11:59:34.034",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-13",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1032-801-0000000",
+      "authorEmail": null,
+      "organizationVatNumber": "996642716",
+      "greekOrganizationVatNumber": false,
+      "budget": 807,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100078632",
+          "value": "ΠΕΡΙΦΕΡΕΙΑΚΗ ΔΙΕΥΘΥΝΣΗ ΕΠΙΘΕΩΡΗΣΗΣ ΑΣΦΑΛΕΙΑΣ ΚΑΙ ΥΓΕΙΑΣ ΣΤΗΝ ΕΡΓΑΣΙΑ ΠΕΙΡΑΙΩΣ - ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ - ΑΙΓΑΙΟΥ"
+        },
+        "signers": {
+          "key": "100088129",
+          "value": "ΕΛΕΝΗ ΖΩΓΡΑΦΟΥ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "100078452",
+        "value": "ΕΠΙΘΕΩΡΗΣΗ ΕΡΓΑΣΙΑΣ"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL307",
+        "value": "Πειραιάς, Νήσοι"
+      },
+      "nutsCity": "ΠΕΙΡΑΙΑΣ",
+      "nutsPostalCode": "18531",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "13",
+        "value": "Ανεξάρτητη αρχή (με νομική προσωπικότητα)"
+      },
+      "contractingAuthorityActivity": {
+        "key": "6",
+        "value": "Υγεία"
+      },
+      "contractDuration": 10,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "040414608",
+            "greekVatNumber": false,
+            "name": "ΤΖΙΩΤΗ ΦΡΑΤΖΕΣΚΑ",
+            "nutsCode": {
+              "key": "EL307",
+              "value": "Πειραιάς, Νήσοι"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 1000.68,
+      "totalCostWithoutVAT": 807.0,
+      "objectDetailsList": [
+        {
+          "quantity": 750,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 807,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΠΕΤΡΕΛΑΙΟΥ ΘΕΡΜΑΝΣΗΣ ΤΗΣ ΠΔΕΑΥΕ ΠΕΙΡΑΙΩΣ-ΔΥΤ.ΑΤΤΙΚΗΣ-ΑΙΓΑΙΟΥ ΓΙΑ ΤΟ ΕΤΟΣ 2026",
+          "cpvs": [
+            {
+              "key": "09135100-5",
+              "value": "Πετρέλαιο θέρμανσης"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018422123",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "09135100"
+      ],
+      "cpv_divisions": [
+        "09"
+      ],
+      "all_domains": [
+        "Energy & Fuels"
+      ],
+      "primary_domain": "Energy & Fuels"
+    },
+    {
+      "title": "Έγκριση απευθείας ανάθεσης της προμήθειας καυσίμων κίνησης (αμόλυδβη βενζίνη 95 οκτανίων)",
+      "referenceNumber": "26AWRD018478400",
+      "submissionDate": "2026-02-13T11:56:21.542",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-12",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.F00684.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "999268569",
+      "greekOrganizationVatNumber": true,
+      "budget": 5899.19,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "84990",
+          "value": "ΑΠΟΦΑΣΕΙΣ ΠΡΟΕΔΡΟΥ ΔΣ"
+        },
+        "signers": {
+          "key": "100010119",
+          "value": "Κωσταντίνος Βασιλάκης - Πρόεδρος Δ.Σ."
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "51755",
+        "value": "ΔΙΑΧΕΙΡΙΣΗ ΑΚΤΩΝ ΜΑΛΙΩΝ ΜΟΝΟΜΕΤΟΧΙΚΗ ΔΗΜΟΤΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ Ο.Τ.Α."
+      },
+      "contractType": {
+        "key": "12",
+        "value": "Μελέτες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL431",
+        "value": "Ηράκλειο"
+      },
+      "nutsCity": "Μάλια",
+      "nutsPostalCode": "70007",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "7",
+        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "9",
+        "value": "Αναψυχή"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "4",
+        "value": "Έτη"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "059474680",
+            "greekVatNumber": true,
+            "name": "ΛΙΑΚΑΚΗΣ ΕΜΜ. ΓΕΩΡΓΙΟΣ",
+            "nutsCode": {
+              "key": "EL431",
+              "value": "Ηράκλειο"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 7315.0,
+      "totalCostWithoutVAT": 5899.19,
+      "objectDetailsList": [
+        {
+          "quantity": 4180,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 5899.19,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έγκριση απευθείας ανάθεσης της προμήθειας καυσίμων κίνησης (αμόλυβδη βενζίνη 95 οκτανίων) προϋπολογισμού 7.315,00€ συμπεριλαμβανομένου του ΦΠΑ 24%",
+          "cpvs": [
+            {
+              "key": "09132100-4",
+              "value": "Αμόλυβδη βενζίνη"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [
+        {
+          "code": "26REQ018434282"
+        }
+      ],
+      "noticeRefNo": null,
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [
+        "26SYMV018480454"
+      ],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "09132100"
+      ],
+      "cpv_divisions": [
+        "09"
+      ],
+      "all_domains": [
+        "Energy & Fuels"
+      ],
+      "primary_domain": "Energy & Fuels"
+    },
+    {
+      "title": "Απόφαση απευθείας ανάθεσης για την παροχή υπηρεσιών",
+      "referenceNumber": "26AWRD018477344",
+      "submissionDate": "2026-02-13T10:54:16.978",
+      "lastUpdateDate": "2026-02-13",
+      "signedDate": "2026-02-13",
+      "cancelled": true,
+      "cancellationDate": "2026-02-13T11:52:28.759",
+      "cancellationType": "Ακύρωση λόγω λανθασμένης καταχώρησης",
+      "cancellationReason": "ΛΑΝΘΑΣΜΕΝΗ ΚΑΤΑΧΩΡΗΣΗ",
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1011.2020000000.0018",
+      "authorEmail": null,
+      "organizationVatNumber": "090153025",
+      "greekOrganizationVatNumber": false,
+      "budget": 1788.9,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100071418",
+          "value": "ΓΕΣ/ΛΑΦ ΚΟΖΑΝΗΣ"
+        },
+        "signers": {
+          "key": "100082238",
+          "value": "ΔΗΜΗΤΡΙΟΣ ΤΖΑΛΑΖΙΔΗΣ - Διευθυντής"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "6",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "4",
+        "value": "Βάσει κόστους – άλλο"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL531",
+        "value": "Γρεβενά, Κοζάνη"
+      },
+      "nutsCity": "Κοζανη",
+      "nutsPostalCode": "50100",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "2",
+        "value": "Άμυνα"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "090116804",
+            "greekVatNumber": false,
+            "name": "ΔΕΥΑ Κοζανης",
+            "nutsCode": {
+              "key": "EL531",
+              "value": "Γρεβενά, Κοζάνη"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 2205.84,
+      "totalCostWithoutVAT": 1778.9,
+      "objectDetailsList": [
+        {
+          "quantity": 903,
+          "type": {
+            "key": "MTQ",
+            "value": "m 3"
+          },
+          "costWithoutVAT": 1778.9,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Λογαριασμός ύδρευσης ΛΑΦ Κοζάνης 3ο τετράμηνο 2024 και 1ο τετράμηνο 2025",
+          "cpvs": [
+            {
+              "key": "09324000-6",
+              "value": "Τηλεθέρμανση"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": null,
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "09324000"
+      ],
+      "cpv_divisions": [
+        "09"
+      ],
+      "all_domains": [
+        "Energy & Fuels"
+      ],
+      "primary_domain": "Energy & Fuels"
+    },
+    {
+      "title": "ΑΔ ΚΥ ΗΓΟΥΜΕΝΙΤΣΑΣ ΠΡΟΜΗΘΕΙΑ ΠΕΤΡΕΛΑΙΟΥ ΘΕΡΜΑΝΣΗΣ.",
+      "referenceNumber": "26AWRD018476877",
+      "submissionDate": "2026-02-13T10:28:07.782",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-12",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1015.Ε00813.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "999100979",
+      "greekOrganizationVatNumber": false,
+      "budget": 9340,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "73740",
+          "value": "6Η ΥΓΕΙΟΝΟΜΙΚΗ ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΛΟΠΟΝΗΣΟΥ ΙΟΝΙΩΝ ΗΠΕΙΡΟΥ & ΔΥΤ.ΕΛΛΑΔΑΣ"
+        },
+        "signers": {
+          "key": "100092477",
+          "value": "ΗΛΙΑΣ ΘΕΟΔΩΡΟΠΟΥΛΟΣ - Διοικητής"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "99221481",
+        "value": "6Η ΔΥΠΕ ΠΕΛΛΟΠΟΝΗΣΟΥ ΙΟΝΙΩΝ, ΗΠΕΙΡΟΥ & ΔΥΤ.ΕΛΛΑΔΑΣ"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL632",
+        "value": "Αχαΐα"
+      },
+      "nutsCity": "ΠΑΤΡΑ",
+      "nutsPostalCode": "26441",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "6",
+        "value": "Υγεία"
+      },
+      "contractDuration": 3,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "997297637",
+            "greekVatNumber": false,
+            "name": "ΜΠΑΡΑΤΣΑΣ Α.Ε. ",
+            "nutsCode": {
+              "key": "EL",
+              "value": "ΕΛΛΑΔΑ"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 11581.6,
+      "totalCostWithoutVAT": 9340.0,
+      "objectDetailsList": [
+        {
+          "quantity": 10000,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 9340,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΔ ΚΥ ΗΓΟΥΜΕΝΙΤΣΑΣ ΠΡΟΜΗΘΕΙΑ ΠΕΤΡΕΛΑΙΟΥ ΘΕΡΜΑΝΣΗΣ.",
+          "cpvs": [
+            {
+              "key": "09100000-0",
+              "value": "Καύσιμα"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018451180",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "99221481",
+        "09100000"
+      ],
+      "cpv_divisions": [
+        "09"
+      ],
+      "all_domains": [
+        "Energy & Fuels"
+      ],
+      "primary_domain": "Energy & Fuels"
+    },
+    {
+      "title": "ΡΟΜΗΘΕΙΑ ΥΓΡΩΝ ΚΑΥΣΙΜΩΝ ΚΙΝΗΣΗΣ (ΠΕΤΡΕΛΑΙΟΥ ΚΙΝΗΣΗΣ & ΑΜΟΛΥΒΔΗΣ ΒΕΝΖΙΝΗΣ ) ΓΙΑ  ΑΝΑΓΚΕΣ  Δ.Ε ΑΣΚΙΟΥ.",
+      "referenceNumber": "26AWRD018476698",
+      "submissionDate": "2026-02-13T10:18:11.639",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-12",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.E81402.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "998059393",
+      "greekOrganizationVatNumber": false,
+      "budget": 2487,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "82123",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100048616",
+          "value": "ΧΡΗΣΤΟΣ ΖΕΥΚΛΗΣ - Δήμαρχος"
+        }
+      },
+      "procedureType": {
+        "key": "18",
+        "value": "Διαδικασία άρθρου 128 του ν.4412/16"
+      },
+      "organization": {
+        "key": "6056",
+        "value": "ΔΗΜΟΣ ΒΟΙΟΥ"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "criteriaCode": {
+        "key": "4",
+        "value": "Βάσει κόστους – άλλο"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL531",
+        "value": "Γρεβενά, Κοζάνη"
+      },
+      "nutsCity": "ΣΙΑΤΙΣΤΑ",
+      "nutsPostalCode": "50300",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "997841819",
+            "greekVatNumber": false,
+            "name": "ΑΦΟΙ ΜΠΟΥΡΤΖΟΥ Ο.Ε",
+            "nutsCode": {
+              "key": "EL531",
+              "value": "Γρεβενά, Κοζάνη"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 3083.88,
+      "totalCostWithoutVAT": 2487.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1650,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 2128.5,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΥΓΡΩΝ ΚΑΥΣΙΜΩΝ ΚΙΝΗΣΗΣ (ΠΕΤΡΕΛΑΙΟΥ ΚΙΝΗΣΗΣ ) ΓΙΑ  ΑΝΑΓΚΕΣ  Δ.Ε ΑΣΚΙΟΥ.",
+          "cpvs": [
+            {
+              "key": "09134100-8",
+              "value": "Πετρέλαιο ντίζελ"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 250,
+          "type": {
+            "key": "LTR",
+            "value": "Λίτρο"
+          },
+          "costWithoutVAT": 358.5,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΥΓΡΩΝ ΚΑΥΣΙΜΩΝ ΚΙΝΗΣΗΣ (ΑΜΟΛΥΒΔΗΣ ΒΕΝΖΙΝΗΣ) ΓΙΑ  ΑΝΑΓΚΕΣ  Δ.Ε ΑΣΚΙΟΥ.",
+          "cpvs": [
+            {
+              "key": "09132100-4",
+              "value": "Αμόλυβδη βενζίνη"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [
+        {
+          "code": "26REQ018476518"
+        }
+      ],
+      "noticeRefNo": null,
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "09134100",
+        "09132100"
+      ],
+      "cpv_divisions": [
+        "09"
+      ],
+      "all_domains": [
+        "Energy & Fuels"
+      ],
+      "primary_domain": "Energy & Fuels"
+    },
+    {
+      "title": "ΣΥΝΤΗΡΗΣΗ ΕΦΑΡΜΟΓΩΝ ΜΗΤΡΩΟΥ & ΛΟΓΙΣΤΗΡΙΟΥ ΕΒΕΞ",
+      "referenceNumber": "26AWRD018476287",
+      "submissionDate": "2026-02-13T09:54:55.906",
+      "lastUpdateDate": null,
+      "signedDate": "2026-01-26",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1",
+      "authorEmail": null,
+      "organizationVatNumber": "09002143",
+      "greekOrganizationVatNumber": false,
+      "budget": 3000,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "75929",
+          "value": "ΕΠΙΜΕΛΗΤΗΡΙΟ ΞΑΝΘΗΣ"
+        },
+        "signers": {
+          "key": "100095141",
+          "value": "ΜΑΡΙΑΝΘΗ ΜΑΛΛΙΑΡΟΥΔΑΚΗ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "99221042",
+        "value": "ΕΠΙΜΕΛΗΤΗΡΙΟ ΞΑΝΘΗΣ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "1",
+        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL512",
+        "value": "Ξάνθη"
       },
       "nutsCity": "ΞΑΝΘΗ",
       "nutsPostalCode": "67132",
@@ -2039,370 +3212,6 @@
         "key": "1",
         "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 1,
-      "contractDurationUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "998149233",
-            "greekVatNumber": false,
-            "name": "ΓΕΩΡΓΙΟΣ ΜΠΙΚΟΣ ΚΑΙ ΣΙΑ Ο.Ε.",
-            "nutsCode": {
-              "key": "EL512",
-              "value": "Ξάνθη"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            }
-          }
-        ]
-      },
-      "totalCostWithVAT": 6953.92,
-      "totalCostWithoutVAT": 5608.0,
-      "objectDetailsList": [
-        {
-          "quantity": 6100,
-          "type": {
-            "key": "LTR",
-            "value": "Λίτρο"
-          },
-          "costWithoutVAT": 5608,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΠΕΤΡΕΛΑΙΟΥ ΘΕΡΜΑΝΣΗΣ",
-          "cpvs": [
-            {
-              "key": "09135100-5",
-              "value": "Πετρέλαιο θέρμανσης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018416770",
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [
-        "26SYMV018470394"
-      ],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "09135100"
-      ],
-      "cpv_divisions": [
-        "09"
-      ],
-      "all_domains": [
-        "Energy & Fuels"
-      ],
-      "primary_domain": "Energy & Fuels"
-    },
-    {
-      "title": "ΑΠΟΦΑΣΗ Δ.Σ. ΕΓΚΡΙΣΗΣ ΠΡΑΚΤΙΚΟΥ ΑΞΙΟΛΟΓΗΣΗΣ ΔΙΚ/ΚΩΝ ΠΡΟΜΗΘΕΙΑΣ \"ΠΕΤΡΕΛΑΙΟ-ΒΕΝΖΙΝΗ\"",
-      "referenceNumber": "26AWRD018469279",
-      "submissionDate": "2026-02-12T09:34:15.082",
-      "lastUpdateDate": null,
-      "signedDate": "2026-01-21",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1015.Ε00264.001",
-      "authorEmail": null,
-      "organizationVatNumber": "999200723",
-      "greekOrganizationVatNumber": false,
-      "budget": 16129.03,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "76359",
-          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
-        },
-        "signers": {
-          "key": "100098338",
-          "value": "ΑΓΛΑΪΑ ΡΟΓΓΑΝΑΚΗ - Διοικητής"
-        }
-      },
-      "procedureType": {
-        "key": "1",
-        "value": "Ανοιχτή διαδικασία"
-      },
-      "organization": {
-        "key": "99221946",
-        "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΤΡΙΚΑΛΩΝ"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "criteriaCode": {
-        "key": "4",
-        "value": "Βάσει κόστους – άλλο"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL611",
-        "value": "Καρδίτσα, Τρίκαλα"
-      },
-      "nutsCity": "ΤΡΙΚΑΛΑ",
-      "nutsPostalCode": "42131",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "6",
-        "value": "Υγεία"
-      },
-      "contractDuration": 12,
-      "contractDurationUnitOfMeasure": {
-        "key": "4",
-        "value": "Έτη"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "046221035",
-            "greekVatNumber": false,
-            "name": "ΑΝΔΡΕΑΣ ΑΛ.  ΣΙΟΥΛΗΣ",
-            "nutsCode": {
-              "key": "EL611",
-              "value": "Καρδίτσα, Τρίκαλα"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            }
-          }
-        ]
-      },
-      "totalCostWithVAT": 20000.01,
-      "totalCostWithoutVAT": 16129.04,
-      "objectDetailsList": [
-        {
-          "quantity": 6850,
-          "type": {
-            "key": "LTR",
-            "value": "Λίτρο"
-          },
-          "costWithoutVAT": 10887.1,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΠΟΦΑΣΗ Δ.Σ. ΕΓΚΡΙΣΗΣ ΠΡΑΚΤΙΚΟΥ ΑΞΙΟΛΟΓΗΣΗΣ ΔΙΚΑΙΟΛΟΓΗΤΙΚΩΝ  ΓΙΑ ΤΗΝ  ΠΡΟΜΗΘΕΙΑ ΤΟΥ ΕΙΔΟΥΣ \"ΠΕΤΡΕΛΑΙΟ (ΚΙΝΗΣΗΣ)-ΒΕΝΖΙΝΗ(ΑΜΟΛΥΒΔΗ) \"",
-          "cpvs": [
-            {
-              "key": "09135100-5",
-              "value": "Πετρέλαιο θέρμανσης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 2976,
-          "type": {
-            "key": "LTR",
-            "value": "Λίτρο"
-          },
-          "costWithoutVAT": 5241.94,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΠΟΦΑΣΗ Δ.Σ. ΕΓΚΡΙΣΗΣ ΠΡΑΚΤΙΚΟΥ ΑΞΙΟΛΟΓΗΣΗΣ ΔΙΚΑΙΟΛΟΓΗΤΙΚΩΝ  ΓΙΑ ΤΗΝ  ΠΡΟΜΗΘΕΙΑ ΤΟΥ ΕΙΔΟΥΣ \"ΠΕΤΡΕΛΑΙΟ (ΚΙΝΗΣΗΣ)-ΒΕΝΖΙΝΗ(ΑΜΟΛΥΒΔΗ) \"",
-          "cpvs": [
-            {
-              "key": "09132100-4",
-              "value": "Αμόλυβδη βενζίνη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "25PROC018262206",
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [
-        "26SYMV018469674"
-      ],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "99221946",
-        "09135100",
-        "09132100"
-      ],
-      "cpv_divisions": [
-        "09"
-      ],
-      "all_domains": [
-        "Energy & Fuels"
-      ],
-      "primary_domain": "Energy & Fuels"
-    },
-    {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΚΑΥΣΙΜΩΝ ΓΙΑ ΑΝΑΓΚΕΣ ΕΠΙΧΕΙΡΗΣΙΑΚΩΝ ΜΕΣΩΝ ΣΥΡΟΥ, ΚΥΘΝΟΥ ΚΑΙ ΣΕΡΙΦΟΥ",
-      "referenceNumber": "26AWRD018468480",
-      "submissionDate": "2026-02-12T08:42:14.593",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-11",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1041.202.9900601.0001",
-      "authorEmail": null,
-      "organizationVatNumber": "997881842",
-      "greekOrganizationVatNumber": false,
-      "budget": 19167.73,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 10,
-      "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "90566",
-          "value": "ΛΙΜΕΝΙΚΗ ΑΡΧΗ ΣΥΡΟΥ"
-        },
-        "signers": {
-          "key": "100039367",
-          "value": "ΜΑΡΙΑΝΝΑ ΔΑΛΕΖΙΟΥ - Λιμενάρχης"
-        }
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "organization": {
-        "key": "100015969",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL422",
-        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
-      },
-      "nutsCity": "ΣΥΡΟΣ",
-      "nutsPostalCode": "84100",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
-      },
       "contractDuration": 12,
       "contractDurationUnitOfMeasure": {
         "key": "3",
@@ -2411,25 +3220,12 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "800156150",
+            "vatNumber": "095706123",
             "greekVatNumber": false,
-            "name": "Ι. ΦΙΛΙΠΠΑΣ & ΣΙΑ Ο.Ε",
+            "name": "Γ.Δ. ΑΒΡΑΜΙΔΗΣ Α.Ε.",
             "nutsCode": {
-              "key": "EL",
-              "value": "ΕΛΛΑΔΑ"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            }
-          },
-          {
-            "vatNumber": "998225178",
-            "greekVatNumber": false,
-            "name": "Ε. ΦΡΕΡΗΣ & ΣΙΑ Ε.Ε.",
-            "nutsCode": {
-              "key": "EL",
-              "value": "ΕΛΛΑΔΑ"
+              "key": "EL522",
+              "value": "Θεσσαλονίκη"
             },
             "installationCountry": {
               "key": "GR",
@@ -2438,234 +3234,26 @@
           }
         ]
       },
-      "totalCostWithVAT": 20959.99,
-      "totalCostWithoutVAT": 19167.73,
+      "totalCostWithVAT": 3720.0,
+      "totalCostWithoutVAT": 3000.0,
       "objectDetailsList": [
         {
-          "quantity": 150,
+          "quantity": 1,
           "type": {
-            "key": "LTR",
-            "value": "Λίτρο"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 254.03,
+          "costWithoutVAT": 3000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΚΑΥΣΙΜΑ ΜΛΣ 1905",
+          "shortDescription": "ΣΥΝΤΗΡΗΣΗ ΕΦΑΡΜΟΓΩΝ ΟΙΚ. ΔΙΑΧΕΙΡΙΣΗΣ & ΜΗΤΡΩΟΥ ΕΒΕΞ",
           "cpvs": [
             {
-              "key": "09132100-4",
-              "value": "Αμόλυβδη βενζίνη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1000,
-          "type": {
-            "key": "LTR",
-            "value": "Λίτρο"
-          },
-          "costWithoutVAT": 1693.55,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΥΣΙΜΑ ΑΛΣ 3013",
-          "cpvs": [
-            {
-              "key": "09132100-4",
-              "value": "Αμόλυβδη βενζίνη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1000,
-          "type": {
-            "key": "LTR",
-            "value": "Λίτρο"
-          },
-          "costWithoutVAT": 1693.55,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΥΣΙΜΑ ΑΛΣ 3861",
-          "cpvs": [
-            {
-              "key": "09132100-4",
-              "value": "Αμόλυβδη βενζίνη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1000,
-          "type": {
-            "key": "LTR",
-            "value": "Λίτρο"
-          },
-          "costWithoutVAT": 1693.55,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΥΣΙΜΑ ΑΛΣ 2547",
-          "cpvs": [
-            {
-              "key": "09132100-4",
-              "value": "Αμόλυβδη βενζίνη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 500,
-          "type": {
-            "key": "LTR",
-            "value": "Λίτρο"
-          },
-          "costWithoutVAT": 846.77,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΥΣΙΜΑ ΑΛΣ 3706 (Λ/Σ ΚΥΘΝΟΥ)",
-          "cpvs": [
-            {
-              "key": "09132100-4",
-              "value": "Αμόλυβδη βενζίνη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 600,
-          "type": {
-            "key": "LTR",
-            "value": "Λίτρο"
-          },
-          "costWithoutVAT": 967.74,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΥΣΙΜΑ ΑΛΣ 3287 (Λ/Σ ΣΕΡΙΦΟΥ)",
-          "cpvs": [
-            {
-              "key": "09134100-8",
-              "value": "Πετρέλαιο ντίζελ"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 100,
-          "type": {
-            "key": "LTR",
-            "value": "Λίτρο"
-          },
-          "costWithoutVAT": 169.35,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΔΙΕΡΧΟΜΕΝΑ ΟΧΗΜΑΤΑ (Λ/Χ ΣΥΡΟΥ)",
-          "cpvs": [
-            {
-              "key": "09132100-4",
-              "value": "Αμόλυβδη βενζίνη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 100,
-          "type": {
-            "key": "LTR",
-            "value": "Λίτρο"
-          },
-          "costWithoutVAT": 149.19,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΔΙΕΡΧΟΜΕΝΑ ΟΧΗΜΑΤΑ (Λ/Χ ΣΥΡΟΥ)",
-          "cpvs": [
-            {
-              "key": "09134100-8",
-              "value": "Πετρέλαιο ντίζελ"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 7000,
-          "type": {
-            "key": "LTR",
-            "value": "Λίτρο"
-          },
-          "costWithoutVAT": 11700,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΥΣΙΜΑ ΠΛΣ 798 (Λ/Σ ΣΕΡΙΦΟΥ)",
-          "cpvs": [
-            {
-              "key": "09132100-4",
-              "value": "Αμόλυβδη βενζίνη"
+              "key": "72261000-2",
+              "value": "Υπηρεσίες υποστήριξης λογισμικού"
             }
           ],
           "greenContracts": {
@@ -2680,7 +3268,7 @@
       "mixedContract": false,
       "approvedRequestsList": [
         {
-          "code": "26REQ018385294"
+          "code": "26REQ018397772"
         }
       ],
       "noticeRefNo": null,
@@ -2688,16 +3276,19 @@
       "contractRefNo": [],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "09132100",
-        "09134100"
+        "09002143",
+        "99221042",
+        "72261000"
       ],
       "cpv_divisions": [
-        "09"
+        "09",
+        "72"
       ],
       "all_domains": [
-        "Energy & Fuels"
+        "Energy & Fuels",
+        "IT Services"
       ],
-      "primary_domain": "Energy & Fuels"
+      "primary_domain": "IT Services"
     }
   ]
 }

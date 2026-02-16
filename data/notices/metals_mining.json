@@ -3,13 +3,13 @@
   "count": 2,
   "items": [
     {
-      "title": "Προμήθεια & τοποθέτηση υαλοπινάκων για τις ανάγκες σχολικών συγκροτημάτων Α/μίας  Εκπαίδευσης του Δή",
-      "referenceNumber": "26PROC018471709",
-      "signedDate": "2026-02-11T00:00:00",
+      "title": "«ΠΡΟΜΗΘΕΙΑ ΠΛΑΚΩΝ, ΑΔΡΑΝΩΝ ΥΛΙΚΩΝ», γΙα το Έργο ΑυτεπΙστασίας \"Συντήρηση καΙ επΙσκευή πεζοδρομίων κα",
+      "referenceNumber": "26PROC018476873",
+      "signedDate": "2026-02-02T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-18T10:00:00",
-      "submissionDate": "2026-02-12T11:44:04.197",
-      "lastUpdateDate": null,
+      "finalSubmissionDate": "2026-03-02T11:00:00",
+      "submissionDate": "2026-02-13T10:28:00.404",
+      "lastUpdateDate": "2026-02-13T00:00:00",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
@@ -20,8 +20,8 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007.F00804.0001",
-      "biddingWebsite": null,
+      "aaht": "1007.Ε84704.0001",
+      "biddingWebsite": "https://nepps.eprocurement.gov.gr/",
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
       "budget": null,
@@ -29,11 +29,11 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL632",
-        "value": "Αχαΐα"
+        "key": "EL302",
+        "value": "Δυτικός Τομέας Αθηνών"
       },
-      "nutsCity": "ΠΑΤΡΑ",
-      "nutsPostalCode": "26221",
+      "nutsCity": "ΑΙΓΑΛΕΩ",
+      "nutsPostalCode": "12243",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -52,12 +52,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100044392",
-          "value": "ΣΧΟΛΙΚΗ ΕΠΙΤΡΟΠΗ ΣΧΟΛΕΙΩΝ ΠΡΩΤΟΒΑΘΜΙΑΣ ΕΚΠΑΙΔΕΥΣΗΣ ΔΗΜΟΥ ΠΑΤΡΕΩΝ"
+          "key": "79108",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
         },
         "signers": {
-          "key": "100087553",
-          "value": "ΕΙΡΗΝΗ ΣΚΑΡΛΑΤΟΥ - Πρόεδρος Επιτροπής"
+          "key": "100084235",
+          "value": "ΛΑΜΠΡΟΣ ΣΚΛΑΒΟΥΝΟΣ - Δήμαρχος"
         }
       },
       "fundingDetails": {
@@ -65,14 +65,18 @@
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": "Α6/23-05-2025",
+        "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
+        "regularBudgetFundedProgramRef": "030.2420301065"
       },
-      "systemicNumbers": [],
+      "systemicNumbers": [
+        {
+          "systemicNumber": "399029"
+        }
+      ],
       "approvedRequests": [
         {
-          "code": "26REQ018407984"
+          "code": "26REQ018420029"
         }
       ],
       "contractingAuthorities": [
@@ -86,18 +90,18 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL632",
-            "value": "Αχαΐα"
+            "key": "EL302",
+            "value": "Δυτικός Τομέας Αθηνών"
           }
         }
       ],
       "organization": {
-        "key": "100044331",
-        "value": "ΣΧΟΛΙΚΗ ΕΠΙΤΡΟΠΗ ΣΧΟΛΕΙΩΝ ΠΡΩΤΟΒΑΘΜΙΑΣ ΕΚΠΑΙΔΕΥΣΗΣ ΔΗΜΟΥ ΠΑΤΡΕΩΝ"
+        "key": "6014",
+        "value": "ΔΗΜΟΣ ΑΙΓΑΛΕΩ"
       },
       "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
+        "key": "1",
+        "value": "Ανοιχτή διαδικασία"
       },
       "contractType": {
         "key": "13",
@@ -117,10 +121,13 @@
         "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
       },
       "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
+        "key": "1",
+        "value": "Ηλεκτρονική Διαδικασία"
       },
-      "digitalPlatform": null,
+      "digitalPlatform": {
+        "key": "3",
+        "value": "ΕΣΗΔΗΣ ΠΥ"
+      },
       "criteriaCode": {
         "key": "2",
         "value": "Βάσει τιμής"
@@ -130,116 +137,42 @@
         "value": "ΟΤΑ"
       },
       "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
+        "key": "3",
+        "value": "Διακήρυξη"
       },
       "contractingAuthorityActivity": {
-        "key": "5",
-        "value": "Οικονομικές και δημοσιονομικές υποθέσεις"
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
       },
       "contractDuration": 12,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 23560.0,
-      "totalCostWithoutVAT": 19000.0,
+      "totalCostWithVAT": 89952.3,
+      "totalCostWithoutVAT": 72542.18,
       "objectDetails": [
         {
-          "quantity": 95,
+          "quantity": 1,
           "type": {
-            "key": "MTK",
-            "value": "m 2"
+            "key": "C62",
+            "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 5890,
+          "costWithoutVAT": 72542.18,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Υαλοπίνακας τρίπλεξ πάχους 3+3mm  (προμήθεια και τοποθέτηση)",
+          "shortDescription": "«ΠΡΟΜΗΘΕΙΑ ΠΛΑΚΩΝ, ΑΔΡΑΝΩΝ ΥΛΙΚΩΝ», γΙα το Έργο ΑυτεπΙστασίας \"Συντήρηση καΙ επΙσκευή πεζοδρομίων καΙ Οδοστρωμάτων καΙ λοΙπών κοΙνοχρήστων χώρων (συν) ΑΜ 08/2024 \" ",
           "cpvs": [
             {
-              "key": "14820000-5",
-              "value": "Γυαλί"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 40,
-          "type": {
-            "key": "MTK",
-            "value": "m 2"
-          },
-          "costWithoutVAT": 3260,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υαλοπίνακας τρίπλεξ πάχους 5+5mm  (προμήθεια και τοποθέτηση)",
-          "cpvs": [
+              "key": "44114250-9",
+              "value": "Πλάκες από σκυρόδεμα"
+            },
             {
-              "key": "14820000-5",
-              "value": "Γυαλί"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 70,
-          "type": {
-            "key": "MTK",
-            "value": "m 2"
-          },
-          "costWithoutVAT": 6790,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υαλοπίνακας διπλός με συνδυασμό τρίπλεξ 3+3mm /αποστάτης/τρίπλεξ πάχους 3+3m (προμήθεια και τοποθέτηση)",
-          "cpvs": [
-            {
-              "key": "14820000-5",
-              "value": "Γυαλί"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 45,
-          "type": {
-            "key": "MTK",
-            "value": "m 2"
-          },
-          "costWithoutVAT": 3060,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υαλοπίνακας αρμέ (οπλισμένος) πάχους 6mm  (προμήθεια και τοποθέτηση)",
-          "cpvs": [
-            {
-              "key": "14820000-5",
-              "value": "Γυαλί"
+              "key": "14212200-2",
+              "value": "Αδρανή υλικά"
             }
           ],
           "greenContracts": {
@@ -252,7 +185,7 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "offersValidTime": 1,
+      "offersValidTime": 6,
       "offersValidTimeUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -267,23 +200,26 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "14820000"
+        "44114250",
+        "14212200"
       ],
       "cpv_divisions": [
+        "44",
         "14"
       ],
       "all_domains": [
+        "Construction Materials & Structures",
         "Metals & Mining"
       ],
-      "primary_domain": "Metals & Mining"
+      "primary_domain": "Construction Materials & Structures"
     },
     {
-      "title": "ΠΡΟΣΚΛΗΣΗ ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ -ΑΝΑΚΑΤΑΣΚΕΥΗ ΜΙΝΑΡΕ ΡΕΤΖΕΠ ΠΑΣΑ ΠΟΣΟΥ 7.200,000€ ΠΔΕ 2026",
-      "referenceNumber": "26PROC018469184",
-      "signedDate": "2026-02-11T00:00:00",
+      "title": "ΠΡΟΜΗΘΕΙΑ ΠΛΑΚΩΝ ΑΔΡΑΝΩΝ ΥΛΙΚΩΝ για το Έργο Αυτεπιστασίας \"Συντήρηση και επισκευή πεζοδρομίων και οδ",
+      "referenceNumber": "26PROC018475820",
+      "signedDate": "2026-02-12T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-17T15:00:00",
-      "submissionDate": "2026-02-12T09:28:56.148",
+      "finalSubmissionDate": "2026-03-02T11:00:00",
+      "submissionDate": "2026-02-13T09:26:46.827",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -295,8 +231,8 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1022.0000000000.0058",
-      "biddingWebsite": null,
+      "aaht": "1007.Ε84704.0001",
+      "biddingWebsite": "https://nepps.eprocurement.gov.gr/",
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
       "budget": null,
@@ -304,75 +240,79 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL421",
-        "value": "Κάλυμνος, Κάρπαθος, Κως, Ρόδος"
+        "key": "EL302",
+        "value": "Δυτικός Τομέας Αθηνών"
       },
-      "nutsCity": "ΡΟΔΟΣ",
-      "nutsPostalCode": "85100",
+      "nutsCity": "ΑΙΓΑΛΕΩ",
+      "nutsPostalCode": "12243",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
       },
       "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
+        "key": "2",
+        "value": "Όχι"
       },
       "socialContract": {
         "key": "2",
         "value": "Όχι"
       },
       "centralGovernmentAuthority": {
-        "key": "1",
-        "value": "Ναι"
+        "key": "2",
+        "value": "Όχι"
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100003647",
-          "value": "ΕΦΟΡΕΙΑ ΑΡΧΑΙΟΤΗΤΩΝ ΔΩΔΕΚΑΝΗΣΟΥ"
+          "key": "79109",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
         },
         "signers": {
-          "key": "100025151",
-          "value": "ΕΛΕΝΗ ΦΑΡΜΑΚΙΔΟΥ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
+          "key": "126781",
+          "value": "ΓΕΩΡΓΙΟΣ ΤΟΛΗΣ - Αντιδήμαρχος"
         }
       },
       "fundingDetails": {
-        "publicFundingRef": "514",
-        "publicFundingRefNum": "2022ΝΑ51400038",
-        "publicFundingRefOps": "5150321",
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
+        "regularBudgetFundedProgramRef": "030.2420301065"
       },
-      "systemicNumbers": [],
+      "systemicNumbers": [
+        {
+          "systemicNumber": "399029"
+        }
+      ],
       "approvedRequests": [
         {
-          "code": "25REQ017917057"
+          "code": "26REQ018420029"
         }
       ],
       "contractingAuthorities": [
         {
           "contractingAuthority": {
-            "key": "12",
-            "value": "Κεντρική Διοίκηση"
+            "key": "9",
+            "value": "ΝΠΔΔ"
           }
         }
       ],
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL421",
-            "value": "Κάλυμνος, Κάρπαθος, Κως, Ρόδος"
+            "key": "EL302",
+            "value": "Δυτικός Τομέας Αθηνών"
           }
         }
       ],
       "organization": {
-        "key": "100081912",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΠΟΛΙΤΙΣΜΟΥ"
+        "key": "6014",
+        "value": "ΔΗΜΟΣ ΑΙΓΑΛΕΩ"
       },
       "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
+        "key": "1",
+        "value": "Ανοιχτή διαδικασία"
       },
       "contractType": {
         "key": "13",
@@ -392,51 +332,58 @@
         "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
       },
       "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
+        "key": "1",
+        "value": "Ηλεκτρονική Διαδικασία"
       },
-      "digitalPlatform": null,
+      "digitalPlatform": {
+        "key": "3",
+        "value": "ΕΣΗΔΗΣ ΠΥ"
+      },
       "criteriaCode": {
         "key": "2",
         "value": "Βάσει τιμής"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
+        "key": "2",
+        "value": "ΟΤΑ"
       },
       "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
+        "key": "2",
+        "value": "Προκήρυξη"
       },
       "contractingAuthorityActivity": {
-        "key": "10",
-        "value": "Πολιτισμός και θρησκεία"
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 1,
+      "contractDuration": 12,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 7200.0,
-      "totalCostWithoutVAT": 5806.45,
+      "totalCostWithVAT": 89952.3,
+      "totalCostWithoutVAT": 72542.18,
       "objectDetails": [
         {
-          "quantity": 1000,
+          "quantity": 1,
           "type": {
-            "key": "KGM",
-            "value": "Kg"
+            "key": "C62",
+            "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 5806.45,
+          "costWithoutVAT": 72542.18,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Προμήθεια υλικών για την ανακατασκευή του μιναρέ του Ρετζέπ Πασά.",
+          "shortDescription": "\"ΠΡΟΜΗΘΕΙΑ ΠΛΑΚΩΝ, ΑΔΡΑΝΩΝ ΥΛΙΚΩΝ, για το Έργο Αυτεπιστασίας \"Συντήρηση και επισκευή πεζοδρομίων και οδοστρωμάτων και λοιπών κοινοχρήστων χώρων (συν) ΑΜ 08/2024 \"",
           "cpvs": [
             {
-              "key": "14711100-9",
-              "value": "Ακατέργαστος χυτοσίδηρος"
+              "key": "14212200-2",
+              "value": "Αδρανή υλικά"
+            },
+            {
+              "key": "44114250-9",
+              "value": "Πλάκες από σκυρόδεμα"
             }
           ],
           "greenContracts": {
@@ -449,7 +396,7 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "offersValidTime": 3,
+      "offersValidTime": 6,
       "offersValidTimeUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -464,15 +411,18 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "14711100"
+        "14212200",
+        "44114250"
       ],
       "cpv_divisions": [
-        "14"
+        "14",
+        "44"
       ],
       "all_domains": [
-        "Metals & Mining"
+        "Metals & Mining",
+        "Construction Materials & Structures"
       ],
-      "primary_domain": "Metals & Mining"
+      "primary_domain": "Construction Materials & Structures"
     }
   ]
 }

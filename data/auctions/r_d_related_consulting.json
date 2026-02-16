@@ -3,47 +3,47 @@
   "count": 2,
   "items": [
     {
-      "title": "Ανάθεση υπηρεσίας συμβούλου για υλοποίηση δράσεων διατήρησης της βιοποικιλότητας.",
-      "referenceNumber": "26AWRD018474381",
-      "submissionDate": "2026-02-12T15:08:40.599",
+      "title": "ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΥΠΗΡΕΣΙΕΣ ΑΝΤΑΛΛΑΚΤΙΚΑ ΕΠΙΣΚΕΥΗ ΦΩΤΟΤΥΠΙΚΩΝ ΚΑΒΑΛΑ ΚΑΙ 6 ΠΟΛΕΙΣ",
+      "referenceNumber": "26AWRD018482135",
+      "submissionDate": "2026-02-14T10:42:39.268",
       "lastUpdateDate": null,
-      "signedDate": "2026-02-12",
+      "signedDate": "2026-02-13",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1031.Ε00768.0001 ",
+      "aaht": "1907.0000000000.0001",
       "authorEmail": null,
-      "organizationVatNumber": "099965892",
-      "greekOrganizationVatNumber": false,
-      "budget": 30000,
+      "organizationVatNumber": "997612629",
+      "greekOrganizationVatNumber": true,
+      "budget": 17741.93,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
       "amendPreviousAuction": false,
-      "numberOfSections": 1,
+      "numberOfSections": 11,
       "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
+        "key": "1",
+        "value": "Ναι"
       },
       "socialContract": {
         "key": "2",
         "value": "Όχι"
       },
       "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
+        "key": "1",
+        "value": "Ναι"
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100069851",
-          "value": "ΤΜΗΜΑ ΠΡΟΜΗΘΕΙΩΝ"
+          "key": "76731",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΟΥ"
         },
         "signers": {
-          "key": "100061863",
-          "value": "Κωνσταντίνος Τριάντης - Διευθύνων Σύμβουλος"
+          "key": "100100340",
+          "value": "ΓΕΩΡΓΙΟΣ ΚΑΜΠΑΣ - Συντονιστής Αποκεντρωμένης Διοίκησης"
         }
       },
       "procedureType": {
@@ -51,12 +51,12 @@
         "value": "Απευθείας ανάθεση"
       },
       "organization": {
-        "key": "100061036",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΦΥΣΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΚΛΙΜΑΤΙΚΗΣ ΑΛΛΑΓΗΣ"
+        "key": "50205",
+        "value": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ"
       },
       "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
+        "key": "13",
+        "value": "Προμήθειες"
       },
       "criteriaCode": {
         "key": "2",
@@ -64,11 +64,11 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
       },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "11525",
+      "nutsCity": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "nutsPostalCode": "54655",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -87,18 +87,18 @@
       },
       "centralizedTypes": null,
       "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
       },
       "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
       },
       "contractingAuthorityActivity": {
-        "key": "4",
-        "value": "Περιβάλλον"
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 8,
+      "contractDuration": 11,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -106,12 +106,25 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "136709571",
-            "greekVatNumber": false,
-            "name": "ΔΗΜΗΤΡΙΟΣ ΒΑΒΥΛΗΣ",
+            "vatNumber": "802656152",
+            "greekVatNumber": true,
+            "name": "COPYHELP Ο.Ε.",
             "nutsCode": {
-              "key": "EL",
-              "value": "ΕΛΛΑΔΑ"
+              "key": "EL515",
+              "value": "Θάσος, Καβάλα"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          },
+          {
+            "vatNumber": "094220230",
+            "greekVatNumber": true,
+            "name": "ΤΕΧΝΙΚΗ Α.Ε.",
+            "nutsCode": {
+              "key": "EL522",
+              "value": "Θεσσαλονίκη"
             },
             "installationCountry": {
               "key": "GR",
@@ -120,26 +133,30 @@
           }
         ]
       },
-      "totalCostWithVAT": 37200.0,
-      "totalCostWithoutVAT": 30000.0,
+      "totalCostWithVAT": 14499.99,
+      "totalCostWithoutVAT": 11693.54,
       "objectDetailsList": [
         {
           "quantity": 1,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "C62",
+            "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 30000,
+          "costWithoutVAT": 11693.54,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Δαπάνη που αφορά την ανάθεση υπηρεσίας συμβούλου για υλοποίηση δράσεων διατήρησης της βιοποικιλότητας",
+          "shortDescription": "προμήθεια ανταλλακτικών-αναλωσίμων (CPV 30125000-1) καθώς  και την παροχή υπηρεσιών συντήρησης και επισκευής φωτοτυπικών μηχανημάτων και εκτυπωτών (CPV 50313100-3) για τις ανάγκες των υπηρεσιών της Α.Δ.Μ.-Θ., σε ένδεκα (11) Περιφερειακές Ενότητες  αρμοδιότητάς της, για το έτος 2026, φορέα/ειδ. φορέα 1907-999-03, 1907-999-01»",
           "cpvs": [
             {
-              "key": "73200000-4",
-              "value": "Υπηρεσίες παροχής συμβουλών σε θέματα έρευνας και ανάπτυξης"
+              "key": "73300000-5",
+              "value": "Μελέτη και εκτέλεση ερευνητικών και αναπτυξιακών δραστηριοτήτων"
+            },
+            {
+              "key": "50313100-3",
+              "value": "Υπηρεσίες επισκευής φωτοαντιγραφικών μηχανημάτων"
             }
           ],
           "greenContracts": {
@@ -150,46 +167,59 @@
           "budgetCode": null
         }
       ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "3",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "mixedContract": true,
       "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018442158",
+      "noticeRefNo": "26PROC018416937",
       "amendsAuctionRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "73200000"
+        "30125000",
+        "50313100",
+        "73300000"
       ],
       "cpv_divisions": [
+        "30",
+        "50",
         "73"
       ],
       "all_domains": [
+        "Office & Computing (Non-Software)",
+        "Repair & Maintenance",
         "R&D & Related Consulting"
       ],
-      "primary_domain": "R&D & Related Consulting"
+      "primary_domain": "Repair & Maintenance"
     },
     {
-      "title": "ΕΓΚΡΙΣΗ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗΣ",
-      "referenceNumber": "26AWRD018469953",
-      "submissionDate": "2026-02-12T10:11:58.65",
+      "title": "ΑΝΑΘΕΣΗ ΠΡΟΜΗΘΕΙΑΣ ΑΝΑΛΩΣΙΜΩΝ ΕΡΓΑΣΤΗΡΙΟΥ",
+      "referenceNumber": "26AWRD018481263",
+      "submissionDate": "2026-02-13T15:00:17.636",
       "lastUpdateDate": null,
-      "signedDate": "2026-02-11",
+      "signedDate": "2026-02-13",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1020.Ε00670.0001",
+      "aaht": "1036.Ε00335.0001",
       "authorEmail": null,
-      "organizationVatNumber": "090042767",
-      "greekOrganizationVatNumber": false,
-      "budget": 8000,
+      "organizationVatNumber": "090030420",
+      "greekOrganizationVatNumber": true,
+      "budget": 8937,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
       "amendPreviousAuction": false,
-      "numberOfSections": 1,
+      "numberOfSections": 7,
       "assignedContract": {
         "key": "2",
         "value": "Όχι"
@@ -204,12 +234,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "73234",
-          "value": "ΤΜΗΜΑ ΓΡΑΜΜΑΤΕΙΑΣ ΛΟΓΑΡΙΑΣΜΟΥ ΕΡΕΥΝΑΣ"
+          "key": "100001314",
+          "value": "ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
         },
         "signers": {
-          "key": "100078390",
-          "value": "ΘΩΜΑΣ ΜΠΑΡΤΖΑΝΑΣ - Πρόεδρος"
+          "key": "100097101",
+          "value": "ΓΕΩΡΓΙΟΣ ΠΑΤΡΙΝΟΣ - Γενικός Διευθυντής"
         }
       },
       "procedureType": {
@@ -217,16 +247,16 @@
         "value": "Απευθείας ανάθεση"
       },
       "organization": {
-        "key": "99202112",
-        "value": "ΓΕΩΠΟΝΙΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
+        "key": "99200054",
+        "value": "ΕΛΛΗΝΙΚΟ ΙΝΣΤΙΤΟΥΤΟ ΠΑΣΤΕΡ"
       },
       "contractType": {
         "key": "13",
         "value": "Προμήθειες"
       },
       "criteriaCode": {
-        "key": "4",
-        "value": "Βάσει κόστους – άλλο"
+        "key": "2",
+        "value": "Βάσει τιμής"
       },
       "awardProcedure": null,
       "nutsCode": {
@@ -234,7 +264,7 @@
         "value": "Κεντρικός Τομέας Αθηνών"
       },
       "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "11855",
+      "nutsPostalCode": "11521",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -248,8 +278,8 @@
         }
       ],
       "legalContext": {
-        "key": "4",
-        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
       },
       "centralizedTypes": null,
       "classificationOfPublicLawOrganization": {
@@ -257,14 +287,14 @@
         "value": "Κεντρική Κυβέρνηση"
       },
       "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
+        "key": "10",
+        "value": "ΝΠΙΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "11",
-        "value": "Εκπαίδευση"
+        "key": "6",
+        "value": "Υγεία"
       },
-      "contractDuration": 24,
+      "contractDuration": 11,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -272,12 +302,12 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "999859310",
-            "greekVatNumber": false,
-            "name": "ΠΡΑΙΟΡΙΤΥ ΚΟΥΟΛΙΤΥ ΚΟΝΣΑΛΤΑΝΤΣ Α.Ε",
+            "vatNumber": "095052971",
+            "greekVatNumber": true,
+            "name": "MERCK ΕΜΠΟΡΙΚΗ ΒΙΟΜ ΦΑΡΜΑΚ ΧΗΜΙΚΗ ΑΕ",
             "nutsCode": {
-              "key": "EL",
-              "value": "ΕΛΛΑΔΑ"
+              "key": "EL303",
+              "value": "Κεντρικός Τομέας Αθηνών"
             },
             "installationCountry": {
               "key": "GR",
@@ -286,26 +316,30 @@
           }
         ]
       },
-      "totalCostWithVAT": 9920.0,
-      "totalCostWithoutVAT": 8000.0,
+      "totalCostWithVAT": 11081.88,
+      "totalCostWithoutVAT": 8937.0,
       "objectDetailsList": [
         {
           "quantity": 1,
           "type": {
-            "key": "P1",
-            "value": "%"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 8000,
+          "costWithoutVAT": 8937,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΕΞΩΣΤΡΕΦΕΙΑ ΚΑΙ ΠΡΟΒΟΛΗ ΤΩΝ ΔΡΑΣΕΩΝ ΓΠΑ 2026-2028",
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΑΝΑΛΩΣΙΜΩΝ ΕΡΓΑΣΤΗΡΙΟΥ ",
           "cpvs": [
             {
-              "key": "73300000-5",
-              "value": "Μελέτη και εκτέλεση ερευνητικών και αναπτυξιακών δραστηριοτήτων"
+              "key": "73100000-3",
+              "value": "Υπηρεσίες έρευνας και πειραματικής ανάπτυξης"
+            },
+            {
+              "key": "33696500-0",
+              "value": "Αντιδραστήρια εργαστηρίων"
             }
           ],
           "greenContracts": {
@@ -320,7 +354,7 @@
       "mixedContract": false,
       "approvedRequestsList": [
         {
-          "code": "26REQ018448964"
+          "code": "26REQ018370168"
         }
       ],
       "noticeRefNo": null,
@@ -328,16 +362,19 @@
       "contractRefNo": [],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "99202112",
-        "73300000"
+        "99200054",
+        "73100000",
+        "33696500"
       ],
       "cpv_divisions": [
-        "73"
+        "73",
+        "33"
       ],
       "all_domains": [
-        "R&D & Related Consulting"
+        "R&D & Related Consulting",
+        "Medical & Pharma"
       ],
-      "primary_domain": "R&D & Related Consulting"
+      "primary_domain": "Medical & Pharma"
     }
   ]
 }

@@ -1,21 +1,452 @@
 {
   "domain": "Public Admin, Defence & Social Security",
-  "count": 10,
+  "count": 8,
   "items": [
     {
-      "title": "Ναυαγοσωστική κάλυψη των ακτών του Δήμου Πρέβεζας για το έτος 2026",
-      "referenceNumber": "26REQ018472894",
+      "title": "ΑΝΑΘΕΣΗ -ΑΝΑΝΕΩΣΗ ΣΥΜΒΑΣΕΩΝ ΠΑΡΟΧΗΣ ΑΝΕΞΑΡΤΗΤΩΝ ΥΠΗΡΕΣΙΩΝ",
+      "referenceNumber": "26REQ018481240",
+      "previousRequestReferenceNumber": "26REQ018358871",
+      "signedDate": "2026-01-13",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T14:57:17.503",
+      "procurementDeliveryDate": "2026-01-20",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "9001239",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "094038689",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "99200192",
+        "value": "ΟΡΓΑΝΙΣΜΟΣ ΣΙΔΗΡΟΔΡΟΜΩΝ ΕΛΛΑΔΑΣ (ΟΣΕ)"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "ΑΑΗΤ 1039.Ε00852.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100100472",
+          "value": "ΔΙΕΥΘΗΝΣΗ ΔΙΑΧΕΙΡΙΣΗΣ ΑΝΘΡΩΠΙΝΟΥ ΔΥΝΑΜΙΚΟΥ & ΥΠΟΣΤΗΡΙΚΤΙΚΩΝ ΛΕΙΤΟΥΡΓΙΩΝ"
+        },
+        "signers": {
+          "key": "100099908",
+          "value": "ΧΡΗΣΤΟΣ ΠΑΛΗΟΣ - Διευθύνων Σύμβουλος"
+        }
+      },
+      "totalCostWithVAT": 21080000.0,
+      "totalCostWithoutVAT": 17000000.0,
+      "objectDetails": [
+        {
+          "quantity": 710,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 17000000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΝΑΘΕΣΗ -ΑΝΑΝΕΩΣΗ ΣΥΜΒΑΣΕΩΝ ΠΑΡΟΧΗΣ ΑΝΕΞΑΡΤΗΤΩΝ ΥΠΗΡΕΣΙΩΝ ",
+          "cpvs": [
+            {
+              "key": "75131100-4",
+              "value": "Γενικές υπηρεσίες προσωπικού για το δημόσιο"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99200192",
+        "21080000",
+        "17000000",
+        "75131100"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "Υπηρεσία διοικητικής υποστήριξης των Διευθύνσεων Διαχείρισης Προστατευόμενων Περιοχών Ο.ΦΥ.ΠΕ.Κ.Α",
+      "referenceNumber": "26REQ018481018",
       "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-09",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T14:38:14.518",
+      "procurementDeliveryDate": "2026-03-01",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "3702",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "099965892",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "100061036",
+        "value": "ΟΡΓΑΝΙΣΜΟΣ ΦΥΣΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΚΛΙΜΑΤΙΚΗΣ ΑΛΛΑΓΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1031.E00768.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100069851",
+          "value": "ΤΜΗΜΑ ΠΡΟΜΗΘΕΙΩΝ"
+        },
+        "signers": {
+          "key": "100061863",
+          "value": "Κωνσταντίνος Τριάντης - Διευθύνων Σύμβουλος"
+        }
+      },
+      "totalCostWithVAT": 16120.0,
+      "totalCostWithoutVAT": 13000.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 13000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσία διοικητικής υποστήριξης των Διευθύνσεων Διαχείρισης Προστατευόμενων Περιοχών Ο.ΦΥ.ΠΕ.Κ.Α",
+          "cpvs": [
+            {
+              "key": "75100000-7",
+              "value": "Υπηρεσίες διοίκησης"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "75100000"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "ΚΑΛΥΨΗ ΔΑΠΑΝΩΝ ΠΡΟΣΦΥΓΗΣ ΝΟΜΙΚΩΝ ΕΝΕΡΓΕΙΩΝ ΣΤΟ Σ.Τ.Ε. ΚΑΙ ΣΕ ΤΑΚΤΙΚΑ ΔΙΚΑΣΤΗΡΙΑ ΚΑΤΑ ΤΟΥ ΚΑΝΟΝΙΣΜΟΥ ",
+      "referenceNumber": "26REQ018480351",
+      "previousRequestReferenceNumber": "26REQ018459633",
+      "signedDate": "2026-02-10",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T13:53:16.433",
+      "procurementDeliveryDate": "2026-02-27",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "662",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090002223",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "99221023",
+        "value": "ΕΠΙΜΕΛΗΤΗΡΙΟ ΗΡΑΚΛΕΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL431",
+        "value": "Ηράκλειο"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1036.F01018.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "75554",
+          "value": "ΔΙΟΙΚΗΣΗ"
+        },
+        "signers": {
+          "key": "100101793",
+          "value": "ΣΟΦΙΑ ΚΑΠΕΤΑΝΑΚΗ - Αναπληρωτής Προϊστάμενος Οικονομικών Υπηρεσιών"
+        }
+      },
+      "totalCostWithVAT": 3000.01,
+      "totalCostWithoutVAT": 2419.36,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 2419.36,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΚΑΛΥΨΗ ΔΑΠΑΝΩΝ ΠΡΟΣΦΥΓΗΣ ΝΟΜΙΚΩΝ ΕΝΕΡΓΕΙΩΝ ΣΤΟ Σ.Τ.Ε. ΚΑΙ ΣΕ ΤΑΚΤΙΚΑ ΔΙΚΑΣΤΗΡΙΑ ΚΑΤΑ ΤΟΥ ΚΑΝΟΝΙΣΜΟΥ ΛΕΙΤΟΥΡΓΙΑΣ ΤΗΣ ΒΙ.ΠΕ. ΗΡΑΚΛΕΙΟΥ",
+          "cpvs": [
+            {
+              "key": "75231100-5",
+              "value": "Νομικές διοικητικές υπηρεσίες που σχετίζονται με τα δικαστήρια"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99221023",
+        "75231100"
+      ],
+      "cpv_divisions": [
+        "75"
+      ],
+      "all_domains": [
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Public Admin, Defence & Social Security"
+    },
+    {
+      "title": "Ορθή επανάληψη τεκμηριωμένου αιτήματος για έγκριση κάθε είδους δαπάνης πολιτικής προστασίας",
+      "referenceNumber": "26REQ018479970",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-01-30",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T13:28:42.578",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "34449",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997844846",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "5007",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL613",
+        "value": "Μαγνησία, Σποράδες"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.905.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81996",
+          "value": "ΤΜΗΜΑ ΠΟΛΙΤΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ Π. Ε. ΜΑΓΝΗΣΙΑΣ & ΣΠΟΡΑΔΩΝ"
+        },
+        "signers": {
+          "key": "100084263",
+          "value": "ΔΗΜΗΤΡΙΟΣ ΚΟΥΡΕΤΑΣ - ΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+        }
+      },
+      "totalCostWithVAT": 100000.0,
+      "totalCostWithoutVAT": 80645.16,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 40322.58,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ορθή επανάληψη τεκμηριωμένου αιτήματος για έγκριση κάθε είδους δαπάνης πολιτικής προστασίας",
+          "cpvs": [
+            {
+              "key": "44423000-1",
+              "value": "Διάφορα είδη"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 40322.58,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ορθή επανάληψη τεκμηριωμένου αιτήματος για έγκριση κάθε είδους δαπάνης πολιτικής προστασίας",
+          "cpvs": [
+            {
+              "key": "75110000-0",
+              "value": "Δημόσιες υπηρεσίες γενικής φύσεως"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "44423000",
+        "75110000"
+      ],
+      "cpv_divisions": [
+        "44",
+        "75"
+      ],
+      "all_domains": [
+        "Construction Materials & Structures",
+        "Public Admin, Defence & Social Security"
+      ],
+      "primary_domain": "Construction Materials & Structures"
+    },
+    {
+      "title": "Ναυαγοσωστική κάλυψη των ακτών του Δήμου Πρέβεζας για το έτος 2026",
+      "referenceNumber": "26REQ018478869",
+      "previousRequestReferenceNumber": "26REQ018472894",
       "signedDate": "2026-02-12",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T12:41:35.818",
+      "submissionDate": "2026-02-13T12:24:56.676",
       "procurementDeliveryDate": "2026-06-01",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "2405",
+      "protocolNumber": "2481",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
@@ -25,7 +456,7 @@
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
-      "approved": false,
+      "approved": true,
       "organization": {
         "key": "6253",
         "value": "ΔΗΜΟΣ ΠΡΕΒΕΖΑΣ"
@@ -53,12 +484,12 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "81648",
-          "value": "ΑΥΤΟΤΕΛΕΣ ΤΜΗΜΑ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ, ΟΡΓΑΝΩΣΗΣ ΚΑΙ ΠΛΗΡΟΦΟΡΙΚΗΣ"
+          "key": "81651",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
         },
         "signers": {
-          "key": "100092519",
-          "value": "ΟΥΡΑΝΙΑ ΚΟΝΤΑΡΑΤΟΥ - Αναπληρωτής Προϊστάμενος"
+          "key": "100058376",
+          "value": "ΔΗΜΗΤΡΙΟΣ ΚΑΤΣΙΚΟΒΟΡΔΟΣ - Αναπληρωτής Διευθυντής"
         }
       },
       "totalCostWithVAT": 641250.18,
@@ -104,24 +535,24 @@
       "primary_domain": "Public Admin, Defence & Social Security"
     },
     {
-      "title": "ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΑΣ ΔΙΚΑΣΤΙΚΟΥ ΕΠΙΜΕΛΗΤΗ ΕΤΩΝ 2024-2025",
-      "referenceNumber": "26REQ018472628",
-      "previousRequestReferenceNumber": "24REQ015384070",
-      "signedDate": "2026-02-05",
-      "lastUpdateDate": "2025-12-12T00:00:00",
-      "submissionDate": "2026-02-12T12:27:01.068",
-      "procurementDeliveryDate": "2026-02-12",
+      "title": " ΔΙΟΙΚΗΤΙΚΗ & ΤΕΧΝΙΚΗ ΥΠΟΣΤΗΡΙΞΗ Δ/ΝΣΗΣ ΤΕΧΝ.ΥΠΗΡΕΣΙΩΝ & ΑΣΤΙΚΟΥ ΠΕΡ/ΝΤΟΣ &ΥΠΟΔΟΜΩΝ",
+      "referenceNumber": "26REQ018478648",
+      "previousRequestReferenceNumber": "24REQ014894847",
+      "signedDate": "2026-02-06",
+      "lastUpdateDate": "2025-02-11T00:00:00",
+      "submissionDate": "2026-02-13T12:11:59.737",
+      "procurementDeliveryDate": "2026-02-13",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "5053",
+      "protocolNumber": "5265",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
-      "authorEmail": "tamiaki@elliniko-argyroupoli.gr",
-      "greekOrganizationVatNumber": false,
+      "authorEmail": "hm@0100.syzefxis.gov.gr",
+      "greekOrganizationVatNumber": true,
       "organizationVatNumber": "997645384",
       "budget": null,
       "commitmentNo": null,
@@ -162,8 +593,8 @@
           "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΣΤΕΦΑΣ - Αντιδήμαρχος"
         }
       },
-      "totalCostWithVAT": 11825.07,
-      "totalCostWithoutVAT": 9536.35,
+      "totalCostWithVAT": 380841.97,
+      "totalCostWithoutVAT": 307130.62,
       "objectDetails": [
         {
           "quantity": 1,
@@ -171,17 +602,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 9536.35,
+          "costWithoutVAT": 307130.62,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΑΣ ΔΙΚΑΣΤΙΚΟΥ ΕΠΙΜΕΛΗΤΗ ΕΤΩΝ 2024-2025",
+          "shortDescription": "ΥΠΗΡΕΣΙΑ ΓΙΑ ΤΗΝ ΔΙΟΙΚΗΤΙΚΗ ΥΠΟΣΤΗΡΙΞΗ ΤΗΣ ΔΙΕΥΘΥΝΣΗΣ ΤΕΧΝΙΚΗΣ ΥΠΗΡΕΣΙΑΣ ΚΑΙ ΤΗΣ ΔΙΕΥΘΥΝΣΗΣ ΑΣΤΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΤΟΥ ΔΗΜΟΥ ΕΛΛΗΝΙΚΟΥ-ΑΡΓΥΡΟΥΠΟΛΗΣ",
           "cpvs": [
             {
-              "key": "75242110-8",
-              "value": "Υπηρεσίες δικαστικού κλητήρα"
+              "key": "75131100-4",
+              "value": "Γενικές υπηρεσίες προσωπικού για το δημόσιο"
             }
           ]
         }
@@ -194,7 +625,7 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "75242110"
+        "75131100"
       ],
       "cpv_divisions": [
         "75"
@@ -205,238 +636,36 @@
       "primary_domain": "Public Admin, Defence & Social Security"
     },
     {
-      "title": "ΑΙΤΗΜΑ ΛΕΙΤΟΥΡΓΙΚΩΝ ΔΑΠΑΝΩΝ A΄ΕΞΑΜΗΝΟΥ 2026 ΠΡΕΣΒΕΙΑΣ ΣΚΟΠΙΩΝ",
-      "referenceNumber": "26REQ018471557",
-      "previousRequestReferenceNumber": "25REQ018119916",
-      "signedDate": "2026-02-12",
+      "title": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ ΕΠΕΚΤΑΣΗ ΛΙΜΕΝΑ ΛΕΙΨΩΝ ΚΑΤΑΣΚ. ΑΠΟΒ. Ο/Γ ΣΤΗ ΘΕΣΗ ΚΑΒΙ",
+      "referenceNumber": "26REQ018477083",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-13",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T11:35:45.321",
-      "procurementDeliveryDate": "2026-02-13",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "ΑΣ 1553",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "4030999357548",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "10",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ"
-      },
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "0",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100024476",
-          "value": "ΓΡΑΦΕΙΟ ΓΕΝΙΚΟΥ ΓΡΑΜΜΑΤΕΑ"
-        },
-        "signers": {
-          "key": "100017544",
-          "value": "ΘΗΡΕΣΙΑ - ΠΑΡΑΣΚΕΥΗ ΑΓΓΕΛΑΤΟΥ - Γενικός Γραμματέας"
-        }
-      },
-      "totalCostWithVAT": 44805.0,
-      "totalCostWithoutVAT": 44805.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 44805,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΛΕΙΤΟΥΡΓΙΚΕΣ ΔΑΠΑΝΕΣ Α΄6ΜΗΝΟΥ 2026 ΠΡΕΣΒΕΙΑΣ ΣΚΟΠΙΩΝ",
-          "cpvs": [
-            {
-              "key": "75211110-2",
-              "value": "Υπηρεσίες προξενείου"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "75211110"
-      ],
-      "cpv_divisions": [
-        "75"
-      ],
-      "all_domains": [
-        "Public Admin, Defence & Social Security"
-      ],
-      "primary_domain": "Public Admin, Defence & Social Security"
-    },
-    {
-      "title": "Ναυαγοσωστικές υπηρεσίες σε παραλίες ευθύνης ΔΛΤΣ",
-      "referenceNumber": "26REQ018471420",
-      "previousRequestReferenceNumber": "25REQ018139498",
-      "signedDate": "2025-12-11",
-      "lastUpdateDate": "2025-12-18T00:00:00",
-      "submissionDate": "2026-02-12T11:29:08.132",
-      "procurementDeliveryDate": "2025-12-18",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "5485/2025",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "099568690",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "50744",
-        "value": "ΔΗΜΟΤΙΚΟ ΛΙΜΕΝΙΚΟ ΤΑΜΕΙΟ ΣΥΡΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL422",
-        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1007.E89174.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "83134",
-          "value": "ΤΕΧΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "100086853",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΓΑΒΙΩΤΗΣ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 130200.0,
-      "totalCostWithoutVAT": 105000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 105000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Ναυαγοσωστικές υπηρεσίες σε παραλίες ευθύνης ΔΛΤΣ",
-          "cpvs": [
-            {
-              "key": "75252000-7",
-              "value": "Υπηρεσίες διάσωσης"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "75252000"
-      ],
-      "cpv_divisions": [
-        "75"
-      ],
-      "all_domains": [
-        "Public Admin, Defence & Social Security"
-      ],
-      "primary_domain": "Public Admin, Defence & Social Security"
-    },
-    {
-      "title": "ΔΕΣΜΕΥΣΗ ΠΙΣΤΩΣΗΣ ΓΙΑ ΤΟ ΟΙΚΟΝΟΜΙΚΟ ΕΤΟΣ 2026 ¨ΕΞΟΔΑ ΓΙΑ ΛΟΙΠΕΣ ΥΠΗΡΕΣΙΕΣ",
-      "referenceNumber": "26REQ018469571",
-      "previousRequestReferenceNumber": "26REQ018469520",
-      "signedDate": "2026-02-09",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T09:52:15.009",
+      "submissionDate": "2026-02-13T10:39:22.004",
       "procurementDeliveryDate": "2026-02-16",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "47250",
+      "protocolNumber": " 3012.6/10212/2026",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090273987",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997881842",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
-      "approved": true,
+      "approved": false,
       "organization": {
-        "key": "100015996",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ"
+        "key": "100015969",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ"
       },
       "nutsCode": {
-        "key": "EL5",
-        "value": "ΒΟΡΕΙΑ ΕΛΛΑΔΑ"
+        "key": "EL3",
+        "value": "ATTIKΗ"
       },
       "typeOfContractingAuthority": {
         "key": "12",
@@ -446,586 +675,45 @@
         "key": "1",
         "value": "Κεντρική Κυβέρνηση"
       },
-      "aaht": "1031.2090000000.0003",
+      "aaht": "1041.0000000000.0001",
       "contractTypes": [
         {
           "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
+            "key": "10",
+            "value": "Έργα"
           }
         }
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "100073459",
-          "value": "ΕΠΙΘΕΩΡΗΣΗ ΕΦΑΡΜΟΓΗΣ ΔΑΣΙΚΗΣ ΠΟΛΙΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ"
+          "key": "90361",
+          "value": "Γ.Γ.Λ.Λ.Π./ ΔΙΕΥΘΥΝΣΗ ΛΙΜΕΝΙΚΩΝ ΥΠΟΔΟΜΩΝ"
         },
         "signers": {
-          "key": "100073727",
-          "value": "ΝΙΚΗΤΑΣ ΦΡΑΓΚΙΣΚΑΚΗΣ - Γενικός Διευθυντής"
+          "key": "100083476",
+          "value": "ΒΑΣΙΛΙΚΗ ΟΙΚΟΝΟΜΟΥ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
         }
       },
-      "totalCostWithVAT": 148115.16,
-      "totalCostWithoutVAT": 119447.71,
-      "objectDetails": [
-        {
-          "quantity": 200,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 119447.71,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Δέσμευση ποσού 148.115,17€ ΑΛΕ 2420989001 \"Έξοδα για λοιπές υπηρεσίες\" του τακτικού Προϋπολογισμού ΥΠΕΝ οικονομικού έτους 2026 για απλήρωτες υποχρεώσεις έτους 2025 για διάθεση καυσόξυλων σε ευπαθείς ομάδαες, υλοποίηση καλλιεργητικών και λοιπών εργασιών συντήρησης δασών για τις ανάγκες της ΕΕΔΠΜΘ",
-          "cpvs": [
-            {
-              "key": "03413000-8",
-              "value": "Καυσόξυλα"
-            },
-            {
-              "key": "75130000-6",
-              "value": "Βοηθητικές κρατικές υπηρεσίες"
-            },
-            {
-              "key": "77231000-8",
-              "value": "Υπηρεσίες διαχείρισης δασοκομίας"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "03413000",
-        "75130000",
-        "77231000"
-      ],
-      "cpv_divisions": [
-        "03",
-        "75",
-        "77"
-      ],
-      "all_domains": [
-        "Agriculture & Forestry",
-        "Public Admin, Defence & Social Security",
-        "Agriculture/Forestry/Landscaping Services"
-      ],
-      "primary_domain": "Public Admin, Defence & Social Security"
-    },
-    {
-      "title": "ΑΙΤΗΜΑ ΔΕΣΜΕΥΣΗΣ ΠΙΣΤΩΣΗΣ ΓΙΑ ΤΟ ΟΙΚΟΝΟΜΙΚΟ ΕΤΟΣ 2026 ¨ΕΞΟΔΑ ΓΙΑ ΛΟΙΠΕΣ ΥΠΗΡΕΣΙΕΣ",
-      "referenceNumber": "26REQ018469520",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-05",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T09:49:13.67",
-      "procurementDeliveryDate": "2026-02-16",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "43347",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090273987",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "100015996",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL5",
-        "value": "ΒΟΡΕΙΑ ΕΛΛΑΔΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1031.2090000000.0003",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100073459",
-          "value": "ΕΠΙΘΕΩΡΗΣΗ ΕΦΑΡΜΟΓΗΣ ΔΑΣΙΚΗΣ ΠΟΛΙΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ"
-        },
-        "signers": {
-          "key": "100073727",
-          "value": "ΝΙΚΗΤΑΣ ΦΡΑΓΚΙΣΚΑΚΗΣ - Γενικός Διευθυντής"
-        }
-      },
-      "totalCostWithVAT": 148115.16,
-      "totalCostWithoutVAT": 119447.71,
-      "objectDetails": [
-        {
-          "quantity": 200,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 119447.71,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Αίτημα δέσμευσης ποσού 148.115,17€ ΑΛΕ 2420989001 \"Έξοδα για λοιπές υπηρεσίες\" του τακτικού Προϋπολογισμού ΥΠΕΝ οικονομικού έτους 2026 για απλήρωτες υποχρεώσεις έτους 2025 για διάθεση καυσόξυλων σε ευπαθείς ομάδαες, υλοποίηση καλλιεργητικών και λοιπών εργασιών συντήρησης δασών για τις ανάγκες της ΕΕΔΠΜΘ",
-          "cpvs": [
-            {
-              "key": "75130000-6",
-              "value": "Βοηθητικές κρατικές υπηρεσίες"
-            },
-            {
-              "key": "03413000-8",
-              "value": "Καυσόξυλα"
-            },
-            {
-              "key": "77231000-8",
-              "value": "Υπηρεσίες διαχείρισης δασοκομίας"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018469571"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "75130000",
-        "03413000",
-        "77231000"
-      ],
-      "cpv_divisions": [
-        "75",
-        "03",
-        "77"
-      ],
-      "all_domains": [
-        "Public Admin, Defence & Social Security",
-        "Agriculture & Forestry",
-        "Agriculture/Forestry/Landscaping Services"
-      ],
-      "primary_domain": "Public Admin, Defence & Social Security"
-    },
-    {
-      "title": "Ειδικές υπηρεσίες Διοικητικού Προσωπικού Τ.Ε.",
-      "referenceNumber": "26REQ018469467",
-      "previousRequestReferenceNumber": "24REQ016025502",
-      "signedDate": "2024-12-18",
-      "lastUpdateDate": "2025-02-05T00:00:00",
-      "submissionDate": "2026-02-12T09:45:59.375",
-      "procurementDeliveryDate": "2026-02-12",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "3058",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": "deyask@otenet.gr",
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "090122534",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "50407",
-        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ (Δ.Ε.Υ.Α.) ΣΚΙΑΘΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL613",
-        "value": "Μαγνησία, Σποράδες"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1007.F00572.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "81190",
-          "value": "ΔΙΕΥΘΥΝΣΗ"
-        },
-        "signers": {
-          "key": "111622",
-          "value": "ΙΩΑΝΝΗΣ ΣΑΡΡΗΣ - Γενικός Διευθυντής"
-        }
-      },
-      "totalCostWithVAT": 37200.0,
-      "totalCostWithoutVAT": 30000.0,
-      "objectDetails": [
-        {
-          "quantity": 20,
-          "type": {
-            "key": "3C",
-            "value": "Ανθρωπομήνας"
-          },
-          "costWithoutVAT": 30000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Ειδικές υπηρεσίες Διοικητικού Προσωπικού Τ.Ε.",
-          "cpvs": [
-            {
-              "key": "75112000-4",
-              "value": "Διοικητικές υπηρεσίες επιχειρηματικών δραστηριοτήτων"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "75112000"
-      ],
-      "cpv_divisions": [
-        "75"
-      ],
-      "all_domains": [
-        "Public Admin, Defence & Social Security"
-      ],
-      "primary_domain": "Public Admin, Defence & Social Security"
-    },
-    {
-      "title": "ΠΑΡΟΧΗ ΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ ΕΝΩΠΙΟΝ ΤΟΥ ΣΥΜΒΟΥΛΙΟΥ ΤΗΣ ΕΠΙΚΡΑΤΕΙΑΣ ΓΙΑ ΥΠΟΘΕΣΗ Ο.Λ.ΚΕ Α.Ε",
-      "referenceNumber": "26REQ018469351",
-      "previousRequestReferenceNumber": "26REQ018469336",
-      "signedDate": "2026-02-11",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T09:38:04.577",
-      "procurementDeliveryDate": "2026-03-05",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "455",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090101391",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "99221107",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΛΙΜΕΝΟΣ ΚΕΡΚΥΡΑΣ Α.Ε"
-      },
-      "nutsCode": {
-        "key": "EL622",
-        "value": "Κέρκυρα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1041.Ε00484.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "78105",
-          "value": "ΟΡΓΑΝΙΣΜΟΣ ΛΙΜΕΝΟΣ ΚΕΡΚΥΡΑΣ Α.Ε."
-        },
-        "signers": {
-          "key": "100098780",
-          "value": "ΔΗΜΗΤΡΗΣ ΑΠΕΡΓΗΣ - Διευθύνων Σύμβουλος"
-        }
-      },
-      "totalCostWithVAT": 14664.24,
-      "totalCostWithoutVAT": 11826.0,
+      "totalCostWithVAT": 5245840.0,
+      "totalCostWithoutVAT": 4230516.13,
       "objectDetails": [
         {
           "quantity": 1,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "Erg",
+            "value": "Έργο"
           },
-          "costWithoutVAT": 11826,
+          "costWithoutVAT": 4193548.39,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΑΡΟΧΗ ΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ ΕΝΩΠΙΟΝ ΤΟΥ ΣΥΜΒΟΥΛΙΟΥ ΤΗΣ ΕΠΙΚΡΑΤΕΙΑΣ ΓΙΑ ΥΠΟΘΕΣΗ Ο.Λ.ΚΕ Α.Ε",
+          "shortDescription": "«Επέκταση Λιμένα Λειψών – Κατασκευή Αποβάθρας Ο/Γ σκαφών στη θέση Καβί Λιμένα».\nΤο αντικείμενο του έργου αφορά στην κατασκευή νέου προβλήτα με στόχο πρωτίστως την ασφαλή\nπροσέγγιση και την εξυπηρέτηση των νέων μεγαλύτερων πλοίων που εξυπηρετούν τη σύνδεση του\nνησιού με τον Πειραιά. Ο νέος προβλήτας πρόκειται να κατασκευαστεί δυτικά του υφιστάμενου\nπροβλήτα και σε επαφή με αυτόν. ",
           "cpvs": [
             {
-              "key": "75231100-5",
-              "value": "Νομικές διοικητικές υπηρεσίες που σχετίζονται με τα δικαστήρια"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [
-        "26PROC018469635"
-      ],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99221107",
-        "75231100"
-      ],
-      "cpv_divisions": [
-        "75"
-      ],
-      "all_domains": [
-        "Public Admin, Defence & Social Security"
-      ],
-      "primary_domain": "Public Admin, Defence & Social Security"
-    },
-    {
-      "title": "ΠΑΡΟΧΗ ΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ ΕΝΩΠΙΟΝ ΤΟΥ ΣΥΜΒΟΥΛΙΟΥ ΤΗΣ ΕΠΙΚΡΑΤΕΙΑΣ ΓΙΑ ΥΠΟΘΕΣΗ Ο.Λ.ΚΕ Α.Ε",
-      "referenceNumber": "26REQ018469336",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-11",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T09:37:24.063",
-      "procurementDeliveryDate": "2026-03-05",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "455",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090101391",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99221107",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΛΙΜΕΝΟΣ ΚΕΡΚΥΡΑΣ Α.Ε"
-      },
-      "nutsCode": {
-        "key": "EL622",
-        "value": "Κέρκυρα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1041.Ε00484.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "78105",
-          "value": "ΟΡΓΑΝΙΣΜΟΣ ΛΙΜΕΝΟΣ ΚΕΡΚΥΡΑΣ Α.Ε."
-        },
-        "signers": {
-          "key": "100098780",
-          "value": "ΔΗΜΗΤΡΗΣ ΑΠΕΡΓΗΣ - Διευθύνων Σύμβουλος"
-        }
-      },
-      "totalCostWithVAT": 14664.24,
-      "totalCostWithoutVAT": 11826.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 11826,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΑΡΟΧΗ ΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ ΕΝΩΠΙΟΝ ΤΟΥ ΣΥΜΒΟΥΛΙΟΥ ΤΗΣ ΕΠΙΚΡΑΤΕΙΑΣ ΓΙΑ ΥΠΟΘΕΣΗ Ο.Λ.ΚΕ Α.Ε",
-          "cpvs": [
-            {
-              "key": "75231100-5",
-              "value": "Νομικές διοικητικές υπηρεσίες που σχετίζονται με τα δικαστήρια"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018469351"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99221107",
-        "75231100"
-      ],
-      "cpv_divisions": [
-        "75"
-      ],
-      "all_domains": [
-        "Public Admin, Defence & Social Security"
-      ],
-      "primary_domain": "Public Admin, Defence & Social Security"
-    },
-    {
-      "title": "«ΥΠΗΡΕΣΙΕΣ ΛΟΓΙΣΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ»",
-      "referenceNumber": "26REQ018469079",
-      "previousRequestReferenceNumber": "25REQ017840918",
-      "signedDate": "2026-02-11",
-      "lastUpdateDate": "2026-02-11T00:00:00",
-      "submissionDate": "2026-02-12T09:22:50.936",
-      "procurementDeliveryDate": "2026-02-12",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "151",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "996558950",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "100099258",
-        "value": "ΛΙΜΕΝΙΚΟ ΤΑΜΕΙΟ ΗΡΑΚΛΕΙΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1041.E00991.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100099399",
-          "value": "ΛΙΜΕΝΙΚΟ ΤΑΜΕΙΟ ΗΡΑΚΛΕΙΟΥ"
-        },
-        "signers": {
-          "key": "100099262",
-          "value": "ΙΩΑΝΝΗΣ ΒΑΡΔΑΒΑΣ - Πρόεδρος"
-        }
-      },
-      "totalCostWithVAT": 31000.0,
-      "totalCostWithoutVAT": 25000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 3500,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΕΦΑΡΜΟΓΗ ΔΙΠΛΟΓΡΑΦΙΚΟΥ ΣΥΣΤΗΜΑΤΟΣ ΚΑΙ ΚΑΤΑΡΤΗΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΚΑΤΑΣΤΑΣΕΩΝ ΚΑΙ ΙΣΟΛΟΓΙΣΜΟΥ ΤΗΣ ΟΙΚΟΝΟΜΙΚΗΣ ΧΡΗΣΗΣ 26/07/2024 – 31/12/2024  ",
-          "cpvs": [
-            {
-              "key": "79211000-6",
-              "value": "Λογιστικές υπηρεσίες"
+              "key": "45241000-8",
+              "value": "Κατασκευαστικές εργασίες για λιμάνια"
             }
           ]
         },
@@ -1035,13 +723,13 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 12000,
+          "costWithoutVAT": 20967.74,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΦΟΡΟΛΟΓΙΚΗ – ΔΙΟΙΚΗΤΙΚΗ ΚΑΤΑΓΡΑΦΗ ΚΑΙ ΑΞΙΟΛΟΓΗΣΗ ΥΦΙΣΤΑΜΕΝΗΣ ΚΑΤΑΣΤΑΣΗΣ.",
+          "shortDescription": "ΛΕΙΤΟΥΡΓΙΚΑ ΕΞΟΔΑ ΜΟΝΑΔΑΣ ΣΥΜΒΑΣΕΩΝ ΣΤΡΑΤΗΓΙΚΗΣ ΣΗΜΑΣΙΑΣ ΤΗΣ ΕΕΣΥΠ",
           "cpvs": [
             {
               "key": "75120000-3",
@@ -1050,22 +738,22 @@
           ]
         },
         {
-          "quantity": 3,
+          "quantity": 1,
           "type": {
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 6000,
+          "costWithoutVAT": 8000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΜΗΝΙΑΙΕΣ ΥΠΗΡΕΣΙΕΣ ΛΟΓΙΣΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ (ΕΦΑΡΜΟΓΗ ΤΟΥ ΔΙΠΛΟΓΡΑΦΙΚΟΥ ΛΟΓΙΣΤΙΚΟΥ ΣΥΣΤΗΜΑΤΟΣ, ΦΟΡΟΤΕΧΝΙΚΗ ΥΠΟΣΤΗΡΙΞΗ ΚΑΙ ΛΟΙΠΕΣ ΛΟΓΙΣΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ)",
+          "shortDescription": "ΣΥΜΒΟΥΛΟΙ ΕΕΣΥΠ",
           "cpvs": [
             {
-              "key": "79211000-6",
-              "value": "Λογιστικές υπηρεσίες"
+              "key": "71318000-0",
+              "value": "Υπηρεσίες παροχής συμβουλών και γνωμοδότησης σε θέματα μηχανικού"
             }
           ]
         },
@@ -1075,17 +763,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 3500,
+          "costWithoutVAT": 8000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΔΙΕΞΑΓΩΓΗ ΑΠΟΓΡΑΦΗΣ ΕΝΑΡΞΗΣ ΚΑΙ ΚΑΤΑΡΤΙΣΗ ΙΣΟΛΟΓΙΣΜΟΥ ΕΝΑΡΞΗΣ 26/07/2024 ",
+          "shortDescription": "ΣΥΜΒΟΥΛΟΙ ΕΕΣΥΠ",
           "cpvs": [
             {
-              "key": "79211000-6",
-              "value": "Λογιστικές υπηρεσίες"
+              "key": "71318000-0",
+              "value": "Υπηρεσίες παροχής συμβουλών και γνωμοδότησης σε θέματα μηχανικού"
             }
           ]
         }
@@ -1098,15 +786,119 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "79211000",
-        "75120000"
+        "45241000",
+        "75120000",
+        "71318000"
       ],
       "cpv_divisions": [
-        "79",
+        "45",
+        "75",
+        "71"
+      ],
+      "all_domains": [
+        "Construction & Works",
+        "Public Admin, Defence & Social Security",
+        "Architecture, Engineering & Inspection"
+      ],
+      "primary_domain": "Construction & Works"
+    },
+    {
+      "title": "Δέσμευση πίστωσης ΑΛΕ 2420989001 (ΝΑΑ3350) ΓΕΝ 2026 αρμοδιότητος ΓΕΝ/Γ3",
+      "referenceNumber": "26REQ018474987",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-05",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T08:03:41.87",
+      "procurementDeliveryDate": "2026-02-27",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "Υ.Σ. 148/05-02-26/Γ3-ΙΒ",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090153025",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL3",
+        "value": "ATTIKΗ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1.011.203.00.000.00",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100000228",
+          "value": "ΓΕΝ/Γ3"
+        },
+        "signers": {
+          "key": "100102377",
+          "value": "ΔΗΜΗΤΡΙΟΣ ΔΙΑΜΑΝΤΑΚΗΣ - Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 124000.0,
+      "totalCostWithoutVAT": 124000.0,
+      "objectDetails": [
+        {
+          "quantity": 2,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 124000,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθειας Παροχής Υπηρεσιών Τηλεκατευθυνόμενων Στόχων για εκτέλεση βολών αέρος/αέρος. Σ-Π 15/25 ΓΕΝ/Ε2 – «ALTUS LSA Α.Ε.» από 25 Σεπ 25 (25SYMV017616708).",
+          "cpvs": [
+            {
+              "key": "75221000-1",
+              "value": "Υπηρεσίες στρατιωτικής άμυνας"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "75221000"
+      ],
+      "cpv_divisions": [
         "75"
       ],
       "all_domains": [
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
         "Public Admin, Defence & Social Security"
       ],
       "primary_domain": "Public Admin, Defence & Social Security"

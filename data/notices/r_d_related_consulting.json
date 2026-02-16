@@ -1,14 +1,14 @@
 {
   "domain": "R&D & Related Consulting",
-  "count": 2,
+  "count": 4,
   "items": [
     {
-      "title": "ΠΡΟΣΚΛΗΣΗ ΥΠΟΒΟΛΗΣ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΥΠΗΡΕΣΙΕΣ ΕΡΕΥΝΑΣ ",
-      "referenceNumber": "26PROC018473152",
-      "signedDate": "2026-02-12T00:00:00",
+      "title": "Πρόσκληση Υποβολής Προσφοράς για την παροχή υπηρεσιών έρευνας και συλλογής πληροφοριών, για τις ανάγ",
+      "referenceNumber": "26PROC018481822",
+      "signedDate": "2026-02-13T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-17T15:00:00",
-      "submissionDate": "2026-02-12T12:57:48.027",
+      "finalSubmissionDate": "2026-02-24T00:00:00",
+      "submissionDate": "2026-02-13T17:38:29.019",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -20,7 +20,7 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1000.E00971.0001",
+      "aaht": "1020.E00980.0001",
       "biddingWebsite": null,
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
@@ -29,11 +29,11 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL301",
+        "value": "Βόρειος Τομέας Αθηνών"
       },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "10674",
+      "nutsCity": "ΜΑΡΟΥΣΟ",
+      "nutsPostalCode": "15123",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -52,12 +52,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100067304",
-          "value": "ΕΠΙΣΤΗΜΟΝΙΚΗΣ ΟΡΓΑΝΩΣΗΣ"
+          "key": "100065159",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ-ΔΙΟΙΚΗΤΙΚΗ"
         },
         "signers": {
-          "key": "100065833",
-          "value": "Μαρία Γαβουνέλη - Πρόεδρος"
+          "key": "100067122",
+          "value": "ΓΡΗΓΟΡΙΟΣ ΛΕΩΝ - Πρόεδρος Δ.Σ."
         }
       },
       "fundingDetails": {
@@ -67,19 +67,216 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2420989"
+        "regularBudgetFundedProgramRef": "61.00.00.0000"
       },
       "systemicNumbers": [],
       "approvedRequests": [
         {
-          "code": "26REQ018472880"
+          "code": "26REQ018481820"
         }
       ],
       "contractingAuthorities": [
         {
           "contractingAuthority": {
-            "key": "13",
-            "value": "Ανεξάρτητη αρχή (με νομική προσωπικότητα)"
+            "key": "10",
+            "value": "ΝΠΙΔ"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL301",
+            "value": "Βόρειος Τομέας Αθηνών"
+          }
+        }
+      ],
+      "organization": {
+        "key": "100065119",
+        "value": "ΕΘΝΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΚΑΤΑΠΟΛΕΜΗΣΗΣ ΤΟΥ ΝΤΟΠΙΝΓΚ   Ε Ο ΚΑ Ν"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "1",
+            "value": "Συμφωνία-πλαίσιο"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "1",
+        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 3,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "totalCostWithVAT": 9830.72,
+      "totalCostWithoutVAT": 7928.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 7928,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πρόσκληση Υποβολής Προσφοράς για την παροχή υπηρεσιών έρευνας και συλλογής πληροφοριών, για τις ανάγκες του «Εθνικού Οργανισμού Καταπολέμησης του Ντόπινγκ».",
+          "cpvs": [
+            {
+              "key": "73110000-6",
+              "value": "Υπηρεσίες έρευνας"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 1,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": 1,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "73110000"
+      ],
+      "cpv_divisions": [
+        "73"
+      ],
+      "all_domains": [
+        "R&D & Related Consulting"
+      ],
+      "primary_domain": "R&D & Related Consulting"
+    },
+    {
+      "title": "Πρόσκληση υποβολής προσφοράς για την παροχή υπηρεσιών εκπόνησης έρευνας για τα Κέντρα Ξένων Γλωσσών",
+      "referenceNumber": "26PROC018479815",
+      "signedDate": "2026-02-13T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-18T12:00:00",
+      "submissionDate": "2026-02-13T13:19:43.555",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1036.F01000.0001",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "nutsCity": "ΑΘΗΝΑ",
+      "nutsPostalCode": "10679",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "77142",
+          "value": "ΔΙΟΙΚΗΤΙΚΗ ΕΠΙΤΡΟΠΗ"
+        },
+        "signers": {
+          "key": "136056",
+          "value": "ΙΩΑΝΝΗΣ ΧΑΤΖΗΘΕΟΔΟΣΙΟΥ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "9769",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018478963"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "9",
+            "value": "ΝΠΔΔ"
           }
         }
       ],
@@ -92,8 +289,8 @@
         }
       ],
       "organization": {
-        "key": "100065828",
-        "value": "ΕΘΝΙΚΗ ΕΠΙΤΡΟΠΗ ΓΙΑ ΤΑ ΔΙΚΑΙΩΜΑΤΑ ΤΟΥ ΑΝΘΡΩΠΟΥ"
+        "key": "99221005",
+        "value": "ΕΠΑΓΓΕΛΜΑΤΙΚΟ ΕΠΙΜΕΛ. ΑΘΗΝΩΝ"
       },
       "typeOfProcedure": {
         "key": "6",
@@ -122,12 +319,12 @@
       },
       "digitalPlatform": null,
       "criteriaCode": {
-        "key": "4",
-        "value": "Βάσει κόστους – άλλο"
+        "key": "2",
+        "value": "Βάσει τιμής"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "noticeType": {
         "key": "4",
@@ -137,31 +334,31 @@
         "key": "1",
         "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 9,
+      "contractDuration": 3,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 21150.0,
-      "totalCostWithoutVAT": 17056.45,
+      "totalCostWithVAT": 8680.0,
+      "totalCostWithoutVAT": 7000.0,
       "objectDetails": [
         {
-          "quantity": 1,
+          "quantity": 0,
           "type": {
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 17056.45,
+          "costWithoutVAT": 7000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Πρόσκληση υποβολής οικονομικής προσφοράς για προμήθεια υπηρεσιών έρευνας διεθνούς, ευρωπαϊκής και εθνικής νομοθεσίας και νομολογίας για τα ανθρώπινα δικαιώματα, για την υποστήριξη της εκτέλεσης διεθνών υποχρεώσεων της ΕΕΔΑ, για το έτος 2026",
+          "shortDescription": "Πρόσκληση υποβολής προσφοράς για την παροχή υπηρεσιών εκπόνησης έρευνας για τα Κέντρα Ξένων Γλωσσών",
           "cpvs": [
             {
-              "key": "73210000-7",
-              "value": "Υπηρεσίες παροχής συμβουλών σε θέματα έρευνας"
+              "key": "73110000-6",
+              "value": "Υπηρεσίες έρευνας"
             }
           ],
           "greenContracts": {
@@ -189,7 +386,8 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "73210000"
+        "99221005",
+        "73110000"
       ],
       "cpv_divisions": [
         "73"
@@ -200,12 +398,12 @@
       "primary_domain": "R&D & Related Consulting"
     },
     {
-      "title": "Διακήρυξη υπηρεσιών \"Υπηρεσίες παροχής συμβουλών σε θέματα γενικής διαχείρισης\", ΚΕ 83706",
-      "referenceNumber": "26PROC018470334",
-      "signedDate": "2026-02-11T00:00:00",
+      "title": "Τεύχος Διακήρυξης για την Παροχή Υπηρεσιών Στρατηγικού Σχεδιασμού, Έρευνας και Ανάπτυξης στους Τομεί",
+      "referenceNumber": "26PROC018479594",
+      "signedDate": "2026-02-13T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-03-02T14:00:00",
-      "submissionDate": "2026-02-12T10:30:44.609",
+      "finalSubmissionDate": "2026-03-02T15:00:00",
+      "submissionDate": "2026-02-13T13:07:39.696",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -217,7 +415,7 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1020.E00671.0001",
+      "aaht": "1036.F01008.0001",
       "biddingWebsite": "https://nepps.eprocurement.gov.gr/",
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
@@ -226,11 +424,11 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL512",
-        "value": "Ξάνθη"
+        "key": "EL632",
+        "value": "Αχαΐα"
       },
-      "nutsCity": "Ξάνθη",
-      "nutsPostalCode": "67100",
+      "nutsCity": "ΠΑΤΡΑ",
+      "nutsPostalCode": "26221",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -240,40 +438,40 @@
         "value": "Όχι"
       },
       "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
         "key": "1",
         "value": "Ναι"
       },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
       "contractingData": {
         "unitsOperator": {
-          "key": "75481",
-          "value": "ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ"
+          "key": "77417",
+          "value": "ΔΙΟΙΚΗΤΙΚΗ ΕΠΙΤΡΟΠΗ"
         },
         "signers": {
-          "key": "100078188",
-          "value": "ΓΕΩΡΓΙΟΣ ΜΠΡΟΥΦΑΣ - Αντιπρύτανης"
+          "key": "100095315",
+          "value": "ΘΕΟΔΩΡΟΣ ΛΟΥΛΟΥΔΗΣ - Πρόεδρος Δ.Σ."
         }
       },
       "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
+        "publicFundingRef": "601/3",
+        "publicFundingRefNum": "2025ΕΠ60130012",
+        "publicFundingRefOps": "20864",
         "cofundProgramRef": null,
-        "selfFundProgramRef": "iNTERREG NEXT BLACK SEA Basin",
+        "selfFundProgramRef": null,
         "espaFundProgramRef": null,
         "regularBudgetFundedProgramRef": null
       },
       "systemicNumbers": [
         {
-          "systemicNumber": "401029"
+          "systemicNumber": "404013"
         }
       ],
       "approvedRequests": [
         {
-          "code": "26REQ018469485"
+          "code": "26REQ018463423"
         }
       ],
       "contractingAuthorities": [
@@ -287,14 +485,14 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL512",
-            "value": "Ξάνθη"
+            "key": "EL632",
+            "value": "Αχαΐα"
           }
         }
       ],
       "organization": {
-        "key": "99202868",
-        "value": "ΔΗΜΟΚΡΙΤΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΡΑΚΗΣ"
+        "key": "99221013",
+        "value": "ΕΠΙΜΕΛΗΤΗΡΙΟ ΑΧΑΙΑΣ"
       },
       "typeOfProcedure": {
         "key": "1",
@@ -314,8 +512,8 @@
         }
       ],
       "legalContext": {
-        "key": "4",
-        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
       },
       "conductingProceedings": {
         "key": "1",
@@ -330,24 +528,24 @@
         "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "noticeType": {
         "key": "3",
         "value": "Διακήρυξη"
       },
       "contractingAuthorityActivity": {
-        "key": "11",
-        "value": "Εκπαίδευση"
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 2,
+      "contractDuration": 14,
       "contractDurationUnitOfMeasure": {
-        "key": "4",
-        "value": "Έτη"
+        "key": "3",
+        "value": "Μήνες"
       },
-      "totalCostWithVAT": 151660.0,
-      "totalCostWithoutVAT": 122306.45,
+      "totalCostWithVAT": 44000.0,
+      "totalCostWithoutVAT": 35483.87,
       "objectDetails": [
         {
           "quantity": 1,
@@ -355,57 +553,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 122306.45,
+          "costWithoutVAT": 35483.87,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Υπηρεσίες παροχής συμβουλών σε θέματα γενικής διαχείρισης, στο πλαίσιο του έργου με τίτλο \"SUSTAIN-2 - A Sustainability Model for Tourism (F&B)\", ΚΕ 83706 ",
+          "shortDescription": "Παροχή Υπηρεσιών Στρατηγικού Σχεδιασμού, Έρευνας και Ανάπτυξης στους Τομείς του Τουρισμού και των Πολιτιστικών Βιομηχανιών της Αχαΐας στο πλαίσιο του έργου M.A.R.K.A.T.O. (MIS: 6006562) του Προγράμματος «INTERREG GREECE - ITALY 2021- 2027»",
           "cpvs": [
             {
-              "key": "79421000-1",
-              "value": "Υπηρεσίες διαχείρισης έργων"
-            },
-            {
-              "key": "79341400-0",
-              "value": "Υπηρεσίες διαφημιστικής εκστρατείας"
-            },
-            {
-              "key": "73110000-6",
-              "value": "Υπηρεσίες έρευνας"
-            },
-            {
-              "key": "72322000-8",
-              "value": "Υπηρεσίες διαχείρισης δεδομένων"
-            },
-            {
-              "key": "73220000-0",
-              "value": "Υπηρεσίες παροχής συμβουλών σε θέματα ανάπτυξης"
-            },
-            {
-              "key": "79952000-2",
-              "value": "Υπηρεσίες εκδηλώσεων"
-            },
-            {
-              "key": "79411000-8",
-              "value": "Υπηρεσίες παροχής συμβουλών σε θέματα γενικής διαχείρισης"
-            },
-            {
-              "key": "72212482-1",
-              "value": "Υπηρεσίες ανάπτυξης λογισμικού επιχειρηματικών πληροφοριών"
-            },
-            {
-              "key": "80510000-2",
-              "value": "Υπηρεσίες κατάρτισης εμπειρογνωμόνων"
-            },
-            {
-              "key": "79415200-8",
-              "value": "Υπηρεσίες παροχής συμβουλών σε θέματα σχεδιασμού"
-            },
-            {
-              "key": "80530000-8",
-              "value": "Υπηρεσίες επαγγελματικής κατάρτισης"
+              "key": "73200000-4",
+              "value": "Υπηρεσίες παροχής συμβουλών σε θέματα έρευνας και ανάπτυξης"
             }
           ],
           "greenContracts": {
@@ -418,7 +576,205 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "offersValidTime": 360,
+      "offersValidTime": 2,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "99221013",
+        "73200000"
+      ],
+      "cpv_divisions": [
+        "73"
+      ],
+      "all_domains": [
+        "R&D & Related Consulting"
+      ],
+      "primary_domain": "R&D & Related Consulting"
+    },
+    {
+      "title": "Προμήθεια και φόρτιση ηλεκτρονικών διατακτικών σίτισης μέσω επαναφορτιζόμενης κάρτας για το προσωπικ",
+      "referenceNumber": "26PROC018479276",
+      "signedDate": "2026-02-13T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-27T00:00:00",
+      "submissionDate": "2026-02-13T12:49:33.78",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.F00295.0001",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
+      },
+      "nutsCity": "ΑΣΠΡΟΒΑΛΤΑ",
+      "nutsPostalCode": "57021",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100000057",
+          "value": "ΔΕΥΑΒ"
+        },
+        "signers": {
+          "key": "100051773",
+          "value": "ΧΡΗΣΤΟΣ ΓΚΟΛΙΔΑΚΗΣ - Πρόεδρος"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "60.02.04.02"
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018477381"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "10",
+            "value": "ΝΠΙΔ"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL",
+            "value": "ΕΛΛΑΔΑ"
+          }
+        }
+      ],
+      "organization": {
+        "key": "52410",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΔΗΜΟΥ ΒΟΛΒΗΣ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "7",
+        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "1",
+        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 11,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "totalCostWithVAT": 23872.73,
+      "totalCostWithoutVAT": 19252.2,
+      "objectDetails": [
+        {
+          "quantity": 33,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 19252.2,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΚΔΟΣΗ ΕΠΑΝΑΦΟΡΤΙΖΟΜΕΝΩΝ ΚΑΡΤΩΝ ΕΠΑΝΕΚΔΟΣΗ ΕΠΑΝΑΦΟΡΤΗΖΟΜΕΝΩΝ ΚΑΡΤΩΝ ΣΕ ΠΕΡΙΠΤΩΣΗ ΑΠΩΛΕΙΑΣ-ΚΛΟΠΗΣ ΥΠΟΣΤΗΡΙΞΗ ΦΟΡΤΗΣΗΣ ΚΑΡΤΩΝ ΕΞΟΔΑ ΑΠΟΣΤΟΛΗΣ ",
+          "cpvs": [
+            {
+              "key": "73220000-0",
+              "value": "Υπηρεσίες παροχής συμβουλών σε θέματα ανάπτυξης"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 0,
       "offersValidTimeUnitOfMeasure": {
         "key": "1",
         "value": "Ημέρες"
@@ -433,32 +789,15 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "99202868",
-        "79421000",
-        "79341400",
-        "73110000",
-        "72322000",
-        "73220000",
-        "79952000",
-        "79411000",
-        "72212482",
-        "80510000",
-        "79415200",
-        "80530000"
+        "73220000"
       ],
       "cpv_divisions": [
-        "79",
-        "73",
-        "72",
-        "80"
+        "73"
       ],
       "all_domains": [
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "R&D & Related Consulting",
-        "IT Services",
-        "Education & Training"
+        "R&D & Related Consulting"
       ],
-      "primary_domain": "IT Services"
+      "primary_domain": "R&D & Related Consulting"
     }
   ]
 }

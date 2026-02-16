@@ -1,13 +1,13 @@
 {
   "domain": "Transport Support & Travel",
-  "count": 9,
+  "count": 16,
   "items": [
     {
-      "title": "ΣΥΜΒΑΣΗ",
-      "referenceNumber": "26PAY018474541",
+      "title": "ΕΝΤΟΛΗ ΠΛΗΡΩΜΗΣ",
+      "referenceNumber": "26PAY018481806",
       "auctionReferenceNumber": null,
-      "signedDate": "2025-12-31T00:00:00",
-      "submissionDate": "2026-02-12T16:41:30.302",
+      "signedDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T17:30:24.079",
       "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
@@ -18,19 +18,686 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1022.E00372.0001",
-      "paymentCommitmentCode": "20/9-1-26",
-      "organizationVatNumber": "090067737",
+      "aaht": "1024.F01229.0001",
+      "paymentCommitmentCode": "0",
+      "organizationVatNumber": "094091439",
       "greekOrganizationVatNumber": true,
       "commitmentNo": null,
       "contractValue": null,
       "organization": {
-        "key": "99221386",
-        "value": "ΚΡΑΤΙΚΟ ΩΔΕΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ"
+        "key": "99221127",
+        "value": "ΔΙΩΡΥΓΑ ΚΟΡΙΝΘΟΥ ΑΕ"
       },
       "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
+        "key": "EL652",
+        "value": "Κορινθία"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "10679",
+          "value": "ΑΕΔΙΚ ΥΠΟΚΑΤΑΣΤΗΜΑ"
+        },
+        "signers": {
+          "key": "100100795",
+          "value": "ΑΘΑΝΑΣΙΟΣ ΜΠΙΚΑΣ - Διευθύνων Σύμβουλος"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "6100",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 24800.0,
+      "totalCostWithoutVAT": 20000.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 20000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Παροχή Υπηρεσιών λειτουργίας των βυθιζόμενων γεφυρών της Διώρυγας Κορίνθου, CPV: 63712310-9 (Υπηρεσίες λειτουργίας γεφυρών).",
+          "cpvs": [
+            {
+              "key": "63712310-9",
+              "value": "Υπηρεσίες λειτουργίας γεφυρών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΙΣΘΜΙΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "094287854",
+          "greekVatNo": true,
+          "name": "ΠΛΕΓΜΑ Α.Ε.",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "26SYMV018405318",
+      "cpv_codes_extracted": [
+        "99221127",
+        "63712310"
+      ],
+      "cpv_divisions": [
+        "63"
+      ],
+      "all_domains": [
+        "Transport Support & Travel"
+      ],
+      "primary_domain": "Transport Support & Travel"
+    },
+    {
+      "title": "Οριστικοποίηση πληρωμής   «ΓΕΩΡΓΙΑ ΣΑΝΤΟΡΙΝΑΙΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ (Γραφείο Γενικού Τουρισμού)»",
+      "referenceNumber": "26PAY018481118",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T14:45:48.775",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1009.Ε00521.0001",
+      "paymentCommitmentCode": "01110",
+      "organizationVatNumber": "094439436",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "99200058",
+        "value": "ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΕΠΕΝΔΥΣΕΩΝ ΚΑΙ ΕΞΩΤΕΡΙΚΟΥ ΕΜΠΟΡΙΟΥ Α.Ε."
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "75615",
+          "value": "ΔΙΟΙΚΗΣΗ"
+        },
+        "signers": {
+          "key": "100075158",
+          "value": "ΜΑΡΙΝΟΣ ΓΙΑΝΝΟΠΟΥΛΟΣ - Διευθύνων Σύμβουλος"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": "-",
+        "publicFundingRefNum": "-",
+        "publicFundingRefOps": "-",
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 8154.24,
+      "totalCostWithoutVAT": 6576.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 6576,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αφορά το Εγκεκριμένο αίτημα με ΑΔΑΜ: 25REQ017976498 και την   Πρόσκληση υποβολής προσφοράς με ΑΔΑΜ: 25PROC018086009  και την Ανάθεση με ΑΔΑΜ: 26AWRD018418210 Οριστικοποίηση πληρωμής   «ΓΕΩΡΓΙΑ ΣΑΝΤΟΡΙΝΑΙΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ (Γραφείο Γενικού Τουρισμού)», με δ.τ. «EARTHSCAPE TRAVEL». - Διαμονή και μετακίνηση - Διεθνής Έκθεση GULFOOD 2026",
+          "cpvs": [
+            {
+              "key": "63510000-7",
+              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "066898914",
+          "greekVatNo": true,
+          "name": "«ΓΕΩΡΓΙΑ ΣΑΝΤΟΡΙΝΑΙΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ (Γραφείο Γενικού Τουρισμού)», με δ.τ. «EARTHSCAPE TRAVEL»",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "26SYMV018418223",
+      "cpv_codes_extracted": [
+        "99200058",
+        "63510000"
+      ],
+      "cpv_divisions": [
+        "63"
+      ],
+      "all_domains": [
+        "Transport Support & Travel"
+      ],
+      "primary_domain": "Transport Support & Travel"
+    },
+    {
+      "title": "ΑΠΟΦΑΣΗ ΕΚΚΑΘΑΡΙΣΗΣ/ΕΝΤΟΛΗ ΠΛΗΡΩΜΗΣ 61",
+      "referenceNumber": "26PAY018480373",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-06T00:00:00",
+      "submissionDate": "2026-02-13T13:54:34.465",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1055.0000000000.0001",
+      "paymentCommitmentCode": "90ΞΧΗ-0ΙΡ",
+      "organizationVatNumber": "996797093",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "100056663",
+        "value": "ΥΠΟΥΡΓΕΙΟ  ΜΕΤΑΝΑΣΤΕΥΣΗΣ ΚΑΙ ΑΣΥΛΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL307",
+        "value": "Πειραιάς, Νήσοι"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "1",
+            "value": "Συμφωνία-πλαίσιο"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100065305",
+          "value": "ΤΜΗΜΑ ΕΚΤΕΛΕΣΗΣ Π.Δ.Ε. ΚΑΙ ΛΟΙΠΩΝ ΔΡΑΣΕΩΝ"
+        },
+        "signers": {
+          "key": "100063948",
+          "value": "ΣΤΕΦΑΝΟΣ ΖΑΡΑΚΑΣ - Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": "9562",
+        "publicFundingRefNum": "2023ΣΕ95620007",
+        "publicFundingRefOps": "6000320",
+        "cofundProgramRef": "6000320",
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 2280.97,
+      "totalCostWithoutVAT": 2280.97,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 2280.97,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Δαπάνη για την παροχή υπηρεσιών ΑΕΡΟΠΟΡΙΚΩΝ μετακινήσεων Πολιτών Τρίτων Χωρών (ΠΤΧ) [107ο ΑΙΤΗΜΑ],  σύμφωνα με την υπ’ αριθμ. πρωτ.  314620/16-06-2023 [ΑΔΑΜ: 23SYMV012896910 2023-06-16] 3η εκτελεστική σύμβαση, , όπως τροποποιήθηκε με την υπ’ αριθμ. 106771/12-06-2025 (ΑΔΑΜ: 25SYMV017007242 2025-06-13) σύμβαση.",
+          "cpvs": [
+            {
+              "key": "63510000-7",
+              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
+            },
+            {
+              "key": "60400000-2",
+              "value": "Υπηρεσίες αεροπορικών μεταφορών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "094252368",
+          "greekVatNo": false,
+          "name": "G.S.ΤΡΑΒΕΛ ΑΝΩΝΥΜΗ ΕΜΠΟΡΙΚΗ ΚΑΙ ΤΟΥΡΙΣΤΙΚΗ ΕΤΑΙΡΕΙΑ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV017007242",
+      "cpv_codes_extracted": [
+        "63510000",
+        "60400000"
+      ],
+      "cpv_divisions": [
+        "63",
+        "60"
+      ],
+      "all_domains": [
+        "Transport Support & Travel",
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "ΥΠΗΡΕΣΙΕΣ LOGISTICS",
+      "referenceNumber": "26PAY018480302",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-13T13:50:10.987",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1036.E00341.0001",
+      "paymentCommitmentCode": "ΡΧ6Λ469ΗΚΥ-Κ27",
+      "organizationVatNumber": "090101655",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "99221065",
+        "value": "ΙΔΡΥΜΑ ΤΕΧΝΟΛΟΓΙΑΣ ΚΑΙ ΕΡΕΥΝΑΣ (ΙΤΕ)"
+      },
+      "nutsCode": {
+        "key": "EL431",
+        "value": "Ηράκλειο"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "1",
+            "value": "Συμφωνία-πλαίσιο"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "72478",
+          "value": "ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ (ΠΕΚ)"
+        },
+        "signers": {
+          "key": "135953",
+          "value": "ΔΙΟΝΥΣΙΑ ΔΑΣΚΑΛΟΥ - Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "ΙΔΙΟΙ ΠΟΡΟΙ",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 11922.07,
+      "totalCostWithoutVAT": 9614.57,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 9614.57,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΔΙΑΚΙΝΗΣΗΣ ΚΑΙ ΑΠΟΘΗΚΕΥΣΗΣ ΕΜΠΟΡΕΥΜΑΤΩΝ",
+          "cpvs": [
+            {
+              "key": "63100000-0",
+              "value": "Υπηρεσίες διακίνησης και αποθήκευσης εμπορευμάτων"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΗΡΑΚΛΕΙΟ ΚΡΗΤΗΣ",
+          "cityOfConstruction": "GR",
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "094393313",
+          "greekVatNo": true,
+          "name": "ΔΙ.Α.Σ. ΑΝΩΝΥΜΟΣ ΕΜΠΟΡΙΚΗ ΕΤΑΙΡΕΙΑ - ΥΠΗΡΕΣΙΕΣ LOGISTICS",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "26SYMV018387056",
+      "cpv_codes_extracted": [
+        "99221065",
+        "63100000"
+      ],
+      "cpv_divisions": [
+        "63"
+      ],
+      "all_domains": [
+        "Transport Support & Travel"
+      ],
+      "primary_domain": "Transport Support & Travel"
+    },
+    {
+      "title": "ΑΠΟΦΑΣΗ ΕΚΚΑΘΑΡΙΣΗΣ/ΕΝΤΟΛΗ ΠΛΗΡΩΜΗΣ 62",
+      "referenceNumber": "26PAY018480181",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-06T00:00:00",
+      "submissionDate": "2026-02-13T13:41:46.252",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1055.0000000000.0001",
+      "paymentCommitmentCode": "90ΞΧΗ-0ΙΡ",
+      "organizationVatNumber": "996797093",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "100056663",
+        "value": "ΥΠΟΥΡΓΕΙΟ  ΜΕΤΑΝΑΣΤΕΥΣΗΣ ΚΑΙ ΑΣΥΛΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL307",
+        "value": "Πειραιάς, Νήσοι"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "1",
+            "value": "Συμφωνία-πλαίσιο"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100065305",
+          "value": "ΤΜΗΜΑ ΕΚΤΕΛΕΣΗΣ Π.Δ.Ε. ΚΑΙ ΛΟΙΠΩΝ ΔΡΑΣΕΩΝ"
+        },
+        "signers": {
+          "key": "100063948",
+          "value": "ΣΤΕΦΑΝΟΣ ΖΑΡΑΚΑΣ - Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": "9562",
+        "publicFundingRefNum": "2023ΣΕ95620007",
+        "publicFundingRefOps": "6000320",
+        "cofundProgramRef": "6000320",
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 890.86,
+      "totalCostWithoutVAT": 890.86,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 890.86,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Δαπάνη για την παροχή υπηρεσιών ΑΕΡΟΠΟΡΙΚΩΝ μετακινήσεων Πολιτών Τρίτων Χωρών (ΠΤΧ) [108ο ΑΙΤΗΜΑ],  σύμφωνα με την υπ’ αριθμ. πρωτ.  314620/16-06-2023 [ΑΔΑΜ: 23SYMV012896910 2023-06-16] 3η εκτελεστική σύμβαση, , όπως τροποποιήθηκε με την υπ’ αριθμ. 106771/12-06-2025 (ΑΔΑΜ: 25SYMV017007242 2025-06-13) σύμβαση.",
+          "cpvs": [
+            {
+              "key": "63510000-7",
+              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
+            },
+            {
+              "key": "60400000-2",
+              "value": "Υπηρεσίες αεροπορικών μεταφορών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "094252368",
+          "greekVatNo": false,
+          "name": "G.S.ΤΡΑΒΕΛ ΑΝΩΝΥΜΗ ΕΜΠΟΡΙΚΗ ΚΑΙ ΤΟΥΡΙΣΤΙΚΗ ΕΤΑΙΡΕΙΑ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV017007242",
+      "cpv_codes_extracted": [
+        "63510000",
+        "60400000"
+      ],
+      "cpv_divisions": [
+        "63",
+        "60"
+      ],
+      "all_domains": [
+        "Transport Support & Travel",
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΚΑΤΑΓΡΑΦΗΣ ΣΚΑΦΩΝ & ΕΙΣΠΡΑΞΗΣ ΤΕΛΩΝ ΣΤΟ ΕΝΕΤΙΚΟ ΛΙΜΑΝΙ ΕΤΟΥΣ 2026",
+      "referenceNumber": "26PAY018479009",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-13T12:33:17.565",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1041.Ε00991.0001",
+      "paymentCommitmentCode": "14",
+      "organizationVatNumber": "996558950",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "100099258",
+        "value": "ΛΙΜΕΝΙΚΟ ΤΑΜΕΙΟ ΗΡΑΚΛΕΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
       },
       "centralizedMarkets": [
         {
@@ -55,12 +722,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "76276",
-          "value": "ΚΡΑΤΙΚΟ ΩΔΕΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ"
+          "key": "100099399",
+          "value": "ΛΙΜΕΝΙΚΟ ΤΑΜΕΙΟ ΗΡΑΚΛΕΙΟΥ"
         },
         "signers": {
-          "key": "100070399",
-          "value": "ΝΙΚΟΛΑΟΣ ΑΒΔΕΛΛΑΣ - Πρόεδρος Δ.Σ."
+          "key": "100099262",
+          "value": "ΙΩΑΝΝΗΣ ΒΑΡΔΑΒΑΣ - Πρόεδρος"
         }
       },
       "fundingDetails": {
@@ -70,11 +737,11 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "0419"
+        "regularBudgetFundedProgramRef": "0429"
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 2740.4,
-      "totalCostWithoutVAT": 2210.0,
+      "totalCostWithVAT": 29521.92,
+      "totalCostWithoutVAT": 23808.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -82,31 +749,31 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 2210,
+          "costWithoutVAT": 23808,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΑΠΟΘΗΚΕΥΣΗ ΕΞΟΠΛΙΣΜΟΥ ΤΟΥ ΚΩΘ ΓΙΑ 1 ΕΤΟΣ ΤΙΜ 326/30-1-26 ΣΥΝΟΛ ΠΟΣΟΥ 2.740,40",
+          "shortDescription": "ΠΑΡΟΧΗΣ ΑΝΕΞΑΡΤΗΤΩΝ ΥΠΗΡΕΣΙΩΝ ΚΑΤΑΓΡΑΦΗΣ ΠΛΟΙΩΝ/ΣΚΑΦΩΝ ΣΤΟ ΛΙΜΕΝΙΚΟ ΤΑΜΕΙΟ ΗΡΑΚΛΕΙΟΥ",
           "cpvs": [
             {
-              "key": "63121100-4",
-              "value": "Υπηρεσίες αποθήκευσης"
+              "key": "63723000-3",
+              "value": "Υπηρεσίες ελλιμενισμού πλοίων"
             }
           ],
           "addressForDelivery": null,
           "streetNumber": null,
           "postalCode": null,
-          "city": "Θεσσαλονίκη",
+          "city": "ΗΡΑΚΛΕΙΟ",
           "cityOfConstruction": null,
           "countryOfDelivery": {
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "996403270",
-          "greekVatNo": true,
-          "name": "ΟΡΦΕΥΣ ΒΕΪΝΟΓΛΟΥ ΔΙΕΘΝΕΙΣ ΜΕΤΑΦΟΡΕΣ ΟΙΚΟΣΚΕΥΩΝ, ΕΚΘΕΣΕΩΝ & ΕΡΓΩΝ ΤΕΧΝΗΣ ΜΟΝΟΠΡΟΣΩΠΗ ΑΕ",
+          "vatNo": "070366119",
+          "greekVatNo": false,
+          "name": "ΠΙΣΤΟΛΑ ΑΝΑΣΤΑΣΙΑ",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -120,10 +787,9 @@
       "mixedContract": false,
       "requestRefNo": null,
       "auctionRefNo": null,
-      "contractRefNo": "25SYMV018292781",
+      "contractRefNo": "26SYMV018321897",
       "cpv_codes_extracted": [
-        "99221386",
-        "63121100"
+        "63723000"
       ],
       "cpv_divisions": [
         "63"
@@ -134,11 +800,11 @@
       "primary_domain": "Transport Support & Travel"
     },
     {
-      "title": "ΔΑΠΑΝΗ ΓΙΑ ΤΗΝ ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΑΣ ΠΟΥ ΑΦΟΡΑ ΣΤΗΝ ΟΡΓΑΝΩΣΗ ΚΑΙ ΕΠΙΜΕΛΕΙΑ ΤΑΞΙΔΙΩΤΙΚΟΥ ΠΑΚΕΤΟΥ ΓΙΑ ΦΙΛΟΞ",
-      "referenceNumber": "26PAY018474219",
+      "title": "Ένταλμα ΑΜ8884, υπηρεσίες εκδρομής του ΚΦΑΑ Μακρινίτσας",
+      "referenceNumber": "26PAY018478853",
       "auctionReferenceNumber": null,
-      "signedDate": "2026-02-11T00:00:00",
-      "submissionDate": "2026-02-12T14:34:19.605",
+      "signedDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T12:23:43.26",
       "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
@@ -149,19 +815,19 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007.Ε85101.0001",
-      "paymentCommitmentCode": "ΨΝΧΠΩΞΥ-ΓΟΟ",
-      "organizationVatNumber": "090001263",
+      "aaht": "-",
+      "paymentCommitmentCode": "ΨΔ0546ΜΔΨΟ-0Ψ7",
+      "organizationVatNumber": "090193521",
       "greekOrganizationVatNumber": true,
       "commitmentNo": null,
       "contractValue": null,
       "organization": {
-        "key": "6243",
-        "value": "ΔΗΜΟΣ ΠΕΙΡΑΙΩΣ"
+        "key": "100033257",
+        "value": "ΑΡΣΙΣ ΚΟΙΝΩΝΙΚΗ ΟΡΓΑΝΩΣΗ ΥΠΟΣΤΗΡΙΞΗΣ ΝΕΩΝ"
       },
       "nutsCode": {
-        "key": "EL307",
-        "value": "Πειραιάς, Νήσοι"
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
       },
       "centralizedMarkets": [
         {
@@ -177,35 +843,35 @@
         "value": "Υπηρεσίες"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
+        "key": "10",
+        "value": "ΝΠΙΔ"
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "82562",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ ΔΗΜΟΥ ΠΕΙΡΑΙΑ"
+          "key": "100033875",
+          "value": "ΤΜΗΜΑ ΠΡΟΜΗΘΕΙΩΝ ΜΕΤΟΙΚΟΣ"
         },
         "signers": {
-          "key": "100054667",
-          "value": "ΔΗΜΗΤΡΙΟΣ ΧΑΣΤΑΣ - Διευθυντής"
+          "key": "100083261",
+          "value": "Δημητρα Γκροσου - Υπεύθυνος Τμήματος"
         }
       },
       "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
+        "publicFundingRef": "Ε9562",
+        "publicFundingRefNum": "2024ΣΕ95620042",
+        "publicFundingRefOps": "6016373",
         "cofundProgramRef": null,
-        "selfFundProgramRef": "000.2420906007",
+        "selfFundProgramRef": null,
         "espaFundProgramRef": null,
         "regularBudgetFundedProgramRef": null
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 5730.0,
-      "totalCostWithoutVAT": 5730.0,
+      "totalCostWithVAT": 1417.22,
+      "totalCostWithoutVAT": 1417.22,
       "objectDetails": [
         {
           "quantity": 1,
@@ -213,31 +879,31 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 5730,
+          "costWithoutVAT": 1417.22,
           "vat": "0",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΦΙΛΟΞΕΝΙΑ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ QINGDAO  ",
+          "shortDescription": "Παροχή υπηρεσιών οργανωμένων εκδρομών για τις ανάγκες του Κ.Φ.Α.Α (Κέντρου Φιλοξενίας Ασυνόδευτων Ανηλίκων) στη Μακρινίτσα ",
           "cpvs": [
             {
-              "key": "63516000-9",
-              "value": "Υπηρεσίες διαχείρισης ταξιδίων"
+              "key": "63511000-4",
+              "value": "Υπηρεσίες οργανωμένων εκδρομών"
             }
           ],
           "addressForDelivery": null,
           "streetNumber": null,
           "postalCode": null,
-          "city": "ΠΕΙΡΑΙΑΣ",
+          "city": "Μακρινίτσα",
           "cityOfConstruction": null,
           "countryOfDelivery": {
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "800592992",
-          "greekVatNo": false,
-          "name": "GN TOURS ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ  ΕΤΑΙΡΕΙΑ",
+          "vatNo": "040651233",
+          "greekVatNo": true,
+          "name": "ΤΣΙΝΗΣ ΝΙΚΟΛΑΟΣ",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -249,11 +915,11 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "requestRefNo": "25REQ017739584",
-      "auctionRefNo": null,
+      "requestRefNo": null,
+      "auctionRefNo": "25AWRD018157004",
       "contractRefNo": null,
       "cpv_codes_extracted": [
-        "63516000"
+        "63511000"
       ],
       "cpv_divisions": [
         "63"
@@ -265,10 +931,10 @@
     },
     {
       "title": " ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ",
-      "referenceNumber": "26PAY018472733",
+      "referenceNumber": "26PAY018478472",
       "auctionReferenceNumber": null,
-      "signedDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T12:31:55.058",
+      "signedDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T12:00:19.186",
       "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
@@ -279,8 +945,8 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1029.Ε0015.001",
-      "paymentCommitmentCode": "40",
+      "aaht": "1029.Ε00515.0001",
+      "paymentCommitmentCode": "16",
       "organizationVatNumber": "099765151",
       "greekOrganizationVatNumber": true,
       "commitmentNo": null,
@@ -331,11 +997,11 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2420989003"
+        "regularBudgetFundedProgramRef": "2420205002"
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 248.0,
-      "totalCostWithoutVAT": 200.0,
+      "totalCostWithVAT": 466.66,
+      "totalCostWithoutVAT": 376.34,
       "objectDetails": [
         {
           "quantity": 1,
@@ -343,17 +1009,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 200,
+          "costWithoutVAT": 376.34,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΔΑΠΑΝΗ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ ΣΤΑΘΜΕΥΣΗΣ/ΦΥΛΑΞΗΣ ΓΙΑ ΔΥΟ (2) ΕΚ ΤΩΝ ΕΠΤΑ (7) ΥΠΗΡΕΣΙΑΚΩΝΑΥΤΟΚΙΝΗΤΩΝ ΤΗΣ ΠΕΡΙΦΕΡΕΙΑΚΗΣ ΔΙΕΥΘΥΝΣΗΣ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ ΤΟΥ ΕΦΕΤ ΙΑΝ.26.",
+          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΚΑΘΑΡΙΣΜΟΥ ΤΩΝ ΓΡΑΦΕΙΩΝ & ΤΩΝ ΧΩΡΩΝ ΤΟΥ ΚΤΗΡΙΟΥ ΟΠΟΥ ΣΤΕΓΑΖΕΤΑΙ Η Π.Δ.Κ. ΤΟΥΕΦΕΤ,ΝΟΕ.-ΔΕΚ.25.",
           "cpvs": [
             {
-              "key": "63712400-7",
-              "value": "Υπηρεσίες χώρων στάθμευσης οχημάτων"
+              "key": "63711200-8",
+              "value": "Υπηρεσίες κινητών συνεργείων"
             }
           ],
           "addressForDelivery": null,
@@ -365,9 +1031,9 @@
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "999729110",
+          "vatNo": "802842298",
           "greekVatNo": true,
-          "name": "ΣΤΑΘΜΟΣ ΚΟΜΟΤΗΝΗΣ ΕΠΕ",
+          "name": "MASTER CLEAN SERVICES E.E.",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -383,7 +1049,7 @@
       "auctionRefNo": null,
       "contractRefNo": null,
       "cpv_codes_extracted": [
-        "63712400"
+        "63711200"
       ],
       "cpv_divisions": [
         "63"
@@ -394,142 +1060,11 @@
       "primary_domain": "Transport Support & Travel"
     },
     {
-      "title": "Λειτουργία του Σταθμού Αυτοκινήτων (Parking) Κεντρικού Προβλήτα",
-      "referenceNumber": "26PAY018471511",
-      "auctionReferenceNumber": null,
-      "signedDate": "2026-02-03T00:00:00",
-      "submissionDate": "2026-02-12T11:33:24.844",
-      "lastUpdateDate": null,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancelled": false,
-      "credit": false,
-      "paymentRelatedAda": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1041.Ε00849.0001",
-      "paymentCommitmentCode": "9ΚΑΘ469ΗΞ3-ΓΩΘ",
-      "organizationVatNumber": "090017549",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "contractValue": null,
-      "organization": {
-        "key": "99221101",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΛΙΜΕΝΟΣ ΒΟΛΟΥ Α.Ε"
-      },
-      "nutsCode": {
-        "key": "EL613",
-        "value": "Μαγνησία, Σποράδες"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": null,
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "91812",
-          "value": "ΔΙΕΥΘΥΝΩΝ ΣΥΜΒΟΥΛΟΣ"
-        },
-        "signers": {
-          "key": "100052294",
-          "value": "ΣΩΚΡΑΤΗΣ ΑΝΑΓΝΩΣΤΟΥ - Διευθύνων Σύμβουλος"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": "61",
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
-      },
-      "nutsCodes": [],
-      "totalCostWithVAT": 11367.08,
-      "totalCostWithoutVAT": 9167.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 9167,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Λειτουργία του Σταθμού Αυτοκινήτων (Parking) Κεντρικού Προβλήτα",
-          "cpvs": [
-            {
-              "key": "63712400-7",
-              "value": "Υπηρεσίες χώρων στάθμευσης οχημάτων"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "Βόλος",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "801403845",
-          "greekVatNo": false,
-          "name": "CITY PARK ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "auctionRefNo": null,
-      "contractRefNo": "25SYMV016847471",
-      "cpv_codes_extracted": [
-        "99221101",
-        "63712400"
-      ],
-      "cpv_divisions": [
-        "63"
-      ],
-      "all_domains": [
-        "Transport Support & Travel"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "ΜΕΤΑΦΟΡΑ ΥΛΙΚΟΥ ΤΟΥΡΙΣΤΙΚΗΣ ΠΡΟΒΟΛΗΣ ΣΤΗ ΔΙΕΘΝΗ ΤΟΥΡΙΣΤΙΚΗ ΕΚΘΕΣΗ ΣΤΗ ΒΑΡΣΟΒΙΑ",
-      "referenceNumber": "26PAY018471000",
+      "title": "ΥΠΗΡΕΣΙΕΣ ΑΠΟΘΗΚΕΥΣΗΣ",
+      "referenceNumber": "26PAY018478226",
       "auctionReferenceNumber": null,
       "signedDate": "2026-02-09T00:00:00",
-      "submissionDate": "2026-02-12T11:07:17.432",
+      "submissionDate": "2026-02-13T11:45:58.285",
       "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
@@ -540,145 +1075,15 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007Ε82403.0001",
-      "paymentCommitmentCode": "9Τ0ΑΩΡΚ-ΤΓΘ",
-      "organizationVatNumber": "997898781",
+      "aaht": "1036.Ε00333.0001",
+      "paymentCommitmentCode": "Ψ3Χ2469ΗΕΠ-ΘΜΧ",
+      "organizationVatNumber": "090003416",
       "greekOrganizationVatNumber": false,
       "commitmentNo": null,
       "contractValue": null,
       "organization": {
-        "key": "6098",
-        "value": "ΔΗΜΟΣ ΖΑΓΟΡΑΣ - ΜΟΥΡΕΣΙΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL61",
-        "value": "Θεσσαλία"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": null,
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "83402",
-          "value": "ΛΟΓΙΣΤΗΡΙΟ"
-        },
-        "signers": {
-          "key": "100061174",
-          "value": "ΚΥΡΙΑΚΗ ΓΕΩΡΓΟΥΔΗ - Υπεύθυνος Μονάδας"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "000.2420907"
-      },
-      "nutsCodes": [],
-      "totalCostWithVAT": 930.0,
-      "totalCostWithoutVAT": 750.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 750,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΜΕΤΑΦΟΡΑ ΥΛΙΚΟΥ ΤΟΥΡΙΣΤΙΚΗΣ ΠΡΟΒΟΛΗΣ ΣΤΗ ΔΙΕΘΝΗ ΤΟΥΡΙΣΤΙΚΗ ΕΚΘΕΣΗ ΣΤΗ ΒΑΡΣΟΒΙΑ",
-          "cpvs": [
-            {
-              "key": "63513000-8",
-              "value": "Υπηρεσίες παροχής τουριστικών πληροφοριών"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΖΑΓΟΡΑ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "800371765",
-          "greekVatNo": false,
-          "name": "ΕΝΩΣΗ ΜΑΚΕΔΟΝΙΑΣ ΑΜΕ",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "auctionRefNo": null,
-      "contractRefNo": null,
-      "cpv_codes_extracted": [
-        "63513000"
-      ],
-      "cpv_divisions": [
-        "63"
-      ],
-      "all_domains": [
-        "Transport Support & Travel"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "Ανάγκη κάλυψης δαπανών αεροπορικών εισιτηρίων, διανυκτέρευσης και μετακίνησης για τη επίσκεψη εκπροσ",
-      "referenceNumber": "26PAY018469889",
-      "auctionReferenceNumber": null,
-      "signedDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T10:08:37.096",
-      "lastUpdateDate": null,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancelled": false,
-      "credit": false,
-      "paymentRelatedAda": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1007.Ε89566.0001",
-      "paymentCommitmentCode": "9Ρ50ΚΝ3-ΟΗ6",
-      "organizationVatNumber": "090050896",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "contractValue": null,
-      "organization": {
-        "key": "14915",
-        "value": "ΠΕΡΙΦΕΡΕΙΑΚΟ ΤΑΜΕΙΟ ΑΝΑΠΤΥΞΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΑΤΤΙΚΗΣ"
+        "key": "99220976",
+        "value": "ΕΘΝΙΚΟ ΙΔΡΥΜΑ ΕΡΕΥΝΩΝ"
       },
       "nutsCode": {
         "key": "EL303",
@@ -707,12 +1112,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "73064",
-          "value": "ΠΕΡΙΦΕΡΕΙΑΚΟ ΤΑΜΕΙΟ"
+          "key": "75190",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ ΕΙΕ"
         },
         "signers": {
-          "key": "100085287",
-          "value": "ΝΙΚΟΛΑΟΣ ΧΑΡΔΑΛΙΑΣ - Πρόεδρος Δ.Σ."
+          "key": "100079249",
+          "value": "Δημοσθένης Σαρηγιάννης - Πρόεδρος Δ.Σ."
         }
       },
       "fundingDetails": {
@@ -720,13 +1125,13 @@
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": "64.01",
+        "selfFundProgramRef": "0865",
         "espaFundProgramRef": null,
         "regularBudgetFundedProgramRef": null
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 22054.97,
-      "totalCostWithoutVAT": 22054.97,
+      "totalCostWithVAT": 10912.0,
+      "totalCostWithoutVAT": 8800.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -734,17 +1139,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 15490,
-          "vat": "0",
+          "costWithoutVAT": 8800,
+          "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Ανάγκη κάλυψης δαπανών αεροπορικών εισιτηρίων, διανυκτέρευσης και μετακίνησης για τη επίσκεψη εκπροσώπων της Περιφέρειας Αττικής στη Μαδρίτη 19-22/01/2026.",
+          "shortDescription": "Υπηρεσίες αποθήκευσης επίπλων",
           "cpvs": [
             {
-              "key": "63510000-7",
-              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
+              "key": "63121100-4",
+              "value": "Υπηρεσίες αποθήκευσης"
             }
           ],
           "addressForDelivery": null,
@@ -756,48 +1161,9 @@
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "084269933",
+          "vatNo": "997474498",
           "greekVatNo": false,
-          "name": "KRITSIA TRAVEL ΤΟΥΡΙΣΤΙΚΟ ΓΡΑΦΕΙΟ ΑΕ",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 6564.97,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Ανάγκη κάλυψης δαπανών αεροπορικών εισιτηρίων, διανυκτέρευσης και μετακίνησης για τη επίσκεψη εκπροσώπων της Περιφέρειας Αττικής στη Μαδρίτη 19-22/01/2026.",
-          "cpvs": [
-            {
-              "key": "34980000-0",
-              "value": "Ταξιδιωτικά εισιτήρια"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΑΘΗΝΑ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "084269933",
-          "greekVatNo": false,
-          "name": "KRITSIA TRAVEL ΤΟΥΡΙΣΤΙΚΟ ΓΡΑΦΕΙΟ ΑΕ",
+          "name": "INTERMOVE A.E. ΔΙΕΘΝΗΣ ΜΕΤΑΦΟΡΙΚΗ",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -811,27 +1177,25 @@
       "mixedContract": false,
       "requestRefNo": null,
       "auctionRefNo": null,
-      "contractRefNo": null,
+      "contractRefNo": "25SYMV018131274",
       "cpv_codes_extracted": [
-        "63510000",
-        "34980000"
+        "99220976",
+        "63121100"
       ],
       "cpv_divisions": [
-        "63",
-        "34"
+        "63"
       ],
       "all_domains": [
-        "Transport Support & Travel",
-        "Transport & Vehicles"
+        "Transport Support & Travel"
       ],
-      "primary_domain": "Transport & Vehicles"
+      "primary_domain": "Transport Support & Travel"
     },
     {
-      "title": "ΟΡΙΣΤΙΚΟΠΟΙΗΣΗ ΠΛΗΡΩΜΗΣ",
-      "referenceNumber": "26PAY018469819",
+      "title": "ΧΕ61 ΚΑΠΑ ΑΝΑΠΤΥΞΙΑΚΗ ΙΚΕ ΤΙΜ81",
+      "referenceNumber": "26PAY018477996",
       "auctionReferenceNumber": null,
-      "signedDate": "2026-02-11T00:00:00",
-      "submissionDate": "2026-02-12T10:05:11.376",
+      "signedDate": "2026-01-30T00:00:00",
+      "submissionDate": "2026-02-13T11:33:16.344",
       "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
@@ -842,25 +1206,25 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1039.Ε00526.0001",
-      "paymentCommitmentCode": "ΨΡΡΙ46Ψ8Ο3-ΜΚΔ",
-      "organizationVatNumber": "094325955",
+      "aaht": "1022.Ε00988.0001",
+      "paymentCommitmentCode": "332",
+      "organizationVatNumber": "996454791",
       "greekOrganizationVatNumber": true,
       "commitmentNo": null,
       "contractValue": null,
       "organization": {
-        "key": "99201041",
-        "value": "ΕΛΛΗΝΙΚΟ ΜΕΤΡΟ ΜΟΝΟΠΡΟΣΩΠΗ ΑΕ"
+        "key": "100093061",
+        "value": "ΕΛΛΗΝΙΚΟ ΚΕΝΤΡΟ ΚΙΝΗΜΑΤΟΓΡΑΦΟΥ ΟΠΤΙΚΟΑΚΟΥΣΤΙΚΩΝ ΜΕΣΩΝ ΚΑΙ ΔΗΜΙΟΥΡΓΙΑΣ Α Ε"
       },
       "nutsCode": {
-        "key": "EL30",
-        "value": "Aττική"
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
       },
       "centralizedMarkets": [
         {
           "centralizedMarket": {
-            "key": "2",
-            "value": "Δυναμικό σύστημα αγορών"
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
           }
         }
       ],
@@ -870,8 +1234,8 @@
         "value": "Υπηρεσίες"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
       },
       "typeOfContractingAuthority": {
         "key": "10",
@@ -879,62 +1243,58 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100001091",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+          "key": "100093320",
+          "value": "ΔΙΕΥΘΥΝΩΝ ΣΥΜΒΟΥΛΟΣ"
         },
         "signers": {
-          "key": "100073723",
-          "value": "ΑΙΚΑΤΕΡΙΝΗ ΦΟΥΣΕΚΗ - Διευθυντής"
+          "key": "100093081",
+          "value": "Λεωνίδας Χριστόπουλος - Διευθύνων Σύμβουλος"
         }
       },
       "fundingDetails": {
-        "publicFundingRef": "2023ΝΑ47100003",
-        "publicFundingRefNum": "ΝΑ471",
-        "publicFundingRefOps": "6000103",
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
+        "regularBudgetFundedProgramRef": "6498"
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 2951909.04,
-      "totalCostWithoutVAT": 2380571.81,
+      "totalCostWithVAT": 682.0,
+      "totalCostWithoutVAT": 550.0,
       "objectDetails": [
         {
           "quantity": 1,
           "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 2380571.81,
+          "costWithoutVAT": 0,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "«Διεθνής Ανοικτός Διαγωνισμός για τη σύναψη Σύμβασης ΣΔΙΤ για τη λειτουργία και συντήρηση του δικτύου του Μετρό Θεσσαλονίκης» -",
+          "shortDescription": "Παροχή Υπηρεσιών μεταφοράς και αποθήκευσης αρχείου και φύλαξης και αποθήκευσης πάγιου εξοπλισμού λόγω μετεγκατάστασης του Ε.Κ.Κ.Ο.ΜΕ.Δ. Α.Ε. – Creative  Greece S.A. στο κτίριο επί της οδού Κανάρη 1, Ακαδημίας και Πινδάρου  Υπηρεσίες αρχειοθέτησης",
           "cpvs": [
             {
-              "key": "50225000-8",
-              "value": "Υπηρεσίες συντήρησης τροχιοδρόμων"
-            },
-            {
-              "key": "63712320-2",
-              "value": "Υπηρεσίες λειτουργίας σηράγγων"
+              "key": "79560000-7",
+              "value": "Υπηρεσίες αρχειοθέτησης"
             }
           ],
           "addressForDelivery": null,
           "streetNumber": null,
           "postalCode": null,
-          "city": "ΘΕΣΣΑΛΟΝΙΚΗ",
+          "city": "ΑΘΗΝΑ",
           "cityOfConstruction": null,
           "countryOfDelivery": {
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "802227818",
+          "vatNo": "802674201",
           "greekVatNo": true,
-          "name": "THEMA A.E.» ",
+          "name": "ΚΑΠΑ ΑΝΑΠΤΥΞΙΑΚΗ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -942,133 +1302,77 @@
           "invoiceNo": null,
           "commitmentCode": null,
           "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "auctionRefNo": null,
-      "contractRefNo": "23SYMV013544006",
-      "cpv_codes_extracted": [
-        "99201041",
-        "50225000",
-        "63712320"
-      ],
-      "cpv_divisions": [
-        "50",
-        "63"
-      ],
-      "all_domains": [
-        "Repair & Maintenance",
-        "Transport Support & Travel"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "Παροχή υπηρεσιών ξενάγησης σε σχολεία για τις ανάγκες του κεντρικού κτιρίου της ΕΠΜΑΣ από 13/01/-12/",
-      "referenceNumber": "26PAY018469681",
-      "auctionReferenceNumber": null,
-      "signedDate": "2026-02-10T00:00:00",
-      "submissionDate": "2026-02-12T09:58:53.612",
-      "lastUpdateDate": null,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancelled": false,
-      "credit": false,
-      "paymentRelatedAda": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1022.E00356.0001",
-      "paymentCommitmentCode": " 95Δ2469ΗΓ9-ΗΑΓ",
-      "organizationVatNumber": "090061954",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "contractValue": null,
-      "organization": {
-        "key": "99221222",
-        "value": "ΕΘΝΙΚΗ ΠΙΝΑΚΟΘΗΚΗ ΚΑΙ ΜΟΥΣΕΙΟ ΑΛΕΞΑΝΔΡΟΥ ΣΟΥΤΖΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": null,
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "72169",
-          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
         },
-        "signers": {
-          "key": "100083212",
-          "value": "ΟΛΓΑ ΜΕΝΤΖΑΦΟΥ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "0853-1"
-      },
-      "nutsCodes": [],
-      "totalCostWithVAT": 575.0,
-      "totalCostWithoutVAT": 575.0,
-      "objectDetails": [
         {
           "quantity": 1,
           "type": {
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 575,
-          "vat": "0",
+          "costWithoutVAT": 550,
+          "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Παροχή υπηρεσιών ξενάγησης σε σχολεία για τις ανάγκες του κεντρικού κτιρίου  της ΕΠΜΑΣ για χρονικό διάστημα έξι μηνών.",
+          "shortDescription": "Παροχή Υπηρεσιών μεταφοράς και αποθήκευσης αρχείου και φύλαξης και αποθήκευσης πάγιου εξοπλισμού λόγω μετεγκατάστασης του Ε.Κ.Κ.Ο.ΜΕ.Δ. Α.Ε. – Creative  Greece S.A. στο κτίριο επί της οδού Κανάρη 1, Ακαδημίας και Πινδάρου  ",
           "cpvs": [
             {
-              "key": "63514000-5",
-              "value": "Υπηρεσίες ξενάγησης"
+              "key": "60100000-9",
+              "value": "Υπηρεσίες οδικών μεταφορών"
             }
           ],
           "addressForDelivery": null,
           "streetNumber": null,
           "postalCode": null,
-          "city": "AΘΗΝΑ",
+          "city": "ΑΘΗΝΑ",
           "cityOfConstruction": null,
           "countryOfDelivery": {
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": " 039481410",
-          "greekVatNo": false,
-          "name": " ΦΕΙΔΕΡΟΠΟΥΛΟΥ ΣΠΥΡΙΔΟΥΛΑ",
+          "vatNo": "802674201",
+          "greekVatNo": true,
+          "name": "ΚΑΠΑ ΑΝΑΠΤΥΞΙΑΚΗ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 0,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Παροχή Υπηρεσιών μεταφοράς και αποθήκευσης αρχείου και φύλαξης και αποθήκευσης πάγιου εξοπλισμού λόγω μετεγκατάστασης του Ε.Κ.Κ.Ο.ΜΕ.Δ. Α.Ε. – Creative Greece S.A. στο κτίριο επί της οδού Κανάρη 1, Ακαδημίας και Πινδάρου\n\nYπηρεσίες αποθήκευσης αρχείου",
+          "cpvs": [
+            {
+              "key": "63121100-4",
+              "value": "Υπηρεσίες αποθήκευσης"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "802674201",
+          "greekVatNo": true,
+          "name": "ΚΑΠΑ ΑΝΑΠΤΥΞΙΑΚΗ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -1082,25 +1386,30 @@
       "mixedContract": false,
       "requestRefNo": null,
       "auctionRefNo": null,
-      "contractRefNo": "25SYMV017918248",
+      "contractRefNo": "25SYMV018282162",
       "cpv_codes_extracted": [
-        "99221222",
-        "63514000"
+        "79560000",
+        "60100000",
+        "63121100"
       ],
       "cpv_divisions": [
+        "79",
+        "60",
         "63"
       ],
       "all_domains": [
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Transport Services",
         "Transport Support & Travel"
       ],
-      "primary_domain": "Transport Support & Travel"
+      "primary_domain": "Transport Services"
     },
     {
-      "title": "ανάγκη κάλυψης δαπανών αεροπορικών εισιτηρίων, διανυκτέρευσης και μετακίνησης για τη επίσκεψη εκπροσ",
-      "referenceNumber": "26PAY018469641",
+      "title": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ Ν 2903 13 02 2026 ΚΥΠΡΙΩΤΗΣ ΔΗΜΗΤΡΙΟΣ ΣΙΑ Ε.Ε ΤΠΥ-106",
+      "referenceNumber": "26PAY018477177",
       "auctionReferenceNumber": null,
-      "signedDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T09:56:16.85",
+      "signedDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T10:44:23.149",
       "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
@@ -1111,19 +1420,19 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007.Ε89566.0001",
-      "paymentCommitmentCode": "9Μ2ΖΚΝ3-Χ67",
-      "organizationVatNumber": "090050896",
+      "aaht": "1007.F01238.0001",
+      "paymentCommitmentCode": "Ψ55Π46ΜΜ4Ο-009",
+      "organizationVatNumber": "801396468",
       "greekOrganizationVatNumber": false,
       "commitmentNo": null,
       "contractValue": null,
       "organization": {
-        "key": "14915",
-        "value": "ΠΕΡΙΦΕΡΕΙΑΚΟ ΤΑΜΕΙΟ ΑΝΑΠΤΥΞΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΑΤΤΙΚΗΣ"
+        "key": "100062273",
+        "value": "ΕΙΔΙΚΟΣ ΠΕΡΙΦΕΡΕΙΑΚΟΣ ΔΙΑΒΑΘΜΙΔΙΚΟΣ ΦΟΡΕΑΣ ΔΙΑΧΕΙΡΙΣΗΣ ΣΤΕΡΕΩΝ ΑΠΟΒΛΗΤΩΝ ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ"
       },
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL42",
+        "value": "Νότιο Αιγαίο"
       },
       "centralizedMarkets": [
         {
@@ -1148,12 +1457,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "73064",
-          "value": "ΠΕΡΙΦΕΡΕΙΑΚΟ ΤΑΜΕΙΟ"
+          "key": "100079959",
+          "value": "ΤΜΗΜΑ ΛΟΓΙΣΤΗΡΙΟΥ"
         },
         "signers": {
-          "key": "100085287",
-          "value": "ΝΙΚΟΛΑΟΣ ΧΑΡΔΑΛΙΑΣ - Πρόεδρος Δ.Σ."
+          "key": "100062356",
+          "value": "ΓΙΩΡΓΟΣ ΧΑΤΖΗΜΑΡΚΟΣ - Πρόεδρος Δ.Σ."
         }
       },
       "fundingDetails": {
@@ -1161,13 +1470,13 @@
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": "64.01",
+        "selfFundProgramRef": "61.95",
         "espaFundProgramRef": null,
         "regularBudgetFundedProgramRef": null
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 16378.8,
-      "totalCostWithoutVAT": 16378.8,
+      "totalCostWithVAT": 6696.0,
+      "totalCostWithoutVAT": 5400.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -1175,109 +1484,31 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 3608.8,
-          "vat": "0",
+          "costWithoutVAT": 5400,
+          "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ανάγκη κάλυψης δαπανών αεροπορικών εισιτηρίων, διανυκτέρευσης και μετακίνησης για τη επίσκεψη εκπροσώπων της Περιφέρειας Αττικής στις Βρυξέλλες",
+          "shortDescription": "            Η υπηρεσία αφορά την μίσθωση 2 κοντέινερ διαστάσεων 6,00 μ. Χ2,50 μ. Χ 2,50 μ. (μήκος Χ πλάτος Χ ύψος) για την αποθήκευση για μικρό χρονικό διάστημα ηλεκτρικών συσκευών, κ.α  τα οποία θα συλλέγονται από την ανακύκλωση.",
           "cpvs": [
             {
-              "key": "34980000-0",
-              "value": "Ταξιδιωτικά εισιτήρια"
+              "key": "63121100-4",
+              "value": "Υπηρεσίες αποθήκευσης"
             }
           ],
           "addressForDelivery": null,
           "streetNumber": null,
           "postalCode": null,
-          "city": "ΑΘΗΝΑ",
+          "city": "ΡΟΔΟΣ",
           "cityOfConstruction": null,
           "countryOfDelivery": {
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "084269933",
+          "vatNo": "800570373",
           "greekVatNo": false,
-          "name": "KRITSIA TRAVEL ΤΟΥΡΙΣΤΙΚΟ ΓΡΑΦΕΙΟ ΑΕ",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 4500,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ανάγκη κάλυψης δαπανών αεροπορικών εισιτηρίων, διανυκτέρευσης και μετακίνησης για τη επίσκεψη εκπροσώπων της Περιφέρειας Αττικής στις Βρυξέλλες 09-11/12/2025",
-          "cpvs": [
-            {
-              "key": "60170000-0",
-              "value": "Ενοικίαση οχημάτων μεταφοράς επιβατών με οδηγό"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΑΘΗΝΑ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "084269933",
-          "greekVatNo": false,
-          "name": "KRITSIA TRAVEL ΤΟΥΡΙΣΤΙΚΟ ΓΡΑΦΕΙΟ ΑΕ",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 8270,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Ανάγκη κάλυψης δαπανών αεροπορικών εισιτηρίων, διανυκτέρευσης και μετακίνησης για τη επίσκεψη εκπροσώπων της Περιφέρειας Αττικής στις Βρυξέλλες 09-11/12/2025.",
-          "cpvs": [
-            {
-              "key": "63510000-7",
-              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΑΘΗΝΑ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "084269933",
-          "greekVatNo": false,
-          "name": "KRITSIA TRAVEL ΤΟΥΡΙΣΤΙΚΟ ΓΡΑΦΕΙΟ ΑΕ",
+          "name": "ΚΥΠΡΙΩΤΗΣ ΔΗΜ. ΚΑΙ ΣΙΑ Ε.Ε.",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -1291,23 +1522,758 @@
       "mixedContract": false,
       "requestRefNo": null,
       "auctionRefNo": null,
-      "contractRefNo": null,
+      "contractRefNo": "25SYMV016675872",
       "cpv_codes_extracted": [
-        "34980000",
-        "60170000",
-        "63510000"
+        "63121100"
       ],
       "cpv_divisions": [
-        "34",
-        "60",
         "63"
       ],
       "all_domains": [
-        "Transport & Vehicles",
-        "Transport Services",
         "Transport Support & Travel"
       ],
-      "primary_domain": "Transport & Vehicles"
+      "primary_domain": "Transport Support & Travel"
+    },
+    {
+      "title": "ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ ΣΕ ΟΡΦΕΑ ΒΕΙΝΟΓΛΟΥ ΔΙΕΘΝΕΙΣ ΜΕΤΑΦΟΡΕΣ ΑΕ ΠΟΣΟΥ 24.031,16€ ΤΙΜ 711-710-836-848-918",
+      "referenceNumber": "26PAY018477049",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T10:36:59.67",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1022.E00358.0001",
+      "paymentCommitmentCode": "9Φ43ΟΡΡΛ-ΙΙ8",
+      "organizationVatNumber": "099456077",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "50025",
+        "value": "ΕΘΝΙΚΟ ΜΟΥΣΕΙΟ ΣΥΓΧΡΟΝΗΣ ΤΕΧΝΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100012710",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+        },
+        "signers": {
+          "key": "100066970",
+          "value": "ΑΓΓΕΛΗΣ ΑΝΤΩΝΟΠΟΥΛΟΣ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "2599"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 25710.66,
+      "totalCostWithoutVAT": 20734.4,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 20734.4,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ ΣΕ ΟΡΦΕΑ ΒΕΙΝΟΓΛΟΥ ΔΙΕΘΝΕΙΣ ΜΕΤΑΦΟΡΕΣ ΑΕ ΠΟΣΟΥ 24.031,16€ ΤΙΜ 711-710-836-848-918",
+          "cpvs": [
+            {
+              "key": "63121100-4",
+              "value": "Υπηρεσίες αποθήκευσης"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "996403270",
+          "greekVatNo": false,
+          "name": "ΟΡΦΕΑΣ ΒΕΙΝΟΓΛΟΥ ΑΕ ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV017157059",
+      "cpv_codes_extracted": [
+        "63121100"
+      ],
+      "cpv_divisions": [
+        "63"
+      ],
+      "all_domains": [
+        "Transport Support & Travel"
+      ],
+      "primary_domain": "Transport Support & Travel"
+    },
+    {
+      "title": "ΧΕ35 ΤΣΕΛΕΝΤΗ ΜΥΡΤΩ ΤΠΥ16",
+      "referenceNumber": "26PAY018476970",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-01-28T00:00:00",
+      "submissionDate": "2026-02-13T10:33:20.626",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1022.Ε00988.0001",
+      "paymentCommitmentCode": "19",
+      "organizationVatNumber": "996454791",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "100093061",
+        "value": "ΕΛΛΗΝΙΚΟ ΚΕΝΤΡΟ ΚΙΝΗΜΑΤΟΓΡΑΦΟΥ ΟΠΤΙΚΟΑΚΟΥΣΤΙΚΩΝ ΜΕΣΩΝ ΚΑΙ ΔΗΜΙΟΥΡΓΙΑΣ Α Ε"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100093320",
+          "value": "ΔΙΕΥΘΥΝΩΝ ΣΥΜΒΟΥΛΟΣ"
+        },
+        "signers": {
+          "key": "100093081",
+          "value": "Λεωνίδας Χριστόπουλος - Διευθύνων Σύμβουλος"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "6198"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 2108.0,
+      "totalCostWithoutVAT": 1700.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1700,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Παροχή υπηρεσιών Διοικητικής Υποστήριξης στο πλαίσιο λειτουργίας της Ψηφιακής Πλατφόρμας Κινηματογραφικών Ταινιών για τα Σχολεία – CINEDU ",
+          "cpvs": [
+            {
+              "key": "63524000-8",
+              "value": "Υπηρεσίες διεκπεραίωσης εγγράφων"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "116945910",
+          "greekVatNo": true,
+          "name": "ΤΣΕΛΕΝΤΗ ΜΥΡΤΩ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV018082959",
+      "cpv_codes_extracted": [
+        "63524000"
+      ],
+      "cpv_divisions": [
+        "63"
+      ],
+      "all_domains": [
+        "Transport Support & Travel"
+      ],
+      "primary_domain": "Transport Support & Travel"
+    },
+    {
+      "title": "ΧΕ59 ΚΑΠΑ ΑΝΑΠΤΥΞΙΑΚΗ ΙΚΕ ΤΙΜ80",
+      "referenceNumber": "26PAY018476804",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-01-30T00:00:00",
+      "submissionDate": "2026-02-13T10:24:28.235",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1022.Ε00988.0001",
+      "paymentCommitmentCode": "332",
+      "organizationVatNumber": "996454791",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "100093061",
+        "value": "ΕΛΛΗΝΙΚΟ ΚΕΝΤΡΟ ΚΙΝΗΜΑΤΟΓΡΑΦΟΥ ΟΠΤΙΚΟΑΚΟΥΣΤΙΚΩΝ ΜΕΣΩΝ ΚΑΙ ΔΗΜΙΟΥΡΓΙΑΣ Α Ε"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100093320",
+          "value": "ΔΙΕΥΘΥΝΩΝ ΣΥΜΒΟΥΛΟΣ"
+        },
+        "signers": {
+          "key": "100093081",
+          "value": "Λεωνίδας Χριστόπουλος - Διευθύνων Σύμβουλος"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "6498"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 310.0,
+      "totalCostWithoutVAT": 250.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 250,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Παροχή Υπηρεσιών μεταφοράς και αποθήκευσης αρχείου και φύλαξης και αποθήκευσης πάγιου εξοπλισμού λόγω μετεγκατάστασης του Ε.Κ.Κ.Ο.ΜΕ.Δ. Α.Ε. – Creative  Greece S.A. στο κτίριο επί της οδού Κανάρη 1, Ακαδημίας και Πινδάρου  ",
+          "cpvs": [
+            {
+              "key": "60100000-9",
+              "value": "Υπηρεσίες οδικών μεταφορών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "802674201",
+          "greekVatNo": true,
+          "name": "ΚΑΠΑ ΑΝΑΠΤΥΞΙΑΚΗ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 0,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Παροχή Υπηρεσιών μεταφοράς και αποθήκευσης αρχείου και φύλαξης και αποθήκευσης πάγιου εξοπλισμού λόγω μετεγκατάστασης του Ε.Κ.Κ.Ο.ΜΕ.Δ. Α.Ε. – Creative  Greece S.A. στο κτίριο επί της οδού Κανάρη 1, Ακαδημίας και Πινδάρου  Υπηρεσίες αρχειοθέτησης",
+          "cpvs": [
+            {
+              "key": "79560000-7",
+              "value": "Υπηρεσίες αρχειοθέτησης"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "802674201",
+          "greekVatNo": true,
+          "name": "ΚΑΠΑ ΑΝΑΠΤΥΞΙΑΚΗ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 0,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Παροχή Υπηρεσιών μεταφοράς και αποθήκευσης αρχείου και φύλαξης και αποθήκευσης πάγιου εξοπλισμού λόγω μετεγκατάστασης του Ε.Κ.Κ.Ο.ΜΕ.Δ. Α.Ε. – Creative Greece S.A. στο κτίριο επί της οδού Κανάρη 1, Ακαδημίας και Πινδάρου\n\nYπηρεσίες αποθήκευσης αρχείου",
+          "cpvs": [
+            {
+              "key": "63121100-4",
+              "value": "Υπηρεσίες αποθήκευσης"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "802674201",
+          "greekVatNo": true,
+          "name": "ΚΑΠΑ ΑΝΑΠΤΥΞΙΑΚΗ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV018282162",
+      "cpv_codes_extracted": [
+        "60100000",
+        "79560000",
+        "63121100"
+      ],
+      "cpv_divisions": [
+        "60",
+        "79",
+        "63"
+      ],
+      "all_domains": [
+        "Transport Services",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Transport Support & Travel"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "ΑΠΟΦΑΣΗ ΕΚΚΑΘΑΡΙΣΗΣ/ΕΝΤΟΛΗ ΠΛΗΡΩΜΗΣ 67",
+      "referenceNumber": "26PAY018476676",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-12T00:00:00",
+      "submissionDate": "2026-02-13T10:17:18.212",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": true,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1055.0000000000.0001",
+      "paymentCommitmentCode": "90ΞΧΗ-0ΙΡ",
+      "organizationVatNumber": "996797093",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "100056663",
+        "value": "ΥΠΟΥΡΓΕΙΟ  ΜΕΤΑΝΑΣΤΕΥΣΗΣ ΚΑΙ ΑΣΥΛΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL307",
+        "value": "Πειραιάς, Νήσοι"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "1",
+            "value": "Συμφωνία-πλαίσιο"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100065305",
+          "value": "ΤΜΗΜΑ ΕΚΤΕΛΕΣΗΣ Π.Δ.Ε. ΚΑΙ ΛΟΙΠΩΝ ΔΡΑΣΕΩΝ"
+        },
+        "signers": {
+          "key": "100063948",
+          "value": "ΣΤΕΦΑΝΟΣ ΖΑΡΑΚΑΣ - Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": "9562",
+        "publicFundingRefNum": "2023ΣΕ95620007",
+        "publicFundingRefOps": "6000320",
+        "cofundProgramRef": "6000320",
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 820.85,
+      "totalCostWithoutVAT": 820.85,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 820.85,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Δαπάνη για την παροχή υπηρεσιών ΑΕΡΟΠΟΡΙΚΩΝ μετακινήσεων Πολιτών Τρίτων Χωρών (ΠΤΧ) [112ο ΑΙΤΗΜΑ],  σύμφωνα με την υπ’ αριθμ. πρωτ.  314620/16-06-2023 [ΑΔΑΜ: 23SYMV012896910 2023-06-16] 3η εκτελεστική σύμβαση, , όπως τροποποιήθηκε με την υπ’ αριθμ. 106771/12-06-2025 (ΑΔΑΜ: 25SYMV017007242 2025-06-13) σύμβαση.",
+          "cpvs": [
+            {
+              "key": "63510000-7",
+              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
+            },
+            {
+              "key": "60400000-2",
+              "value": "Υπηρεσίες αεροπορικών μεταφορών"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "094252368",
+          "greekVatNo": false,
+          "name": "G.S.ΤΡΑΒΕΛ ΑΝΩΝΥΜΗ ΕΜΠΟΡΙΚΗ ΚΑΙ ΤΟΥΡΙΣΤΙΚΗ ΕΤΑΙΡΕΙΑ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "25SYMV017007242",
+      "cpv_codes_extracted": [
+        "63510000",
+        "60400000"
+      ],
+      "cpv_divisions": [
+        "63",
+        "60"
+      ],
+      "all_domains": [
+        "Transport Support & Travel",
+        "Transport Services"
+      ],
+      "primary_domain": "Transport Services"
+    },
+    {
+      "title": "ΟΡΙΣΤΙΚΟΠΟΙΗΣΗ ΠΛΗΡΩΜΗΣ",
+      "referenceNumber": "26PAY018475573",
+      "auctionReferenceNumber": null,
+      "signedDate": "2026-02-05T00:00:00",
+      "submissionDate": "2026-02-13T09:09:03.417",
+      "lastUpdateDate": null,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancelled": false,
+      "credit": false,
+      "paymentRelatedAda": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.F00062.0001",
+      "paymentCommitmentCode": "ΡΓΟ5ΟΡΓΦ-ΔΔΗ",
+      "organizationVatNumber": "090014117",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "contractValue": null,
+      "organization": {
+        "key": "50304",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ (Δ.Ε.Υ.Α.) ΛΑΜΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL644",
+        "value": "Φθιώτιδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": null,
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "79275",
+          "value": "ΟΙΚΟΝΟΜΙΚΩΝ ΔΙΟΙΚΗΤΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100088617",
+          "value": "Φανή Τανάγια - Προϊστάμενος Οικονομικών Υπηρεσιών"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "62.07.83.07"
+      },
+      "nutsCodes": [],
+      "totalCostWithVAT": 2083.2,
+      "totalCostWithoutVAT": 1680.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1680,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Συντήρηση υδρομέτρων και άλλες συναφείς εργασίες αυτών",
+          "cpvs": [
+            {
+              "key": "63711200-8",
+              "value": "Υπηρεσίες κινητών συνεργείων"
+            }
+          ],
+          "addressForDelivery": null,
+          "streetNumber": null,
+          "postalCode": null,
+          "city": "Λαμία",
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "vatNo": "064707400",
+          "greekVatNo": true,
+          "name": "ΦΛΙΩΚΑΣ ΚΩΝΣΤΑΝΤΙΚΟΣ",
+          "country": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "invoiceNo": null,
+          "commitmentCode": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "auctionRefNo": null,
+      "contractRefNo": "26SYMV018428817",
+      "cpv_codes_extracted": [
+        "63711200"
+      ],
+      "cpv_divisions": [
+        "63"
+      ],
+      "all_domains": [
+        "Transport Support & Travel"
+      ],
+      "primary_domain": "Transport Support & Travel"
     }
   ]
 }

@@ -3,46 +3,46 @@
   "count": 25,
   "items": [
     {
-      "title": "Αίτημα έγκρισης δαπάνης και δέσμευσης πίστωσης",
-      "referenceNumber": "26REQ018474667",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T21:29:21.667",
-      "procurementDeliveryDate": "2026-04-06",
+      "title": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ DIGI-DACOS",
+      "referenceNumber": "26REQ018482132",
+      "previousRequestReferenceNumber": "25REQ018145342",
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": "2026-02-14T00:00:00",
+      "submissionDate": "2026-02-14T10:26:34.708",
+      "procurementDeliveryDate": "2026-12-31",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "394",
+      "protocolNumber": "233/7165",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "999147077",
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997604027",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
-      "approved": false,
+      "approved": true,
       "organization": {
-        "key": "100100968",
-        "value": "ΦΟΡΕΑΣ ΔΙΑΧΕΙΡΙΣΗΣ ΣΤΕΡΕΩΝ ΑΠΟΒΛΗΤΩΝ ΠΕΡΙΦΕΡΕΙΑΣ ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΟΤΑ Α.Ε."
+        "key": "55143",
+        "value": "ΕΛΛΗΝΙΚΟΣ ΓΕΩΡΓΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ-ΔΗΜΗΤΡΑ"
       },
       "nutsCode": {
-        "key": "EL411",
-        "value": "Λέσβος, Λήμνος"
+        "key": "EL434",
+        "value": "Χανιά"
       },
       "typeOfContractingAuthority": {
         "key": "10",
         "value": "ΝΠΙΔ"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
       },
-      "aaht": "1007.F00944.0001",
+      "aaht": "1029.E00514.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -53,188 +53,301 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "100101002",
-          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+          "key": "100009130",
+          "value": "ΙΝΣΤΙΤΟΥΤΟ ΕΛΙΑΣ, ΥΠΟΤΡΟΠΙΚΩΝ ΦΥΤΩΝ ΚΑΙ ΑΜΠΕΛΟΥ"
         },
         "signers": {
-          "key": "100101404",
-          "value": "ΙΩΑΝΝΗΣ ΜΑΛΑΦΗΣ - Πρόεδρος Δ.Σ."
+          "key": "100091750",
+          "value": "ΝΕΚΤΑΡΙΟΣ ΒΙΔΑΚΗΣ - Πρόεδρος Επιτροπής"
         }
       },
-      "totalCostWithVAT": 14040.0,
-      "totalCostWithoutVAT": 12000.0,
+      "totalCostWithVAT": 24798.4,
+      "totalCostWithoutVAT": 20494.13,
       "objectDetails": [
         {
-          "quantity": 2,
+          "quantity": 1,
           "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 12000,
-          "vat": "17",
+          "costWithoutVAT": 59.68,
+          "vat": "0",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Για την προμήθεια λογισμικού διαχείρισης εγγράφων για τις ανάγκες του ΦοΔΣΑ Περ. Β. Αιγαίου ΑΕ",
+          "shortDescription": "Υπηρεσίες μεταφοράς δεμάτων Υπηρεσίες παράδοσης αλληλογραφίας Υπηρεσίες τηλεπικοινωνιών\"  ",
           "cpvs": [
             {
-              "key": "48311000-1",
-              "value": "Πακέτα λογισμικού διαχείρισης κειμένων"
+              "key": "60161000-4",
+              "value": "Υπηρεσίες μεταφοράς δεμάτων"
+            },
+            {
+              "key": "64121100-1",
+              "value": "Υπηρεσίες παράδοσης αλληλογραφίας"
+            },
+            {
+              "key": "64200000-8",
+              "value": "Υπηρεσίες τηλεπικοινωνιών"
             }
           ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "48311000"
-      ],
-      "cpv_divisions": [
-        "48"
-      ],
-      "all_domains": [
-        "Software & Information Systems"
-      ],
-      "primary_domain": "Software & Information Systems"
-    },
-    {
-      "title": "ΑΠΟΦΑΣΗ ΠΟΛΥΕΤΟΥΣ ΑΝΑΛΗΨΗΣ ΥΠΟΧΡΕΩΣΗΣ ",
-      "referenceNumber": "26REQ018474332",
-      "previousRequestReferenceNumber": "26REQ018435490",
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T14:54:58.622",
-      "procurementDeliveryDate": "2026-07-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "1579/12-2-2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "996986586",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": true,
-      "approved": true,
-      "organization": {
-        "key": "100037436",
-        "value": "ΕΘΝΙΚΗ ΚΕΝΤΡΙΚΗ ΑΡΧΗ ΠΡΟΜΗΘΕΙΩΝ ΥΓΕΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1015.Ε00968.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100037506",
-          "value": "ΕΚΑΠΥ"
         },
-        "signers": {
-          "key": "100072990",
-          "value": "Αρης Αποστολου - Πρόεδρος"
-        }
-      },
-      "totalCostWithVAT": 100688.0,
-      "totalCostWithoutVAT": 81200.0,
-      "objectDetails": [
         {
-          "quantity": 167,
+          "quantity": 1,
           "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 81200,
+          "costWithoutVAT": 31.22,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΑΠΟΦΑΣΗ ΠΟΛΥΕΤΟΥΣ ΑΝΑΛΗΨΗΣ ΥΠΟΧΡΕΩΣΗΣ ",
+          "shortDescription": "Επισκευή, συντήρηση και συναφείς υπηρεσίες για προσωπικούς Η/Υ, εξοπλισμό γραφείου, τηλεπικοινωνίες και οπτικοακουστικό εξοπλισμό\t\n",
           "cpvs": [
             {
-              "key": "48218000-9",
-              "value": "Πακέτα λογισμικού διαχείρισης αδειών"
+              "key": "50300000-8",
+              "value": "Επισκευή"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 2500,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": " Λοιπές υπηρεσίες\t\n",
+          "cpvs": [
+            {
+              "key": "98390000-3",
+              "value": "Λοιπές υπηρεσίες"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2580.65,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Κινητά τηλέφωνα Καλώδια διανομής ηλεκτρικού ρεύματος Κυτία ηλεκτρικού ρεύματος Συστήματα παγκόσμιας πλοήγησης και παγκόσμιου προσδιορισμού θέσης (GPS ή ισοδύναμα) Ροόμετρα Κάρτες SIM Ηλεκτρονικό υλικό Ρευματολήπτες και ρευματοδότες Υλικά υδραυλικών εγκαταστάσεων Διάφορα εργαλεία χειρός Εργαστηριακά είδη, είδη υγιεινής ή φαρμακευτικά είδη από γυαλί Ετικέτες Φυσίγγες σκόνης τόνερ  ",
+          "cpvs": [
+            {
+              "key": "38112100-4",
+              "value": "Συστήματα παγκόσμιας πλοήγησης και παγκόσμιου προσδιορισμού θέσης (GPS ή ισοδύναμα)"
+            },
+            {
+              "key": "38428000-1",
+              "value": "Ροόμετρα"
+            },
+            {
+              "key": "31320000-5",
+              "value": "Καλώδια διανομής ηλεκτρικού ρεύματος"
+            },
+            {
+              "key": "31224100-3",
+              "value": "Ρευματολήπτες και ρευματοδότες"
+            },
+            {
+              "key": "44512000-2",
+              "value": "Διάφορα εργαλεία χειρός"
+            },
+            {
+              "key": "30199760-5",
+              "value": "Ετικέτες"
+            },
+            {
+              "key": "44115210-4",
+              "value": "Υλικά υδραυλικών εγκαταστάσεων"
+            },
+            {
+              "key": "32250000-0",
+              "value": "Κινητά τηλέφωνα"
+            },
+            {
+              "key": "30125100-2",
+              "value": "Φυσίγγες σκόνης τόνερ"
+            },
+            {
+              "key": "30192320-0",
+              "value": "Μελανοταινίες εκτυπωτών"
+            },
+            {
+              "key": "33790000-4",
+              "value": "Εργαστηριακά είδη"
+            },
+            {
+              "key": "31711000-3",
+              "value": "Ηλεκτρονικό υλικό"
+            },
+            {
+              "key": "31682100-1",
+              "value": "Κυτία ηλεκτρικού ρεύματος"
+            },
+            {
+              "key": "31712112-8",
+              "value": "Κάρτες SIM"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 14516.13,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσίες έρευνας και πειραματικής ανάπτυξης\t\n",
+          "cpvs": [
+            {
+              "key": "73100000-3",
+              "value": "Υπηρεσίες έρευνας και πειραματικής ανάπτυξης"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 806.45,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Εξοπλισμός ηλεκτρονικών υπολογιστών και προμήθειες Εξυπηρετητές  ",
+          "cpvs": [
+            {
+              "key": "30200000-1",
+              "value": "Εξοπλισμός ηλεκτρονικών υπολογιστών και προμήθειες"
+            },
+            {
+              "key": "48820000-2",
+              "value": "Εξυπηρετητές"
             }
           ]
         }
       ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "3",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "mixedContract": true,
       "approvalRefNo": [],
       "noticeRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "48218000"
+        "60161000",
+        "64121100",
+        "64200000",
+        "50300000",
+        "98390000",
+        "38112100",
+        "38428000",
+        "31320000",
+        "31224100",
+        "44512000",
+        "30199760",
+        "44115210",
+        "32250000",
+        "30125100",
+        "30192320",
+        "33790000",
+        "31711000",
+        "31682100",
+        "31712112",
+        "73100000",
+        "30200000",
+        "48820000"
       ],
       "cpv_divisions": [
+        "60",
+        "64",
+        "50",
+        "98",
+        "38",
+        "31",
+        "44",
+        "30",
+        "32",
+        "33",
+        "73",
         "48"
       ],
       "all_domains": [
+        "Transport Services",
+        "Postal & Telecommunications Services",
+        "Repair & Maintenance",
+        "Community & Personal Services",
+        "Lab, Optical & Precision Equipment",
+        "Electrical Equipment & Lighting",
+        "Construction Materials & Structures",
+        "Office & Computing (Non-Software)",
+        "Telecom & Electronics",
+        "Medical & Pharma",
+        "R&D & Related Consulting",
         "Software & Information Systems"
       ],
-      "primary_domain": "Software & Information Systems"
+      "primary_domain": "Construction Materials & Structures"
     },
     {
-      "title": "Δράσεις ψηφιακού μετασχηματισμού του Δήμου Κρωπίας",
-      "referenceNumber": "26REQ018474089",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T14:15:17.729",
-      "procurementDeliveryDate": "2026-07-31",
+      "title": "Προμήθεια ψηφιακής πλατφόρμας διαχείρισης αιτημάτων αφίξεων/ αναχωρήσεων πλοίων του Δημοτικού Λιμενι",
+      "referenceNumber": "26REQ018481989",
+      "previousRequestReferenceNumber": "25REQ017594295",
+      "signedDate": "2025-09-23",
+      "lastUpdateDate": "2025-10-09T00:00:00",
+      "submissionDate": "2026-02-13T20:26:10.737",
+      "procurementDeliveryDate": "2025-09-30",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "3517",
+      "protocolNumber": "2647",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "090125604",
+      "organizationVatNumber": "099558788",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
-      "approved": false,
+      "approved": true,
       "organization": {
-        "key": "6160",
-        "value": "ΔΗΜΟΣ ΚΡΩΠΙΑΣ"
+        "key": "50261",
+        "value": "ΔΗΜΟΤΙΚΟ ΛΙΜΕΝΙΚΟ ΤΑΜΕΙΟ ΜΥΚΟΝΟΥ"
       },
       "nutsCode": {
-        "key": "EL305",
-        "value": "Ανατολική Αττική"
+        "key": "EL422",
+        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
       },
       "typeOfContractingAuthority": {
         "key": "9",
@@ -244,7 +357,7 @@
         "key": "2",
         "value": "ΟΤΑ"
       },
-      "aaht": "1007.Ε84904.0001",
+      "aaht": "1007.E89153.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -255,62 +368,34 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "80143",
-          "value": "ΤΕΧΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+          "key": "92887",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
         },
         "signers": {
-          "key": "100021375",
-          "value": "ΣΠΥΡΙΔΩΝ ΣΙΟΥΝΤΡΗΣ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
+          "key": "100087495",
+          "value": "ΑΘΑΝΑΣΙΟΣ ΚΟΥΣΑΘΑΝΑΣ-ΜΕΓΑΣ - Πρόεδρος Δ.Σ."
         }
       },
-      "totalCostWithVAT": 549095.8,
-      "totalCostWithoutVAT": 442819.19,
+      "totalCostWithVAT": 37200.0,
+      "totalCostWithoutVAT": 30000.0,
       "objectDetails": [
         {
-          "quantity": 5,
+          "quantity": 1,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 442819.19,
+          "costWithoutVAT": 30000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Δράσεις ψηφιακού μετασχηματισμού του Δήμου Κρωπίας",
+          "shortDescription": "Την ανάγκη του Δημοτικού Λιμενικού Ταμείου Μυκόνου για την προμήθεια ψηφιακής πλατφόρμας διαχείρισης αιτημάτων αφίξεων/ αναχωρήσεων πλοίων με δυνατότητα αυτόματης κατανομής τους στις διαθέσιμες θέσεις διασύνδεσης, προκειμένου να επιτευχθεί ο αποτελεσματικότερος  προγραμματισμός των αφίξεων/ αναχωρήσεων των κρουαζιερόπλοιων, ιδίως μετά την αποχώρηση του μοναδικού υπαλλήλου, ο οποίος ήταν υπεύθυ",
           "cpvs": [
             {
-              "key": "48730000-4",
-              "value": "Πακέτα λογισμικού ασφαλείας"
-            },
-            {
-              "key": "32580000-2",
-              "value": "Εξοπλισμός δικτύου δεδομένων"
-            },
-            {
-              "key": "48219300-9",
-              "value": "Πακέτα λογισμικού διαχείρισης"
-            },
-            {
-              "key": "71354100-5",
-              "value": "Υπηρεσίες ψηφιακής χαρτογράφησης"
-            },
-            {
-              "key": "35125100-7",
-              "value": "Αισθητήρες"
-            },
-            {
-              "key": "72212730-5",
-              "value": "Υπηρεσίες ανάπτυξης λογισμικού ασφαλείας"
-            },
-            {
-              "key": "72230000-6",
-              "value": "Υπηρεσίες ανάπτυξης εξατομικευμένων λογισμικών"
-            },
-            {
-              "key": "48422000-2",
-              "value": "Πλατφόρμες πακέτων λογισμικού"
+              "key": "48612000-1",
+              "value": "Σύστημα διαχείρισης βάσης δεδομένων"
             }
           ]
         }
@@ -323,72 +408,57 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "48730000",
-        "32580000",
-        "48219300",
-        "71354100",
-        "35125100",
-        "72212730",
-        "72230000",
-        "48422000"
+        "48612000"
       ],
       "cpv_divisions": [
-        "48",
-        "32",
-        "71",
-        "35",
-        "72"
+        "48"
       ],
       "all_domains": [
-        "Software & Information Systems",
-        "Telecom & Electronics",
-        "Architecture, Engineering & Inspection",
-        "Security & Defense",
-        "IT Services"
+        "Software & Information Systems"
       ],
-      "primary_domain": "Architecture, Engineering & Inspection"
+      "primary_domain": "Software & Information Systems"
     },
     {
-      "title": "ΛΕΙΤΟΥΡΓΙΚΕΣ ΔΑΠΑΝΕΣ Α' ΕΞΑΜΗΝΟΥ 2026 ΠΡΕΣΒΕΙΑ ΚΟΠΕΓΧΑΓΗΣ",
-      "referenceNumber": "26REQ018473721",
-      "previousRequestReferenceNumber": "25REQ018038521",
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T13:39:32.959",
-      "procurementDeliveryDate": "2026-02-13",
+      "title": "ΣΥΝΤΗΡΗΣΕΙΣ ΛΟΓΙΣΜΙΚΟΥ (TEAMVIEWER)",
+      "referenceNumber": "26REQ018481458",
+      "previousRequestReferenceNumber": "25REQ017961729",
+      "signedDate": "2026-02-05",
+      "lastUpdateDate": "2025-11-24T00:00:00",
+      "submissionDate": "2026-02-13T15:32:17.33",
+      "procurementDeliveryDate": "2026-02-09",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "Φ.085/ΑΑ/ΚΟΠ/ΑΣ 1928",
+      "protocolNumber": "4547",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090372363",
+      "organizationVatNumber": "090276406",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "10",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ"
+        "key": "6104",
+        "value": "ΔΗΜΟΣ ΖΩΓΡΑΦΟΥ"
       },
       "nutsCode": {
         "key": "EL303",
         "value": "Κεντρικός Τομέας Αθηνών"
       },
       "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
+        "key": "9",
+        "value": "ΝΠΔΔ"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
+        "key": "2",
+        "value": "ΟΤΑ"
       },
-      "aaht": "ΑΝΕΥ",
+      "aaht": "1007.E84505.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -399,16 +469,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "70950",
-          "value": "ΣΤ5 Δ/ΝΣΗ ΠΡΟΜΗΘΕΙΩΝ & ΛΕΙΤΟΥΡΓΙΚΩΝ ΔΑΠΑΝΩΝ"
+          "key": "79650",
+          "value": "ΤΜΗΜΑ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ ΚΑΙ ΕΚΚΑΘΑΡΙΣΗΣ ΔΑΠΑΝΩΝ"
         },
         "signers": {
-          "key": "100101277",
-          "value": "ΒΑΣΙΛΗΣ ΠΑΠΑΔΟΠΟΥΛΟΣ - Διατάκτης"
+          "key": "100002547",
+          "value": "ΧΑΡΗΣ ΣΤΑΜΑΤΑΚΗΣ - Αντιδήμαρχος"
         }
       },
-      "totalCostWithVAT": 24903.0,
-      "totalCostWithoutVAT": 24903.0,
+      "totalCostWithVAT": 2000.0,
+      "totalCostWithoutVAT": 1612.9,
       "objectDetails": [
         {
           "quantity": 1,
@@ -416,17 +486,21 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 24903,
-          "vat": "0",
+          "costWithoutVAT": 1612.9,
+          "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΛΕΙΤΟΥΡΓΙΚΕΣ ΔΑΠΑΝΕΣ Α' ΕΞΑΜΗΝΟΥ 2026 ΠΡΕΣΒΕΙΑ ΚΟΠΕΓΧΑΓΗΣ",
+          "shortDescription": "Ανανέωση της υπάρχουσα έκδοσης TeamViewer, προγράμματος πρόσβασης εξ αποστάσεως των υπολογιστικών συστημάτων του Δήμου και Υποστήριξη αυτών μέσω του Διαδικτύου του Δήμου Ζωγράφου.",
           "cpvs": [
             {
-              "key": "48620000-0",
-              "value": "Λειτουργικά συστήματα"
+              "key": "48900000-7",
+              "value": "Διάφορα πακέτα λογισμικού και συστήματα ηλεκτρονικών υπολογιστών"
+            },
+            {
+              "key": "72267000-4",
+              "value": "Υπηρεσίες συντήρησης και επισκευής λογισμικού"
             }
           ]
         }
@@ -439,7 +513,111 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "48620000"
+        "48900000",
+        "72267000"
+      ],
+      "cpv_divisions": [
+        "48",
+        "72"
+      ],
+      "all_domains": [
+        "Software & Information Systems",
+        "IT Services"
+      ],
+      "primary_domain": "Software & Information Systems"
+    },
+    {
+      "title": "ΑΔΕΙΕΣ ΛΟΓΙΣΜΙΚΟΥ LIVE ENCORDING / TRANSCORDING, ΓΙΑ ΟΤΤ ΥΠΗΡΕΣΙΕΣ.",
+      "referenceNumber": "26REQ018481404",
+      "previousRequestReferenceNumber": "26REQ018328334",
+      "signedDate": "2026-01-15",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T15:20:23.859",
+      "procurementDeliveryDate": "2026-03-02",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "647",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997476074",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "100012982",
+        "value": "ΕΛΛΗΝΙΚΗ ΡΑΔΙΟΦΩΝΙΑ ΤΗΛΕΟΡΑΣΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ (Ε.Ρ.Τ. Α.Ε.)"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1004.E00513.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100100538",
+          "value": "ΕΝΤΕΤΑΛΜΕΝΟΣ ΣΥΜΒΟΥΛΟΣ ΤΕΧΝΟΛΟΓΙΑΣ"
+        },
+        "signers": {
+          "key": "100016809",
+          "value": "ΙΩΑΝΝΗΣ ΒΟΥΓΙΟΥΚΛΑΚΗΣ - Γενικός Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 37200.0,
+      "totalCostWithoutVAT": 30000.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "Erg",
+            "value": "Έργο"
+          },
+          "costWithoutVAT": 30000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια και χρήση Αδειών Λογισμικού ATEME TITAN LIVE - Streaming Licenses, για την κάλυψη των αναγκών του Live Encoding / Transcoding ζωντανού οπτικοακουστικού περιεχομένου με σκοπό την κάλυψη των επιχειρησιακών αναγκών της OTT πλατφόρμας ERTFLIX της Ε.Ρ.Τ. Α.Ε.",
+          "cpvs": [
+            {
+              "key": "48520000-9",
+              "value": "Πακέτα λογισμικού πολυμέσων"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "48520000"
       ],
       "cpv_divisions": [
         "48"
@@ -451,11 +629,11 @@
     },
     {
       "title": "Παροχή υπηρεσιών ανανέωσης λογισμικού antivirus",
-      "referenceNumber": "26REQ018473638",
-      "previousRequestReferenceNumber": null,
+      "referenceNumber": "26REQ018481267",
+      "previousRequestReferenceNumber": "26REQ018473638",
       "signedDate": "2026-02-12",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T13:32:27.111",
+      "submissionDate": "2026-02-13T15:00:50.763",
       "procurementDeliveryDate": "2026-03-12",
       "cancellationDate": null,
       "cancelled": false,
@@ -472,7 +650,7 @@
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
-      "approved": false,
+      "approved": true,
       "organization": {
         "key": "100068650",
         "value": "ΥΠΟΥΡΓΕΙΟ ΚΛΙΜΑΤΙΚΗΣ ΚΡΙΣΗΣ ΚΑΙ ΠΟΛΙΤΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ"
@@ -551,254 +729,46 @@
       "primary_domain": "Software & Information Systems"
     },
     {
-      "title": "Αίτημα εξοπλισμού με αρ. πρ. 128482 - απευθείας ανάθεση υπηρεσίας",
-      "referenceNumber": "26REQ018473281",
-      "previousRequestReferenceNumber": "26REQ018473278",
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T13:06:03.518",
-      "procurementDeliveryDate": "2026-04-20",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "128482",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "099785242",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "99220974",
-        "value": "ΕΘΝ. ΚΕΝΤΡΟ ΕΡΕΥΝΑΣ & ΤΕΧΝΟΛ. ΑΝΑΠΤ. (ΕΚΕΤΑ)"
-      },
-      "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1036.E00346.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "90055",
-          "value": "ΙΝΣΤΙΤΟΥΤΟ ΧΗΜΙΚΩΝ ΔΙΕΡΓΑΣΙΩΝ ΚΑΙ ΕΝΕΡΓΕΙΑΚΩΝ ΠΟΡΩΝ (ΙΔΕΠ)"
-        },
-        "signers": {
-          "key": "100098083",
-          "value": "Ευάγγελος Μπεκιάρης - Πρόεδρος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 9815.94,
-      "totalCostWithoutVAT": 7916.08,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 7916.08,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "HOMER PRO & FRONT",
-          "cpvs": [
-            {
-              "key": "48000000-8",
-              "value": "Πακέτα λογισμικού και συστήματα πληροφορικής"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [
-        "26PROC018473323"
-      ],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99220974",
-        "48000000"
-      ],
-      "cpv_divisions": [
-        "48"
-      ],
-      "all_domains": [
-        "Software & Information Systems"
-      ],
-      "primary_domain": "Software & Information Systems"
-    },
-    {
-      "title": "Αίτημα εξοπλισμού με αρ. πρ. 128482 - απευθείας ανάθεση υπηρεσίας",
-      "referenceNumber": "26REQ018473278",
+      "title": "Προμήθεια λογισμικού διαχείρισης υποθέσεων Τ.Α.",
+      "referenceNumber": "26REQ018481046",
       "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T13:05:44.578",
-      "procurementDeliveryDate": "2026-04-20",
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T14:40:06.135",
+      "procurementDeliveryDate": "2026-03-30",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "128482",
+      "protocolNumber": "1001",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "099785242",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090029757",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": false,
       "organization": {
-        "key": "99220974",
-        "value": "ΕΘΝ. ΚΕΝΤΡΟ ΕΡΕΥΝΑΣ & ΤΕΧΝΟΛ. ΑΝΑΠΤ. (ΕΚΕΤΑ)"
+        "key": "50430",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ (Δ.Ε.Υ.Α.) ΧΙΟΥ"
       },
       "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
+        "key": "EL413",
+        "value": "Χίος"
       },
       "typeOfContractingAuthority": {
         "key": "10",
         "value": "ΝΠΙΔ"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1036.E00346.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "90055",
-          "value": "ΙΝΣΤΙΤΟΥΤΟ ΧΗΜΙΚΩΝ ΔΙΕΡΓΑΣΙΩΝ ΚΑΙ ΕΝΕΡΓΕΙΑΚΩΝ ΠΟΡΩΝ (ΙΔΕΠ)"
-        },
-        "signers": {
-          "key": "100098083",
-          "value": "Ευάγγελος Μπεκιάρης - Πρόεδρος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 9815.94,
-      "totalCostWithoutVAT": 7916.08,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 7916.08,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "HOMER PRO & FRONT",
-          "cpvs": [
-            {
-              "key": "48000000-8",
-              "value": "Πακέτα λογισμικού και συστήματα πληροφορικής"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018473281"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99220974",
-        "48000000"
-      ],
-      "cpv_divisions": [
-        "48"
-      ],
-      "all_domains": [
-        "Software & Information Systems"
-      ],
-      "primary_domain": "Software & Information Systems"
-    },
-    {
-      "title": "ΑΑΥΣ 124/2026 «ΥΠΗΡΕΣΙΕΣ ΚΑΙ ΕΞΟΠΛΙΣΜΟΣ ΨΗΦΙΟΠΟΙΗΣΗΣ ΒΙΒΛΙΟΘΗΚΗΣ ΕΥΤΑΞΙΑ»",
-      "referenceNumber": "26REQ018472712",
-      "previousRequestReferenceNumber": "23REQ012600179",
-      "signedDate": "2026-02-09",
-      "lastUpdateDate": "2025-03-17T00:00:00",
-      "submissionDate": "2026-02-12T12:30:50.797",
-      "procurementDeliveryDate": "2026-02-28",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "1035",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": "d.triantaf@dimos-amfiklias-elatias.gr",
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "800067050",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6030",
-        "value": "ΔΗΜΟΣ ΑΜΦΙΚΛΕΙΑΣ - ΕΛΑΤΕΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL644",
-        "value": "Φθιώτιδα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
         "key": "2",
         "value": "ΟΤΑ"
       },
-      "aaht": "1007.E82702.0001",
+      "aaht": "1007.F00687.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -809,16 +779,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "83361",
-          "value": "ΑΥΤΟΤΕΛΕΣ ΤΜΗΜΑ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+          "key": "93816",
+          "value": "ΑΠΟΧΕΤΕΥΣΗΣ"
         },
         "signers": {
-          "key": "100068832",
-          "value": "Παναγιώτα Σεφερλή - Αναπληρωτής Προϊστάμενος"
+          "key": "100096114",
+          "value": "ΚΩΝΣΤΑΝΤΗΣ ΜΑΥΡΙΑΝΟΣ - Τμηματάρχης"
         }
       },
-      "totalCostWithVAT": 116829.08,
-      "totalCostWithoutVAT": 94217.0,
+      "totalCostWithVAT": 8190.0,
+      "totalCostWithoutVAT": 7000.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -826,29 +796,17 @@
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 94217,
-          "vat": "24",
+          "costWithoutVAT": 7000,
+          "vat": "17",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Το παρόν αίτημα συντάσσεται προκειμένου ο Δήμος Αμφίκλειας – Ελάτειας να προβεί, σύμφωνα με την αριθμ. 3/2019  μελέτη, στην προμήθεια «ΥΠΗΡΕΣΙΕΣ ΚΑΙ ΕΞΟΠΛΙΣΜΟΣ ΨΗΦΙΟΠΟΙΗΣΗΣ ΒΙΒΛΙΟΘΗΚΗΣ ΕΥΤΑΞΙΑ», η οποία εγκρίθηκε με την αριθμ. 15/2019 απόφαση Δ.Σ. (ΑΔΑ: 6ΨΚ4ΩΨΚ-Ω37) ",
+          "shortDescription": "Προμήθεια λογισμικού διαχείρισης υποθέσεων για το τμήμα αποχέτευσης της ΔΕΥΑ Χίου",
           "cpvs": [
             {
-              "key": "30238000-6",
-              "value": "Εξοπλισμός ηλεκτρονικής βιβλιοθήκης"
-            },
-            {
-              "key": "79999100-4",
-              "value": "Υπηρεσίες σάρωσης"
-            },
-            {
-              "key": "71354100-5",
-              "value": "Υπηρεσίες ψηφιακής χαρτογράφησης"
-            },
-            {
-              "key": "48161000-4",
-              "value": "Σύστημα διαχείρισης βιβλιοθηκών"
+              "key": "48000000-8",
+              "value": "Πακέτα λογισμικού και συστήματα πληροφορικής"
             }
           ]
         }
@@ -861,66 +819,159 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "30238000",
-        "79999100",
-        "71354100",
-        "48161000"
+        "48000000"
       ],
       "cpv_divisions": [
-        "30",
-        "79",
-        "71",
         "48"
       ],
       "all_domains": [
-        "Office & Computing (Non-Software)",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "Architecture, Engineering & Inspection",
         "Software & Information Systems"
       ],
-      "primary_domain": "Architecture, Engineering & Inspection"
+      "primary_domain": "Software & Information Systems"
     },
     {
-      "title": "Απόφαση Ανάληψης για «Συντήρηση & Υποστήριξη άδειες ORACLE»",
-      "referenceNumber": "26REQ018471297",
-      "previousRequestReferenceNumber": "26REQ018471219",
-      "signedDate": "2026-02-12",
+      "title": "Διενέργεια Ανοικτού Ηλεκτρονικού Διαγωνισμού, άνω των ορίων, για το έργο με τίτλο «Προμήθεια Ερευνητ",
+      "referenceNumber": "26REQ018480930",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-11",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T11:22:35.587",
-      "procurementDeliveryDate": "2026-02-27",
+      "submissionDate": "2026-02-13T14:30:50.036",
+      "procurementDeliveryDate": "2027-02-28",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "108/11-02-2026",
+      "protocolNumber": "210649",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "999218370",
+      "organizationVatNumber": "090101655",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "99221065",
+        "value": "ΙΔΡΥΜΑ ΤΕΧΝΟΛΟΓΙΑΣ ΚΑΙ ΕΡΕΥΝΑΣ (ΙΤΕ)"
+      },
+      "nutsCode": {
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1036.Ε00341.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100047216",
+          "value": "ΙΝΣΤΙΤΟΥΤΟ ΑΣΤΡΟΦΥΣΙΚΗΣ"
+        },
+        "signers": {
+          "key": "100096637",
+          "value": "ΒΑΣΙΛΙΚΗ ΠΑΥΛΙΔΟΥ - Αναπληρωτής Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 1403084.8,
+      "totalCostWithoutVAT": 1131520.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1131520,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπολογιστική υποδομή στα πρότυπα των σύγχρονων συστημάτων επεξεργασίας υψηλών επιδόσεων (High performance computing – HPC) για την κάλυψη των αναγκών υλοποίησης του φυσικού αντικειμένου του Έργου MW – ATLAS, ΕΥΖ00203.",
+          "cpvs": [
+            {
+              "key": "48820000-2",
+              "value": "Εξυπηρετητές"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99221065",
+        "48820000"
+      ],
+      "cpv_divisions": [
+        "48"
+      ],
+      "all_domains": [
+        "Software & Information Systems"
+      ],
+      "primary_domain": "Software & Information Systems"
+    },
+    {
+      "title": "ΑΝΑΝΕΩΣΗ ΥΠΗΡΕΣΙΑ FILE CLOUD BACKUP",
+      "referenceNumber": "26REQ018480787",
+      "previousRequestReferenceNumber": "25REQ017736380",
+      "signedDate": "2026-02-05",
+      "lastUpdateDate": "2025-10-23T00:00:00",
+      "submissionDate": "2026-02-13T14:21:08.893",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "4547",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090276406",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "99221942",
-        "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΣΕΡΡΩΝ"
+        "key": "6104",
+        "value": "ΔΗΜΟΣ ΖΩΓΡΑΦΟΥ"
       },
       "nutsCode": {
-        "key": "EL526",
-        "value": "Σέρρες"
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
       },
       "typeOfContractingAuthority": {
         "key": "9",
         "value": "ΝΠΔΔ"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
+        "key": "2",
+        "value": "ΟΤΑ"
       },
-      "aaht": "1015.E00263.0001",
+      "aaht": "1007.E84505.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -931,16 +982,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "91964",
-          "value": "ΠΡΟΜΗΘΕΙΩΝ"
+          "key": "79650",
+          "value": "ΤΜΗΜΑ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ ΚΑΙ ΕΚΚΑΘΑΡΙΣΗΣ ΔΑΠΑΝΩΝ"
         },
         "signers": {
-          "key": "100099586",
-          "value": "ΔΗΜΗΤΡΙΟΣ ΜΠΑΛΑΞΗΣ - Αναπληρωτής Διοικητής"
+          "key": "100002547",
+          "value": "ΧΑΡΗΣ ΣΤΑΜΑΤΑΚΗΣ - Αντιδήμαρχος"
         }
       },
-      "totalCostWithVAT": 2220.0,
-      "totalCostWithoutVAT": 1790.32,
+      "totalCostWithVAT": 2000.0,
+      "totalCostWithoutVAT": 1612.9,
       "objectDetails": [
         {
           "quantity": 1,
@@ -948,17 +999,797 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 1790.32,
+          "costWithoutVAT": 1612.9,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Απόφαση Ανάληψης για «Συντήρηση & Υποστήριξη άδειες ORACLE»",
+          "shortDescription": "ΑΝΑΝΕΩΣΗ ΥΠΗΡΕΣΙΑ FILE CLOUD BACKUP ΓΙΑ ΕΝΑ ΕΤΟΣ",
           "cpvs": [
             {
-              "key": "48610000-7",
-              "value": "Συστήματα βάσεων δεδομένων"
+              "key": "48710000-8",
+              "value": "Πακέτα λογισμικού εφεδρικής αποθήκευσης ή ανάκτησης"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "48710000"
+      ],
+      "cpv_divisions": [
+        "48"
+      ],
+      "all_domains": [
+        "Software & Information Systems"
+      ],
+      "primary_domain": "Software & Information Systems"
+    },
+    {
+      "title": "Αίτημα έκδοσης απόφασης ανάληψης υποχρέωσης συνεχιζόμενου έργου έτους 2026 (υπόλοιπο  της 1ης Συμπλη",
+      "referenceNumber": "26REQ018480677",
+      "previousRequestReferenceNumber": "26REQ018480623",
+      "signedDate": "2026-01-19",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T14:14:15.273",
+      "procurementDeliveryDate": "2026-04-02",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "15611/304",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997687965",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "5001",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL511",
+        "value": "Έβρος"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "*",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "10",
+            "value": "Έργα"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "79939",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ Π.Ε. ΕΒΡΟΥ"
+        },
+        "signers": {
+          "key": "100084403",
+          "value": "ΕΥΑΓΓΕΛΟΣ ΠΟΥΛΙΛΙΟΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+        }
+      },
+      "totalCostWithVAT": 48551680.44,
+      "totalCostWithoutVAT": 39154581.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "Erg",
+            "value": "Έργο"
+          },
+          "costWithoutVAT": 39154581,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Η βελτίωση των συνθηκών ασφαλείας στις μεταφορές και η εξασφάλιση των συνθηκών για τον περιορισμό των ατυχημάτων - ειδικότερα των τροχαίων - σε επίπεδα ανάλογα με άλλες περιοχές της χώρας και χωρών-μελών της Ε.Ε. Η αναβάθμιση της υποδομής και των συνθηκών κυκλοφορίας μεταξύ σημαντικών επαρχιακών αστικών κέντρων. Η περιφερειακή ανάπτυξη και οικονομική συνοχή, για την αντιμετώπιση των ενδοπεριφερεια",
+          "cpvs": [
+            {
+              "key": "45233142-6",
+              "value": "Εργασίες επισκευής οδών"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "48551680",
+        "39154581",
+        "45233142"
+      ],
+      "cpv_divisions": [
+        "48",
+        "39",
+        "45"
+      ],
+      "all_domains": [
+        "Software & Information Systems",
+        "Furniture & Cleaning Products",
+        "Construction & Works"
+      ],
+      "primary_domain": "Construction & Works"
+    },
+    {
+      "title": "Αίτημα έκδοσης απόφασης ανάληψης υποχρέωσης συνεχιζόμενου έργου έτους 2026 (υπόλοιπο  της 1ης Συμπλη",
+      "referenceNumber": "26REQ018480623",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-01-19",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T14:10:56.096",
+      "procurementDeliveryDate": "2026-04-02",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "15611/304",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997687965",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "5001",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL511",
+        "value": "Έβρος"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "*",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "10",
+            "value": "Έργα"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "79939",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ Π.Ε. ΕΒΡΟΥ"
+        },
+        "signers": {
+          "key": "100084403",
+          "value": "ΕΥΑΓΓΕΛΟΣ ΠΟΥΛΙΛΙΟΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+        }
+      },
+      "totalCostWithVAT": 48551680.44,
+      "totalCostWithoutVAT": 39154581.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "Erg",
+            "value": "Έργο"
+          },
+          "costWithoutVAT": 39154581,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Η βελτίωση των συνθηκών ασφαλείας στις μεταφορές και η εξασφάλιση των συνθηκών για τον περιορισμό των ατυχημάτων - ειδικότερα των τροχαίων - σε επίπεδα ανάλογα με άλλες περιοχές της χώρας και χωρών-μελών της Ε.Ε. Η αναβάθμιση της υποδομής και των συνθηκών κυκλοφορίας μεταξύ σημαντικών επαρχιακών αστικών κέντρων. Η περιφερειακή ανάπτυξη και οικονομική συνοχή, για την αντιμετώπιση των ενδοπεριφερεια",
+          "cpvs": [
+            {
+              "key": "45233142-6",
+              "value": "Εργασίες επισκευής οδών"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018480677"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "48551680",
+        "39154581",
+        "45233142"
+      ],
+      "cpv_divisions": [
+        "48",
+        "39",
+        "45"
+      ],
+      "all_domains": [
+        "Software & Information Systems",
+        "Furniture & Cleaning Products",
+        "Construction & Works"
+      ],
+      "primary_domain": "Construction & Works"
+    },
+    {
+      "title": "ΔΡΑΣΕΙΣ ΨΗΦΙΑΚΟΥ  ΜΕΤΑΣΧΗΜΑΤΙΣΜΟΥ ΔΗΜΟΥ ΑΓΙΟΥ ΒΑΣΙΛΕΙΟΥΥποέργο1: Δράσεις ψηφιακού μετασχηματισμο...",
+      "referenceNumber": "26REQ018480426",
+      "previousRequestReferenceNumber": "25REQ017029019",
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": "2025-06-17T00:00:00",
+      "submissionDate": "2026-02-13T13:57:43.321",
+      "procurementDeliveryDate": "2026-02-16",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "1722",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997820848",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6006",
+        "value": "ΔΗΜΟΣ ΑΓΙΟΥ ΒΑΣΙΛΕΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL433",
+        "value": "Ρέθυμνο"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε87302.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "83413",
+          "value": "ΓΡΑΦΕΙΟ ΔΗΜΑΡΧΟΥ"
+        },
+        "signers": {
+          "key": "100002137",
+          "value": "ΙΩΑΝΝΗΣ ΤΑΤΑΡΑΚΗΣ - Δήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 190592.91,
+      "totalCostWithoutVAT": 153703.96,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 16094.09,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ενίσχυση ψηφιακών υποδομών",
+          "cpvs": [
+            {
+              "key": "48517000-5",
+              "value": "Πακέτα λογισμικού τεχνολογίας των πληροφοριών"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 53139.44,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Βιώσιμη μετακίνηση",
+          "cpvs": [
+            {
+              "key": "48517000-5",
+              "value": "Πακέτα λογισμικού τεχνολογίας των πληροφοριών"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 84470.43,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Βελτίωση της εξυπηρέτησης των πολιτών και των επιχειρήσεων",
+          "cpvs": [
+            {
+              "key": "48730000-4",
+              "value": "Πακέτα λογισμικού ασφαλείας"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "48517000",
+        "48730000"
+      ],
+      "cpv_divisions": [
+        "48"
+      ],
+      "all_domains": [
+        "Software & Information Systems"
+      ],
+      "primary_domain": "Software & Information Systems"
+    },
+    {
+      "title": "ΕΓΚΡΙΣΗ   ΑΝΑΝΕΩΣΗ ΤΟΥ ΛΟΓΙΣΜΙΚΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ I-SUPPLIES",
+      "referenceNumber": "26REQ018480330",
+      "previousRequestReferenceNumber": "26REQ018349389",
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T13:52:16.933",
+      "procurementDeliveryDate": "2026-03-17",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "ΑΑΥ456",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "999157568",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "99221911",
+        "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΚΑΒΑΛΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL515",
+        "value": "Θάσος, Καβάλα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1015.Ε00227.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "77780",
+          "value": "ΤΜΗΜΑ ΠΡΟΜΗΘΕΙΩΝ"
+        },
+        "signers": {
+          "key": "100067769",
+          "value": "ΖΩΗ ΠΑΠΑΚΗ - Αναπληρωτής Προϊστάμενος"
+        }
+      },
+      "totalCostWithVAT": 20088.0,
+      "totalCostWithoutVAT": 16200.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 16200,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΝΑΝΕΩΣΗ ΤΟΥ ΛΟΓΙΣΜΙΚΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ I-SUPPLIES",
+          "cpvs": [
+            {
+              "key": "48490000-9",
+              "value": "Πακέτα λογισμικού προμηθειών"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99221911",
+        "48490000"
+      ],
+      "cpv_divisions": [
+        "48"
+      ],
+      "all_domains": [
+        "Software & Information Systems"
+      ],
+      "primary_domain": "Software & Information Systems"
+    },
+    {
+      "title": "Πρωτογενές αίτημα για την προμήθεια toner, μελανιών, drum και μικροεξοπλισμός, μικροσυσκευές γραφείο",
+      "referenceNumber": "26REQ018479925",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T13:26:01.003",
+      "procurementDeliveryDate": "2026-02-13",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "1687",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997898781",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6098",
+        "value": "ΔΗΜΟΣ ΖΑΓΟΡΑΣ - ΜΟΥΡΕΣΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL613",
+        "value": "Μαγνησία, Σποράδες"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε82403.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "83399",
+          "value": "ΓΡΑΦΕΙΟ ΠΡΟΜΗΘΕΙΩΝ"
+        },
+        "signers": {
+          "key": "100085630",
+          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΚΑΡΑΓΕΩΡΓΙΟΥ - Δήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 7920.44,
+      "totalCostWithoutVAT": 6387.45,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 6387.45,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πρωτογενές αίτημα για την προμήθεια toner, μελανιών, drum και μικροεξοπλισμός, μικροσυσκευές γραφείου και ηλεκτρονική υπολογιστές, λογισμικά του Δήμου Ζαγοράς – Μουρεσίου. ",
+          "cpvs": [
+            {
+              "key": "30100000-0",
+              "value": "Μηχανήματα γραφείου"
+            },
+            {
+              "key": "30192110-5",
+              "value": "Μελάνια"
+            },
+            {
+              "key": "30213300-8",
+              "value": "Επιτραπέζιοι ηλεκτρονικοί υπολογιστές"
+            },
+            {
+              "key": "48000000-8",
+              "value": "Πακέτα λογισμικού και συστήματα πληροφορικής"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "30100000",
+        "30192110",
+        "30213300",
+        "48000000"
+      ],
+      "cpv_divisions": [
+        "30",
+        "48"
+      ],
+      "all_domains": [
+        "Office & Computing (Non-Software)",
+        "Software & Information Systems"
+      ],
+      "primary_domain": "Software & Information Systems"
+    },
+    {
+      "title": "ΕΦΑΡΜΟΓΗ ΕΝΗΜΕΡΩΣΗΣ ΓΟΝΕΩΝ ΠΑΙΔΙΚΩΝ ΣΤΑΘΜΩΝ “TOTAL SCHOOL”",
+      "referenceNumber": "26REQ018479604",
+      "previousRequestReferenceNumber": "25REQ017688553",
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": "2025-10-31T00:00:00",
+      "submissionDate": "2026-02-13T13:08:07.235",
+      "procurementDeliveryDate": "2026-03-13",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "1644/2026",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997877331",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6116",
+        "value": "ΔΗΜΟΣ ΘΗΡΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL422",
+        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε86001.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "77972",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100085994",
+          "value": "ΙΑΚΩΒΟΣ ΛΙΓΝΟΣ - Αντιδήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 5654.4,
+      "totalCostWithoutVAT": 4560.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 4560,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΦΑΡΜΟΓΗ ΕΝΗΜΕΡΩΣΗΣ ΓΟΝΕΩΝ ΠΑΙΔΙΚΩΝ ΣΤΑΘΜΩΝ “TOTAL SCHOOL”",
+          "cpvs": [
+            {
+              "key": "48510000-6",
+              "value": "Πακέτα λογισμικού επικοινωνίας"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "48510000"
+      ],
+      "cpv_divisions": [
+        "48"
+      ],
+      "all_domains": [
+        "Software & Information Systems"
+      ],
+      "primary_domain": "Software & Information Systems"
+    },
+    {
+      "title": "ΑΝΑΒΑΘΜΙΣΗ ΤΗΣ ΕΦΑΡΜΟΓΗΣ ΛΟΓΙΣΤΗΡΙΟΥ (SGA)-ΛΗΨΗ ΤΙΜΟΛΟΓΙΩΝ ΠΡΟΜΗΘΕΥΤΩΝ ΜΕΣΩ ΚΕΔ (ΗΛΕΚΤΡΟΝΙΚΗ ΤΙΜΟΛΟΓ",
+      "referenceNumber": "26REQ018479602",
+      "previousRequestReferenceNumber": "26REQ018479563",
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T13:08:01.32",
+      "procurementDeliveryDate": "2026-03-01",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "177",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090093687",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "99221037",
+        "value": "ΕΠΙΜΕΛΗΤΗΡΙΟ ΛΑΣΙΘΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL432",
+        "value": "Λασίθι"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1036.F01032.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "10864",
+          "value": "ΔΙΟΙΚΗΣΗ ΔΣ"
+        },
+        "signers": {
+          "key": "117836",
+          "value": "ΔΙΟΙΚΗΤΙΚΗ ΕΠΙΤΡΟΠΗ ΕΠΙΜΕΛΗΤΗΡΙΟΥ ΛΑΣΙΘΙΟΥ - Συλλογικό Όργανο"
+        }
+      },
+      "totalCostWithVAT": 1240.0,
+      "totalCostWithoutVAT": 1000.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΝΑΒΑΘΜΙΣΗ ΤΗΣ ΕΦΑΡΜΟΓΗΣ ΛΟΓΙΣΤΗΡΙΟΥ (SGA)-ΛΗΨΗ ΤΙΜΟΛΟΓΙΩΝ ΠΡΟΜΗΘΕΥΤΩΝ ΜΕΣΩ ΚΕΔ (ΗΛΕΚΤΡΟΝΙΚΗ ΤΙΜΟΛΟΓΗΣΗ)",
+          "cpvs": [
+            {
+              "key": "48000000-8",
+              "value": "Πακέτα λογισμικού και συστήματα πληροφορικής"
             }
           ]
         }
@@ -967,14 +1798,14 @@
       "mixedContract": false,
       "approvalRefNo": [],
       "noticeRefNo": [
-        "26PROC018471736"
+        "26PROC018479778"
       ],
       "contractRefNo": [],
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "99221942",
-        "48610000"
+        "99221037",
+        "48000000"
       ],
       "cpv_divisions": [
         "48"
@@ -985,36 +1816,36 @@
       "primary_domain": "Software & Information Systems"
     },
     {
-      "title": "Έγκριση Διενέργειας Διαπραγμάτευσης για Συντήρηση Άδειες Oracle",
-      "referenceNumber": "26REQ018471219",
+      "title": "ΑΝΑΒΑΘΜΙΣΗ ΤΗΣ ΕΦΑΡΜΟΓΗΣ ΛΟΓΙΣΤΗΡΙΟΥ (SGA)-ΛΗΨΗ ΤΙΜΟΛΟΓΙΩΝ ΠΡΟΜΗΘΕΥΤΩΝ ΜΕΣΩ ΚΕΔ (ΗΛΕΚΤΡΟΝΙΚΗ ΤΙΜΟΛΟΓ",
+      "referenceNumber": "26REQ018479563",
       "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T11:18:40.137",
-      "procurementDeliveryDate": "2026-02-27",
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T13:05:50.976",
+      "procurementDeliveryDate": "2026-03-01",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "108/11-02-2026",
+      "protocolNumber": "178",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "999218370",
+      "organizationVatNumber": "090093687",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": false,
       "organization": {
-        "key": "99221942",
-        "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΣΕΡΡΩΝ"
+        "key": "99221037",
+        "value": "ΕΠΙΜΕΛΗΤΗΡΙΟ ΛΑΣΙΘΙΟΥ"
       },
       "nutsCode": {
-        "key": "EL526",
-        "value": "Σέρρες"
+        "key": "EL432",
+        "value": "Λασίθι"
       },
       "typeOfContractingAuthority": {
         "key": "9",
@@ -1024,7 +1855,7 @@
         "key": "4",
         "value": "Εκτός Γενικής Κυβέρνησης"
       },
-      "aaht": "1015.E00263.0001",
+      "aaht": "1036.F01032.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -1035,16 +1866,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "91964",
-          "value": "ΠΡΟΜΗΘΕΙΩΝ"
+          "key": "10864",
+          "value": "ΔΙΟΙΚΗΣΗ ΔΣ"
         },
         "signers": {
-          "key": "100099586",
-          "value": "ΔΗΜΗΤΡΙΟΣ ΜΠΑΛΑΞΗΣ - Αναπληρωτής Διοικητής"
+          "key": "117836",
+          "value": "ΔΙΟΙΚΗΤΙΚΗ ΕΠΙΤΡΟΠΗ ΕΠΙΜΕΛΗΤΗΡΙΟΥ ΛΑΣΙΘΙΟΥ - Συλλογικό Όργανο"
         }
       },
-      "totalCostWithVAT": 2220.0,
-      "totalCostWithoutVAT": 1790.32,
+      "totalCostWithVAT": 1240.0,
+      "totalCostWithoutVAT": 1000.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -1052,17 +1883,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 1790.32,
+          "costWithoutVAT": 1000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": " Έγκριση διενέργειας διαδικασίας διαπραγμάτευσης χωρίς προηγούμενη δημοσίευση  σύμφωνα με τις διατάξεις του Ν.4412/2016 (Φ.Ε.Κ. 147/Α/2016) Περί Δημοσίων Συμβάσεων Έργων, Προμηθειών και Υπηρεσιών», (προσαρμογή στις οδηγίες 2014/24/ΕΕ και 2014/25/ΕΕ), και ειδικότερα όπως ορίζεται στο άρθ.32, παρ.2,περ.β ,υποπερ. ββ, γγ",
+          "shortDescription": "ΑΝΑΒΑΘΜΙΣΗ ΤΗΣ ΕΦΑΡΜΟΓΗΣ ΛΟΓΙΣΤΗΡΙΟΥ (SGA)-ΛΗΨΗ ΤΙΜΟΛΟΓΙΩΝ ΠΡΟΜΗΘΕΥΤΩΝ ΜΕΣΩ ΚΕΔ (ΗΛΕΚΤΡΟΝΙΚΗ ΤΙΜΟΛΟΓΗΣΗ)",
           "cpvs": [
             {
-              "key": "48610000-7",
-              "value": "Συστήματα βάσεων δεδομένων"
+              "key": "48000000-8",
+              "value": "Πακέτα λογισμικού και συστήματα πληροφορικής"
             }
           ]
         }
@@ -1070,15 +1901,15 @@
       "additionalContractTypes": null,
       "mixedContract": false,
       "approvalRefNo": [
-        "26REQ018471297"
+        "26REQ018479602"
       ],
       "noticeRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "99221942",
-        "48610000"
+        "99221037",
+        "48000000"
       ],
       "cpv_divisions": [
         "48"
@@ -1089,19 +1920,1007 @@
       "primary_domain": "Software & Information Systems"
     },
     {
-      "title": "ΣΥΝΤΗΡΗΣΗ ΕΣΩΤΕΡΙΚΟΥ ΔΙΚΤΥΟΥ",
-      "referenceNumber": "26REQ018471132",
-      "previousRequestReferenceNumber": "25REQ017024859",
-      "signedDate": "2026-01-28",
-      "lastUpdateDate": "2025-06-17T00:00:00",
-      "submissionDate": "2026-02-12T11:14:13.673",
-      "procurementDeliveryDate": "2026-05-07",
+      "title": "EΓΚΡΙΣΗ  2026 ΕΡΓΟ SMARTANIMAL",
+      "referenceNumber": "26REQ018479407",
+      "previousRequestReferenceNumber": "26REQ018367712",
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T12:57:17.04",
+      "procurementDeliveryDate": "2026-12-31",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "04/26",
+      "protocolNumber": "91",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997604027",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "55143",
+        "value": "ΕΛΛΗΝΙΚΟΣ ΓΕΩΡΓΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ-ΔΗΜΗΤΡΑ"
+      },
+      "nutsCode": {
+        "key": "EL524",
+        "value": "Πέλλα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1029.E00514.0001 ",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100009117",
+          "value": "ΙΝΣΤΙΤΟΥΤΟ ΕΠΙΣΤΗΜΗΣ ΖΩΙΚΗΣ ΠΑΡΑΓΩΓΗΣ"
+        },
+        "signers": {
+          "key": "100091750",
+          "value": "ΝΕΚΤΑΡΙΟΣ ΒΙΔΑΚΗΣ - Πρόεδρος Επιτροπής"
+        }
+      },
+      "totalCostWithVAT": 844353.2,
+      "totalCostWithoutVAT": 680930.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 49500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Εξοπλισμός δικτύου",
+          "cpvs": [
+            {
+              "key": "32420000-3",
+              "value": "Εξοπλισμός δικτύου"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 246328.9,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "AΓΟΡΑ ΕΠΙΣΤΗΜΟΝΙΚΟΥ ΕΞΟΠΛΙΣΜΟΥ( χημικοί αναλυτές,μικροσκόπια,καταψύκτες,χρωματογράφοι,φασματοφωτόμετρα κλπ.)",
+          "cpvs": [
+            {
+              "key": "42943000-8",
+              "value": "Θερμοστατικά λουτρά και σχετικά εξαρτήματα"
+            },
+            {
+              "key": "42959000-3",
+              "value": "Πλυντήρια πιάτων επαγγελματικού τύπου"
+            },
+            {
+              "key": "71356300-1",
+              "value": "Υπηρεσίες τεχνικής υποστήριξης"
+            },
+            {
+              "key": "38436300-3",
+              "value": "Ανακινητήρες επώασης"
+            },
+            {
+              "key": "38434560-9",
+              "value": "Χημικοί αναλυτές"
+            },
+            {
+              "key": "33120000-7",
+              "value": "Συστήματα καταγραφής και ερευνητικές συσκευές"
+            },
+            {
+              "key": "38416000-4",
+              "value": "Πεχάμετρα"
+            },
+            {
+              "key": "38436700-7",
+              "value": "Διασπαστές υπερήχων"
+            },
+            {
+              "key": "38436800-8",
+              "value": "Ομογενοποιητές με περιστρεφόμενα πτερύγια"
+            },
+            {
+              "key": "39711124-4",
+              "value": "Βιομηχανικοί καταψύκτες"
+            },
+            {
+              "key": "38510000-3",
+              "value": "Μικροσκόπια"
+            },
+            {
+              "key": "38437000-7",
+              "value": "Εργαστηριακά σιφώνια (πιπέτες) και εξαρτήματα"
+            },
+            {
+              "key": "38433000-9",
+              "value": "Φασματοφωτόμετρα"
+            },
+            {
+              "key": "38310000-1",
+              "value": "Ζυγοί ακριβείας"
+            },
+            {
+              "key": "42300000-9",
+              "value": "Βιομηχανικοί ή εργαστηριακοί κλίβανοι"
+            },
+            {
+              "key": "38519100-7",
+              "value": "Διατάξεις φωτισμού για μικροσκόπια"
+            },
+            {
+              "key": "72120000-2",
+              "value": "Υπηρεσίες παροχής συμβουλών σε θέματα αποκατάστασης βλαβών υλικού πληροφορικής"
+            },
+            {
+              "key": "38518200-1",
+              "value": "Στερεοσκοπικά ή ανατομικά φωτομικροσκόπια"
+            },
+            {
+              "key": "38432000-2",
+              "value": "Συσκευές αναλύσεων"
+            },
+            {
+              "key": "38432200-4",
+              "value": "Χρωματογράφοι"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 385101.1,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΓΟΡΑ ΠΑΓΙΟΥ ΕΞΟΠΛΙΣΜΟΥ (αμελκτικές μηχανές,μηχανήματα παρασκευής ζωοτροφών,ανεμιστήρες,αισθητήρες κλπ.)",
+          "cpvs": [
+            {
+              "key": "42967000-2",
+              "value": "Μονάδες ελεγκτών"
+            },
+            {
+              "key": "35125100-7",
+              "value": "Αισθητήρες"
+            },
+            {
+              "key": "38310000-1",
+              "value": "Ζυγοί ακριβείας"
+            },
+            {
+              "key": "30213200-7",
+              "value": "Φορητοί υπολογιστές για την εισαγωγή χειρόγραφου κειμένου με τη χρήση γραφίδας"
+            },
+            {
+              "key": "03340000-6",
+              "value": "Ενώτια για το μαρκάρισμα ζώων"
+            },
+            {
+              "key": "48219300-9",
+              "value": "Πακέτα λογισμικού διαχείρισης"
+            },
+            {
+              "key": "42923200-4",
+              "value": "Ζυγοί"
+            },
+            {
+              "key": "39711130-9",
+              "value": "Ψυγεία"
+            },
+            {
+              "key": "39711121-3",
+              "value": "Καταψύκτες τύπου κασέλας"
+            },
+            {
+              "key": "16630000-0",
+              "value": "Μηχανήματα για την παρασκευή ζωοτροφών"
+            },
+            {
+              "key": "30216130-6",
+              "value": "Αναγνώστες κωδικών ραβδώσεων"
+            },
+            {
+              "key": "72322000-8",
+              "value": "Υπηρεσίες διαχείρισης δεδομένων"
+            },
+            {
+              "key": "42417220-0",
+              "value": "Ανυψωτήρες και ταινίες μεταφοράς"
+            },
+            {
+              "key": "16620000-7",
+              "value": "Αμελκτικές μηχανές"
+            },
+            {
+              "key": "39711110-3",
+              "value": "Ψυγεία-καταψύκτες"
+            },
+            {
+              "key": "31440000-2",
+              "value": "Μπαταρίες"
+            },
+            {
+              "key": "16650000-6",
+              "value": "Μηχανήματα πτηνοτροφείων"
+            },
+            {
+              "key": "42522000-1",
+              "value": "Μη οικιακοί ανεμιστήρες"
+            },
+            {
+              "key": "16640000-3",
+              "value": "Μελισσοκομικά μηχανήματα"
+            },
+            {
+              "key": "71356300-1",
+              "value": "Υπηρεσίες τεχνικής υποστήριξης"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "32420000",
+        "42943000",
+        "42959000",
+        "71356300",
+        "38436300",
+        "38434560",
+        "33120000",
+        "38416000",
+        "38436700",
+        "38436800",
+        "39711124",
+        "38510000",
+        "38437000",
+        "38433000",
+        "38310000",
+        "42300000",
+        "38519100",
+        "72120000",
+        "38518200",
+        "38432000",
+        "38432200",
+        "42967000",
+        "35125100",
+        "30213200",
+        "03340000",
+        "48219300",
+        "42923200",
+        "39711130",
+        "39711121",
+        "16630000",
+        "30216130",
+        "72322000",
+        "42417220",
+        "16620000",
+        "39711110",
+        "31440000",
+        "16650000",
+        "42522000",
+        "16640000"
+      ],
+      "cpv_divisions": [
+        "32",
+        "42",
+        "71",
+        "38",
+        "33",
+        "39",
+        "72",
+        "35",
+        "30",
+        "03",
+        "48",
+        "16",
+        "31"
+      ],
+      "all_domains": [
+        "Telecom & Electronics",
+        "Industrial Machinery",
+        "Architecture, Engineering & Inspection",
+        "Lab, Optical & Precision Equipment",
+        "Medical & Pharma",
+        "Furniture & Cleaning Products",
+        "IT Services",
+        "Security & Defense",
+        "Office & Computing (Non-Software)",
+        "Agriculture & Forestry",
+        "Software & Information Systems",
+        "Agricultural Machinery",
+        "Electrical Equipment & Lighting"
+      ],
+      "primary_domain": "Architecture, Engineering & Inspection"
+    },
+    {
+      "title": "Προμήθεια μονάδας αυτοματισμού – παραλληλισμού Ηλεκτροπαραγωγών Ζευγών ",
+      "referenceNumber": "26REQ018479332",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T12:53:01.558",
+      "procurementDeliveryDate": "2026-03-09",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "9η",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "999378003",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "99222007",
+        "value": "ΠΕΡ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΠΑΤΡΩΝ 'ΑΓΙΟΣ ΑΝΔΡΕΑΣ'"
+      },
+      "nutsCode": {
+        "key": "EL632",
+        "value": "Αχαΐα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1015.Ε00833.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "75472",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+        },
+        "signers": {
+          "key": "100099507",
+          "value": "ΙΩΑΝΝΗΣ ΜΠΑΚΑΒΟΣ - Διοικητής"
+        }
+      },
+      "totalCostWithVAT": 16800.0,
+      "totalCostWithoutVAT": 13548.39,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 13548.39,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια μονάδας αυτοματισμού – παραλληλισμού Ηλεκτροπαραγωγών Ζευγών ",
+          "cpvs": [
+            {
+              "key": "48921000-0",
+              "value": "Ηλεκτρονικά συστήματα αυτοματοπίησης"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99222007",
+        "48921000"
+      ],
+      "cpv_divisions": [
+        "48"
+      ],
+      "all_domains": [
+        "Software & Information Systems"
+      ],
+      "primary_domain": "Software & Information Systems"
+    },
+    {
+      "title": "ΕΓΚΕΚΡΙΜΕΝΟ ΑΙΤΗΜΑ_ΕΤΗΣΙΑ ΑΝΑΝΕΩΣΗ 500 ΑΔΕΙΩΝ ESET ENDPOINT ANTIVIRUS ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ",
+      "referenceNumber": "26REQ018479061",
+      "previousRequestReferenceNumber": "26REQ018478991",
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T12:35:42.142",
+      "procurementDeliveryDate": "2026-02-21",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "208/2026",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090158739",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "99221484",
+        "value": "Γ. ΑΝΤΙΚΑΡΚΙΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ«ΑΓ. ΣΑΒΒΑΣ»"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1015.E00162.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "73115",
+          "value": "Γ.ΑΝΤΙΚΑΡΙΚΙΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ \\\"ΑΓΙΟΣ ΣΑΒΒΑΣ\\\"/ΠΡΟΕΔΡΟΣ Δ.Σ.- ΔΙΟΙΚΗΤΗΣ"
+        },
+        "signers": {
+          "key": "100056868",
+          "value": "ΧΡΗΣΤΟΣ ΦΑΣΙΑΝΟΣ - Διοικητής"
+        }
+      },
+      "totalCostWithVAT": 6634.0,
+      "totalCostWithoutVAT": 5350.0,
+      "objectDetails": [
+        {
+          "quantity": 500,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 5350,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΓΚΕΚΡΙΜΕΝΟ ΑΙΤΗΜΑ ΓΙΑ ΑΝΑΝΕΩΣΗ TΩΝ 500 ΑΔΕΙΩΝ ESET ENDPOINT ANTIVIRUS ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ΓΙΑ ΕΝΑ (1) ΕΤΟΣ - (Δ/ΣΜΟΣ 49/2026)    ",
+          "cpvs": [
+            {
+              "key": "48760000-3",
+              "value": "Πακέτα λογισμικού προστασίας από ιούς"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [
+        "26PROC018479279"
+      ],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99221484",
+        "48760000"
+      ],
+      "cpv_divisions": [
+        "48"
+      ],
+      "all_domains": [
+        "Software & Information Systems"
+      ],
+      "primary_domain": "Software & Information Systems"
+    },
+    {
+      "title": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ_ΕΤΗΣΙΑ ΑΝΑΝΕΩΣΗ 500 ΑΔΕΙΩΝ ESET ENDPOINT ANTIVIRUS ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ",
+      "referenceNumber": "26REQ018478991",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T12:32:21.447",
+      "procurementDeliveryDate": "2026-02-21",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "2102",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090158739",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "99221484",
+        "value": "Γ. ΑΝΤΙΚΑΡΚΙΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ«ΑΓ. ΣΑΒΒΑΣ»"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1015.E00162.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "86464",
+          "value": "ΔΙΕΥΘΥΝΤΗΣ ΔΙΟΙΚΗΤΙΚΗΣ- ΟΙΚΟΝΟΜΙΚΗΣ ΥΠΗΡΕΣΙΑΣ"
+        },
+        "signers": {
+          "key": "109195",
+          "value": "ΓΡΗΓΟΡΙΟΣ ΚΟΥΤΟΥΦΑΡΗΣ - Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 6634.0,
+      "totalCostWithoutVAT": 5350.0,
+      "objectDetails": [
+        {
+          "quantity": 500,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 5350,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ ΓΙΑ ΑΝΑΝΕΩΣΗ TΩΝ 500 ΑΔΕΙΩΝ ESET ENDPOINT ANTIVIRUS ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ΓΙΑ ΕΝΑ (1) ΕΤΟΣ - (Δ/ΣΜΟΣ 49/2026)    ",
+          "cpvs": [
+            {
+              "key": "48760000-3",
+              "value": "Πακέτα λογισμικού προστασίας από ιούς"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018479061"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99221484",
+        "48760000"
+      ],
+      "cpv_divisions": [
+        "48"
+      ],
+      "all_domains": [
+        "Software & Information Systems"
+      ],
+      "primary_domain": "Software & Information Systems"
+    },
+    {
+      "title": "ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΑΠΟΚΡΙΣΗΣ ΣΕ ΠΕΡΙΣΤΑΤΙΚΑ ΚΥΒΕΡΝΟΑΣΦΑΛΕΙΑΣ",
+      "referenceNumber": "26REQ018478852",
+      "previousRequestReferenceNumber": "26REQ018421046",
+      "signedDate": "2026-01-27",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T12:23:42.491",
+      "procurementDeliveryDate": "2026-03-23",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "11355",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "996427402",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "100095525",
+        "value": "ΕΘΝΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΠΡΟΛΗΨΗΣ ΚΑΙ ΑΝΤΙΜΕΤΩΠΙΣΗΣ ΕΞΑΡΤΗΣΕΩΝ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "26REQ018368204",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100096022",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+        },
+        "signers": {
+          "key": "100098319",
+          "value": "ΑΘΑΝΑΣΙΟΣ ΘΕΟΧΑΡΗΣ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "totalCostWithVAT": 35960.0,
+      "totalCostWithoutVAT": 29000.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 29000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΑΠΟΚΡΙΣΗΣ ΣΕ ΠΕΡΙΣΤΑΤΙΚΑ ΚΥΒΕΡΝΟΑΣΦΑΛΕΙΑΣ",
+          "cpvs": [
+            {
+              "key": "48730000-4",
+              "value": "Πακέτα λογισμικού ασφαλείας"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "48730000"
+      ],
+      "cpv_divisions": [
+        "48"
+      ],
+      "all_domains": [
+        "Software & Information Systems"
+      ],
+      "primary_domain": "Software & Information Systems"
+    },
+    {
+      "title": "ΣΥΝΤΗΡΗΣΗ - ΑΝΑΒΑΘΜΙΣΗ   ΔΙΑΓΝΩΣΤΙΚΟΥ    ΒΛΑΒΩΝ   ΣΥΝΕΡΓΕΙΟΥ & ΠΡΟΜΗΘΕΙΑ ΤΗΛΕΜΑΤΙΚΟΥ ΕΞΟΠΛΙΣΜΟΥ",
+      "referenceNumber": "26REQ018478592",
+      "previousRequestReferenceNumber": "25REQ017271010",
+      "signedDate": "2026-02-05",
+      "lastUpdateDate": "2025-08-28T00:00:00",
+      "submissionDate": "2026-02-13T12:08:01.915",
+      "procurementDeliveryDate": "2026-10-24",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "4547",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090276406",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6104",
+        "value": "ΔΗΜΟΣ ΖΩΓΡΑΦΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E84505.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "79650",
+          "value": "ΤΜΗΜΑ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ ΚΑΙ ΕΚΚΑΘΑΡΙΣΗΣ ΔΑΠΑΝΩΝ"
+        },
+        "signers": {
+          "key": "100002547",
+          "value": "ΧΑΡΗΣ ΣΤΑΜΑΤΑΚΗΣ - Αντιδήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 19840.0,
+      "totalCostWithoutVAT": 16000.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 2200,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Εφαρμογή Κινητού",
+          "cpvs": [
+            {
+              "key": "48219300-9",
+              "value": "Πακέτα λογισμικού διαχείρισης"
+            },
+            {
+              "key": "33124110-9",
+              "value": "Συστήματα διαγνωστικής"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 3000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Σύστημα Αυτόματων Ειδοποιήσεων",
+          "cpvs": [
+            {
+              "key": "48219300-9",
+              "value": "Πακέτα λογισμικού διαχείρισης"
+            },
+            {
+              "key": "33124110-9",
+              "value": "Συστήματα διαγνωστικής"
+            }
+          ]
+        },
+        {
+          "quantity": 10,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1800,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "σετ εξοπλισμού διάγνωσης",
+          "cpvs": [
+            {
+              "key": "38570000-1",
+              "value": "Όργανα και συσκευές ρύθμισης και ελέγχου"
+            },
+            {
+              "key": "33124100-6",
+              "value": "Συσκευές διαγνωστικής"
+            },
+            {
+              "key": "30144300-3",
+              "value": "Μηχανήματα μέτρησης οχημάτων"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 2000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αναβάθμιση Υφιστάμενου Server",
+          "cpvs": [
+            {
+              "key": "48219300-9",
+              "value": "Πακέτα λογισμικού διαχείρισης"
+            },
+            {
+              "key": "33124110-9",
+              "value": "Συστήματα διαγνωστικής"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 7000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αδειοδότηση λειτουργίας",
+          "cpvs": [
+            {
+              "key": "48219300-9",
+              "value": "Πακέτα λογισμικού διαχείρισης"
+            },
+            {
+              "key": "33124110-9",
+              "value": "Συστήματα διαγνωστικής"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "2",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "mixedContract": true,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "48219300",
+        "33124110",
+        "38570000",
+        "33124100",
+        "30144300"
+      ],
+      "cpv_divisions": [
+        "48",
+        "33",
+        "38",
+        "30"
+      ],
+      "all_domains": [
+        "Software & Information Systems",
+        "Medical & Pharma",
+        "Lab, Optical & Precision Equipment",
+        "Office & Computing (Non-Software)"
+      ],
+      "primary_domain": "Software & Information Systems"
+    },
+    {
+      "title": "ΔΕΣΜΕΥΣΗΣ ΠΟΣΟΥ ΓΙΑ ΔΙΕΤΗ ΣΥΝΤΗΡΗΣΗ ΛΟΓΙΣΜΙΚΟΥ ",
+      "referenceNumber": "26REQ018477188",
+      "previousRequestReferenceNumber": "25REQ016587045",
+      "signedDate": "2026-01-28",
+      "lastUpdateDate": "2025-04-08T00:00:00",
+      "submissionDate": "2026-02-13T10:44:56.287",
+      "procurementDeliveryDate": "2027-04-01",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "5/26",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
@@ -1128,7 +2947,7 @@
         "key": "1",
         "value": "Κεντρική Κυβέρνηση"
       },
-      "aaht": "1011.230000000.0049",
+      "aaht": "1011.20300000000.0049",
       "contractTypes": [
         {
           "contractType": {
@@ -1147,8 +2966,8 @@
           "value": "ΔΗΜΗΤΡΙΟΣ ΑΛΕΥΡΑΣ - Διοικητής"
         }
       },
-      "totalCostWithVAT": 7756.82,
-      "totalCostWithoutVAT": 6255.5,
+      "totalCostWithVAT": 10539.99,
+      "totalCostWithoutVAT": 8499.99,
       "objectDetails": [
         {
           "quantity": 1,
@@ -1156,17 +2975,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 6255.5,
+          "costWithoutVAT": 8499.99,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΣΥΝΤΗΡΗΣΗ ΕΣΩΤΕΡΙΚΟΥ ΔΙΚΤΥΟΥ",
+          "shortDescription": "ΔΕΣΜΕΥΣΗΣ ΠΟΣΟΥ ΓΙΑ ΔΙΕΤΗ ΣΥΝΤΗΡΗΣΗ ΛΟΓΙΣΜΙΚΟΥ ΥΠΟΣΤΗΡΙΞΗΣ ΛΕΙΤΟΥΡΓΙΑΣ ΛΟΓΙΣΤΗΡΙΟΥ ΚΑΙ ΚΑΤΑΣΤΗΜΑΤΟΣ ΥΥ",
           "cpvs": [
             {
-              "key": "48821000-9",
-              "value": "Εξυπηρετητές δικτύου"
+              "key": "48443000-5",
+              "value": "Πακέτα λογισμικού λογιστικής"
             }
           ]
         }
@@ -1179,7 +2998,7 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "48821000"
+        "48443000"
       ],
       "cpv_divisions": [
         "48"
@@ -1190,44 +3009,44 @@
       "primary_domain": "Software & Information Systems"
     },
     {
-      "title": "ΛΕΙΤΟΥΡΓΙΚΕΣ ΔΑΠΑΝΕΣ ΚΑΤΟΙΚΙΑΣ Π-Σ ΠΡΕΣΒΕΙΑΣ ΒΕΡΟΛΙΝΟΥ Α' 6ΜΗΝΟ 2026",
-      "referenceNumber": "26REQ018470983",
-      "previousRequestReferenceNumber": "25REQ018283753",
-      "signedDate": "2026-02-12",
+      "title": "ΠΑΚΕΤΑ ΛΟΓΙΣΜΙΚΟΥ ΒΑΣΕΩΝ ΔΕΔΟΜΕΝΩΝ & ΛΕΙΤΟΥΡΓΙΚΩΝ ΣΥΣΤΗΜΑΤΩΝ ",
+      "referenceNumber": "26REQ018476437",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-13",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T11:06:22.68",
-      "procurementDeliveryDate": "2026-02-13",
+      "submissionDate": "2026-02-13T10:04:15.748",
+      "procurementDeliveryDate": "2026-02-27",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "ΑΣ 1566",
+      "protocolNumber": "50",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "090372363",
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997841008",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
-      "approved": true,
+      "approved": false,
       "organization": {
-        "key": "10",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ"
+        "key": "53191",
+        "value": "ΜΑΚΕΔΝΟΣ ΑΕ  - ΔΗΜΟΤΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΠΑΡΑΓΩΓΗΣ ΑΔΡΑΝΩΝ ΥΛΙΚΩΝ ΚΑΙ ΑΞΙΟΠΟΙΗΣΗΣ ΤΗΣ ΠΕΡΙΟΥΣΙΑΣ ΤΟΥ ΔΗΜΟΥ ΚΑΣΤΟΡΙΑΣ"
       },
       "nutsCode": {
-        "key": "EL305",
-        "value": "Ανατολική Αττική"
+        "key": "EL532",
+        "value": "Καστοριά"
       },
       "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
+        "key": "10",
+        "value": "ΝΠΙΔ"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "aaht": "0",
       "contractTypes": [
@@ -1240,219 +3059,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "70950",
-          "value": "ΣΤ5 Δ/ΝΣΗ ΠΡΟΜΗΘΕΙΩΝ & ΛΕΙΤΟΥΡΓΙΚΩΝ ΔΑΠΑΝΩΝ"
+          "key": "86579",
+          "value": "ΓΡΑΜΜΑΤΕΙΑ-ΑΠΟΦΑΣΕΙΣ ΠΡΟΕΔΡΟΥ- ΑΠΟΦΑΣΕΙΣ Δ.Σ."
         },
         "signers": {
-          "key": "100101277",
-          "value": "ΒΑΣΙΛΗΣ ΠΑΠΑΔΟΠΟΥΛΟΣ - Διατάκτης"
+          "key": "100078818",
+          "value": "ΜΑΡΙΑ ΤΟΜΟΥ - Γραμματέας"
         }
       },
-      "totalCostWithVAT": 14451.36,
-      "totalCostWithoutVAT": 12144.0,
-      "objectDetails": [
-        {
-          "quantity": 0,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 12144,
-          "vat": "19",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΛΕΙΤΟΥΡΓΙΚΕΣ ΔΑΠΑΝΕΣ ΚΑΤΟΙΚΙΑΣ Π-Σ ΠΡΕΣΒΕΙΑΣ ΒΕΡΟΛΙΝΟΥ Α' 6ΜΗΝΟ 2026",
-          "cpvs": [
-            {
-              "key": "48620000-0",
-              "value": "Λειτουργικά συστήματα"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "48620000"
-      ],
-      "cpv_divisions": [
-        "48"
-      ],
-      "all_domains": [
-        "Software & Information Systems"
-      ],
-      "primary_domain": "Software & Information Systems"
-    },
-    {
-      "title": "ΕΓΚΡΙΣΗ ΠΡΩΤΟΓΕΝΟΥΣ ΑΙΤΗΜΑΤΟΣ (συνδρομή  σε επιστημονικά λογισμικά 2680)",
-      "referenceNumber": "26REQ018470353",
-      "previousRequestReferenceNumber": "26REQ018466205",
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T10:31:39.442",
-      "procurementDeliveryDate": "2026-02-28",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "21",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "090003416",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "99220976",
-        "value": "ΕΘΝΙΚΟ ΙΔΡΥΜΑ ΕΡΕΥΝΩΝ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1036.Ε00333.0001 ",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "77140",
-          "value": "ΙΝΣΤΙΤΟΥΤΟ ΘΕΩΡΗΤΙΚΗΣ & ΦΥΣΙΚΗΣ ΧΗΜΕΙΑΣ (ΙΘΦΧ)"
-        },
-        "signers": {
-          "key": "100066775",
-          "value": "ΑΣΤΕΡΙΟΣ ΠΙΣΠΑΣ - Αναπληρωτής Διευθυντής"
-        }
-      },
-      "totalCostWithVAT": 1295.0,
-      "totalCostWithoutVAT": 1295.0,
-      "objectDetails": [
-        {
-          "quantity": 2,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1295,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Ετήσια συνδρομή για επιστημονικά λογισμικά ",
-          "cpvs": [
-            {
-              "key": "48460000-0",
-              "value": "Πακέτα λογισμικού αναλυτικού"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99220976",
-        "48460000"
-      ],
-      "cpv_divisions": [
-        "48"
-      ],
-      "all_domains": [
-        "Software & Information Systems"
-      ],
-      "primary_domain": "Software & Information Systems"
-    },
-    {
-      "title": "Συντήρηση εφαρμογών λογισμικού Τεχνικών Υπηρεσιών του Δήμμου",
-      "referenceNumber": "26REQ018469759",
-      "previousRequestReferenceNumber": "25REQ018124996",
-      "signedDate": "2025-12-10",
-      "lastUpdateDate": "2025-12-10T00:00:00",
-      "submissionDate": "2026-02-12T10:02:27.483",
-      "procurementDeliveryDate": "2026-01-01",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "17303",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "998016240",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6228",
-        "value": "ΔΗΜΟΣ ΟΡΧΟΜΕΝΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL641",
-        "value": "Βοιωτία"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.E82805.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "83025",
-          "value": "ΔΗΜΟΣ ΟΡΧΟΜΕΝΟΥ"
-        },
-        "signers": {
-          "key": "100084396",
-          "value": "ΓΕΩΡΓΙΟΣ ΤΖΑΒΑΡΑΣ - Δήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 2964.84,
-      "totalCostWithoutVAT": 2391.0,
+      "totalCostWithVAT": 8680.0,
+      "totalCostWithoutVAT": 7000.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -1460,17 +3076,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 2391,
+          "costWithoutVAT": 7000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Αναβάθμιση και ανανέωση συμβολαίων υποστήριξης λογισμικού διαχείρισης δημοσίων τεχνικών έργων ACE ERP eCM",
+          "shortDescription": "ΠΑΚΕΤΑ ΛΟΓΙΣΜΙΚΟΥ ΒΑΣΕΩΝ ΔΕΔΟΜΕΝΩΝ & ΛΕΙΤΟΥΡΓΙΚΩΝ ΣΥΣΤΗΜΑΤΩΝ ",
           "cpvs": [
             {
-              "key": "48331000-7",
-              "value": "Πακέτα λογισμικού διαχείρισης έργου"
+              "key": "48600000-4",
+              "value": "Πακέτα λογισμικού βάσεων δεδομένων και λειτουργικών συστημάτων"
             }
           ]
         }
@@ -1483,7 +3099,7 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "48331000"
+        "48600000"
       ],
       "cpv_divisions": [
         "48"
@@ -1494,249 +3110,46 @@
       "primary_domain": "Software & Information Systems"
     },
     {
-      "title": "ΕΠΕΚΤΑΣΗ ΣΥΜΒΑΣΗΣ VDI_2",
-      "referenceNumber": "26REQ018469744",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T10:01:41.673",
-      "procurementDeliveryDate": "2026-04-01",
+      "title": "Απόφαση έγκρισης ένταξης στο ΑΠΔΕ 2026 Ανάπτυξη Κεντρικού Πλαισίου Διακυβέρνησης και Ταξινόμησης Δεδ",
+      "referenceNumber": "26REQ018476189",
+      "previousRequestReferenceNumber": "24REQ015897520",
+      "signedDate": "2026-01-29",
+      "lastUpdateDate": "2025-07-15T00:00:00",
+      "submissionDate": "2026-02-13T09:48:52.826",
+      "procurementDeliveryDate": "2027-04-30",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "116733",
+      "protocolNumber": "32",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "090010376",
+      "authorEmail": "m.bourdanioti@mindigital.gr",
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997001671",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
-      "approved": false,
+      "approved": true,
       "organization": {
-        "key": "99219675",
-        "value": "ΔΗΜΟΣΙΑ ΥΠΗΡΕΣΙΑ ΑΠΑΣΧΟΛΗΣΗΣ"
+        "key": "100054486",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΨΗΦΙΑΚΗΣ ΔΙΑΚΥΒΕΡΝΗΣΗΣ"
       },
       "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
+        "key": "EL304",
+        "value": "Νότιος Τομέας Αθηνών"
       },
       "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
       },
       "classificationOfPublicLawOrganization": {
         "key": "1",
         "value": "Κεντρική Κυβέρνηση"
       },
-      "aaht": "1033.E00445.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "72354",
-          "value": "Γ΄: ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ ΥΠΟΣΤΗΡΙΞΗΣ ΚΑΙ ΨΗΦΙΑΚΗΣ ΔΙΑΚΥΒΕΡΝΗΣΗΣ"
-        },
-        "signers": {
-          "key": "100099397",
-          "value": "ΔΗΜΗΤΡΑ ΤΣΑΜΗ - Α/Α (Αντι Αυτού) Προϊσταμένου Διεύθυνσης"
-        }
-      },
-      "totalCostWithVAT": 1002101.04,
-      "totalCostWithoutVAT": 808146.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 808146,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Επέκταση Αντικειμένου του Έργου «Δημιουργία και Λειτουργία Υποδομής Εικονικών Επιφανειών Εργασίας Virtual Apps & Shared Desktops και Εφαρμογών Γραφείου Συστήματος απομακρυσμένης σύνδεσης σε εικονικούς προσωπικούς  υπολογιστές».",
-          "cpvs": [
-            {
-              "key": "48900000-7",
-              "value": "Διάφορα πακέτα λογισμικού και συστήματα ηλεκτρονικών υπολογιστών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99219675",
-        "48900000"
-      ],
-      "cpv_divisions": [
-        "48"
-      ],
-      "all_domains": [
-        "Software & Information Systems"
-      ],
-      "primary_domain": "Software & Information Systems"
-    },
-    {
-      "title": "Προμήθεια και εγκατάσταση εφαρμογής λογισμικού για τις υπηρεσίες προσαρμογής και διασύνδεσης πληροφο",
-      "referenceNumber": "26REQ018469516",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-01-02",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T09:48:59.901",
-      "procurementDeliveryDate": "2026-03-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "1",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997919572",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "54928",
-        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΚΑΙ ΑΠΟΧΕΤΕΥΣΗΣ ΔΗΜΟΥ ΚΩ"
-      },
-      "nutsCode": {
-        "key": "EL421",
-        "value": "Κάλυμνος, Κάρπαθος, Κως, Ρόδος"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1007.Ε90008.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "90449",
-          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
-        },
-        "signers": {
-          "key": "100100917",
-          "value": "ΣΤΑΜΑΤΙΟΣ ΚΑΜΠΟΥΡΑΚΗΣ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 14880.0,
-      "totalCostWithoutVAT": 12000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 12000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια και εγκατάσταση εφαρμογής λογισμικού για τις υπηρεσίες προσαρμογής και διασύνδεσης πληροφοριακού συστήματος Pydra με Πάροχο Ηλεκτρονικής Τιμολόγησης της ΔΕΥΑ Δήμου Κω",
-          "cpvs": [
-            {
-              "key": "48000000-8",
-              "value": "Πακέτα λογισμικού και συστήματα πληροφορικής"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "48000000"
-      ],
-      "cpv_divisions": [
-        "48"
-      ],
-      "all_domains": [
-        "Software & Information Systems"
-      ],
-      "primary_domain": "Software & Information Systems"
-    },
-    {
-      "title": "Έγκριση για την προμήθεια προγραμμάτων, για «ΔΙΟΙΚΗΤΙΚΕΣ & ΟΙΚΟΝΟΜΙΚΕΣ ΕΦΑΡΜΟΓΕΣ",
-      "referenceNumber": "26REQ018469360",
-      "previousRequestReferenceNumber": "26REQ018469298",
-      "signedDate": "2026-02-11",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T09:38:53.984",
-      "procurementDeliveryDate": "2027-01-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "70",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "090212275",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "100065114",
-        "value": "ΕΘΝΙΚΟ ΣΚΟΠΕΥΤΗΡΙΟ ΒΥΡΩΝΑ ΝΟΜ ΜΗ ΚΕΡΔΟΣΚΟΠΙΚΟ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1020.E00981.0001",
+      "aaht": "1053.0000000000.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -1747,16 +3160,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "100066737",
-          "value": "ΟΙΚΟΝΟΜΙΚΗ - ΔΙΟΙΚΗΤΙΚΗ"
+          "key": "100060823",
+          "value": "ΤΜΗΜΑ ΔΙΑΓΩΝΙΣΜΩΝ ΚΑΙ ΣΥΜΒΑΣΕΩΝ"
         },
         "signers": {
-          "key": "100066736",
-          "value": "ΔΙΟΝΥΣΙΟΣ ΓΕΩΡΓΑΚΟΠΟΥΛΟΣ - Πρόεδρος Δ.Σ."
+          "key": "100081404",
+          "value": "ΔΗΜΗΤΡΙΟΣ ΠΑΠΑΣΤΕΡΓΙΟΥ - Υπουργός"
         }
       },
-      "totalCostWithVAT": 9920.0,
-      "totalCostWithoutVAT": 8000.0,
+      "totalCostWithVAT": 14357954.49,
+      "totalCostWithoutVAT": 11578995.56,
       "objectDetails": [
         {
           "quantity": 1,
@@ -1764,1155 +3177,49 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 8000,
+          "costWithoutVAT": 11578995.56,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Έγκριση για την προμήθεια προγραμμάτων, για «ΔΙΟΙΚΗΤΙΚΕΣ & ΟΙΚΟΝΟΜΙΚΕΣ ΕΦΑΡΜΟΓΕΣ», για την ομαλή λειτουργία του Εθνικού Σκοπευτηρίου Βύρωνα (Ε.Σ.Β.).",
-          "cpvs": [
-            {
-              "key": "48900000-7",
-              "value": "Διάφορα πακέτα λογισμικού και συστήματα ηλεκτρονικών υπολογιστών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "48900000"
-      ],
-      "cpv_divisions": [
-        "48"
-      ],
-      "all_domains": [
-        "Software & Information Systems"
-      ],
-      "primary_domain": "Software & Information Systems"
-    },
-    {
-      "title": "Υποβολή πρωτογενούς αιτήματος για την προμήθεια προγραμμάτων, για «ΔΙΟΙΚΗΤΙΚΕΣ & ΟΙΚΟΝΟΜΙΚΕΣ ΕΦΑΡΜΟΓ",
-      "referenceNumber": "26REQ018469298",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-11",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T09:35:09.705",
-      "procurementDeliveryDate": "2027-01-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "68",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "090212275",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "100065114",
-        "value": "ΕΘΝΙΚΟ ΣΚΟΠΕΥΤΗΡΙΟ ΒΥΡΩΝΑ ΝΟΜ ΜΗ ΚΕΡΔΟΣΚΟΠΙΚΟ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1020.E00981.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100066737",
-          "value": "ΟΙΚΟΝΟΜΙΚΗ - ΔΙΟΙΚΗΤΙΚΗ"
-        },
-        "signers": {
-          "key": "100066736",
-          "value": "ΔΙΟΝΥΣΙΟΣ ΓΕΩΡΓΑΚΟΠΟΥΛΟΣ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 9920.0,
-      "totalCostWithoutVAT": 8000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 8000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υποβολή πρωτογενούς αιτήματος για την προμήθεια προγραμμάτων, για «ΔΙΟΙΚΗΤΙΚΕΣ & ΟΙΚΟΝΟΜΙΚΕΣ ΕΦΑΡΜΟΓΕΣ», για την ομαλή λειτουργία του Εθνικού Σκοπευτηρίου Βύρωνα (Ε.Σ.Β.).",
-          "cpvs": [
-            {
-              "key": "48900000-7",
-              "value": "Διάφορα πακέτα λογισμικού και συστήματα ηλεκτρονικών υπολογιστών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018469360"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "48900000"
-      ],
-      "cpv_divisions": [
-        "48"
-      ],
-      "all_domains": [
-        "Software & Information Systems"
-      ],
-      "primary_domain": "Software & Information Systems"
-    },
-    {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΑΝΤΑΛΛΑΚΤΙΚΩΝ ΓΙΑ ΤΗΝ ΕΠΙΔΙΟΡΘΩΣΗ ΤΗΣ ΤΗΛΕΜΕΤΡΙΑΣ ΤΟΥ ΒΙΟΛΟΓΙΚΟΥ ΚΑΘΑΡΙΣΜΟΥ",
-      "referenceNumber": "26REQ018469208",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-11",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T09:29:57.674",
-      "procurementDeliveryDate": "2026-03-30",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "1114",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090108238",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "52086",
-        "value": "ΔΗΜΟΤΙΚΗ  ΕΠΙΧΕΙΡΗΣΗ  ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΠΤΟΛΕΜΑΙΔΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL53",
-        "value": "Δυτική Μακεδονία"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1007.F00381.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "85293",
-          "value": "ΤΕΧΝΙΚΗ ΥΠΗΡΕΣΙΑ"
-        },
-        "signers": {
-          "key": "128238",
-          "value": "ΠΑΥΛΟΣ ΠΑΠΟΥΛΙΔΗΣ - Προϊστάμενος Τμήματος"
-        }
-      },
-      "totalCostWithVAT": 22785.25,
-      "totalCostWithoutVAT": 18375.2,
-      "objectDetails": [
-        {
-          "quantity": 19,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 18375.2,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Η παρούσα τεχνική περιγραφή, συνοδεύει την υπ’ αριθμό 3/2026 μελέτη, που αφορά την «ΠΡΟΜΗΘΕΙΑ ΑΝΤΑΛΛΑΚΤΙΚΩΝ ΓΙΑ ΤΗΝ ΕΠΙΔΙΟΡΘΩΣΗ ΤΗΣ ΤΗΛΕΜΕΤΡΙΑΣ ΤΟΥ ΒΙΟΛΟΓΙΚΟΥ ΚΑΘΑΡΙΣΜΟΥ», λόγω καταστροφής από πτώσης κεραυνών.  ",
+          "shortDescription": "Απόφαση έγκρισης ένταξης της Πράξης στο Αναπτυξιακό Πρόγραμμα Δημοσίων Επενδύσεων (ΑΠΔΕ) 2026 του έργου «Ανάπτυξη Κεντρικού Πλαισίου Διακυβέρνησης και Ταξινόμησης Δεδομένων των Υποδομών Κυβερνητικών Υπολογιστικών Νεφών και Εκπόνηση Μελετών Ταξινόμησης Δεδομένων των Πληροφοριακών Συστημάτων που φιλοξενούνται στο Κυβερνητικό Νέφος Δημοσίου Τομέα».",
           "cpvs": [
             {
               "key": "48000000-8",
               "value": "Πακέτα λογισμικού και συστήματα πληροφορικής"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "48000000"
-      ],
-      "cpv_divisions": [
-        "48"
-      ],
-      "all_domains": [
-        "Software & Information Systems"
-      ],
-      "primary_domain": "Software & Information Systems"
-    },
-    {
-      "title": "Προμήθεια και εγκατάσταση εφαρμογής λογισμικού για την αποστολή οικονομικών δεδομένων για τις Υπηρεσ",
-      "referenceNumber": "26REQ018468982",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-01-02",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T09:17:43.815",
-      "procurementDeliveryDate": "2026-03-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "1",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997919572",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "54928",
-        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΚΑΙ ΑΠΟΧΕΤΕΥΣΗΣ ΔΗΜΟΥ ΚΩ"
-      },
-      "nutsCode": {
-        "key": "EL421",
-        "value": "Κάλυμνος, Κάρπαθος, Κως, Ρόδος"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1007.Ε90008.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "90449",
-          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
-        },
-        "signers": {
-          "key": "100100917",
-          "value": "ΣΤΑΜΑΤΙΟΣ ΚΑΜΠΟΥΡΑΚΗΣ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 2790.0,
-      "totalCostWithoutVAT": 2250.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 2250,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια και εγκατάσταση εφαρμογής λογισμικού για την αποστολή οικονομικών δεδομένων για τις Υπηρεσίες Βεβαίωσης Εσόδων υπέρ Δημοσίου μέσω των διαδικτυακών υπηρεσιών του Κέντρο Διαλειτουργικότητας (ΚΕ.Δ) της ΔΕΥΑ Δήμου Κω",
-          "cpvs": [
+            },
             {
-              "key": "48000000-8",
-              "value": "Πακέτα λογισμικού και συστήματα πληροφορικής"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "48000000"
-      ],
-      "cpv_divisions": [
-        "48"
-      ],
-      "all_domains": [
-        "Software & Information Systems"
-      ],
-      "primary_domain": "Software & Information Systems"
-    },
-    {
-      "title": "ΑΝΑΒΑΘΜΙΣΗ ΤΗΣ ΕΦΑΡΜΟΓΗΣ ΔΙΑΧΕΙΡΙΣΗΣ ΤΟΥ ΦΥΣΙΚΟΥ ΑΡΧΕΙΟΥ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ",
-      "referenceNumber": "26REQ018468882",
-      "previousRequestReferenceNumber": "26REQ018468863",
-      "signedDate": "2025-11-26",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T09:12:01.265",
-      "procurementDeliveryDate": "2026-03-11",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "Θ42/88ης ΣΥΝ",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "999336270",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "99221993",
-        "value": "ΠΕΡ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ 'Ο ΕΥΑΓΓΕΛΙΣΜΟΣ'"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1015.Ε00159.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "74855",
-          "value": "ΠΡΟΜΗΘΕΙΕΣ"
-        },
-        "signers": {
-          "key": "135941",
-          "value": "ΑΝΑΣΤΑΣΙΟΣ ΓΡΗΓΟΡΟΠΟΥΛΟΣ - Διοικητής"
-        }
-      },
-      "totalCostWithVAT": 24800.0,
-      "totalCostWithoutVAT": 20000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 20000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΝΑΒΑΘΜΙΣΗ  ΤΗΣ ΕΦΑΡΜΟΓΗΣ ΔΙΑΧΕΙΡΙΣΗΣ ΤΟΥ ΦΥΣΙΚΟΥ ΑΡΧΕΙΟΥ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ",
-          "cpvs": [
+              "key": "72000000-5",
+              "value": "Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών"
+            },
             {
-              "key": "48311100-2",
-              "value": "Σύστημα διαχείρισης κειμένων"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [
-        "26PROC018468957"
-      ],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99221993",
-        "48311100"
-      ],
-      "cpv_divisions": [
-        "48"
-      ],
-      "all_domains": [
-        "Software & Information Systems"
-      ],
-      "primary_domain": "Software & Information Systems"
-    },
-    {
-      "title": "ΑΝΑΒΑΘΜΙΣΗ ΤΗΣ ΕΦΑΡΜΟΓΗΣ ΔΙΑΧΕΙΡΙΣΗΣ ΤΟΥ ΦΥΣΙΚΟΥ ΑΡΧΕΙΟΥ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ",
-      "referenceNumber": "26REQ018468863",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2025-11-26",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T09:11:05.916",
-      "procurementDeliveryDate": "2026-03-11",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "Θ42/88ης ΣΥΝ",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "999336270",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99221993",
-        "value": "ΠΕΡ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ 'Ο ΕΥΑΓΓΕΛΙΣΜΟΣ'"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1015.Ε00159.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "74855",
-          "value": "ΠΡΟΜΗΘΕΙΕΣ"
-        },
-        "signers": {
-          "key": "135941",
-          "value": "ΑΝΑΣΤΑΣΙΟΣ ΓΡΗΓΟΡΟΠΟΥΛΟΣ - Διοικητής"
-        }
-      },
-      "totalCostWithVAT": 24800.0,
-      "totalCostWithoutVAT": 20000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 20000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΝΑΒΑΘΜΙΣΗ  ΤΗΣ ΕΦΑΡΜΟΓΗΣ ΔΙΑΧΕΙΡΙΣΗΣ ΤΟΥ ΦΥΣΙΚΟΥ ΑΡΧΕΙΟΥ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ",
-          "cpvs": [
+              "key": "72316000-3",
+              "value": "Υπηρεσίες ανάλυσης δεδομένων"
+            },
             {
-              "key": "48311100-2",
-              "value": "Σύστημα διαχείρισης κειμένων"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018468882"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99221993",
-        "48311100"
-      ],
-      "cpv_divisions": [
-        "48"
-      ],
-      "all_domains": [
-        "Software & Information Systems"
-      ],
-      "primary_domain": "Software & Information Systems"
-    },
-    {
-      "title": "Απόφαση ανάληψης υποχρέωση για την ανάπτυξη πληροφοριακού συστήματος Διαχείρισης Ανθρώπινου Δυναμικο",
-      "referenceNumber": "26REQ018468861",
-      "previousRequestReferenceNumber": "25REQ017697159",
-      "signedDate": "2026-01-17",
-      "lastUpdateDate": "2025-10-15T00:00:00",
-      "submissionDate": "2026-02-12T09:10:58.066",
-      "procurementDeliveryDate": "2026-01-18",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "Δ.Ο. ΟΙΚ 223",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997687965",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "5001",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ"
-      },
-      "nutsCode": {
-        "key": "EL51",
-        "value": "Aνατολική Μακεδονία, Θράκη"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.901.0006 ",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "79977",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΟΥ Κ.Υ."
-        },
-        "signers": {
-          "key": "100084401",
-          "value": "ΕΜΜΑΝΟΥΗΛ ΤΑΠΑΤΖΑΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
-        }
-      },
-      "totalCostWithVAT": 194680.0,
-      "totalCostWithoutVAT": 157000.0,
-      "objectDetails": [
-        {
-          "quantity": 2,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 10000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υπηρεσίες πιλοτικής λειτουργίας",
-          "cpvs": [
+              "key": "72322000-8",
+              "value": "Υπηρεσίες διαχείρισης δεδομένων"
+            },
             {
-              "key": "72500000-0",
-              "value": "Υπηρεσίες πληροφορικής"
-            }
-          ]
-        },
-        {
-          "quantity": 15,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 15000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Άδειες χρήσης Λογισμικού Διαχείρισης Ανθρώπινου Δυναμικού - Μισθοδοσία",
-          "cpvs": [
+              "key": "72330000-2",
+              "value": "Υπηρεσίες τυποποίησης και ταξινόμησης περιεχομένου ή δεδομένων"
+            },
             {
-              "key": "72500000-0",
-              "value": "Υπηρεσίες πληροφορικής"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 30000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Διαχείριση Ανθρώπινου Δυναμικού Προσωπικό",
-          "cpvs": [
+              "key": "72263000-6",
+              "value": "Υπηρεσίες υλοποίησης λογισμικού"
+            },
             {
-              "key": "48000000-8",
-              "value": "Πακέτα λογισμικού και συστήματα πληροφορικής"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 20000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Ψηφιακή Διαχείριση Αιτημάτων Προσωπικού (απεριόριστοι χρήστες)",
-          "cpvs": [
+              "key": "72221000-0",
+              "value": "Υπηρεσίες παροχής συμβουλών επιχειρησιακής ανάλυσης"
+            },
             {
-              "key": "48000000-8",
-              "value": "Πακέτα λογισμικού και συστήματα πληροφορικής"
-            }
-          ]
-        },
-        {
-          "quantity": 15,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 12000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Άδειες χρήσης Λογισμικού Διαχείρισης Ανθρώπινου Δυναμικού Προσωπικό",
-          "cpvs": [
+              "key": "72220000-3",
+              "value": "Υπηρεσίες παροχής συμβουλών για συστήματα και τεχνικά θέματα"
+            },
             {
-              "key": "72500000-0",
-              "value": "Υπηρεσίες πληροφορικής"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 40000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Διαχείριση Ανθρώπινου Δυναμικού - Μισθοδοσία",
-          "cpvs": [
-            {
-              "key": "48000000-8",
-              "value": "Πακέτα λογισμικού και συστήματα πληροφορικής"
-            }
-          ]
-        },
-        {
-          "quantity": 2,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 10000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υπηρεσίες εκπαίδευσης",
-          "cpvs": [
-            {
-              "key": "72500000-0",
-              "value": "Υπηρεσίες πληροφορικής"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 10000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Διαχείριση Ωρομέτρησης",
-          "cpvs": [
-            {
-              "key": "48000000-8",
-              "value": "Πακέτα λογισμικού και συστήματα πληροφορικής"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 5000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υπηρεσίες εγκατάστασης και παραμετροποίησης λογισμικού",
-          "cpvs": [
-            {
-              "key": "72500000-0",
-              "value": "Υπηρεσίες πληροφορικής"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 5000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υπηρεσίες μετάπτωσης δεδομένων",
-          "cpvs": [
-            {
-              "key": "72500000-0",
-              "value": "Υπηρεσίες πληροφορικής"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "72500000",
-        "48000000"
-      ],
-      "cpv_divisions": [
-        "72",
-        "48"
-      ],
-      "all_domains": [
-        "IT Services",
-        "Software & Information Systems"
-      ],
-      "primary_domain": "Software & Information Systems"
-    },
-    {
-      "title": "ΑΠΟΦΑΣΗ ΑΝΑΛΗΨΗΣ ΥΠΟΧΡΕΩΣΗΣ ΓΙΑ ΤΗΝ ΑΝΑΘΕΣΗ ΠΡΟΜΗΘΕΙΑΣ ΚΑΙ ΥΠΟΣΤΗΡΙΞΗΣ ΛΟΓΙΣΜΙΚΟΥ ΟΙΚΟΝΟΜΙΚΗΣ ΔΙΑΧ",
-      "referenceNumber": "26REQ018468689",
-      "previousRequestReferenceNumber": "25REQ017307055",
-      "signedDate": "2026-01-17",
-      "lastUpdateDate": "2025-08-05T00:00:00",
-      "submissionDate": "2026-02-12T09:01:25.588",
-      "procurementDeliveryDate": "2026-01-18",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "Δ.Ο. ΟΙΚ 222",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997687965",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "5001",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ"
-      },
-      "nutsCode": {
-        "key": "EL51",
-        "value": "Aνατολική Μακεδονία, Θράκη"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.901.0006 ",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "79977",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΟΥ Κ.Υ."
-        },
-        "signers": {
-          "key": "100084401",
-          "value": "ΕΜΜΑΝΟΥΗΛ ΤΑΠΑΤΖΑΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
-        }
-      },
-      "totalCostWithVAT": 206088.0,
-      "totalCostWithoutVAT": 166200.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 6000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Συμβόλαιο συντήρησης Open1|Project360° ",
-          "cpvs": [
-            {
-              "key": "72261000-2",
-              "value": "Υπηρεσίες υποστήριξης λογισμικού"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 5000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Συμβόλαιο Συντήρησης \"'Ηλεκτρονικά Τιμολόγια\"",
-          "cpvs": [
-            {
-              "key": "72261000-2",
-              "value": "Υπηρεσίες υποστήριξης λογισμικού"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 35000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Συμβόλαιο συντήρησης Οικονομική Διαχείριση",
-          "cpvs": [
-            {
-              "key": "72261000-2",
-              "value": "Υπηρεσίες υποστήριξης λογισμικού"
-            }
-          ]
-        },
-        {
-          "quantity": 75,
-          "type": {
-            "key": "MH",
-            "value": "Ανθρωποώρα"
-          },
-          "costWithoutVAT": 6750,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υπηρεσίες εκπαίδευσης Προγράμματος Διαδικασιών ",
-          "cpvs": [
-            {
-              "key": "72261000-2",
-              "value": "Υπηρεσίες υποστήριξης λογισμικού"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 23000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια λογισμικού για τον Σχεδιασμό Διαδικασιών Οικονομικής Διαχείρισης",
-          "cpvs": [
-            {
-              "key": "48330000-0",
-              "value": "Πακέτα λογισμικού προγραμματισμού και παραγωγικότητας"
-            }
-          ]
-        },
-        {
-          "quantity": 10,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 5000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Άδειες χρήσης προγράμματος Διαδικασίων ",
-          "cpvs": [
-            {
-              "key": "48330000-0",
-              "value": "Πακέτα λογισμικού προγραμματισμού και παραγωγικότητας"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 15000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Εφαρμογή - Παραμετροποίηση για Εισπράξεις μέσω ΔΙΑΣ από τη Δ/νση Μεταφορών",
-          "cpvs": [
-            {
-              "key": "48443000-5",
-              "value": "Πακέτα λογισμικού λογιστικής"
-            }
-          ]
-        },
-        {
-          "quantity": 4,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 24000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Παροχή υπηρεσιών για την προσαρμογή του πληροφοριακού συστήματος της ΠΜΘ στις ανάγκες του Διπλογραφικού Λογιστικού Συστήματος για τα έτη 2022-2025 (4 έτη)",
-          "cpvs": [
-            {
-              "key": "72261000-2",
-              "value": "Υπηρεσίες υποστήριξης λογισμικού"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 8000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Συμβόλαιο συντήρησης Παρακολούθηση Προστίμων & Βεβαίωση εσόδων ΑΑΔΕ",
-          "cpvs": [
-            {
-              "key": "72261000-2",
-              "value": "Υπηρεσίες υποστήριξης λογισμικού"
-            }
-          ]
-        },
-        {
-          "quantity": 200,
-          "type": {
-            "key": "MH",
-            "value": "Ανθρωποώρα"
-          },
-          "costWithoutVAT": 17000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υποστήριξη - Εκπαίδευση υποσυστημάτων Οικονομικής Διαχείρισης",
-          "cpvs": [
-            {
-              "key": "72261000-2",
-              "value": "Υπηρεσίες υποστήριξης λογισμικού"
-            }
-          ]
-        },
-        {
-          "quantity": 75,
-          "type": {
-            "key": "MH",
-            "value": "Ανθρωποώρα"
-          },
-          "costWithoutVAT": 6750,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υπηρεσίες υποστήριξης κατά την παραγωγική λειτουργία  Προγράμματος Διαδικασιών ",
-          "cpvs": [
-            {
-              "key": "72261000-2",
-              "value": "Υπηρεσίες υποστήριξης λογισμικού"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 12000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια - Παραμετροποίηση για Ηλεκτρονικές εισπράξεις μέσω RF ",
-          "cpvs": [
-            {
-              "key": "48443000-5",
-              "value": "Πακέτα λογισμικού λογιστικής"
-            }
-          ]
-        },
-        {
-          "quantity": 30,
-          "type": {
-            "key": "MH",
-            "value": "Ανθρωποώρα"
-          },
-          "costWithoutVAT": 2700,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υπηρεσίες παραμετροποίησης Προγράμματος Διαδικασιών ",
-          "cpvs": [
-            {
-              "key": "72261000-2",
-              "value": "Υπηρεσίες υποστήριξης λογισμικού"
+              "key": "80533100-0",
+              "value": "Υπηρεσίες εκπαίδευσης στον τομέα της πληροφορικής"
             }
           ]
         }
@@ -2932,143 +3239,29 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "72261000",
-        "48330000",
-        "48443000"
+        "14357954",
+        "11578995",
+        "48000000",
+        "72000000",
+        "72316000",
+        "72322000",
+        "72330000",
+        "72263000",
+        "72221000",
+        "72220000",
+        "80533100"
       ],
       "cpv_divisions": [
+        "14",
+        "48",
         "72",
-        "48"
+        "80"
       ],
       "all_domains": [
+        "Metals & Mining",
+        "Software & Information Systems",
         "IT Services",
-        "Software & Information Systems"
-      ],
-      "primary_domain": "Software & Information Systems"
-    },
-    {
-      "title": "ΑΑΥ  συντήρησης και   αδειών λογισμικού των πολυμηχανημάτων  Konica Minolta         ",
-      "referenceNumber": "26REQ018468312",
-      "previousRequestReferenceNumber": "26REQ018460508",
-      "signedDate": "2026-02-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T08:23:42.203",
-      "procurementDeliveryDate": "2026-12-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "ΑΑΥ 193",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997478553",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "54497",
-        "value": "ΕΘΝΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ ΥΓΕΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL301",
-        "value": "Βόρειος Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1015.Ε00460.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100006924",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ"
-        },
-        "signers": {
-          "key": "100048376",
-          "value": "ΘΕΑΝΩ ΚΑΡΠΟΔΙΝΗ - Αντιπρόεδρος"
-        }
-      },
-      "totalCostWithVAT": 10180.4,
-      "totalCostWithoutVAT": 8210.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 4560,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Έγκριση σκοπιμότητας και δαπάνης για τη με απευθείας ανάθεση, ανανέωση  υπηρεσιών συντήρησης και   αδειών λογισμικού των πολυμηχανημάτων  Konica Minolta          (αριθ. 114/2022 σύμβαση)  προς  κάλυψη των λειτουργικών αναγκών των Υπηρεσιών του ΕΟΠΥΥ.   ",
-          "cpvs": [
-            {
-              "key": "50313200-4",
-              "value": "Υπηρεσίες συντήρησης φωτοαντιγραφικών μηχανημάτων"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 3650,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Έγκριση σκοπιμότητας και δαπάνης για τη με απευθείας ανάθεση, ανανέωση  υπηρεσιών συντήρησης και   αδειών λογισμικού των πολυμηχανημάτων  Konica Minolta          (αριθ. 114/2022 σύμβαση)  προς  κάλυψη των λειτουργικών αναγκών των Υπηρεσιών του ΕΟΠΥΥ. ",
-          "cpvs": [
-            {
-              "key": "48770000-6",
-              "value": "Πακέτα λογισμικού βοηθητικών προγραμμάτων γενικής χρήσης"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [
-        "26PROC018471043"
-      ],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "50313200",
-        "48770000"
-      ],
-      "cpv_divisions": [
-        "50",
-        "48"
-      ],
-      "all_domains": [
-        "Repair & Maintenance",
-        "Software & Information Systems"
+        "Education & Training"
       ],
       "primary_domain": "Software & Information Systems"
     }

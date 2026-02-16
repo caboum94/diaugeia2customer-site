@@ -1,38 +1,810 @@
 {
   "domain": "Installation Services (Non-Software)",
-  "count": 6,
+  "count": 18,
   "items": [
     {
-      "title": "Έγκριση δαπάνης για συνδιοργάνωση των καρναβαλικών εκδηλώσεων 2026 σε συνεργασία με τον Δήμο Ανδραβί",
-      "referenceNumber": "26REQ018472982",
-      "previousRequestReferenceNumber": "26REQ018471687",
+      "title": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ Lysi-Olives",
+      "referenceNumber": "26REQ018482457",
+      "previousRequestReferenceNumber": "25REQ018145800",
       "signedDate": "2026-02-12",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T12:47:24.365",
-      "procurementDeliveryDate": "2026-02-22",
+      "lastUpdateDate": "2025-12-11T00:00:00",
+      "submissionDate": "2026-02-14T22:32:57.194",
+      "procurementDeliveryDate": "2026-12-31",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "283/2026",
+      "protocolNumber": "219/6920",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997462217",
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997604027",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "54074",
-        "value": "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΩΣΗ ΔΗΜΩΝ (ΠΕΔ) ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
+        "key": "55143",
+        "value": "ΕΛΛΗΝΙΚΟΣ ΓΕΩΡΓΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ-ΔΗΜΗΤΡΑ"
       },
       "nutsCode": {
-        "key": "EL63",
-        "value": "Δυτική Ελλάδα"
+        "key": "EL434",
+        "value": "Χανιά"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1029.E00514.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100009130",
+          "value": "ΙΝΣΤΙΤΟΥΤΟ ΕΛΙΑΣ, ΥΠΟΤΡΟΠΙΚΩΝ ΦΥΤΩΝ ΚΑΙ ΑΜΠΕΛΟΥ"
+        },
+        "signers": {
+          "key": "100091750",
+          "value": "ΝΕΚΤΑΡΙΟΣ ΒΙΔΑΚΗΣ - Πρόεδρος Επιτροπής"
+        }
+      },
+      "totalCostWithVAT": 161000.0,
+      "totalCostWithoutVAT": 133806.45,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 806.45,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Εξοπλισμός ηλεκτρονικών υπολογιστών και προμήθειες",
+          "cpvs": [
+            {
+              "key": "30200000-1",
+              "value": "Εξοπλισμός ηλεκτρονικών υπολογιστών και προμήθειες"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 16129.03,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Κατασκευαστικές και συναφείς υπηρεσίες ,Ηλεκτρολ. υπηρεσίες,Υπηρεσίεςτεχνικήςυποστήριξης,Γεωργικές υπηρ.,Διάφορες υπηρεσίες, Μηχ. χωματουργικών εργασιών,Στεγαστικέςεργασίεςκαιάλλεςκατασκευαστικές εργασίες ειδικής φύσης, Κατασκευαστικές εργασίες ,Εργασίες επιχωμάτωσης, Υπηρεσίες επισκευής και συντήρησης εγκαταστάσεων κτιρίου, Επισκευή και συντήρησής, Υπηρεσίες λογιστικής και διαχειριστικού ελέγχου",
+          "cpvs": [
+            {
+              "key": "45000000-7",
+              "value": "Κατασκευαστικές εργασίες"
+            },
+            {
+              "key": "45243510-0",
+              "value": "Εργασίες επιχωμάτωσης"
+            },
+            {
+              "key": "71500000-3",
+              "value": "Κατασκευαστικές και συναφείς υπηρεσίες"
+            },
+            {
+              "key": "77100000-1",
+              "value": "Γεωργικές υπηρεσίες"
+            },
+            {
+              "key": "71314100-3",
+              "value": "Ηλεκτρολογικές υπηρεσίες"
+            },
+            {
+              "key": "98300000-6",
+              "value": "Διάφορες υπηρεσίες"
+            },
+            {
+              "key": "45260000-7",
+              "value": "Στεγαστικές εργασίες και άλλες κατασκευαστικές εργασίες ειδικής φύσης"
+            },
+            {
+              "key": "45259000-7",
+              "value": "Επισκευή και συντήρηση εγκαταστάσεων"
+            },
+            {
+              "key": "71356300-1",
+              "value": "Υπηρεσίες τεχνικής υποστήριξης"
+            },
+            {
+              "key": "79210000-9",
+              "value": "Υπηρεσίες λογιστικής και διαχειριστικού ελέγχου"
+            },
+            {
+              "key": "50700000-2",
+              "value": "Υπηρεσίες επισκευής και συντήρησης εγκαταστάσεων κτιρίου"
+            },
+            {
+              "key": "43210000-8",
+              "value": "Μηχανήματα χωματουργικών εργασιών"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1612.9,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αντιδραστήριαεργαστηρίων,Εργαστηριακά είδη,είδη υγιεινής ή φαρμακευτικά είδη από γυαλί,Προϊόντα καθαρισμού,Μελάνια,υλικάάρδευσης,Ηλεκτρ.υλικό,Μέρη,εξαρτήματακαιπρομήθειεςυπολογιστών,Μέρη καιεξαρτήματαεργαλειομηχανών,Εργαλεία,κλειδαριέςκλειδιά,μεντεσέδες,συνδετήρες,αλυσίδεςκαιελατήρια Δομέςκαιυλικάκατασκευαστικώνέργωνβοηθήματακατασκευαστικώνκηπευτικής,Αγροχημικά,Δένδρα,Μπαταρίες,χημικάαντιδραστηρια",
+          "cpvs": [
+            {
+              "key": "44510000-8",
+              "value": "Εργαλεία"
+            },
+            {
+              "key": "43323000-3",
+              "value": "Εξοπλισμός άρδευσης"
+            },
+            {
+              "key": "44000000-0",
+              "value": "Δομές και υλικά κατασκευαστικών έργων? βοηθήματα κατασκευαστικών έργων (εκτός από ηλεκτρικές συσκευές)"
+            },
+            {
+              "key": "30237000-9",
+              "value": "Μέρη"
+            },
+            {
+              "key": "31681410-0",
+              "value": "Ηλεκτρολογικό υλικό"
+            },
+            {
+              "key": "03452000-3",
+              "value": "Δένδρα"
+            },
+            {
+              "key": "30192110-5",
+              "value": "Μελάνια"
+            },
+            {
+              "key": "44500000-5",
+              "value": "Εργαλεία"
+            },
+            {
+              "key": "33696300-8",
+              "value": "Χημικά αντιδραστήρια"
+            },
+            {
+              "key": "24450000-3",
+              "value": "Αγροχημικά προϊόντα"
+            },
+            {
+              "key": "33790000-4",
+              "value": "Εργαστηριακά είδη"
+            },
+            {
+              "key": "03120000-8",
+              "value": "Προϊόντα κηπευτικής και φυτωρίου"
+            },
+            {
+              "key": "33696500-0",
+              "value": "Αντιδραστήρια εργαστηρίων"
+            },
+            {
+              "key": "39830000-9",
+              "value": "Προϊόντα καθαρισμού"
+            },
+            {
+              "key": "31440000-2",
+              "value": "Μπαταρίες"
+            },
+            {
+              "key": "42670000-3",
+              "value": "Μέρη και εξαρτήματα εργαλειομηχανών"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 10000,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσίες συνδρομών, μετακινήση προσωπικού - οδοιπορικά  ",
+          "cpvs": [
+            {
+              "key": "98390000-3",
+              "value": "Λοιπές υπηρεσίες"
+            },
+            {
+              "key": "79980000-7",
+              "value": "Υπηρεσίες συνδρομών"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 19354.84,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσίες έρευνας και ανάπτυξης, καθώς και συναφείς υπηρεσίες παροχής συμβουλών\tΥπηρεσίες έρευνας και ανάπτυξης, καθώς και συναφείς υπηρεσίες παροχής συμβουλών\n",
+          "cpvs": [
+            {
+              "key": "73000000-2",
+              "value": "Υπηρεσίες έρευνας και ανάπτυξης"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 10000,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσίες επιστημονικών ερευνών Υπηρεσίες επιστημονικών ερευνών ",
+          "cpvs": [
+            {
+              "key": "71351700-0",
+              "value": "Υπηρεσίες επιστημονικών ερευνών"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 500,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσίες μεταφορών  ",
+          "cpvs": [
+            {
+              "key": "60000000-8",
+              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 75000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ανεμιστήρες και συσκευές κλιματισμού, Εξοπλισμός τηλεδιασκέψεων ,Υπηρεσίες εγκατάστασης εξοπλισμού μέτρησης, Βιομετρικοί αισθητήρες ,Σύστημα παρακολούθησης , Αισθητήρες, Γεωλογικά και γεωφυσικά όργανα, Όργανα ελέγχου φυσικών χαρακτηριστικών ,Όργανα μετρήσεων ,Εξοπλισμός εργαστηριακός , Ηλεκτρονικοί αναλυτικοί ζυγοί, Δεξαμενές \t\n",
+          "cpvs": [
+            {
+              "key": "38300000-8",
+              "value": "Όργανα μετρήσεων"
+            },
+            {
+              "key": "38200000-7",
+              "value": "Γεωλογικά και γεωφυσικά όργανα"
+            },
+            {
+              "key": "32232000-8",
+              "value": "Εξοπλισμός τηλεδιασκέψεων"
+            },
+            {
+              "key": "38000000-5",
+              "value": "Εξοπλισμός εργαστηριακός"
+            },
+            {
+              "key": "38311100-9",
+              "value": "Ηλεκτρονικοί αναλυτικοί ζυγοί"
+            },
+            {
+              "key": "35125110-0",
+              "value": "Βιομετρικοί αισθητήρες"
+            },
+            {
+              "key": "39717000-1",
+              "value": "Ανεμιστήρες και συσκευές κλιματισμού"
+            },
+            {
+              "key": "35125100-7",
+              "value": "Αισθητήρες"
+            },
+            {
+              "key": "51210000-7",
+              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού μέτρησης"
+            },
+            {
+              "key": "44611000-6",
+              "value": "Δεξαμενές"
+            },
+            {
+              "key": "35125000-6",
+              "value": "Σύστημα παρακολούθησης"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 403.23,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Γραφική ύλη\n",
+          "cpvs": [
+            {
+              "key": "30192700-8",
+              "value": "Γραφική ύλη"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "3",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "mixedContract": true,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "30200000",
+        "45000000",
+        "45243510",
+        "71500000",
+        "77100000",
+        "71314100",
+        "98300000",
+        "45260000",
+        "45259000",
+        "71356300",
+        "79210000",
+        "50700000",
+        "43210000",
+        "44510000",
+        "43323000",
+        "44000000",
+        "30237000",
+        "31681410",
+        "03452000",
+        "30192110",
+        "44500000",
+        "33696300",
+        "24450000",
+        "33790000",
+        "03120000",
+        "33696500",
+        "39830000",
+        "31440000",
+        "42670000",
+        "98390000",
+        "79980000",
+        "73000000",
+        "71351700",
+        "60000000",
+        "38300000",
+        "38200000",
+        "32232000",
+        "38000000",
+        "38311100",
+        "35125110",
+        "39717000",
+        "35125100",
+        "51210000",
+        "44611000",
+        "35125000",
+        "30192700"
+      ],
+      "cpv_divisions": [
+        "30",
+        "45",
+        "71",
+        "77",
+        "98",
+        "79",
+        "50",
+        "43",
+        "44",
+        "31",
+        "03",
+        "33",
+        "24",
+        "39",
+        "42",
+        "73",
+        "60",
+        "38",
+        "32",
+        "35",
+        "51"
+      ],
+      "all_domains": [
+        "Office & Computing (Non-Software)",
+        "Construction & Works",
+        "Architecture, Engineering & Inspection",
+        "Agriculture/Forestry/Landscaping Services",
+        "Community & Personal Services",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Repair & Maintenance",
+        "Construction & Quarrying Machinery",
+        "Construction Materials & Structures",
+        "Electrical Equipment & Lighting",
+        "Agriculture & Forestry",
+        "Medical & Pharma",
+        "Chemicals",
+        "Furniture & Cleaning Products",
+        "Industrial Machinery",
+        "R&D & Related Consulting",
+        "Transport Services",
+        "Lab, Optical & Precision Equipment",
+        "Telecom & Electronics",
+        "Security & Defense",
+        "Installation Services (Non-Software)"
+      ],
+      "primary_domain": "Construction & Works"
+    },
+    {
+      "title": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ DIG.I.WATER",
+      "referenceNumber": "26REQ018482455",
+      "previousRequestReferenceNumber": "25REQ018146110",
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": "2025-12-11T00:00:00",
+      "submissionDate": "2026-02-14T22:17:27.001",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "218/6919",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997604027",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "55143",
+        "value": "ΕΛΛΗΝΙΚΟΣ ΓΕΩΡΓΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ-ΔΗΜΗΤΡΑ"
+      },
+      "nutsCode": {
+        "key": "EL434",
+        "value": "Χανιά"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1029.E00514.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100009130",
+          "value": "ΙΝΣΤΙΤΟΥΤΟ ΕΛΙΑΣ, ΥΠΟΤΡΟΠΙΚΩΝ ΦΥΤΩΝ ΚΑΙ ΑΜΠΕΛΟΥ"
+        },
+        "signers": {
+          "key": "100091750",
+          "value": "ΝΕΚΤΑΡΙΟΣ ΒΙΔΑΚΗΣ - Πρόεδρος Επιτροπής"
+        }
+      },
+      "totalCostWithVAT": 129600.0,
+      "totalCostWithoutVAT": 107729.03,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 10483.87,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσίες έρευνας και ανάπτυξης, καθώς και συναφείς υπηρεσίες παροχής συμβουλών\t\n",
+          "cpvs": [
+            {
+              "key": "73000000-2",
+              "value": "Υπηρεσίες έρευνας και ανάπτυξης"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 9680,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσίες Επαγγελματικών Ταξιδίων, Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων ",
+          "cpvs": [
+            {
+              "key": "79997000-9",
+              "value": "Υπηρεσίες επαγγελματικών ταξιδίων"
+            },
+            {
+              "key": "60000000-8",
+              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 80645.16,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": " Υπηρεσίες γραφικού σχεδιασμού,ΓεωργικέςΥπηρεσίες,ΥπηρεσίεςΑνάπτυξηςΔιαδικτύο,επισκευήςκαι συντήρησης εγκαταστάσεων κτιρίου,Επισκευή και συντήρηση εγκαταστάσεων,Υπηρεσίες παροχής συμβουλών σε θέματα γενικής διαχείρισης,Υπηρεσίες προώθησης,Υπηρεσίες Εκδηλώσεων,Υπηρεσίες επιστημονικώνερευνών,Παροχή συμβουλών,ανάπτυξη λογισμικού διαδίκτυο καιυποστήριξη,Τεχνικές μελέτες,Εργαστηριακέςυπηρεσίεςκλπ",
+          "cpvs": [
+            {
+              "key": "51215000-2",
+              "value": "Υπηρεσίες εγκατάστασης μετεωρολογικού εξοπλισμού"
+            },
+            {
+              "key": "71335000-5",
+              "value": "Τεχνικές μελέτες"
+            },
+            {
+              "key": "71351700-0",
+              "value": "Υπηρεσίες επιστημονικών ερευνών"
+            },
+            {
+              "key": "71900000-7",
+              "value": "Εργαστηριακές υπηρεσίες"
+            },
+            {
+              "key": "79411000-8",
+              "value": "Υπηρεσίες παροχής συμβουλών σε θέματα γενικής διαχείρισης"
+            },
+            {
+              "key": "79952000-2",
+              "value": "Υπηρεσίες εκδηλώσεων"
+            },
+            {
+              "key": "72262000-9",
+              "value": "Υπηρεσίες ανάπτυξης λογισμικού"
+            },
+            {
+              "key": "45259000-7",
+              "value": "Επισκευή και συντήρηση εγκαταστάσεων"
+            },
+            {
+              "key": "79342200-5",
+              "value": "Υπηρεσίες προώθησης"
+            },
+            {
+              "key": "79822500-7",
+              "value": "Υπηρεσίες γραφικού σχεδιασμού"
+            },
+            {
+              "key": "50700000-2",
+              "value": "Υπηρεσίες επισκευής και συντήρησης εγκαταστάσεων κτιρίου"
+            },
+            {
+              "key": "72420000-0",
+              "value": "Υπηρεσίες ανάπτυξης Διαδικτύου"
+            },
+            {
+              "key": "72000000-5",
+              "value": "Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών"
+            },
+            {
+              "key": "71351600-9",
+              "value": "Υπηρεσίες πρόβλεψης καιρού"
+            },
+            {
+              "key": "71351500-8",
+              "value": "Υπηρεσίες εδαφολογικών ερευνών"
+            },
+            {
+              "key": "77100000-1",
+              "value": "Γεωργικές υπηρεσίες"
+            },
+            {
+              "key": "72318000-7",
+              "value": "Υπηρεσίες μετάδοσης δεδομένων"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 6920,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Yπηρεσίες Επιστημονικών Ερευνών  ",
+          "cpvs": [
+            {
+              "key": "71351700-0",
+              "value": "Υπηρεσίες επιστημονικών ερευνών"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "3",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "mixedContract": true,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "73000000",
+        "79997000",
+        "60000000",
+        "51215000",
+        "71335000",
+        "71351700",
+        "71900000",
+        "79411000",
+        "79952000",
+        "72262000",
+        "45259000",
+        "79342200",
+        "79822500",
+        "50700000",
+        "72420000",
+        "72000000",
+        "71351600",
+        "71351500",
+        "77100000",
+        "72318000"
+      ],
+      "cpv_divisions": [
+        "73",
+        "79",
+        "60",
+        "51",
+        "71",
+        "72",
+        "45",
+        "50",
+        "77"
+      ],
+      "all_domains": [
+        "R&D & Related Consulting",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Transport Services",
+        "Installation Services (Non-Software)",
+        "Architecture, Engineering & Inspection",
+        "IT Services",
+        "Construction & Works",
+        "Repair & Maintenance",
+        "Agriculture/Forestry/Landscaping Services"
+      ],
+      "primary_domain": "Construction & Works"
+    },
+    {
+      "title": "ΕΛΕΓΧΟΣ ΣΥΝΤΗΡΗΣΗ ΑΠΟΚ/ΤΑΣΗ ΒΛΑΒΩΝ ΗΛ ΠΙΝΑΚΩΝ ΚΑΙ ΗΛΕΚ/ΚΩΝ ΕΓΚ/ΣΕΩΝ ΓΙΑ ΤΗ ΛΕΙΤ/ΡΓΙΑ ΓΕΩΤΡ ΤΗΣ ΔΕΥΑΚ",
+      "referenceNumber": "26REQ018481971",
+      "previousRequestReferenceNumber": "26REQ018349341",
+      "signedDate": "2026-02-06",
+      "lastUpdateDate": "2026-02-05T00:00:00",
+      "submissionDate": "2026-02-13T20:11:00.755",
+      "procurementDeliveryDate": "2026-03-16",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "516",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997498080",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "53607",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ &  ΑΠΟΧΕΤΕΥΣΗΣ ΚΙΛΕΛΕΡ"
+      },
+      "nutsCode": {
+        "key": "EL612",
+        "value": "Λάρισα"
       },
       "typeOfContractingAuthority": {
         "key": "10",
@@ -42,7 +814,7 @@
         "key": "4",
         "value": "Εκτός Γενικής Κυβέρνησης"
       },
-      "aaht": "1007.E89555.0001",
+      "aaht": "1007.F00011.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -53,16 +825,117 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "90717",
-          "value": "ΠΡΟΕΔΡΟΣ ΔΙΟΙΚΗΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ ΠΕΔ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
+          "key": "87691",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
         },
         "signers": {
-          "key": "100055094",
-          "value": "ΑΘΑΝΑΣΙΟΣ ΠΑΠΑΔΟΠΟΥΛΟΣ - Πρόεδρος"
+          "key": "100051556",
+          "value": "ΑΧΙΛΛΕΑΣ ΒΑΡΔΑΚΟΥΛΗΣ - Πρόεδρος"
         }
       },
-      "totalCostWithVAT": 6000.0,
-      "totalCostWithoutVAT": 4838.71,
+      "totalCostWithVAT": 24775.2,
+      "totalCostWithoutVAT": 19980.0,
+      "objectDetails": [
+        {
+          "quantity": 283,
+          "type": {
+            "key": "HUR",
+            "value": "Ώρα"
+          },
+          "costWithoutVAT": 19980,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΛΕΓΧΟΣ - ΣΥΝΤΗΡΗΣΗ - ΑΠΟΚΑΤΑΣΤΑΣΗ ΒΛΑΒΩΝ ΗΛΕΚΤΡΙΚΩΝ ΠΙΝΑΚΩΝ ΚΑΙ ΗΛΕΚΤΡΟΛΟΓΙΚΩΝ ΕΓΚΑΤΑΣΤΑΣΕΩΝ ΓΙΑ ΤΗΝ ΛΕΙΤΟΥΡΓΙΑ ΓΕΩΤΡΗΣΕΩΝ ΤΗΣ Δ.Ε.Υ.Α. ΚΙΛΕΛΕΡ",
+          "cpvs": [
+            {
+              "key": "51110000-6",
+              "value": "Υπηρεσίες εγκατάστασης ηλεκτρολογικού εξοπλισμού"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "51110000"
+      ],
+      "cpv_divisions": [
+        "51"
+      ],
+      "all_domains": [
+        "Installation Services (Non-Software)"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "ΗΧΗΤΙΚΗ ΦΩΤΙΣΤΙΚΗ ΠΡΟΒΟΛΙΚΗ ΚΑΛΥΨΗ ΤΕΛΕΤΗΣ ΛΗΞΗΣ ΠΚ2026",
+      "referenceNumber": "26REQ018481813",
+      "previousRequestReferenceNumber": "26REQ018460313",
+      "signedDate": "2026-02-10",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T17:32:32.444",
+      "procurementDeliveryDate": "2026-02-22",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "537",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997992855",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "53359",
+        "value": "ΚΟΙΝΩΦΕΛΗΣ ΕΠΙΧΕΙΡΗΣΗ ΔΗΜΟΥ ΠΑΤΡΕΩΝ - ΚΑΡΝΑΒΑΛΙ ΠΑΤΡΑΣ (ΚΕΔΗΠ)"
+      },
+      "nutsCode": {
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε89365.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "94218",
+          "value": "ΚΕΔΗΠ/ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
+        },
+        "signers": {
+          "key": "100091229",
+          "value": "ΠΑΥΛΟΣ ΣΚΟΥΡΑΣ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "totalCostWithVAT": 24800.0,
+      "totalCostWithoutVAT": 20000.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -70,13 +943,13 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 4838.71,
+          "costWithoutVAT": 20000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Υπηρεσίες εγκατάστασης ηχητικού εξοπλισμού",
+          "shortDescription": "Ηχητική, φωτιστική και προβολική κάλυψη της Τελετής Λήξης του ΠΚ 2026 στις 22/02/2026  ",
           "cpvs": [
             {
               "key": "51313000-9",
@@ -88,6 +961,1516 @@
       "additionalContractTypes": null,
       "mixedContract": false,
       "approvalRefNo": [],
+      "noticeRefNo": [
+        "26PROC018482454"
+      ],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "51313000"
+      ],
+      "cpv_divisions": [
+        "51"
+      ],
+      "all_domains": [
+        "Installation Services (Non-Software)"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "ΑΑΥ δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο ΔΤΜ",
+      "referenceNumber": "26REQ018480518",
+      "previousRequestReferenceNumber": "26REQ018479256",
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T14:03:21.869",
+      "procurementDeliveryDate": "2026-02-21",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "724",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "998257963",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6301",
+        "value": "ΔΗΜΟΣ ΤΡΟΙΖΗΝΙΑΣ - ΜΕΘΑΝΩΝ"
+      },
+      "nutsCode": {
+        "key": "EL307",
+        "value": "Πειραιάς, Νήσοι"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.e85208.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "10727",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100000215",
+          "value": "ΑΔΑΜΑΝΤΙΑ ΣΙΑΓΚΡΗ - Προϊστάμενος Τμήματος"
+        }
+      },
+      "totalCostWithVAT": 17980.01,
+      "totalCostWithoutVAT": 14564.85,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 9895.84,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΑΥ δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων.",
+          "cpvs": [
+            {
+              "key": "92312110-5",
+              "value": "Ψυχαγωγικές υπηρεσίες θεατρικών παραγωγών"
+            },
+            {
+              "key": "79952000-2",
+              "value": "Υπηρεσίες εκδηλώσεων"
+            },
+            {
+              "key": "51313000-9",
+              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
+            },
+            {
+              "key": "92370000-5",
+              "value": "Υπηρεσίες τεχνικών ήχου"
+            },
+            {
+              "key": "45422100-2",
+              "value": "Ξυλουργικές εργασίες"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2007.44,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΑΥ δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων",
+          "cpvs": [
+            {
+              "key": "22100000-1",
+              "value": "Τυπωμένα βιβλία"
+            },
+            {
+              "key": "33772000-2",
+              "value": "Χάρτινα είδη μιας χρήσης"
+            },
+            {
+              "key": "37810000-9",
+              "value": "Είδη χειροτεχνίας"
+            },
+            {
+              "key": "37312500-3",
+              "value": "Σφυρίχτρες"
+            },
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            },
+            {
+              "key": "15110000-2",
+              "value": "Κρέας"
+            }
+          ]
+        },
+        {
+          "quantity": 48,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 730.97,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΑΥ δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων.",
+          "cpvs": [
+            {
+              "key": "55300000-3",
+              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
+            },
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            }
+          ]
+        },
+        {
+          "quantity": 75,
+          "type": {
+            "key": "MTR",
+            "value": "m"
+          },
+          "costWithoutVAT": 393.15,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΑΥ δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων",
+          "cpvs": [
+            {
+              "key": "19260000-6",
+              "value": "Ύφασμα"
+            }
+          ]
+        },
+        {
+          "quantity": 38,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1537.45,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΑΥ δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων.",
+          "cpvs": [
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            },
+            {
+              "key": "03419000-0",
+              "value": "Ξυλεία"
+            },
+            {
+              "key": "18300000-2",
+              "value": "Ενδύματα"
+            },
+            {
+              "key": "18530000-3",
+              "value": "Δώρα και βραβεία"
+            },
+            {
+              "key": "22100000-1",
+              "value": "Τυπωμένα βιβλία"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [
+        "26PROC018481218"
+      ],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "92312110",
+        "79952000",
+        "51313000",
+        "92370000",
+        "45422100",
+        "22100000",
+        "33772000",
+        "37810000",
+        "37312500",
+        "15000000",
+        "15110000",
+        "55300000",
+        "19260000",
+        "03419000",
+        "18300000",
+        "18530000"
+      ],
+      "cpv_divisions": [
+        "92",
+        "79",
+        "51",
+        "45",
+        "22",
+        "33",
+        "37",
+        "15",
+        "55",
+        "19",
+        "03",
+        "18"
+      ],
+      "all_domains": [
+        "Recreation, Culture & Sports Services",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Installation Services (Non-Software)",
+        "Construction & Works",
+        "Printing & Publishing",
+        "Medical & Pharma",
+        "Sports, Toys & Recreation Goods",
+        "Food & Catering",
+        "Hospitality, Retail & Catering Services",
+        "Textiles, Plastics & Rubber",
+        "Agriculture & Forestry",
+        "Clothing & PPE"
+      ],
+      "primary_domain": "Construction & Works"
+    },
+    {
+      "title": "Απόφαση αναλ.υποχρ. για τη διοργάνωση έκθεσης \"Η Ελλάδα στον ΕΟΔ\"",
+      "referenceNumber": "26REQ018480120",
+      "previousRequestReferenceNumber": "26REQ018479943",
+      "signedDate": "2026-02-10",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T13:37:44.565",
+      "procurementDeliveryDate": "2026-03-20",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "ΑΑΥ28",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "996806788",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "100062923",
+        "value": "ΕΛΛΗΝΙΚΟ ΚΕΝΤΡΟ ΔΙΑΣΤΗΜΑΤΟΣ"
+      },
+      "nutsCode": {
+        "key": "EL301",
+        "value": "Βόρειος Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1053.E00963.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100063744",
+          "value": "ΠΡΟΕΔΡΟΣ"
+        },
+        "signers": {
+          "key": "100097117",
+          "value": "ΕΜΜΑΝΟΥΗΛ ΡΑΜΜΟΣ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "totalCostWithVAT": 36952.0,
+      "totalCostWithoutVAT": 29800.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 24000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Στο πλαίσιο πραγματοποίησης της έκθεσης «Η Ελλάδα στον Ευρωπαϊκό Οργανισμό Διαστήματος», το ΕΛ.ΚΕ.Δ., ως διοργανωτής, καλείται όπως συμβάλει στους οργανωτικούς σκοπούς, μέσω της μελέτης και ενοικίασης των κατασκευών και του εξοπλισμού, της ενοικίασης οπτικοακουστικής και ηλεκτρολογικής εγκατάστασης, καθώς και της μεταφοράς, τοποθέτησης και αποκομιδής των κατασκευών. ",
+          "cpvs": [
+            {
+              "key": "39154100-7",
+              "value": "Περίπτερα εκθέσεων"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 5800,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Στο πλαίσιο πραγματοποίησης της έκθεσης «Η Ελλάδα στον Ευρωπαϊκό Οργανισμό Διαστήματος», το ΕΛ.ΚΕ.Δ., ως διοργανωτής, καλείται όπως συμβάλει στους οργανωτικούς σκοπούς, μέσω της μελέτης και ενοικίασης των κατασκευών και του εξοπλισμού, της ενοικίασης οπτικοακουστικής και ηλεκτρολογικής εγκατάστασης, καθώς και της μεταφοράς, τοποθέτησης και αποκομιδής των κατασκευών. ",
+          "cpvs": [
+            {
+              "key": "51310000-8",
+              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ραδιοφωνίας"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "39154100",
+        "51310000"
+      ],
+      "cpv_divisions": [
+        "39",
+        "51"
+      ],
+      "all_domains": [
+        "Furniture & Cleaning Products",
+        "Installation Services (Non-Software)"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "Αποκατάσταση βλάβης στο δίκτυο πυρόσβεσης στον σταθμό Κατεχάκη",
+      "referenceNumber": "26REQ018479973",
+      "previousRequestReferenceNumber": "26REQ018479952",
+      "signedDate": "2026-02-02",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T13:28:54.629",
+      "procurementDeliveryDate": "2026-03-27",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "1016",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "099939745",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "50083",
+        "value": "ΣΤΑΘΕΡΕΣ ΣΥΓΚΟΙΝΩΝΙΕΣ Α.Ε. (ΣΤΑΣΥ)"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1039.E00923.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100058522",
+          "value": "ΔΙΕΥΘΥΝΩΝ ΣΥΜΒΟΥΛΟΣ"
+        },
+        "signers": {
+          "key": "100073793",
+          "value": "ΑΘΑΝΑΣΙΟΣ ΚΟΤΤΑΡΑΣ - Διευθύνων Σύμβουλος"
+        }
+      },
+      "totalCostWithVAT": 35092.0,
+      "totalCostWithoutVAT": 28300.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 28300,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αποκατάσταση βλάβης στο δίκτυο πυρόσβεσης στον σταθμό Κατεχάκη",
+          "cpvs": [
+            {
+              "key": "51110000-6",
+              "value": "Υπηρεσίες εγκατάστασης ηλεκτρολογικού εξοπλισμού"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "51110000"
+      ],
+      "cpv_divisions": [
+        "51"
+      ],
+      "all_domains": [
+        "Installation Services (Non-Software)"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "Αποκατάσταση βλάβης στο δίκτυο πυρόσβεσης στον σταθμό Κατεχάκη",
+      "referenceNumber": "26REQ018479952",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-01-29",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T13:27:45.347",
+      "procurementDeliveryDate": "2026-03-27",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "205459",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "099939745",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "50083",
+        "value": "ΣΤΑΘΕΡΕΣ ΣΥΓΚΟΙΝΩΝΙΕΣ Α.Ε. (ΣΤΑΣΥ)"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1039.E00923.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "75624",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΣΥΝΤΗΡΗΣΗΣ ΥΠΟΔΟΜΗΣ ΚΑΙ ΕΡΓΩΝ (ΔΙΕΥΘΥΝΟΥΣΑ ΥΠΗΡΕΣΙΑ)"
+        },
+        "signers": {
+          "key": "100101227",
+          "value": "ΧΡΗΣΤΟΣ ΜΑΜΑΛΟΥΚΑΚΗΣ - Γενικός Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 35092.0,
+      "totalCostWithoutVAT": 28300.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 28300,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αποκατάσταση βλάβης στο δίκτυο πυρόσβεσης στον σταθμό Κατεχάκη",
+          "cpvs": [
+            {
+              "key": "51110000-6",
+              "value": "Υπηρεσίες εγκατάστασης ηλεκτρολογικού εξοπλισμού"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018479973"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "51110000"
+      ],
+      "cpv_divisions": [
+        "51"
+      ],
+      "all_domains": [
+        "Installation Services (Non-Software)"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "Πρωτογενές αίτημα για τη διοργάνωση έκθεσης \"Η Ελλάδα στον ΕΟΔ\"",
+      "referenceNumber": "26REQ018479943",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-10",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T13:27:17.509",
+      "procurementDeliveryDate": "2026-03-20",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "141/2026",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "996806788",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "100062923",
+        "value": "ΕΛΛΗΝΙΚΟ ΚΕΝΤΡΟ ΔΙΑΣΤΗΜΑΤΟΣ"
+      },
+      "nutsCode": {
+        "key": "EL301",
+        "value": "Βόρειος Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1053.E00963.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100062943",
+          "value": "ΔΙΕΥΘΥΝΩΝ ΣΥΜΒΟΥΛΟΣ"
+        },
+        "signers": {
+          "key": "100062942",
+          "value": "ΝΙΚΟΛΑΟΣ ΣΕΡΓΗΣ - Διευθύνων Σύμβουλος"
+        }
+      },
+      "totalCostWithVAT": 36952.0,
+      "totalCostWithoutVAT": 29800.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 5800,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Στο πλαίσιο πραγματοποίησης της έκθεσης «Η Ελλάδα στον Ευρωπαϊκό Οργανισμό Διαστήματος», το ΕΛ.ΚΕ.Δ., ως διοργανωτής, καλείται όπως συμβάλει στους οργανωτικούς σκοπούς, μέσω της μελέτης και ενοικίασης των κατασκευών και του εξοπλισμού, της ενοικίασης οπτικοακουστικής και ηλεκτρολογικής εγκατάστασης, καθώς και της μεταφοράς, τοποθέτησης και αποκομιδής των κατασκευών. ",
+          "cpvs": [
+            {
+              "key": "51310000-8",
+              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ραδιοφωνίας"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 24000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Στο πλαίσιο πραγματοποίησης της έκθεσης «Η Ελλάδα στον Ευρωπαϊκό Οργανισμό Διαστήματος», το ΕΛ.ΚΕ.Δ., ως διοργανωτής, καλείται όπως συμβάλει στους οργανωτικούς σκοπούς, μέσω της μελέτης και ενοικίασης των κατασκευών και του εξοπλισμού, της ενοικίασης οπτικοακουστικής και ηλεκτρολογικής εγκατάστασης, καθώς και της μεταφοράς, τοποθέτησης και αποκομιδής των κατασκευών. ",
+          "cpvs": [
+            {
+              "key": "39154100-7",
+              "value": "Περίπτερα εκθέσεων"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018480120"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "51310000",
+        "39154100"
+      ],
+      "cpv_divisions": [
+        "51",
+        "39"
+      ],
+      "all_domains": [
+        "Installation Services (Non-Software)",
+        "Furniture & Cleaning Products"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "ΔΑΠΑΝΗ ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΚΑΙ ΑΝΤΙΚΑΤΑΣΤΑΣΗ INVERTER KAI ΥΛΙΚΩΝ ΣΥΝΔΕΣΗΣ ΛΟΓΩ ΒΛΑΒΗΣ & ΚΑΘΑΡΙΣΜΟΣ ΑΝΤΛΙΩΝ",
+      "referenceNumber": "26REQ018479304",
+      "previousRequestReferenceNumber": "26REQ018479292",
+      "signedDate": "2026-02-09",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T12:51:10.2",
+      "procurementDeliveryDate": "2026-02-24",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "24/62.07/2026",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090036134",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "100023736",
+        "value": "ΟΡΓΑΝΙΣΜΟΣ ΜΕΓΑΡΟΥ ΜΟΥΣΙΚΗΣ ΑΘΗΝΩΝ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1022.E00371.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100024497",
+          "value": "ΕΓΚΑΤΑΣΤΑΣΕΩΝ"
+        },
+        "signers": {
+          "key": "100082445",
+          "value": "ΚΑΤΕΡΙΝΑ ΖΕΥΓΩΛΗ - Γενικός Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 15252.0,
+      "totalCostWithoutVAT": 12300.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1800,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΔΑΠΑΝΗ ΓΙΑ ΥΠΗΡΕΣΙΕΣ ΑΝΤΙΚΑΤΑΣΤΑΣΗ INVERTER KAI ΥΛΙΚΩΝ ΣΥΝΔΕΣΗΣ ΛΟΓΩ ΒΛΑΒΗΣ ",
+          "cpvs": [
+            {
+              "key": "51100000-3",
+              "value": "Υπηρεσίες εγκατάστασης ηλεκτρομηχανολογικού εξοπλισμού"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 4000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΔΑΠΑΝΗ ΓΙΑ ΥΠΗΡΕΣΙΕΣ ΚΑΘΑΡΙΣΜΟΥ ΑΝΤΛΙΩΝ",
+          "cpvs": [
+            {
+              "key": "50511100-1",
+              "value": "Υπηρεσίες επισκευής και συντήρησης αντλιών υγρών"
+            }
+          ]
+        },
+        {
+          "quantity": 4,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 6500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΔΑΠΑΝΗ ΓΙΑ ΠΡΟΜΗΘΕΙΑ  INVERTER KAI ΥΛΙΚΩΝ ΣΥΝΔΕΣΗΣ ΛΟΓΩ ΒΛΑΒΗΣ ",
+          "cpvs": [
+            {
+              "key": "31155000-7",
+              "value": "Αναστροφείς συχνότητας"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "51100000",
+        "50511100",
+        "31155000"
+      ],
+      "cpv_divisions": [
+        "51",
+        "50",
+        "31"
+      ],
+      "all_domains": [
+        "Installation Services (Non-Software)",
+        "Repair & Maintenance",
+        "Electrical Equipment & Lighting"
+      ],
+      "primary_domain": "Electrical Equipment & Lighting"
+    },
+    {
+      "title": "ΔΑΠΑΝΗ ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΚΑΙ ΑΝΤΙΚΑΤΑΣΤΑΣΗ INVERTER KAI ΥΛΙΚΩΝ ΣΥΝΔΕΣΗΣ ΛΟΓΩ ΒΛΑΒΗΣ & ΚΑΘΑΡΙΣΜΟΣ ΑΝΤΛΙΩΝ",
+      "referenceNumber": "26REQ018479292",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-09",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T12:50:33.199",
+      "procurementDeliveryDate": "2026-02-24",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "24/62.07/2026",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090036134",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "100023736",
+        "value": "ΟΡΓΑΝΙΣΜΟΣ ΜΕΓΑΡΟΥ ΜΟΥΣΙΚΗΣ ΑΘΗΝΩΝ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1022.E00371.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100024497",
+          "value": "ΕΓΚΑΤΑΣΤΑΣΕΩΝ"
+        },
+        "signers": {
+          "key": "100083483",
+          "value": "Παναγιώτης Παυλάκος - Αναπληρωτής Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 15252.0,
+      "totalCostWithoutVAT": 12300.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1800,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΔΑΠΑΝΗ ΓΙΑ ΥΠΗΡΕΣΙΕΣ ΑΝΤΙΚΑΤΑΣΤΑΣΗ INVERTER KAI ΥΛΙΚΩΝ ΣΥΝΔΕΣΗΣ ΛΟΓΩ ΒΛΑΒΗΣ ",
+          "cpvs": [
+            {
+              "key": "51100000-3",
+              "value": "Υπηρεσίες εγκατάστασης ηλεκτρομηχανολογικού εξοπλισμού"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 4000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΔΑΠΑΝΗ ΓΙΑ ΥΠΗΡΕΣΙΕΣ ΚΑΘΑΡΙΣΜΟΥ ΑΝΤΛΙΩΝ",
+          "cpvs": [
+            {
+              "key": "50511100-1",
+              "value": "Υπηρεσίες επισκευής και συντήρησης αντλιών υγρών"
+            }
+          ]
+        },
+        {
+          "quantity": 4,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 6500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΔΑΠΑΝΗ ΓΙΑ ΠΡΟΜΗΘΕΙΑ  INVERTER KAI ΥΛΙΚΩΝ ΣΥΝΔΕΣΗΣ ΛΟΓΩ ΒΛΑΒΗΣ ",
+          "cpvs": [
+            {
+              "key": "31155000-7",
+              "value": "Αναστροφείς συχνότητας"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018479304"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "51100000",
+        "50511100",
+        "31155000"
+      ],
+      "cpv_divisions": [
+        "51",
+        "50",
+        "31"
+      ],
+      "all_domains": [
+        "Installation Services (Non-Software)",
+        "Repair & Maintenance",
+        "Electrical Equipment & Lighting"
+      ],
+      "primary_domain": "Electrical Equipment & Lighting"
+    },
+    {
+      "title": "Πρωτογενές δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο ΔΤΜ",
+      "referenceNumber": "26REQ018479256",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T12:48:15.192",
+      "procurementDeliveryDate": "2026-02-21",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "724",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "998257963",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6301",
+        "value": "ΔΗΜΟΣ ΤΡΟΙΖΗΝΙΑΣ - ΜΕΘΑΝΩΝ"
+      },
+      "nutsCode": {
+        "key": "EL307",
+        "value": "Πειραιάς, Νήσοι"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.e85208.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "10727",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100000215",
+          "value": "ΑΔΑΜΑΝΤΙΑ ΣΙΑΓΚΡΗ - Προϊστάμενος Τμήματος"
+        }
+      },
+      "totalCostWithVAT": 17980.01,
+      "totalCostWithoutVAT": 14564.85,
+      "objectDetails": [
+        {
+          "quantity": 38,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1537.45,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πρωτογενές δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων.",
+          "cpvs": [
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            },
+            {
+              "key": "03419000-0",
+              "value": "Ξυλεία"
+            },
+            {
+              "key": "18530000-3",
+              "value": "Δώρα και βραβεία"
+            },
+            {
+              "key": "18300000-2",
+              "value": "Ενδύματα"
+            },
+            {
+              "key": "22100000-1",
+              "value": "Τυπωμένα βιβλία"
+            }
+          ]
+        },
+        {
+          "quantity": 48,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 730.97,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πρωτογενές δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων.",
+          "cpvs": [
+            {
+              "key": "55300000-3",
+              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
+            },
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            }
+          ]
+        },
+        {
+          "quantity": 75,
+          "type": {
+            "key": "MTR",
+            "value": "m"
+          },
+          "costWithoutVAT": 393.15,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πρωτογενές δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων",
+          "cpvs": [
+            {
+              "key": "19260000-6",
+              "value": "Ύφασμα"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2007.44,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πρωτογενές δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων",
+          "cpvs": [
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            },
+            {
+              "key": "22100000-1",
+              "value": "Τυπωμένα βιβλία"
+            },
+            {
+              "key": "33772000-2",
+              "value": "Χάρτινα είδη μιας χρήσης"
+            },
+            {
+              "key": "37810000-9",
+              "value": "Είδη χειροτεχνίας"
+            },
+            {
+              "key": "15110000-2",
+              "value": "Κρέας"
+            },
+            {
+              "key": "37312500-3",
+              "value": "Σφυρίχτρες"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 9895.84,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πρωτογενές δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων.",
+          "cpvs": [
+            {
+              "key": "92312110-5",
+              "value": "Ψυχαγωγικές υπηρεσίες θεατρικών παραγωγών"
+            },
+            {
+              "key": "51313000-9",
+              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
+            },
+            {
+              "key": "79952000-2",
+              "value": "Υπηρεσίες εκδηλώσεων"
+            },
+            {
+              "key": "45422100-2",
+              "value": "Ξυλουργικές εργασίες"
+            },
+            {
+              "key": "92370000-5",
+              "value": "Υπηρεσίες τεχνικών ήχου"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018480518"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "15000000",
+        "03419000",
+        "18530000",
+        "18300000",
+        "22100000",
+        "55300000",
+        "19260000",
+        "33772000",
+        "37810000",
+        "15110000",
+        "37312500",
+        "92312110",
+        "51313000",
+        "79952000",
+        "45422100",
+        "92370000"
+      ],
+      "cpv_divisions": [
+        "15",
+        "03",
+        "18",
+        "22",
+        "55",
+        "19",
+        "33",
+        "37",
+        "92",
+        "51",
+        "79",
+        "45"
+      ],
+      "all_domains": [
+        "Food & Catering",
+        "Agriculture & Forestry",
+        "Clothing & PPE",
+        "Printing & Publishing",
+        "Hospitality, Retail & Catering Services",
+        "Textiles, Plastics & Rubber",
+        "Medical & Pharma",
+        "Sports, Toys & Recreation Goods",
+        "Recreation, Culture & Sports Services",
+        "Installation Services (Non-Software)",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Construction & Works"
+      ],
+      "primary_domain": "Construction & Works"
+    },
+    {
+      "title": "Έξοδα πολιτιστικών δραστηριοτήτων (Οπτικοακουστικής κάλυψης καρναβαλικών παρελάσεων )",
+      "referenceNumber": "26REQ018477426",
+      "previousRequestReferenceNumber": "26REQ018476646",
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T10:59:55.337",
+      "procurementDeliveryDate": "2026-02-22",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "2124",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "099631382",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6283",
+        "value": "ΔΗΜΟΣ ΣΟΥΛΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL542",
+        "value": "Θεσπρωτία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E82002.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81125",
+          "value": "ΔΗΜΑΡΧΟΣ"
+        },
+        "signers": {
+          "key": "100084983",
+          "value": "Αθανάσιος Ντάνης - Δήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 9176.0,
+      "totalCostWithoutVAT": 7400.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 7400,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έξοδα πολιτιστικών δραστηριοτήτων (Οπτικοακουστικής κάλυψης καρναβαλικών παρελάσεων ) ",
+          "cpvs": [
+            {
+              "key": "51313000-9",
+              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [
+        "26PROC018477965"
+      ],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "51313000"
+      ],
+      "cpv_divisions": [
+        "51"
+      ],
+      "all_domains": [
+        "Installation Services (Non-Software)"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "Έξοδα πολιτιστικών δραστηριοτήτων (Οπτικοακουστικής κάλυψης καρναβαλικών παρελάσεων )",
+      "referenceNumber": "26REQ018476646",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T10:15:41.408",
+      "procurementDeliveryDate": "2026-02-22",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "2109",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "099631382",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6283",
+        "value": "ΔΗΜΟΣ ΣΟΥΛΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL542",
+        "value": "Θεσπρωτία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E82002.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81125",
+          "value": "ΔΗΜΑΡΧΟΣ"
+        },
+        "signers": {
+          "key": "100084983",
+          "value": "Αθανάσιος Ντάνης - Δήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 9176.0,
+      "totalCostWithoutVAT": 7400.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 7400,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έξοδα πολιτιστικών δραστηριοτήτων (Οπτικοακουστικής κάλυψης καρναβαλικών παρελάσεων ) ",
+          "cpvs": [
+            {
+              "key": "51313000-9",
+              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018477426"
+      ],
       "noticeRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
@@ -104,46 +2487,46 @@
       "primary_domain": "Installation Services (Non-Software)"
     },
     {
-      "title": "Έγκριση δαπάνης για συνδιοργάνωση  των αποκριάτικων εκδηλώσεων 2026 και των εκδηλώσεων για τα κούλου",
-      "referenceNumber": "26REQ018472965",
-      "previousRequestReferenceNumber": "26REQ018471615",
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T12:46:10.075",
-      "procurementDeliveryDate": "2026-02-21",
+      "title": "Α.Α. 318 2026 \"ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΓΙΑ ΤΗΝ ΗΧΟΦΩΤΙΣΤΙΚΗ ΚΑΛΥΨΗ ΠΟΛΙΤΙΣΤΙΚΩΝ ΕΚΔΗΛΩΣΕΩΝ\"",
+      "referenceNumber": "26REQ018476328",
+      "previousRequestReferenceNumber": "24REQ015972422",
+      "signedDate": "2026-01-02",
+      "lastUpdateDate": "2025-04-01T00:00:00",
+      "submissionDate": "2026-02-13T09:57:50.243",
+      "procurementDeliveryDate": "2026-12-31",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "282/2026",
+      "protocolNumber": "318",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
-      "authorEmail": null,
+      "authorEmail": "dperiouspromhth@fyli.gr",
       "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997462217",
+      "organizationVatNumber": "997675481",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "54074",
-        "value": "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΩΣΗ ΔΗΜΩΝ (ΠΕΔ) ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
+        "key": "6312",
+        "value": "ΔΗΜΟΣ ΦΥΛΗΣ"
       },
       "nutsCode": {
-        "key": "EL63",
-        "value": "Δυτική Ελλάδα"
+        "key": "EL306",
+        "value": "Δυτική Αττική"
       },
       "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
+        "key": "9",
+        "value": "ΝΠΔΔ"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
+        "key": "2",
+        "value": "ΟΤΑ"
       },
-      "aaht": "1007.E89555.0001",
+      "aaht": "1007.Ε85005.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -154,16 +2537,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "90717",
-          "value": "ΠΡΟΕΔΡΟΣ ΔΙΟΙΚΗΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ ΠΕΔ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
+          "key": "89907",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
         },
         "signers": {
-          "key": "100055094",
-          "value": "ΑΘΑΝΑΣΙΟΣ ΠΑΠΑΔΟΠΟΥΛΟΣ - Πρόεδρος"
+          "key": "100047592",
+          "value": "ΠΑΝΤΕΛΗΣ ΒΑΜΒΟΥΚΑΣ - Διευθυντής"
         }
       },
-      "totalCostWithVAT": 10900.96,
-      "totalCostWithoutVAT": 8791.1,
+      "totalCostWithVAT": 81654.0,
+      "totalCostWithoutVAT": 65850.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -171,94 +2554,18 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 1000,
+          "costWithoutVAT": 65850,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Βιντεοσκόπηση - Livestreaming",
+          "shortDescription": "ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΓΙΑ ΤΗΝ ΗΧΟΦΩΤΙΣΤΙΚΗ ΚΑΛΥΨΗ ΠΟΛΙΤΙΣΤΙΚΩΝ ΕΚΔΗΛΩΣΕΩΝ",
           "cpvs": [
             {
-              "key": "72318000-7",
-              "value": "Υπηρεσίες μετάδοσης δεδομένων"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 130.8,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Κάλυψη Πνευματικών δικαιωμάτων Συναυλίας",
-          "cpvs": [
-            {
-              "key": "79121000-8",
-              "value": "Υπηρεσίες παροχής συμβουλών σε θέματα πνευματικής ιδιοκτησίας"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 47.4,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Κάλυψη Πνευματικών δικαιωμάτων Συναυλίας",
-          "cpvs": [
-            {
-              "key": "79121000-8",
-              "value": "Υπηρεσίες παροχής συμβουλών σε θέματα πνευματικής ιδιοκτησίας"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 6000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υπηρεσίες Οργάνωσης Εκδηλώεων",
-          "cpvs": [
-            {
-              "key": "79952100-3",
-              "value": "Υπηρεσίες οργάνωσης πολιτιστικών εκδηλώσεων"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1612.9,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υπηρεσίες εγκατάστασης ηχητικού εξοπλισμού",
-          "cpvs": [
+              "key": "79952000-2",
+              "value": "Υπηρεσίες εκδηλώσεων"
+            },
             {
               "key": "51313000-9",
               "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
@@ -274,627 +2581,365 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "72318000",
-        "79121000",
-        "79952100",
+        "79952000",
         "51313000"
       ],
       "cpv_divisions": [
-        "72",
         "79",
+        "51"
+      ],
+      "all_domains": [
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Installation Services (Non-Software)"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "Επισκευές και συντηρήσεις μηχανημάτων – τεχνικών εγκαταστάσεων",
+      "referenceNumber": "26REQ018475940",
+      "previousRequestReferenceNumber": "26REQ018412492",
+      "signedDate": "2026-02-02",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T09:34:25.447",
+      "procurementDeliveryDate": "2026-02-03",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "110",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090100738",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "51876",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ-ΑΠΟΧΕΤΕΥΣΗΣ ΝΑΟΥΣΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL521",
+        "value": "Ημαθία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.F00434.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100016602",
+          "value": "ΤΕΧΝΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100016909",
+          "value": "ΝΙΚΟΛΑΟΣ ΓΑΛΑΝΟΣ - Προϊστάμενος Υπηρεσίας"
+        }
+      },
+      "totalCostWithVAT": 462.14,
+      "totalCostWithoutVAT": 372.69,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 372.69,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Κατασκευή πορτας στην περιοχή Στασάνα Μαρίνας",
+          "cpvs": [
+            {
+              "key": "51500000-7",
+              "value": "Υπηρεσίες εγκατάστασης μηχανημάτων και εξοπλισμού"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "51500000"
+      ],
+      "cpv_divisions": [
+        "51"
+      ],
+      "all_domains": [
+        "Installation Services (Non-Software)"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "Επισκευές και συντηρήσεις μηχανημάτων – τεχνικών εγκαταστάσεων",
+      "referenceNumber": "26REQ018475885",
+      "previousRequestReferenceNumber": "26REQ018412492",
+      "signedDate": "2026-02-02",
+      "lastUpdateDate": "2026-02-13T09:33:06.825",
+      "submissionDate": "2026-02-13T09:30:59.736",
+      "procurementDeliveryDate": "2026-02-03",
+      "cancellationDate": "2026-02-13T09:33:06.825",
+      "cancelled": true,
+      "cancellationReason": "ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ",
+      "cancellationADA": null,
+      "cancellationType": "Ακύρωση λόγω λανθασμένης καταχώρησης",
+      "protocolNumber": "110",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090100738",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "51876",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ-ΑΠΟΧΕΤΕΥΣΗΣ ΝΑΟΥΣΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL521",
+        "value": "Ημαθία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.F00434.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100016602",
+          "value": "ΤΕΧΝΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100016909",
+          "value": "ΝΙΚΟΛΑΟΣ ΓΑΛΑΝΟΣ - Προϊστάμενος Υπηρεσίας"
+        }
+      },
+      "totalCostWithVAT": 462.14,
+      "totalCostWithoutVAT": 372.69,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 372.69,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Κατασκευή πορτας στην περιοχή Στασάνα Μαρίνας",
+          "cpvs": [
+            {
+              "key": "51500000-7",
+              "value": "Υπηρεσίες εγκατάστασης μηχανημάτων και εξοπλισμού"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "51500000"
+      ],
+      "cpv_divisions": [
+        "51"
+      ],
+      "all_domains": [
+        "Installation Services (Non-Software)"
+      ],
+      "primary_domain": "Installation Services (Non-Software)"
+    },
+    {
+      "title": "Αίτημα έκδοσης ανάληψης υποχρέωσης για την συντήρηση, ανταλλακτικών και Υπηρεσίες Μετάδοσης δεδομένω",
+      "referenceNumber": "26REQ018474940",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T07:50:57.332",
+      "procurementDeliveryDate": "2026-03-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "101571(1338)",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997612598",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "5009",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL52",
+        "value": "Κεντρική Μακεδονία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "10079020001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "14",
+            "value": "Τεχνικές ή λοιπές συναφείς υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "80391",
+          "value": "( ΠΔ 133 ) ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ Π.Κ.Μ."
+        },
+        "signers": {
+          "key": "100050306",
+          "value": "ΠΑΡΙΣΗΣ ΜΠΙΛΛΙΑΣ - ΘΕΜΑΤΙΚΟΣ ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+        }
+      },
+      "totalCostWithVAT": 20398.0,
+      "totalCostWithoutVAT": 16450.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1330,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσίες Μετάδοσης δεδομένων",
+          "cpvs": [
+            {
+              "key": "72318000-7",
+              "value": "Υπηρεσίες μετάδοσης δεδομένων"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 14320,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσίες εγκατάστασης Μετεωρολογικού εξοπλισμού,Αναλώσιμα και ανταλακτικά",
+          "cpvs": [
+            {
+              "key": "51215000-2",
+              "value": "Υπηρεσίες εγκατάστασης μετεωρολογικού εξοπλισμού"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 800,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσίες Ανάπτυξης λογισμικού",
+          "cpvs": [
+            {
+              "key": "72262000-9",
+              "value": "Υπηρεσίες ανάπτυξης λογισμικού"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "72318000",
+        "51215000",
+        "72262000"
+      ],
+      "cpv_divisions": [
+        "72",
         "51"
       ],
       "all_domains": [
         "IT Services",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
         "Installation Services (Non-Software)"
       ],
       "primary_domain": "IT Services"
-    },
-    {
-      "title": "Εισήγηση για έγκριση δαπανών για τον εορτασμό της 21ης Φεβρουαρίου στην Περιφέρεια Ηπείρου",
-      "referenceNumber": "26REQ018472289",
-      "previousRequestReferenceNumber": "26REQ018471031",
-      "signedDate": "2026-02-05",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T12:10:37.767",
-      "procurementDeliveryDate": "2026-02-15",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "ΠΗ/ΓΑΕΝΥ/21348/119",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997908822",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "5006",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL54",
-        "value": "Ήπειρος"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1007.904.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "84527",
-          "value": "ΓΡΑΦΕΙΟ ΠΕΡΙΦΕΡΕΙΑΡΧΗ"
-        },
-        "signers": {
-          "key": "111942",
-          "value": "ΑΛΕΞΑΝΔΡΟΣ ΚΑΧΡΙΜΑΝΗΣ - ΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
-        }
-      },
-      "totalCostWithVAT": 15996.0,
-      "totalCostWithoutVAT": 12900.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 12900,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Έγκριση της οργάνωσης εορτασμού Επετείου για τα ελευθέρια της πόλης των Ιωαννίνων, που θα γίνει από τις 15-21/02/2026. Οι δαπάνες περιλαμβάνουν έκδοση προσκλήσεων & φακέλων, ενοικίαση εξέδρας και στεγάστρων, παράθεση δεξίωσης, προμήθεια αναμνηστικού δώρου για τον Πρόεδρο, προμήθεια στεφάνων, συνθέσεων ανθών & καλλωπιστικών, ενοικίαση ηχητικών, φωτογράφιση & εκτύπωση φωτογραφιών, παράθεση γεύματος",
-          "cpvs": [
-            {
-              "key": "18530000-3",
-              "value": "Δώρα και βραβεία"
-            },
-            {
-              "key": "79960000-1",
-              "value": "Φωτογραφικές και συναφείς υπηρεσίες"
-            },
-            {
-              "key": "51540000-9",
-              "value": "Υπηρεσίες εγκατάστασης μηχανημάτων και εξοπλισμού ειδικής χρήσης"
-            },
-            {
-              "key": "55300000-3",
-              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
-            },
-            {
-              "key": "39222100-5",
-              "value": "Αναλώσιμα υλικά τροφοδοσίας"
-            },
-            {
-              "key": "15812200-5",
-              "value": "Γλυκά"
-            },
-            {
-              "key": "51313000-9",
-              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
-            },
-            {
-              "key": "03121200-7",
-              "value": "Κομμένα άνθη"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": [
-        {
-          "additionalContractType": {
-            "key": "2",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "mixedContract": true,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "18530000",
-        "79960000",
-        "51540000",
-        "55300000",
-        "39222100",
-        "15812200",
-        "51313000",
-        "03121200"
-      ],
-      "cpv_divisions": [
-        "18",
-        "79",
-        "51",
-        "55",
-        "39",
-        "15",
-        "03"
-      ],
-      "all_domains": [
-        "Clothing & PPE",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "Installation Services (Non-Software)",
-        "Hospitality, Retail & Catering Services",
-        "Furniture & Cleaning Products",
-        "Food & Catering",
-        "Agriculture & Forestry"
-      ],
-      "primary_domain": "Installation Services (Non-Software)"
-    },
-    {
-      "title": "Συνδιοργάνωση των καρναβαλικών εκδηλώσεων 2026 σε συνεργασία με τον Δήμο Ανδραβίδας –Κυλλήνης.",
-      "referenceNumber": "26REQ018471687",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-11",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T11:42:28.425",
-      "procurementDeliveryDate": "2026-02-22",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "23/2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997462217",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "54074",
-        "value": "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΩΣΗ ΔΗΜΩΝ (ΠΕΔ) ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL63",
-        "value": "Δυτική Ελλάδα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1007.E89555.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "90717",
-          "value": "ΠΡΟΕΔΡΟΣ ΔΙΟΙΚΗΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ ΠΕΔ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
-        },
-        "signers": {
-          "key": "100055094",
-          "value": "ΑΘΑΝΑΣΙΟΣ ΠΑΠΑΔΟΠΟΥΛΟΣ - Πρόεδρος"
-        }
-      },
-      "totalCostWithVAT": 6000.0,
-      "totalCostWithoutVAT": 4838.71,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 4838.71,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υπηρεσίες εγκατάστασης ηχητικού εξοπλισμού",
-          "cpvs": [
-            {
-              "key": "51313000-9",
-              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018472982"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "51313000"
-      ],
-      "cpv_divisions": [
-        "51"
-      ],
-      "all_domains": [
-        "Installation Services (Non-Software)"
-      ],
-      "primary_domain": "Installation Services (Non-Software)"
-    },
-    {
-      "title": "Συνδιοργάνωση  των αποκριάτικων εκδηλώσεων 2026 και των εκδηλώσεων για τα κούλουμα σε συνεργασία με ",
-      "referenceNumber": "26REQ018471615",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-11",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T11:39:00.943",
-      "procurementDeliveryDate": "2026-02-21",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "22/2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997462217",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "54074",
-        "value": "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΩΣΗ ΔΗΜΩΝ (ΠΕΔ) ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL63",
-        "value": "Δυτική Ελλάδα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1007.E89555.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "90717",
-          "value": "ΠΡΟΕΔΡΟΣ ΔΙΟΙΚΗΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ ΠΕΔ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
-        },
-        "signers": {
-          "key": "100055094",
-          "value": "ΑΘΑΝΑΣΙΟΣ ΠΑΠΑΔΟΠΟΥΛΟΣ - Πρόεδρος"
-        }
-      },
-      "totalCostWithVAT": 10900.96,
-      "totalCostWithoutVAT": 8791.1,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 130.8,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Κάλυψη Πνευματικών δικαιωμάτων Συναυλίας",
-          "cpvs": [
-            {
-              "key": "79121000-8",
-              "value": "Υπηρεσίες παροχής συμβουλών σε θέματα πνευματικής ιδιοκτησίας"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1612.9,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υπηρεσίες εγκατάστασης ηχητικού εξοπλισμού",
-          "cpvs": [
-            {
-              "key": "51313000-9",
-              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Βιντεοσκόπηση - Livestreaming",
-          "cpvs": [
-            {
-              "key": "72318000-7",
-              "value": "Υπηρεσίες μετάδοσης δεδομένων"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 6000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υπηρεσίες Οργάνωσης Εκδηλώεων",
-          "cpvs": [
-            {
-              "key": "79952100-3",
-              "value": "Υπηρεσίες οργάνωσης πολιτιστικών εκδηλώσεων"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 47.4,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Κάλυψη Πνευματικών δικαιωμάτων Συναυλίας",
-          "cpvs": [
-            {
-              "key": "79121000-8",
-              "value": "Υπηρεσίες παροχής συμβουλών σε θέματα πνευματικής ιδιοκτησίας"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018472965"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "79121000",
-        "51313000",
-        "72318000",
-        "79952100"
-      ],
-      "cpv_divisions": [
-        "79",
-        "51",
-        "72"
-      ],
-      "all_domains": [
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "Installation Services (Non-Software)",
-        "IT Services"
-      ],
-      "primary_domain": "IT Services"
-    },
-    {
-      "title": "Εισήγηση για έγκριση δαπανών για τον εορτασμό της 21ης Φεβρουαρίου στην Περιφέρεια Ηπείρου",
-      "referenceNumber": "26REQ018471031",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-05",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T11:09:04.324",
-      "procurementDeliveryDate": "2026-02-15",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "ΠΗ/ΓΑΕΝΥ/21348/119",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997908822",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "5006",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL54",
-        "value": "Ήπειρος"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1007.904.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "84527",
-          "value": "ΓΡΑΦΕΙΟ ΠΕΡΙΦΕΡΕΙΑΡΧΗ"
-        },
-        "signers": {
-          "key": "111942",
-          "value": "ΑΛΕΞΑΝΔΡΟΣ ΚΑΧΡΙΜΑΝΗΣ - ΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
-        }
-      },
-      "totalCostWithVAT": 15996.0,
-      "totalCostWithoutVAT": 12900.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 12900,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Έγκριση της οργάνωσης εορτασμού Επετείου για τα ελευθέρια της πόλης των Ιωαννίνων, που θα γίνει από τις 15-21/02/2026. Οι δαπάνες περιλαμβάνουν έκδοση προσκλήσεων & φακέλων, ενοικίαση εξέδρας και στεγάστρων, παράθεση δεξίωσης, προμήθεια αναμνηστικού δώρου για τον Πρόεδρο, προμήθεια στεφάνων, συνθέσεων ανθών & καλλωπιστικών, ενοικίαση ηχητικών, φωτογράφιση & εκτύπωση φωτογραφιών, παράθεση γεύματος",
-          "cpvs": [
-            {
-              "key": "79960000-1",
-              "value": "Φωτογραφικές και συναφείς υπηρεσίες"
-            },
-            {
-              "key": "03121200-7",
-              "value": "Κομμένα άνθη"
-            },
-            {
-              "key": "55300000-3",
-              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
-            },
-            {
-              "key": "39222100-5",
-              "value": "Αναλώσιμα υλικά τροφοδοσίας"
-            },
-            {
-              "key": "51540000-9",
-              "value": "Υπηρεσίες εγκατάστασης μηχανημάτων και εξοπλισμού ειδικής χρήσης"
-            },
-            {
-              "key": "18530000-3",
-              "value": "Δώρα και βραβεία"
-            },
-            {
-              "key": "15812200-5",
-              "value": "Γλυκά"
-            },
-            {
-              "key": "51313000-9",
-              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": [
-        {
-          "additionalContractType": {
-            "key": "2",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "mixedContract": true,
-      "approvalRefNo": [
-        "26REQ018472289"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "79960000",
-        "03121200",
-        "55300000",
-        "39222100",
-        "51540000",
-        "18530000",
-        "15812200",
-        "51313000"
-      ],
-      "cpv_divisions": [
-        "79",
-        "03",
-        "55",
-        "39",
-        "51",
-        "18",
-        "15"
-      ],
-      "all_domains": [
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "Agriculture & Forestry",
-        "Hospitality, Retail & Catering Services",
-        "Furniture & Cleaning Products",
-        "Installation Services (Non-Software)",
-        "Clothing & PPE",
-        "Food & Catering"
-      ],
-      "primary_domain": "Installation Services (Non-Software)"
     }
   ]
 }

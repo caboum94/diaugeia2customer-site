@@ -1,13 +1,13 @@
 {
   "domain": "Textiles, Plastics & Rubber",
-  "count": 2,
+  "count": 1,
   "items": [
     {
-      "title": "ΣΥΝΕΧ. ΔΑΠΑΝΗ ΓΙΑ ΤΗΝ  ΠΡΟΜΗΘΕΙΑ ΕΙΔΩΝ ΚΑΘΑΡΙΟΤΗΤΑΣ & ΕΥΠΡΕΠΙΣΜΟΥ ΤΗΣ ΠΡΩΗΝ ΣΧΟΛΙΚΗΣ ΕΠΙΤΡΟΠΗΣ ΔΕΥΤΕ",
-      "referenceNumber": "26PAY018470986",
+      "title": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ 000085",
+      "referenceNumber": "26PAY018478182",
       "auctionReferenceNumber": null,
-      "signedDate": "2026-02-11T00:00:00",
-      "submissionDate": "2026-02-12T11:06:29.993",
+      "signedDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T11:43:43.027",
       "lastUpdateDate": null,
       "cancellationDate": null,
       "cancellationType": null,
@@ -18,19 +18,19 @@
       "paymentRelatedAda": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "100.E80709.0001",
-      "paymentCommitmentCode": "5",
-      "organizationVatNumber": "998246997",
+      "aaht": "1007.E82204.0001",
+      "paymentCommitmentCode": "123",
+      "organizationVatNumber": "998223751",
       "greekOrganizationVatNumber": true,
       "commitmentNo": null,
       "contractValue": null,
       "organization": {
-        "key": "6165",
-        "value": "ΔΗΜΟΣ ΛΑΓΚΑΔΑ"
+        "key": "6150",
+        "value": "ΔΗΜΟΣ ΚΙΛΕΛΕΡ"
       },
       "nutsCode": {
-        "key": "EL52",
-        "value": "Κεντρική Μακεδονία"
+        "key": "EL612",
+        "value": "Λάρισα"
       },
       "centralizedMarkets": [
         {
@@ -55,12 +55,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "79443",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+          "key": "100100576",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΟΥ"
         },
         "signers": {
-          "key": "100002403",
-          "value": "ΑΝΑΣΤΑΣΙΑ ΤΣΑΡΔΑΚΛΗ - Προϊστάμενος Διεύθυνσης"
+          "key": "100100584",
+          "value": "ΓΕΩΡΓΙΟΣ ΤΣΑΝΤΙΛΗΣ - Αναπληρωτής Διευθυντής"
         }
       },
       "fundingDetails": {
@@ -68,13 +68,13 @@
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": "02.070.2410105001",
+        "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
+        "regularBudgetFundedProgramRef": "6634.01/02, 6635.01/02"
       },
       "nutsCodes": [],
-      "totalCostWithVAT": 7664.44,
-      "totalCostWithoutVAT": 6185.94,
+      "totalCostWithVAT": 1541.32,
+      "totalCostWithoutVAT": 1243.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -82,90 +82,51 @@
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 6151.93,
+          "costWithoutVAT": 1243,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Διακήρυξη για τη προμήθεια ειδών καθαριότητας και ευπρεπισμού του Δήμου Λαγκαδά και των Νομικών του Προσώπων (Υ.Κ.Π.Α.Α.Π., ΣΧΟΛΙΚΗ ΕΠΙΤΡΟΠΗ ΠΡΩΤΟΒΑΘΜΙΑΣ ΕΚΠΑΙΔΕΥΣΗΣ, ΣΧΟΛΙΚΗ ΕΠΙΤΡΟΠΗ ΔΕΥΤΕΡΟΒΑΘΜΙΑΣ), για δύο (2) έτη",
+          "shortDescription": "Είδη καθαρισμού, ευπρεπισμού και σακούλες απορριμμάτων ",
           "cpvs": [
+            {
+              "key": "19640000-4",
+              "value": "Σάκοι και τσάντες αποβλήτων και απορριμμάτων από πολυαιθυλένιο"
+            },
             {
               "key": "33760000-5",
               "value": "Χαρτί υγείας"
             },
             {
-              "key": "39800000-0",
-              "value": "Είδη καθαρισμού και στίλβωσης"
+              "key": "39224300-1",
+              "value": "Σκούπες και βούρτσες και άλλα είδη για την οικιακή καθαριότητα"
             },
             {
-              "key": "39224000-8",
-              "value": "Σκούπες και βούρτσες και άλλα είδη διαφόρων τύπων"
+              "key": "39224300-1",
+              "value": "Σκούπες και βούρτσες και άλλα είδη για την οικιακή καθαριότητα"
             },
             {
-              "key": "19640000-4",
-              "value": "Σάκοι και τσάντες αποβλήτων και απορριμμάτων από πολυαιθυλένιο"
+              "key": "39830000-9",
+              "value": "Προϊόντα καθαρισμού"
+            },
+            {
+              "key": "33741100-7",
+              "value": "Προϊόντα καθαρισμού των χεριών"
             }
           ],
           "addressForDelivery": null,
           "streetNumber": null,
           "postalCode": null,
-          "city": "ΛΑΓΚΑΔΑΣ",
+          "city": "Νίκαια, Λάρισας",
           "cityOfConstruction": null,
           "countryOfDelivery": {
             "key": "GR",
             "value": "Ελλάδα"
           },
-          "vatNo": "109469854",
-          "greekVatNo": false,
-          "name": "ΜΠΛΙΟΥΜΗ ΘΕΟΦΑΝΕΙΑ",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "AG-001",
-            "value": "Μελέτη"
-          },
-          "costWithoutVAT": 34.01,
-          "vat": "6",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Διακήρυξη για τη προμήθεια ειδών καθαριότητας και ευπρεπισμού του Δήμου Λαγκαδά και των Νομικών του Προσώπων (Υ.Κ.Π.Α.Α.Π., ΣΧΟΛΙΚΗ ΕΠΙΤΡΟΠΗ ΠΡΩΤΟΒΑΘΜΙΑΣ ΕΚΠΑΙΔΕΥΣΗΣ, ΣΧΟΛΙΚΗ ΕΠΙΤΡΟΠΗ ΔΕΥΤΕΡΟΒΑΘΜΙΑΣ), για δύο (2) έτη",
-          "cpvs": [
-            {
-              "key": "39800000-0",
-              "value": "Είδη καθαρισμού και στίλβωσης"
-            },
-            {
-              "key": "39831200-8",
-              "value": "Απορρυπαντικά"
-            },
-            {
-              "key": "39224000-8",
-              "value": "Σκούπες και βούρτσες και άλλα είδη διαφόρων τύπων"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΛΑΓΚΑΔΑΣ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "109469854",
-          "greekVatNo": false,
-          "name": "ΜΠΛΙΟΥΜΗ ΘΕΟΦΑΝΕΙΑ",
+          "vatNo": "033067500",
+          "greekVatNo": true,
+          "name": "Ελένη Μπρέζα",
           "country": {
             "key": "GR",
             "value": "Ελλάδα"
@@ -179,271 +140,23 @@
       "mixedContract": false,
       "requestRefNo": null,
       "auctionRefNo": null,
-      "contractRefNo": "24SYMV014794481",
+      "contractRefNo": "25SYMV018273743",
       "cpv_codes_extracted": [
-        "33760000",
-        "39800000",
-        "39224000",
         "19640000",
-        "39831200"
+        "33760000",
+        "39224300",
+        "39830000",
+        "33741100"
       ],
       "cpv_divisions": [
-        "33",
-        "39",
-        "19"
-      ],
-      "all_domains": [
-        "Medical & Pharma",
-        "Furniture & Cleaning Products",
-        "Textiles, Plastics & Rubber"
-      ],
-      "primary_domain": "Medical & Pharma"
-    },
-    {
-      "title": "ΣΥΝΕΧΙΖΟΜΕΝΗ ΔΑΠΑΝΗ ΠΡΟΜΗΘΕΙΑΣ ΕΙΔΩΝ ΚΑΘΑΡΙΟΤΗΤΑΣ ΚΑΙ ΕΥΠΡΕΠΙΣΜΟΥ ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΤOY ΔΗΜΟΥ ΛΑΓΚΑΔΑ ",
-      "referenceNumber": "26PAY018470395",
-      "auctionReferenceNumber": null,
-      "signedDate": "2026-02-11T00:00:00",
-      "submissionDate": "2026-02-12T10:33:34.742",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancelled": false,
-      "credit": false,
-      "paymentRelatedAda": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1007.E80709.0001",
-      "paymentCommitmentCode": "6",
-      "organizationVatNumber": "998246659",
-      "greekOrganizationVatNumber": true,
-      "commitmentNo": null,
-      "contractValue": null,
-      "organization": {
-        "key": "6165",
-        "value": "ΔΗΜΟΣ ΛΑΓΚΑΔΑ"
-      },
-      "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": null,
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "79443",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "100002403",
-          "value": "ΑΝΑΣΤΑΣΙΑ ΤΣΑΡΔΑΚΛΗ - Προϊστάμενος Διεύθυνσης"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": "02.020.2410105001",
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "02.015.2410105001"
-      },
-      "nutsCodes": [],
-      "totalCostWithVAT": 54951.69,
-      "totalCostWithoutVAT": 45768.64,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "AG-001",
-            "value": "Μελέτη"
-          },
-          "costWithoutVAT": 40.3,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια ειδών καθαριότητας και ευπρεπισμού του Δήμου Λαγκαδά  για δύο (2) έτη",
-          "cpvs": [
-            {
-              "key": "24455000-8",
-              "value": "Απολυμαντικά"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΛΑΓΚΑΔΑΣ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "109469854",
-          "greekVatNo": false,
-          "name": "ΜΠΛΙΟΥΜΗ ΘΕΟΦΑΝΕΙΑ",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "AG-001",
-            "value": "Μελέτη"
-          },
-          "costWithoutVAT": 35745.08,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια ειδών καθαριότητας και ευπρεπισμού του Δήμου Λαγκαδά  για δύο (2) έτη",
-          "cpvs": [
-            {
-              "key": "19640000-4",
-              "value": "Σάκοι και τσάντες αποβλήτων και απορριμμάτων από πολυαιθυλένιο"
-            },
-            {
-              "key": "39224000-8",
-              "value": "Σκούπες και βούρτσες και άλλα είδη διαφόρων τύπων"
-            },
-            {
-              "key": "33760000-5",
-              "value": "Χαρτί υγείας"
-            },
-            {
-              "key": "39220000-0",
-              "value": "Εξοπλισμός κουζίνας"
-            },
-            {
-              "key": "39800000-0",
-              "value": "Είδη καθαρισμού και στίλβωσης"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΛΑΓΚΑΔΑΣ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "109469854",
-          "greekVatNo": false,
-          "name": "ΜΠΛΙΟΥΜΗ ΘΕΟΦΑΝΕΙΑ",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "AG-001",
-            "value": "Μελέτη"
-          },
-          "costWithoutVAT": 9983.26,
-          "vat": "6",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια ειδών καθαριότητας και ευπρεπισμού του Δήμου Λαγκαδά  για δύο (2) έτη",
-          "cpvs": [
-            {
-              "key": "39831200-8",
-              "value": "Απορρυπαντικά"
-            },
-            {
-              "key": "39800000-0",
-              "value": "Είδη καθαρισμού και στίλβωσης"
-            },
-            {
-              "key": "39224000-8",
-              "value": "Σκούπες και βούρτσες και άλλα είδη διαφόρων τύπων"
-            },
-            {
-              "key": "24455000-8",
-              "value": "Απολυμαντικά"
-            }
-          ],
-          "addressForDelivery": null,
-          "streetNumber": null,
-          "postalCode": null,
-          "city": "ΛΑΓΚΑΔΑΣ",
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "vatNo": "109469854",
-          "greekVatNo": false,
-          "name": "ΜΠΛΙΟΥΜΗ ΘΕΟΦΑΝΕΙΑ",
-          "country": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "invoiceNo": null,
-          "commitmentCode": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "auctionRefNo": null,
-      "contractRefNo": "24SYMV014785232",
-      "cpv_codes_extracted": [
-        "24455000",
-        "19640000",
-        "39224000",
-        "33760000",
-        "39220000",
-        "39800000",
-        "39831200"
-      ],
-      "cpv_divisions": [
-        "24",
         "19",
-        "39",
-        "33"
+        "33",
+        "39"
       ],
       "all_domains": [
-        "Chemicals",
         "Textiles, Plastics & Rubber",
-        "Furniture & Cleaning Products",
-        "Medical & Pharma"
+        "Medical & Pharma",
+        "Furniture & Cleaning Products"
       ],
       "primary_domain": "Medical & Pharma"
     }

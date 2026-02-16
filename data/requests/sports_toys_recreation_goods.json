@@ -1,48 +1,48 @@
 {
   "domain": "Sports, Toys & Recreation Goods",
-  "count": 23,
+  "count": 19,
   "items": [
     {
-      "title": "ΑΠΟΦΑΣΗ ΔΕΣΜΕΥΣΗΣ ΓΙΑ ΑΓΟΡΑ ΕΜΠΟΡΕΥΜΑΤΩΝ ΚΑΙ ΕΙΔΩΝ ΣΥΣΚΕΥΑΣΙΑΣ ΓΙΑ ΤΟ ΠΩΛΗΤΗΡΙΟ",
-      "referenceNumber": "26REQ018474447",
-      "previousRequestReferenceNumber": "26REQ018473380",
-      "signedDate": "2026-02-12",
+      "title": "ΔΑΠΑΝΕΣ ΔΙΕΞΑΓΩΓΗΣ ΕΚΔΗΛΩΣΗΣ ΕΡΓΑΣΤΗΡΙ ΚΑΤΑΣΚΕΥΗΣ ΧΑΡΤΑΕΤΟΥ & ΑΠΟΚΡΑΤΙΚΗΣ ΜΑΣΚΑΣ ΤΟ ΣΑΒΒΑΤΟ 21/02/20",
+      "referenceNumber": "26REQ018481617",
+      "previousRequestReferenceNumber": "26REQ018481499",
+      "signedDate": "2026-02-13",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T15:35:37.011",
-      "procurementDeliveryDate": "2026-02-19",
+      "submissionDate": "2026-02-13T16:17:41.232",
+      "procurementDeliveryDate": "2026-02-21",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "588",
+      "protocolNumber": "OIK/586",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "099456077",
+      "organizationVatNumber": "998762513",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "50025",
-        "value": "ΕΘΝΙΚΟ ΜΟΥΣΕΙΟ ΣΥΓΧΡΟΝΗΣ ΤΕΧΝΗΣ"
+        "key": "6190",
+        "value": "ΔΗΜΟΣ ΜΕΣΣΗΝΗΣ"
       },
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL653",
+        "value": "Λακωνία, Μεσσηνία"
       },
       "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
+        "key": "9",
+        "value": "ΝΠΔΔ"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
+        "key": "2",
+        "value": "ΟΤΑ"
       },
-      "aaht": "1022.E00358.0001",
+      "aaht": "1007.Ε84403.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -53,286 +53,71 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "100073935",
-          "value": "ΔΙΟΙΚΗΤΙΚΗ ΟΙΚΟΝΟΜΙΚΗ ΔΙΕΥΘΥΝΤΡΙΑ"
+          "key": "100015771",
+          "value": "ΤΜΗΜΑ ΠΟΛΙΤΙΣΜΟΥ, ΑΘΛΗΤΙΣΜΟΥ ΚΑΙ ΝΕΑΣ ΓΕΝΙΑΣ"
         },
         "signers": {
-          "key": "100070246",
-          "value": "ΑΘΗΝΑ ΙΩΑΝΝΟΥ - Διοικητικός Διευθυντής"
+          "key": "100015828",
+          "value": "ΕΥΓΕΝΙΑ ΝΤΡΕ - Αναπληρωτης Προϊστάμενος Τμήματος"
         }
       },
-      "totalCostWithVAT": 12400.0,
-      "totalCostWithoutVAT": 10000.0,
+      "totalCostWithVAT": 1039.64,
+      "totalCostWithoutVAT": 838.42,
       "objectDetails": [
         {
           "quantity": 1,
           "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 10000,
+          "costWithoutVAT": 460,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΑΠΟΦΑΣΗ ΔΕΣΜΕΥΣΗΣ ΠΙΣΤΩΣΗΣ ΓΙΑ ΔΑΠΑΝΗ ΑΓΟΡΑΣ ΕΜΠΟΡΕΥΜΑΤΩΝ ΚΑΙ ΕΙΔΩΝ ΣΥΣΚΕΥΑΣΙΑΣ ΓΙΑ ΤΟ ΠΩΛΗΤΗΡΙΟ",
+          "shortDescription": "Υπηρεσία εργαστηρίου μάσκας, συμπεριλαμβανομένων όλων των υλικών χαρτοπολτό – γύψο & είδη ζωγραφικής, για 100 παιδιά.  ",
           "cpvs": [
             {
-              "key": "37524000-7",
-              "value": "Παιχνίδια"
-            },
-            {
-              "key": "22110000-4",
-              "value": "Τυπωμένα βιβλία"
-            },
-            {
-              "key": "39298500-2",
-              "value": "Διακοσμητικά είδη"
-            },
-            {
-              "key": "39221122-8",
-              "value": "Κούπες"
-            },
-            {
-              "key": "18930000-7",
-              "value": "Σάκοι και τσάντες"
-            },
-            {
-              "key": "30192700-8",
-              "value": "Γραφική ύλη"
+              "key": "92300000-4",
+              "value": "Υπηρεσίες ψυχαγωγικού περιεχομένου"
             }
           ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "37524000",
-        "22110000",
-        "39298500",
-        "39221122",
-        "18930000",
-        "30192700"
-      ],
-      "cpv_divisions": [
-        "37",
-        "22",
-        "39",
-        "18",
-        "30"
-      ],
-      "all_domains": [
-        "Sports, Toys & Recreation Goods",
-        "Printing & Publishing",
-        "Furniture & Cleaning Products",
-        "Clothing & PPE",
-        "Office & Computing (Non-Software)"
-      ],
-      "primary_domain": "Office & Computing (Non-Software)"
-    },
-    {
-      "title": "Πρωτογενές Αίτημα για την προμήθεια ειδών ζωγραφικής και δημιουργικής απασχόλησης στο ΚΗΤ",
-      "referenceNumber": "26REQ018473767",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T13:42:44.938",
-      "procurementDeliveryDate": "2026-02-23",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "ΚΗΤ48",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997825659",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "100090260",
-        "value": "ΕΤΑΙΡΕΙΑ ΝΕΥΡΟΕΠΙΣΤΗΜΩΝ ΚΑΙ ΑΠΟΚΑΤΑΣΤΑΣΗΣ ΕΝΑ"
-      },
-      "nutsCode": {
-        "key": "EL52",
-        "value": "Κεντρική Μακεδονία"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "Δ/Α",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100091191",
-          "value": "ΕΤΑΙΡΕΙΑ ΝΕΥΡΟΕΠΙΣΤΗΜΩΝ ΚΑΙ ΑΠΟΚΑΤΑΣΤΑΣΗΣ ΕΝΑ"
         },
-        "signers": {
-          "key": "100097683",
-          "value": "Κωνσταντίνος Φουντουλάκης - Μέλος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 8680.0,
-      "totalCostWithoutVAT": 7000.0,
-      "objectDetails": [
         {
           "quantity": 1,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 7000,
+          "costWithoutVAT": 52.42,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ ΜΕ ΘΕΜΑ: Πρωτογενές Αίτημα για την ανάθεση σύμβασης με αντικείμενο «Προμήθεια ειδών ζωγραφικής και δημιουργικής απασχόλησης για την υλοποίηση δραστηριοτήτων υποστήριξης των ωφελούμενων του Κέντρου Ημέρας Υποστήριξης Ψυχικής Υγείας μέσω Τέχνης, στην 4η ΥΠΕ, στην Περιφέρεια Κεντρικής Μακεδονίας».",
+          "shortDescription": "Ενοικίαση  εξοπλισμού ( πλαστικά καθίσματα 5 τεμ..- τραπέζια μπανκέ 4 τεμ.)",
           "cpvs": [
             {
-              "key": "44812000-5",
-              "value": "Χρώματα ζωγραφικής"
-            },
-            {
-              "key": "37800000-6",
-              "value": "Είδη χειροτεχνίας και καλλιτεχνίας"
-            },
-            {
-              "key": "37823500-8",
-              "value": "Χαρτί καλλιτεχνίας και χειροτεχνίας"
+              "key": "39300000-5",
+              "value": "Ποικίλος εξοπλισμός"
             }
           ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "44812000",
-        "37800000",
-        "37823500"
-      ],
-      "cpv_divisions": [
-        "44",
-        "37"
-      ],
-      "all_domains": [
-        "Construction Materials & Structures",
-        "Sports, Toys & Recreation Goods"
-      ],
-      "primary_domain": "Construction Materials & Structures"
-    },
-    {
-      "title": "Πρωτογενές Αίτημα για την προμήθεια ειδών ζωγραφικής και δημιουργικής απασχόλησης στο Οικοτροφείο Α8",
-      "referenceNumber": "26REQ018473727",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T13:40:06.955",
-      "procurementDeliveryDate": "2026-02-23",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "Α864",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997825659",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "100090260",
-        "value": "ΕΤΑΙΡΕΙΑ ΝΕΥΡΟΕΠΙΣΤΗΜΩΝ ΚΑΙ ΑΠΟΚΑΤΑΣΤΑΣΗΣ ΕΝΑ"
-      },
-      "nutsCode": {
-        "key": "EL52",
-        "value": "Κεντρική Μακεδονία"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "Δ/Α",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100091191",
-          "value": "ΕΤΑΙΡΕΙΑ ΝΕΥΡΟΕΠΙΣΤΗΜΩΝ ΚΑΙ ΑΠΟΚΑΤΑΣΤΑΣΗΣ ΕΝΑ"
         },
-        "signers": {
-          "key": "100097683",
-          "value": "Κωνσταντίνος Φουντουλάκης - Μέλος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 6200.0,
-      "totalCostWithoutVAT": 5000.0,
-      "objectDetails": [
         {
           "quantity": 1,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 5000,
+          "costWithoutVAT": 326,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ ΜΕ ΘΕΜΑ: Πρωτογενές Αίτημα για την ανάθεση σύμβασης με αντικείμενο «Προμήθεια ειδών ζωγραφικής και δημιουργικής απασχόλησης για την υλοποίηση δραστηριοτήτων υποστήριξης των ωφελούμενων του Οικοτροφείου (Α8) για άτομα (παιδιά ή έφηβοι, νέοι ενήλικες) με διαταραχές αυτιστικού τύπου και διεγερτική συμπεριφορά, στην Περιφέρεια Κεντρικής Μακεδονίας, 3η ΥΠΕ, Π.Ε. Θεσσαλονίκης».",
+          "shortDescription": "Προμήθεια υλικών για το εργαστήρι χαρταετού (χαρτόνι χαρταετού 100τεμ, σπάγκο καλούμπα 100τεμ, ψαλίδια μικρά 20τεμ. κόλλες 20τεμ) για 100 παιδιά",
           "cpvs": [
-            {
-              "key": "37823500-8",
-              "value": "Χαρτί καλλιτεχνίας και χειροτεχνίας"
-            },
-            {
-              "key": "44812000-5",
-              "value": "Χρώματα ζωγραφικής"
-            },
             {
               "key": "37800000-6",
               "value": "Είδη χειροτεχνίας και καλλιτεχνίας"
@@ -340,541 +125,82 @@
           ]
         }
       ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "3",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "mixedContract": true,
       "approvalRefNo": [],
-      "noticeRefNo": [],
+      "noticeRefNo": [
+        "26PROC018482508",
+        "26PROC018482506",
+        "26PROC018482502"
+      ],
       "contractRefNo": [],
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "37823500",
-        "44812000",
+        "92300000",
+        "39300000",
         "37800000"
       ],
       "cpv_divisions": [
-        "37",
-        "44"
-      ],
-      "all_domains": [
-        "Sports, Toys & Recreation Goods",
-        "Construction Materials & Structures"
-      ],
-      "primary_domain": "Construction Materials & Structures"
-    },
-    {
-      "title": "Πρωτογενές Αίτημα για την προμήθεια ειδών ζωγραφικής και δημιουργικής απασχόλησης στο Οικοτροφείο Α7",
-      "referenceNumber": "26REQ018473668",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T13:35:41.987",
-      "procurementDeliveryDate": "2026-02-23",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "Α743",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997825659",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "100090260",
-        "value": "ΕΤΑΙΡΕΙΑ ΝΕΥΡΟΕΠΙΣΤΗΜΩΝ ΚΑΙ ΑΠΟΚΑΤΑΣΤΑΣΗΣ ΕΝΑ"
-      },
-      "nutsCode": {
-        "key": "EL52",
-        "value": "Κεντρική Μακεδονία"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "Δ/Α",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100091191",
-          "value": "ΕΤΑΙΡΕΙΑ ΝΕΥΡΟΕΠΙΣΤΗΜΩΝ ΚΑΙ ΑΠΟΚΑΤΑΣΤΑΣΗΣ ΕΝΑ"
-        },
-        "signers": {
-          "key": "100097683",
-          "value": "Κωνσταντίνος Φουντουλάκης - Μέλος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 7440.0,
-      "totalCostWithoutVAT": 6000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 6000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ ΜΕ ΘΕΜΑ: Πρωτογενές Αίτημα για την ανάθεση σύμβασης με αντικείμενο «Προμήθεια ειδών ζωγραφικής και δημιουργικής απασχόλησης για την υλοποίηση δραστηριοτήτων υποστήριξης των ωφελούμενων του Οικοτροφείου (Α7) για άτομα με σοβαρές ψυχικές διαταραχές και διεγερτική συμπεριφορά, στην Περιφέρεια Κ. Μακεδονίας, στη 3η ΥΠΕ, στην Περιφερειακή Ενότητα Θεσσαλονίκης».",
-          "cpvs": [
-            {
-              "key": "37800000-6",
-              "value": "Είδη χειροτεχνίας και καλλιτεχνίας"
-            },
-            {
-              "key": "37823500-8",
-              "value": "Χαρτί καλλιτεχνίας και χειροτεχνίας"
-            },
-            {
-              "key": "44812000-5",
-              "value": "Χρώματα ζωγραφικής"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "37800000",
-        "37823500",
-        "44812000"
-      ],
-      "cpv_divisions": [
-        "37",
-        "44"
-      ],
-      "all_domains": [
-        "Sports, Toys & Recreation Goods",
-        "Construction Materials & Structures"
-      ],
-      "primary_domain": "Construction Materials & Structures"
-    },
-    {
-      "title": "Πρωτογενές Αίτημα για την προμήθεια ειδών ζωγραφικής και δημιουργικής απασχόλησης στο Οικοτροφείο Α3",
-      "referenceNumber": "26REQ018473624",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T13:31:24.501",
-      "procurementDeliveryDate": "2026-02-23",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "Α354",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997825659",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "100090260",
-        "value": "ΕΤΑΙΡΕΙΑ ΝΕΥΡΟΕΠΙΣΤΗΜΩΝ ΚΑΙ ΑΠΟΚΑΤΑΣΤΑΣΗΣ ΕΝΑ"
-      },
-      "nutsCode": {
-        "key": "EL52",
-        "value": "Κεντρική Μακεδονία"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "Δ/Α",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100091191",
-          "value": "ΕΤΑΙΡΕΙΑ ΝΕΥΡΟΕΠΙΣΤΗΜΩΝ ΚΑΙ ΑΠΟΚΑΤΑΣΤΑΣΗΣ ΕΝΑ"
-        },
-        "signers": {
-          "key": "100097683",
-          "value": "Κωνσταντίνος Φουντουλάκης - Μέλος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 6200.0,
-      "totalCostWithoutVAT": 5000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 5000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ ΜΕ ΘΕΜΑ: Πρωτογενές Αίτημα για την ανάθεση σύμβασης με αντικείμενο «Προμήθεια ειδών ζωγραφικής και δημιουργικής απασχόλησης για την υλοποίηση δραστηριοτήτων υποστήριξης των ωφελούμενων του Οικοτροφείου (Α3) για άτομα με οργανικά ψυχοσύνδρομα, νόσο Alzheimer και συναφείς διαταραχές, στην Περιφέρεια Κεντρικής Μακεδονίας, 3η ΥΠΕ Π.Ε. Θεσσαλονίκης». ",
-          "cpvs": [
-            {
-              "key": "44812000-5",
-              "value": "Χρώματα ζωγραφικής"
-            },
-            {
-              "key": "37800000-6",
-              "value": "Είδη χειροτεχνίας και καλλιτεχνίας"
-            },
-            {
-              "key": "37823500-8",
-              "value": "Χαρτί καλλιτεχνίας και χειροτεχνίας"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "44812000",
-        "37800000",
-        "37823500"
-      ],
-      "cpv_divisions": [
-        "44",
+        "92",
+        "39",
         "37"
       ],
       "all_domains": [
-        "Construction Materials & Structures",
+        "Recreation, Culture & Sports Services",
+        "Furniture & Cleaning Products",
         "Sports, Toys & Recreation Goods"
       ],
-      "primary_domain": "Construction Materials & Structures"
+      "primary_domain": "Furniture & Cleaning Products"
     },
     {
-      "title": "Α.Α.310 2026 ΠΡΟΜΗΘΕΙΑ ΑΝΑΛΩΣΙΜΩΝ ΥΛΙΚΩΝ ΜΕΛΑΝΙΩΝ & ΤΟΝΕΡ,ΓΡΑΦΙΚΗΣ ΥΛΗΣ ΕΙΔΩΝ ΧΕΙΡΟΤΕΧΝΙΑΣ,ΦΩΤΟΤΥΠ",
-      "referenceNumber": "26REQ018473487",
-      "previousRequestReferenceNumber": "25REQ016296763",
-      "signedDate": "2026-01-02",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T13:20:37.066",
-      "procurementDeliveryDate": "2026-12-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "310",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": "dperiouspromhth@fyli.gr",
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997675481",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6312",
-        "value": "ΔΗΜΟΣ ΦΥΛΗΣ"
-      },
-      "nutsCode": {
-        "key": "EL306",
-        "value": "Δυτική Αττική"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.Ε85005.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "89907",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "100047592",
-          "value": "ΠΑΝΤΕΛΗΣ ΒΑΜΒΟΥΚΑΣ - Διευθυντής"
-        }
-      },
-      "totalCostWithVAT": 38320.45,
-      "totalCostWithoutVAT": 30903.59,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 30903.59,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ 1) ΑΝΑΛΩΣΙΜΩΝ ΥΛΙΚΩΝ - ΜΕΛΑΝΙΩΝ & ΤΟΝΕΡ, 2) ΓΡΑΦΙΚΗΣ ΥΛΗΣ - ΕΙΔΩΝ ΧΕΙΡΟΤΕΧΝΙΑΣ, 3) ΦΩΤΟΤΥΠΙΚΟΥ ΧΑΡΤΙΟΥ ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΤΩΝ ΥΠΗΡΕΣΙΩΝ ΤΟΥ ΔΗΜΟΥ ΦΥΛΗΣ ",
-          "cpvs": [
-            {
-              "key": "37800000-6",
-              "value": "Είδη χειροτεχνίας και καλλιτεχνίας"
-            },
-            {
-              "key": "30125120-8",
-              "value": "Τόνερ για φωτοαντιγραφικές μηχανές"
-            },
-            {
-              "key": "30192700-8",
-              "value": "Γραφική ύλη"
-            },
-            {
-              "key": "30125110-5",
-              "value": "Τόνερ για εκτυπωτές λέιζερ/συσκευές τηλεομοιοτυπίας"
-            },
-            {
-              "key": "30197643-5",
-              "value": "Φωτοαντιγραφικό χαρτί"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "37800000",
-        "30125120",
-        "30192700",
-        "30125110",
-        "30197643"
-      ],
-      "cpv_divisions": [
-        "37",
-        "30"
-      ],
-      "all_domains": [
-        "Sports, Toys & Recreation Goods",
-        "Office & Computing (Non-Software)"
-      ],
-      "primary_domain": "Office & Computing (Non-Software)"
-    },
-    {
-      "title": "Α.Α.311 2026  ΠΡΟΜΗΘΕΙΑ ΑΝΑΛΩΣΙΜΩΝ ΥΛΙΚΩΝ ΜΕΛΑΝΙΩΝ ΤΟΝΕΡ, ΓΡΑΦΙΚΗΣ ΥΛΗΣ - ΕΙΔΩΝ ΧΕΙΡΟΤΕΧΝΙΑΣ,ΦΩΤΟΤΥΠ",
-      "referenceNumber": "26REQ018473438",
-      "previousRequestReferenceNumber": "25REQ016296763",
-      "signedDate": "2026-01-02",
-      "lastUpdateDate": "2025-02-19T00:00:00",
-      "submissionDate": "2026-02-12T13:16:55.155",
-      "procurementDeliveryDate": "2026-12-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "311",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": "dperiouspromhth@fyli.gr",
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997675481",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6312",
-        "value": "ΔΗΜΟΣ ΦΥΛΗΣ"
-      },
-      "nutsCode": {
-        "key": "EL306",
-        "value": "Δυτική Αττική"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.Ε85005.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "89907",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "100047592",
-          "value": "ΠΑΝΤΕΛΗΣ ΒΑΜΒΟΥΚΑΣ - Διευθυντής"
-        }
-      },
-      "totalCostWithVAT": 74539.76,
-      "totalCostWithoutVAT": 60112.71,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 60112.71,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ 1) ΑΝΑΛΩΣΙΜΩΝ ΥΛΙΚΩΝ - ΜΕΛΑΝΙΩΝ & ΤΟΝΕΡ, 2) ΓΡΑΦΙΚΗΣ ΥΛΗΣ - ΕΙΔΩΝ ΧΕΙΡΟΤΕΧΝΙΑΣ, 3) ΦΩΤΟΤΥΠΙΚΟΥ ΧΑΡΤΙΟΥ ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΤΩΝ ΥΠΗΡΕΣΙΩΝ ΤΟΥ ΔΗΜΟΥ ΦΥΛΗΣ ",
-          "cpvs": [
-            {
-              "key": "37800000-6",
-              "value": "Είδη χειροτεχνίας και καλλιτεχνίας"
-            },
-            {
-              "key": "30125120-8",
-              "value": "Τόνερ για φωτοαντιγραφικές μηχανές"
-            },
-            {
-              "key": "30197643-5",
-              "value": "Φωτοαντιγραφικό χαρτί"
-            },
-            {
-              "key": "30192700-8",
-              "value": "Γραφική ύλη"
-            },
-            {
-              "key": "30125110-5",
-              "value": "Τόνερ για εκτυπωτές λέιζερ/συσκευές τηλεομοιοτυπίας"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "37800000",
-        "30125120",
-        "30197643",
-        "30192700",
-        "30125110"
-      ],
-      "cpv_divisions": [
-        "37",
-        "30"
-      ],
-      "all_domains": [
-        "Sports, Toys & Recreation Goods",
-        "Office & Computing (Non-Software)"
-      ],
-      "primary_domain": "Office & Computing (Non-Software)"
-    },
-    {
-      "title": "ΑΓΟΡΑ ΕΜΠΟΡΕΥΜΑΤΩΝ ΚΑΙ ΕΙΔΩΝ ΣΥΣΚΕΥΑΣΙΑΣ ΓΙΑ ΤΟ ΠΩΛΗΤΗΡΙΟ",
-      "referenceNumber": "26REQ018473380",
+      "title": "ΔΑΠΑΝΕΣ ΔΙΕΞΑΓΩΓΗΣ ΕΚΔΗΛΩΣΗΣ ΕΡΓΑΣΤΗΡΙ ΚΑΤΑΣΚΕΥΗΣ ΧΑΡΤΑΕΤΟΥ & ΑΠΟΚΡΑΤΙΚΗΣ ΜΑΣΚΑΣ ΤΟ ΣΑΒΒΑΤΟ 21/02/20",
+      "referenceNumber": "26REQ018481499",
       "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T13:12:17.064",
-      "procurementDeliveryDate": "2026-02-19",
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T15:40:17.136",
+      "procurementDeliveryDate": "2026-02-21",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "588",
+      "protocolNumber": "2617",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "099456077",
+      "organizationVatNumber": "998762513",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": false,
       "organization": {
-        "key": "50025",
-        "value": "ΕΘΝΙΚΟ ΜΟΥΣΕΙΟ ΣΥΓΧΡΟΝΗΣ ΤΕΧΝΗΣ"
+        "key": "6190",
+        "value": "ΔΗΜΟΣ ΜΕΣΣΗΝΗΣ"
       },
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL653",
+        "value": "Λακωνία, Μεσσηνία"
       },
       "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
+        "key": "9",
+        "value": "ΝΠΔΔ"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
+        "key": "2",
+        "value": "ΟΤΑ"
       },
-      "aaht": "1022.E00358.0001",
+      "aaht": "1007.Ε84403.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -885,16 +211,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "100073935",
-          "value": "ΔΙΟΙΚΗΤΙΚΗ ΟΙΚΟΝΟΜΙΚΗ ΔΙΕΥΘΥΝΤΡΙΑ"
+          "key": "100015771",
+          "value": "ΤΜΗΜΑ ΠΟΛΙΤΙΣΜΟΥ, ΑΘΛΗΤΙΣΜΟΥ ΚΑΙ ΝΕΑΣ ΓΕΝΙΑΣ"
         },
         "signers": {
-          "key": "100070246",
-          "value": "ΑΘΗΝΑ ΙΩΑΝΝΟΥ - Διοικητικός Διευθυντής"
+          "key": "100015828",
+          "value": "ΕΥΓΕΝΙΑ ΝΤΡΕ - Αναπληρωτης Προϊστάμενος Τμήματος"
         }
       },
-      "totalCostWithVAT": 12400.0,
-      "totalCostWithoutVAT": 10000.0,
+      "totalCostWithVAT": 1039.64,
+      "totalCostWithoutVAT": 838.42,
       "objectDetails": [
         {
           "quantity": 1,
@@ -902,105 +228,125 @@
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 10000,
+          "costWithoutVAT": 326,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΑΙΤΗΜΑ ΔΕΣΜΕΥΣΗΣ ΠΙΣΤΩΣΗΣ ΓΙΑ ΔΑΠΑΝΗ ΑΓΟΡΑΣ ΕΜΠΟΡΕΥΜΑΤΩΝ ΚΑΙ ΕΙΔΩΝ ΣΥΣΚΕΥΑΣΙΑΣ ΓΙΑ ΤΟ ΠΩΛΗΤΗΡΙΟ",
+          "shortDescription": "Προμήθεια υλικών για το εργαστήρι χαρταετού (χαρτόνι χαρταετού 100τεμ, σπάγκο καλούμπα 100τεμ, ψαλίδια μικρά 20τεμ. κόλλες 20τεμ) για 100 παιδιά",
           "cpvs": [
             {
-              "key": "30192700-8",
-              "value": "Γραφική ύλη"
-            },
+              "key": "37800000-6",
+              "value": "Είδη χειροτεχνίας και καλλιτεχνίας"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 52.42,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ενοικίαση  εξοπλισμού ( πλαστικά καθίσματα 5 τεμ..- τραπέζια μπανκέ 4 τεμ.)",
+          "cpvs": [
             {
-              "key": "39221122-8",
-              "value": "Κούπες"
-            },
+              "key": "39300000-5",
+              "value": "Ποικίλος εξοπλισμός"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 460,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υπηρεσία εργαστηρίου μάσκας, συμπεριλαμβανομένων όλων των υλικών χαρτοπολτό – γύψο & είδη ζωγραφικής, για 100 παιδιά.  ",
+          "cpvs": [
             {
-              "key": "22110000-4",
-              "value": "Τυπωμένα βιβλία"
-            },
-            {
-              "key": "37524000-7",
-              "value": "Παιχνίδια"
-            },
-            {
-              "key": "18930000-7",
-              "value": "Σάκοι και τσάντες"
-            },
-            {
-              "key": "39298500-2",
-              "value": "Διακοσμητικά είδη"
+              "key": "92300000-4",
+              "value": "Υπηρεσίες ψυχαγωγικού περιεχομένου"
             }
           ]
         }
       ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "3",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "mixedContract": true,
       "approvalRefNo": [
-        "26REQ018474447"
+        "26REQ018481617"
       ],
       "noticeRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "30192700",
-        "39221122",
-        "22110000",
-        "37524000",
-        "18930000",
-        "39298500"
+        "37800000",
+        "39300000",
+        "92300000"
       ],
       "cpv_divisions": [
-        "30",
-        "39",
-        "22",
         "37",
-        "18"
+        "39",
+        "92"
       ],
       "all_domains": [
-        "Office & Computing (Non-Software)",
-        "Furniture & Cleaning Products",
-        "Printing & Publishing",
         "Sports, Toys & Recreation Goods",
-        "Clothing & PPE"
+        "Furniture & Cleaning Products",
+        "Recreation, Culture & Sports Services"
       ],
-      "primary_domain": "Office & Computing (Non-Software)"
+      "primary_domain": "Furniture & Cleaning Products"
     },
     {
-      "title": " αποκριάτικες δράσεις 2026",
-      "referenceNumber": "26REQ018473124",
-      "previousRequestReferenceNumber": "25REQ018197543",
-      "signedDate": "2026-02-05",
-      "lastUpdateDate": "2025-12-19T00:00:00",
-      "submissionDate": "2026-02-12T12:55:34.854",
-      "procurementDeliveryDate": "2026-02-12",
+      "title": "«Αίτηση έκδοσης απόφασης ανάληψης υποχρέωσης για την \"Υλοποίηση εκδηλώσεων και εορτασμού της Καθαράς",
+      "referenceNumber": "26REQ018481017",
+      "previousRequestReferenceNumber": "26REQ018467579",
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T14:38:12.528",
+      "procurementDeliveryDate": "2026-02-23",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "5045",
+      "protocolNumber": "5281",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997645384",
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997612469",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "6090",
-        "value": "ΔΗΜΟΣ ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ"
+        "key": "6257",
+        "value": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ"
       },
       "nutsCode": {
-        "key": "EL304",
-        "value": "Νότιος Τομέας Αθηνών"
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
       },
       "typeOfContractingAuthority": {
         "key": "9",
@@ -1010,7 +356,7 @@
         "key": "2",
         "value": "ΟΤΑ"
       },
-      "aaht": "1007.E84805.0001",
+      "aaht": "1007.Ε80712.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -1021,54 +367,34 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "81752",
-          "value": "Δ3: ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ"
+          "key": "80522",
+          "value": "ΔΗΜΑΡΧΟΣ"
         },
         "signers": {
-          "key": "100073857",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΣΤΕΦΑΣ - Αντιδήμαρχος"
+          "key": "100012824",
+          "value": "ΕΛΕΝΗ ΓΙΑΝΝΟΥΔΗ - Προεδρεύουσα"
         }
       },
-      "totalCostWithVAT": 45372.9,
-      "totalCostWithoutVAT": 36591.05,
+      "totalCostWithVAT": 15704.8,
+      "totalCostWithoutVAT": 13020.0,
       "objectDetails": [
         {
-          "quantity": 1,
+          "quantity": 1000,
           "type": {
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 7700,
-          "vat": "24",
+          "costWithoutVAT": 4000,
+          "vat": "13",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Κυριακή 15 Φεβρουαρίου 2026\nKαρναβαλική παρέλαση",
+          "shortDescription": "ΥΠΗΡΕΣΙΕΣ CATERING ΓΙΑ ΣΑΡΑΚΟΣΤΙΑΝΑ ΕΔΕΣΜΑΤΑ (τρόφιμα)",
           "cpvs": [
             {
-              "key": "92312100-2",
-              "value": "Ψυχαγωγικές υπηρεσίες θεατρικών παραγωγών"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 9500,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Κ. Δευτέρα 23 Φεβρουαρίου 2025.\nΚΟΥΛΟΥΜΑ - ΚΑΘΑΡΑΣ ΔΕΥΤΕΡΑΣ (Catering)",
-          "cpvs": [
-            {
-              "key": "39222000-4",
-              "value": "Υλικά τροφοδοσίας"
+              "key": "55520000-1",
+              "value": "Υπηρεσίες τροφοδοσίας"
             }
           ]
         },
@@ -1078,17 +404,57 @@
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 120,
+          "costWithoutVAT": 420,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Αναμνηστικές πλακέτες",
+          "shortDescription": "ΜΙΣΘΩΣΗ ΧΗΜΙΚΩΝ ΤΟΥΑΛΕΤΩΝ",
           "cpvs": [
             {
-              "key": "18512200-3",
-              "value": "Μετάλλια"
+              "key": "24955000-3",
+              "value": "Χημικές τουαλέτες"
+            }
+          ]
+        },
+        {
+          "quantity": 500,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΠΑΙΔΙΚΩΝ ΠΑΙΧΝΙΔΙΩΝ (ΧΑΡΤΑΕΤΟΙ)",
+          "cpvs": [
+            {
+              "key": "37000000-8",
+              "value": "Μουσικά όργανα"
+            }
+          ]
+        },
+        {
+          "quantity": 1000,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 600,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": " ΥΠΗΡΣΙΕΣ CATERING ΓΙΑ ΣΑΡΑΚΟΣΤΙΑΝΑ ΕΔΕΣΜΑΤΑ (ποτά)",
+          "cpvs": [
+            {
+              "key": "55520000-1",
+              "value": "Υπηρεσίες τροφοδοσίας"
             }
           ]
         },
@@ -1098,539 +464,86 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 1500,
+          "costWithoutVAT": 5500,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Κ. Δευτέρα 23 Φεβρουαρίου 2025.\nΗχητική κάλυψη Κούλουμα",
+          "shortDescription": "YΠΗΡΕΣΙΑ ΨΥΧΑΓΩΓΙΚΗΣ ΘΕΑΤΡΙΚΗΣ ΠΑΡΑΣΤΑΣΗΣ",
           "cpvs": [
             {
-              "key": "92370000-5",
-              "value": "Υπηρεσίες τεχνικών ήχου"
-            }
-          ]
-        },
-        {
-          "quantity": 10000,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 2400,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Έντυπα\nΑποκριάς 16σελιδο",
-          "cpvs": [
-            {
-              "key": "22140000-3",
-              "value": "Ενημερωτικά έντυπα"
-            }
-          ]
-        },
-        {
-          "quantity": 1165,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 771.05,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Αναλώσιμα Υλικά Προμήθεια υλικών του τμήματος εικαστικών για τις αποκριες",
-          "cpvs": [
-            {
-              "key": "37800000-6",
-              "value": "Είδη χειροτεχνίας και καλλιτεχνίας"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 10600,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Κυριακή 15 Φεβρουαρίου 2026\nΥλοποίηση συναυλίας Μπέσυ Αργυράκη και Λάκη Τζορντανέλι",
-          "cpvs": [
-            {
-              "key": "92312100-2",
-              "value": "Ψυχαγωγικές υπηρεσίες θεατρικών παραγωγών"
-            }
-          ]
-        },
-        {
-          "quantity": 10,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Πανό Αποκριάτικων εκδηλώσεων 4Χ1",
-          "cpvs": [
-            {
-              "key": "22462000-6",
-              "value": "Διαφημιστικό υλικό"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 3000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Πέμπτη 12 Φεβρουαρίου Πλ. Δημαρχείου Ζωντανή Ορχήστρα – για την αναβίωση της «Τζαμάλας»",
-          "cpvs": [
-            {
-              "key": "92312100-2",
+              "key": "92312110-5",
               "value": "Ψυχαγωγικές υπηρεσίες θεατρικών παραγωγών"
             }
           ]
         }
       ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "92312100",
-        "39222000",
-        "18512200",
-        "92370000",
-        "22140000",
-        "37800000",
-        "22462000"
-      ],
-      "cpv_divisions": [
-        "92",
-        "39",
-        "18",
-        "22",
-        "37"
-      ],
-      "all_domains": [
-        "Recreation, Culture & Sports Services",
-        "Furniture & Cleaning Products",
-        "Clothing & PPE",
-        "Printing & Publishing",
-        "Sports, Toys & Recreation Goods"
-      ],
-      "primary_domain": "Furniture & Cleaning Products"
-    },
-    {
-      "title": "Προμήθεια εξοπλισμού για την λειτουργική αναβάθμιση προαυλίων χώρων σχολείων του Δήμου Οινουσσών",
-      "referenceNumber": "26REQ018472933",
-      "previousRequestReferenceNumber": "24REQ015143632",
-      "signedDate": "2026-02-11",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T12:44:47.816",
-      "procurementDeliveryDate": "2026-12-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "504",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": "georgepaidas@0814.syzefxis.gov.gr",
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "090380572",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6223",
-        "value": "ΔΗΜΟΣ ΟΙΝΟΥΣΣΩΝ"
-      },
-      "nutsCode": {
-        "key": "EL413",
-        "value": "Χίος"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.E85702.0001",
-      "contractTypes": [
+      "additionalContractTypes": [
         {
-          "contractType": {
-            "key": "13",
+          "additionalContractType": {
+            "key": "2",
             "value": "Προμήθειες"
           }
         }
       ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "83649",
-          "value": "ΔΗΜΟΤΙΚΟ ΣΥΜΒΟΥΛΙΟ ΟΙΝΟΥΣΣΩΝ"
-        },
-        "signers": {
-          "key": "100048746",
-          "value": "ΓΕΩΡΓΙΟΣ ΔΑΝΙΗΛ - Δήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 40001.57,
-      "totalCostWithoutVAT": 32259.33,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 32259.33,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια εξοπλισμού για την λειτουργική αναβάθμιση προαυλίων χώρων σχολείων του Δήμου Οινουσσών",
-          "cpvs": [
-            {
-              "key": "24542000-5",
-              "value": "Ακρυλικά πολυμερή σε πρωτογενείς μορφές"
-            },
-            {
-              "key": "37400000-2",
-              "value": "Αθλητικά είδη και εξοπλισμός"
-            },
-            {
-              "key": "39113300-0",
-              "value": "Πάγκοι-καθίσματα"
-            },
-            {
-              "key": "34991000-0",
-              "value": "Φωτιστικά σώματα υπαίθριων χώρων"
-            },
-            {
-              "key": "03451000-6",
-              "value": "Φυτά"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
+      "mixedContract": true,
       "approvalRefNo": [],
-      "noticeRefNo": [],
+      "noticeRefNo": [
+        "26PROC018481834",
+        "26PROC018481818",
+        "26PROC018481791"
+      ],
       "contractRefNo": [],
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "24542000",
-        "37400000",
-        "39113300",
-        "34991000",
-        "03451000"
+        "55520000",
+        "24955000",
+        "37000000",
+        "92312110"
       ],
       "cpv_divisions": [
+        "55",
         "24",
         "37",
-        "39",
-        "34",
-        "03"
+        "92"
       ],
       "all_domains": [
+        "Hospitality, Retail & Catering Services",
         "Chemicals",
         "Sports, Toys & Recreation Goods",
-        "Furniture & Cleaning Products",
-        "Transport & Vehicles",
-        "Agriculture & Forestry"
+        "Recreation, Culture & Sports Services"
       ],
-      "primary_domain": "Transport & Vehicles"
+      "primary_domain": "Hospitality, Retail & Catering Services"
     },
     {
-      "title": "Προμήθεια εξοπλισμού για την λειτουργική αναβάθμιση προαυλίων χώρων σχολείων του Δήμου Οινουσσών",
-      "referenceNumber": "26REQ018472884",
-      "previousRequestReferenceNumber": "24REQ015143632",
-      "signedDate": "2026-02-11",
-      "lastUpdateDate": "2025-11-12T00:00:00",
-      "submissionDate": "2026-02-12T12:41:01.158",
-      "procurementDeliveryDate": "2026-12-31",
+      "title": "ΑΑΥ δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο ΔΤΜ",
+      "referenceNumber": "26REQ018480518",
+      "previousRequestReferenceNumber": "26REQ018479256",
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T14:03:21.869",
+      "procurementDeliveryDate": "2026-02-21",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "503",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": "georgepaidas@0814.syzefxis.gov.gr",
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "090380572",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6223",
-        "value": "ΔΗΜΟΣ ΟΙΝΟΥΣΣΩΝ"
-      },
-      "nutsCode": {
-        "key": "EL413",
-        "value": "Χίος"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.E85702.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "83649",
-          "value": "ΔΗΜΟΤΙΚΟ ΣΥΜΒΟΥΛΙΟ ΟΙΝΟΥΣΣΩΝ"
-        },
-        "signers": {
-          "key": "100048746",
-          "value": "ΓΕΩΡΓΙΟΣ ΔΑΝΙΗΛ - Δήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 160006.28,
-      "totalCostWithoutVAT": 129037.32,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 129037.32,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια εξοπλισμού για την λειτουργική αναβάθμιση προαυλίων χώρων σχολείων του Δήμου Οινουσσών",
-          "cpvs": [
-            {
-              "key": "37400000-2",
-              "value": "Αθλητικά είδη και εξοπλισμός"
-            },
-            {
-              "key": "24542000-5",
-              "value": "Ακρυλικά πολυμερή σε πρωτογενείς μορφές"
-            },
-            {
-              "key": "39113300-0",
-              "value": "Πάγκοι-καθίσματα"
-            },
-            {
-              "key": "34991000-0",
-              "value": "Φωτιστικά σώματα υπαίθριων χώρων"
-            },
-            {
-              "key": "03451000-6",
-              "value": "Φυτά"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "37400000",
-        "24542000",
-        "39113300",
-        "34991000",
-        "03451000"
-      ],
-      "cpv_divisions": [
-        "37",
-        "24",
-        "39",
-        "34",
-        "03"
-      ],
-      "all_domains": [
-        "Sports, Toys & Recreation Goods",
-        "Chemicals",
-        "Furniture & Cleaning Products",
-        "Transport & Vehicles",
-        "Agriculture & Forestry"
-      ],
-      "primary_domain": "Transport & Vehicles"
-    },
-    {
-      "title": "Προμήθεια  υλικών χειροτεχνίας και καλλιτεχνίας του Ενιαίου Ειδικού Επαγγελματικού Γυμνασίου -Λυκείο",
-      "referenceNumber": "26REQ018472627",
-      "previousRequestReferenceNumber": "26REQ018463144",
-      "signedDate": "2026-02-11",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T12:27:00.435",
-      "procurementDeliveryDate": "2026-02-18",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "3917",
+      "protocolNumber": "724",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "998225756",
+      "organizationVatNumber": "998257963",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "6291",
-        "value": "ΔΗΜΟΣ ΣΥΡΟΥ - ΕΡΜΟΥΠΟΛΗΣ"
-      },
-      "nutsCode": {
-        "key": "EL422",
-        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.E85801.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100039311",
-          "value": "ΑΥΤΟΤΕΛΕΣ ΤΜΗΜΑ ΥΠΟΣΤΗΡΙΞΗΣ ΝΠΔΔ"
-        },
-        "signers": {
-          "key": "100084092",
-          "value": "ΔΗΜΗΤΡΙΟΣ ΚΟΣΜΑΣ - Αντιδήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 226.36,
-      "totalCostWithoutVAT": 182.55,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 182.55,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια  υλικών χειροτεχνίας και καλλιτεχνίας του Ενιαίου Ειδικού Επαγγελματικού Γυμνασίου -Λυκείου Σύρου της Δευτεροβάθμιας Εκπαίδευσης",
-          "cpvs": [
-            {
-              "key": "37800000-6",
-              "value": "Είδη χειροτεχνίας και καλλιτεχνίας"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "37800000"
-      ],
-      "cpv_divisions": [
-        "37"
-      ],
-      "all_domains": [
-        "Sports, Toys & Recreation Goods"
-      ],
-      "primary_domain": "Sports, Toys & Recreation Goods"
-    },
-    {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΚΑΙ ΤΟΠΟΘΕΤΗΣΗ ΕΞΟΠΛΙΣΜΟΥ ΓΙΑ ΤΗΝ ΚΑΤΑΣΚΕΥΗ ΝΕΑΣ ΠΑΙΔΙΚΗΣ ΧΑΡΑΣ ΣΤΗΝ ΠΛΑΖ-ΠΡΟΒΛΗΤΑ ΤΟΥ ΔΗΜ",
-      "referenceNumber": "26REQ018472276",
-      "previousRequestReferenceNumber": "25REQ018251560",
-      "signedDate": "2025-12-23",
-      "lastUpdateDate": "2025-12-30T00:00:00",
-      "submissionDate": "2026-02-12T12:10:08.313",
-      "procurementDeliveryDate": "2026-12-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "33868",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "099077446",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6246",
-        "value": "ΔΗΜΟΣ ΠΕΡΑΜΑΤΟΣ"
+        "key": "6301",
+        "value": "ΔΗΜΟΣ ΤΡΟΙΖΗΝΙΑΣ - ΜΕΘΑΝΩΝ"
       },
       "nutsCode": {
         "key": "EL307",
@@ -1644,125 +557,101 @@
         "key": "2",
         "value": "ΟΤΑ"
       },
-      "aaht": "1007.Ε85105.0001",
+      "aaht": "1007.e85208.0001",
       "contractTypes": [
         {
           "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
+            "key": "9",
+            "value": "Υπηρεσίες"
           }
         }
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "100086684",
-          "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΤΡΟΠΗ"
+          "key": "10727",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
         },
         "signers": {
-          "key": "100084267",
-          "value": "ΙΩΑΝΝΗΣ ΛΑΓΟΥΔΑΚΟΣ - Δήμαρχος"
+          "key": "100000215",
+          "value": "ΑΔΑΜΑΝΤΙΑ ΣΙΑΓΚΡΗ - Προϊστάμενος Τμήματος"
         }
       },
-      "totalCostWithVAT": 449000.16,
-      "totalCostWithoutVAT": 363444.76,
+      "totalCostWithVAT": 17980.01,
+      "totalCostWithoutVAT": 14564.85,
       "objectDetails": [
         {
-          "quantity": 244,
+          "quantity": 1,
           "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 100996,
+          "costWithoutVAT": 9895.84,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΑΣΤΙΚΟΣ ΕΞΟΠΛΙΣΜΟΣ",
+          "shortDescription": "ΑΑΥ δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων.",
           "cpvs": [
             {
-              "key": "34928400-2",
-              "value": "Αστικός εξοπλισμός"
+              "key": "92312110-5",
+              "value": "Ψυχαγωγικές υπηρεσίες θεατρικών παραγωγών"
+            },
+            {
+              "key": "79952000-2",
+              "value": "Υπηρεσίες εκδηλώσεων"
+            },
+            {
+              "key": "51313000-9",
+              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
+            },
+            {
+              "key": "92370000-5",
+              "value": "Υπηρεσίες τεχνικών ήχου"
+            },
+            {
+              "key": "45422100-2",
+              "value": "Ξυλουργικές εργασίες"
             }
           ]
         },
         {
-          "quantity": 384,
+          "quantity": 1,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 164070,
+          "costWithoutVAT": 2007.44,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΕΞΟΠΛΙΣΜΟΣ ΠΑΙΔΙΚΗΣ ΧΑΡΑΣ",
+          "shortDescription": "ΑΑΥ δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων",
           "cpvs": [
             {
-              "key": "37535200-9",
-              "value": "Εξοπλισμός παιδικής χαράς"
-            }
-          ]
-        },
-        {
-          "quantity": 791,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 2469.76,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΕΞΟΠΛΙΣΜΟΣ ΑΡΔΕΥΣΗΣ",
-          "cpvs": [
+              "key": "22100000-1",
+              "value": "Τυπωμένα βιβλία"
+            },
             {
-              "key": "43323000-3",
-              "value": "Εξοπλισμός άρδευσης"
-            }
-          ]
-        },
-        {
-          "quantity": 301,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 4515,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΧΩΜΑ",
-          "cpvs": [
+              "key": "33772000-2",
+              "value": "Χάρτινα είδη μιας χρήσης"
+            },
             {
-              "key": "14212400-4",
-              "value": "Χώμα"
-            }
-          ]
-        },
-        {
-          "quantity": 394,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 15194,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΦΥΤΑ",
-          "cpvs": [
+              "key": "37810000-9",
+              "value": "Είδη χειροτεχνίας"
+            },
             {
-              "key": "03451000-6",
-              "value": "Φυτά"
+              "key": "37312500-3",
+              "value": "Σφυρίχτρες"
+            },
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            },
+            {
+              "key": "15110000-2",
+              "value": "Κρέας"
             }
           ]
         },
@@ -1772,17 +661,281 @@
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 76200,
+          "costWithoutVAT": 730.97,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΑΥ δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων.",
+          "cpvs": [
+            {
+              "key": "55300000-3",
+              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
+            },
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            }
+          ]
+        },
+        {
+          "quantity": 75,
+          "type": {
+            "key": "MTR",
+            "value": "m"
+          },
+          "costWithoutVAT": 393.15,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΦΩΤΙΣΤΙΚΑ",
+          "shortDescription": "ΑΑΥ δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων",
           "cpvs": [
             {
-              "key": "31527200-8",
-              "value": "Φωτιστικά εξωτερικών χώρων"
+              "key": "19260000-6",
+              "value": "Ύφασμα"
+            }
+          ]
+        },
+        {
+          "quantity": 38,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1537.45,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΑΥ δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων.",
+          "cpvs": [
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            },
+            {
+              "key": "03419000-0",
+              "value": "Ξυλεία"
+            },
+            {
+              "key": "18300000-2",
+              "value": "Ενδύματα"
+            },
+            {
+              "key": "18530000-3",
+              "value": "Δώρα και βραβεία"
+            },
+            {
+              "key": "22100000-1",
+              "value": "Τυπωμένα βιβλία"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [
+        "26PROC018481218"
+      ],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "92312110",
+        "79952000",
+        "51313000",
+        "92370000",
+        "45422100",
+        "22100000",
+        "33772000",
+        "37810000",
+        "37312500",
+        "15000000",
+        "15110000",
+        "55300000",
+        "19260000",
+        "03419000",
+        "18300000",
+        "18530000"
+      ],
+      "cpv_divisions": [
+        "92",
+        "79",
+        "51",
+        "45",
+        "22",
+        "33",
+        "37",
+        "15",
+        "55",
+        "19",
+        "03",
+        "18"
+      ],
+      "all_domains": [
+        "Recreation, Culture & Sports Services",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Installation Services (Non-Software)",
+        "Construction & Works",
+        "Printing & Publishing",
+        "Medical & Pharma",
+        "Sports, Toys & Recreation Goods",
+        "Food & Catering",
+        "Hospitality, Retail & Catering Services",
+        "Textiles, Plastics & Rubber",
+        "Agriculture & Forestry",
+        "Clothing & PPE"
+      ],
+      "primary_domain": "Construction & Works"
+    },
+    {
+      "title": "Δημιουργία υποδομών για την πρόληψη δημιουργίας αποβλήτων στο Δήμο Μυτιλήνης (Πράσινα Σημεία, Γωνίες",
+      "referenceNumber": "26REQ018480210",
+      "previousRequestReferenceNumber": "25REQ016537591",
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": "2025-10-03T00:00:00",
+      "submissionDate": "2026-02-13T13:44:11.491",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "4053",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": "anatoliti@mytilene.gr",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997817113",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "100049029",
+        "value": "ΔΗΜΟΣ ΜΥΤΙΛΗΝΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL411",
+        "value": "Λέσβος, Λήμνος"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E87416.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100049285",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100085421",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΚΑΡΕΚΟΣ - Αντιδήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 751674.8,
+      "totalCostWithoutVAT": 751674.8,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "Erg",
+            "value": "Έργο"
+          },
+          "costWithoutVAT": 751674.8,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ο Δήμος Μυτιλήνης με την προτεινόμενη πράξη (ΠΣ & ΓΑ) στοχεύει στη σταδιακή προσέγγιση μίας πιο βιώσιμης διαχείρισης των στερεών αποβλήτων, έτσι ώστε να πραγματοποιηθούν οι αλλαγές που απαιτούνται για την επίτευξη των στόχων της Ευρωπαϊκής όσο και της Ελληνικής Νομοθεσίας, όπου στον πυρήνα της ορθής διαχείρισης των αποβλήτων βρίσκεται η απαίτηση της μείωσης της ποσότητας των παραγόμενων αποβλήτων",
+          "cpvs": [
+            {
+              "key": "42415110-2",
+              "value": "Περονοφόρα ανυψωτικά οχήματα"
+            },
+            {
+              "key": "45222110-3",
+              "value": "Κατασκευαστικές εργασίες για χώρους απόθεσης απορριμμάτων"
+            },
+            {
+              "key": "37520000-9",
+              "value": "Παιδικά παιχνίδια"
+            },
+            {
+              "key": "44613700-7",
+              "value": "Απορριμματοφόροι κάδοι"
+            },
+            {
+              "key": "39522100-8",
+              "value": "Μουσαμάδες"
+            },
+            {
+              "key": "34144512-0",
+              "value": "Απορριμματοφόρα οχήματα με συμπιεστή απορριμμάτων"
+            },
+            {
+              "key": "34144000-8",
+              "value": "Αυτοκίνητα οχήματα ειδικής χρήσης"
+            },
+            {
+              "key": "33195100-4",
+              "value": "Συστήματα παρακολούθησης"
+            },
+            {
+              "key": "71351914-3",
+              "value": "Αρχαιολογικές υπηρεσίες"
+            },
+            {
+              "key": "44613700-7",
+              "value": "Απορριμματοφόροι κάδοι"
+            },
+            {
+              "key": "30230000-0",
+              "value": "Εξοπλισμός ηλεκτρονικών υπολογιστών"
+            },
+            {
+              "key": "42636000-3",
+              "value": "Πρέσες"
+            },
+            {
+              "key": "42716110-2",
+              "value": "Εξοπλισμός πλυσίματος"
+            },
+            {
+              "key": "34928480-6",
+              "value": "Δοχεία και κάδοι απορριμμάτων"
+            },
+            {
+              "key": "22462000-6",
+              "value": "Διαφημιστικό υλικό"
+            },
+            {
+              "key": "34144750-0",
+              "value": "Οχήματα μεταφοράς φορτίων"
+            },
+            {
+              "key": "34928480-6",
+              "value": "Δοχεία και κάδοι απορριμμάτων"
             }
           ]
         }
@@ -1795,38 +948,1041 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "34928400",
-        "37535200",
-        "43323000",
-        "14212400",
-        "03451000",
-        "31527200"
+        "42415110",
+        "45222110",
+        "37520000",
+        "44613700",
+        "39522100",
+        "34144512",
+        "34144000",
+        "33195100",
+        "71351914",
+        "30230000",
+        "42636000",
+        "42716110",
+        "34928480",
+        "22462000",
+        "34144750"
       ],
       "cpv_divisions": [
-        "34",
+        "42",
+        "45",
         "37",
-        "43",
-        "14",
-        "03",
-        "31"
+        "44",
+        "39",
+        "34",
+        "33",
+        "71",
+        "30",
+        "22"
       ],
       "all_domains": [
-        "Transport & Vehicles",
+        "Industrial Machinery",
+        "Construction & Works",
         "Sports, Toys & Recreation Goods",
-        "Construction & Quarrying Machinery",
-        "Metals & Mining",
-        "Agriculture & Forestry",
-        "Electrical Equipment & Lighting"
+        "Construction Materials & Structures",
+        "Furniture & Cleaning Products",
+        "Transport & Vehicles",
+        "Medical & Pharma",
+        "Architecture, Engineering & Inspection",
+        "Office & Computing (Non-Software)",
+        "Printing & Publishing"
       ],
-      "primary_domain": "Construction & Quarrying Machinery"
+      "primary_domain": "Construction & Works"
+    },
+    {
+      "title": "ΠΡΟΜΗΘΕΙΑ ΕΞΟΠΛΙΣΜΟΥ ΣΥΛΛΟΓΗΣ ΖΩΙΚΩΝ ΑΠΟΡΡΙΜΜΑΤΩΝ",
+      "referenceNumber": "26REQ018479612",
+      "previousRequestReferenceNumber": "25REQ017938098",
+      "signedDate": "2025-11-04",
+      "lastUpdateDate": "2025-11-18T00:00:00",
+      "submissionDate": "2026-02-13T13:08:34.435",
+      "procurementDeliveryDate": "2026-02-28",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "22426",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997564129",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6197",
+        "value": "ΔΗΜΟΣ ΜΟΣΧΑΤΟΥ - ΤΑΥΡΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL304",
+        "value": "Νότιος Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε84806.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "78715",
+          "value": "Δ/ΝΣΗ ΚΥΚΛΙΚΗΣ ΟΙΚΟΝΟΜΙΑΣ, ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΑΝΑΚΥΚΛΩΣΗΣ"
+        },
+        "signers": {
+          "key": "109454",
+          "value": "ΑΝΔΡΕΑΣ ΕΥΘΥΜΙΟΥ - Δήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 4947.6,
+      "totalCostWithoutVAT": 3990.0,
+      "objectDetails": [
+        {
+          "quantity": 21000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 3990,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΕΞΟΠΛΙΣΜΟΥ ΣΥΛΛΟΓΗΣ ΖΩΙΚΩΝ ΑΠΟΡΡΙΜΜΑΤΩΝ",
+          "cpvs": [
+            {
+              "key": "37823800-1",
+              "value": "Πολύπτυχο χαρτί και χαρτόνι"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "37823800"
+      ],
+      "cpv_divisions": [
+        "37"
+      ],
+      "all_domains": [
+        "Sports, Toys & Recreation Goods"
+      ],
+      "primary_domain": "Sports, Toys & Recreation Goods"
+    },
+    {
+      "title": "Πρωτογενές δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο ΔΤΜ",
+      "referenceNumber": "26REQ018479256",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T12:48:15.192",
+      "procurementDeliveryDate": "2026-02-21",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "724",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "998257963",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6301",
+        "value": "ΔΗΜΟΣ ΤΡΟΙΖΗΝΙΑΣ - ΜΕΘΑΝΩΝ"
+      },
+      "nutsCode": {
+        "key": "EL307",
+        "value": "Πειραιάς, Νήσοι"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.e85208.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "10727",
+          "value": "ΟΙΚΟΝΟΜΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        "signers": {
+          "key": "100000215",
+          "value": "ΑΔΑΜΑΝΤΙΑ ΣΙΑΓΚΡΗ - Προϊστάμενος Τμήματος"
+        }
+      },
+      "totalCostWithVAT": 17980.01,
+      "totalCostWithoutVAT": 14564.85,
+      "objectDetails": [
+        {
+          "quantity": 38,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1537.45,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πρωτογενές δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων.",
+          "cpvs": [
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            },
+            {
+              "key": "03419000-0",
+              "value": "Ξυλεία"
+            },
+            {
+              "key": "18530000-3",
+              "value": "Δώρα και βραβεία"
+            },
+            {
+              "key": "18300000-2",
+              "value": "Ενδύματα"
+            },
+            {
+              "key": "22100000-1",
+              "value": "Τυπωμένα βιβλία"
+            }
+          ]
+        },
+        {
+          "quantity": 48,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 730.97,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πρωτογενές δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων.",
+          "cpvs": [
+            {
+              "key": "55300000-3",
+              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
+            },
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            }
+          ]
+        },
+        {
+          "quantity": 75,
+          "type": {
+            "key": "MTR",
+            "value": "m"
+          },
+          "costWithoutVAT": 393.15,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πρωτογενές δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων",
+          "cpvs": [
+            {
+              "key": "19260000-6",
+              "value": "Ύφασμα"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2007.44,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πρωτογενές δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων",
+          "cpvs": [
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            },
+            {
+              "key": "22100000-1",
+              "value": "Τυπωμένα βιβλία"
+            },
+            {
+              "key": "33772000-2",
+              "value": "Χάρτινα είδη μιας χρήσης"
+            },
+            {
+              "key": "37810000-9",
+              "value": "Είδη χειροτεχνίας"
+            },
+            {
+              "key": "15110000-2",
+              "value": "Κρέας"
+            },
+            {
+              "key": "37312500-3",
+              "value": "Σφυρίχτρες"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 9895.84,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πρωτογενές δαπανών στο πλαίσιο των πολιτιστικών εκδηλώσεων για τον εορτασμό των Αποκριών στο Δήμο Τροιζηνίας Μεθάνων.",
+          "cpvs": [
+            {
+              "key": "92312110-5",
+              "value": "Ψυχαγωγικές υπηρεσίες θεατρικών παραγωγών"
+            },
+            {
+              "key": "51313000-9",
+              "value": "Υπηρεσίες εγκατάστασης εξοπλισμού ήχου"
+            },
+            {
+              "key": "79952000-2",
+              "value": "Υπηρεσίες εκδηλώσεων"
+            },
+            {
+              "key": "45422100-2",
+              "value": "Ξυλουργικές εργασίες"
+            },
+            {
+              "key": "92370000-5",
+              "value": "Υπηρεσίες τεχνικών ήχου"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018480518"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "15000000",
+        "03419000",
+        "18530000",
+        "18300000",
+        "22100000",
+        "55300000",
+        "19260000",
+        "33772000",
+        "37810000",
+        "15110000",
+        "37312500",
+        "92312110",
+        "51313000",
+        "79952000",
+        "45422100",
+        "92370000"
+      ],
+      "cpv_divisions": [
+        "15",
+        "03",
+        "18",
+        "22",
+        "55",
+        "19",
+        "33",
+        "37",
+        "92",
+        "51",
+        "79",
+        "45"
+      ],
+      "all_domains": [
+        "Food & Catering",
+        "Agriculture & Forestry",
+        "Clothing & PPE",
+        "Printing & Publishing",
+        "Hospitality, Retail & Catering Services",
+        "Textiles, Plastics & Rubber",
+        "Medical & Pharma",
+        "Sports, Toys & Recreation Goods",
+        "Recreation, Culture & Sports Services",
+        "Installation Services (Non-Software)",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Construction & Works"
+      ],
+      "primary_domain": "Construction & Works"
+    },
+    {
+      "title": "Προμήθεια αθλητικού υλικού για τις Σχολικές Μονάδες Β/θμίας Εκπαίδευσης του Δήμου Τήνου",
+      "referenceNumber": "26REQ018479215",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T12:45:38.822",
+      "procurementDeliveryDate": "2026-02-27",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "2918",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "800302968",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6296",
+        "value": "ΔΗΜΟΣ ΤΗΝΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL422",
+        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε87001.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "91743",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "134819",
+          "value": "ΙΟΥΛΙΑ ΔΕΛΛΑΤΟΛΑ - Προϊστάμενος Διεύθυνσης"
+        }
+      },
+      "totalCostWithVAT": 577.84,
+      "totalCostWithoutVAT": 466.0,
+      "objectDetails": [
+        {
+          "quantity": 13,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 291,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΟΜΑΔΑ Α΄/ ΑΘΛΗΤΙΚΟ ΥΛΙΚΟ ΓΙΑ ΤΟ ΓΕΝΙΚΟ ΛΥΚΕΙΟ ΤΗΝΟΥ",
+          "cpvs": [
+            {
+              "key": "37415000-0",
+              "value": "Αθλητικός εξοπλισμός"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 175,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΟΜΑΔΑ Β΄/ ΑΘΛΗΤΙΚΟ ΥΛΙΚΟ ΓΙΑ ΤΟ ΕΠΑΛ ΤΗΝΟΥ",
+          "cpvs": [
+            {
+              "key": "37415000-0",
+              "value": "Αθλητικός εξοπλισμός"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "37415000"
+      ],
+      "cpv_divisions": [
+        "37"
+      ],
+      "all_domains": [
+        "Sports, Toys & Recreation Goods"
+      ],
+      "primary_domain": "Sports, Toys & Recreation Goods"
+    },
+    {
+      "title": "ΔΙΟΡΓΑΝΩΣΗ ΤΩΝ ΕΟΡΤΑΣΤΙΚΩΝ ΕΚΔΗΛΩΣΕΣΩΝ  ΑΠΟΚΡΕΩ-ΚΟΥΛΟΥΜΑ ΔΗΜΟΥ ΚΑΡΔΙΤΣΑΣ 2026",
+      "referenceNumber": "26REQ018478513",
+      "previousRequestReferenceNumber": "26REQ018462991",
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T12:02:47.807",
+      "procurementDeliveryDate": "2026-02-18",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "4576/2026",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997648454",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6135",
+        "value": "ΔΗΜΟΣ ΚΑΡΔΙΤΣΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL611",
+        "value": "Καρδίτσα, Τρίκαλα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε82301.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "12",
+            "value": "Μελέτες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100072821",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΠΟΛΙΤΙΣΜΟΥ, ΠΑΙΔΕΙΑΣ ΚΑΙ ΑΘΛΗΤΙΣΜΟΥ"
+        },
+        "signers": {
+          "key": "100068245",
+          "value": "Στέφανος Θεολόγης - Αντιδήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 14999.98,
+      "totalCostWithoutVAT": 12190.96,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "AG-001",
+            "value": "Μελέτη"
+          },
+          "costWithoutVAT": 9677.41,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΕΚΔΗΛΩΣΕΩΝ",
+          "cpvs": [
+            {
+              "key": "79952000-2",
+              "value": "Υπηρεσίες εκδηλώσεων"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "AG-001",
+            "value": "Μελέτη"
+          },
+          "costWithoutVAT": 645.16,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΥΠΗΡΕΣΙΕΣ ΔΙΑΦΗΜΙΣΗΣ ΚΑΙ ΠΡΟΒΟΛΗ",
+          "cpvs": [
+            {
+              "key": "79340000-9",
+              "value": "Υπηρεσίες διαφήμισης και μάρκετινγκ"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "AG-001",
+            "value": "Μελέτη"
+          },
+          "costWithoutVAT": 1061.94,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΙΔΗ ΠΑΝΤΟΠΩΛΕΙΟΥ",
+          "cpvs": [
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            },
+            {
+              "key": "15800000-6",
+              "value": "Διάφορα προϊόντα διατροφής"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "AG-001",
+            "value": "Μελέτη"
+          },
+          "costWithoutVAT": 806.45,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΓΡΑΦΙΚΑ -ΚΑΤΑΣΚΕΥΑΣΤΙΚΑ",
+          "cpvs": [
+            {
+              "key": "37000000-8",
+              "value": "Μουσικά όργανα"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "79952000",
+        "79340000",
+        "15800000",
+        "37000000"
+      ],
+      "cpv_divisions": [
+        "79",
+        "15",
+        "37"
+      ],
+      "all_domains": [
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Food & Catering",
+        "Sports, Toys & Recreation Goods"
+      ],
+      "primary_domain": "Food & Catering"
+    },
+    {
+      "title": "ΕΓΚ.ΑΙΤ_Προμήθ, μεταφορά, συναρμογή & πλήρης τοποθέτ Παρατηρητ, Στεγάστρ & υποδομών ήπιας αναψ_ΜΔ24",
+      "referenceNumber": "26REQ018477938",
+      "previousRequestReferenceNumber": "25REQ018035399",
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T11:29:38.637",
+      "procurementDeliveryDate": "2026-06-30",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "4272",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "099965892",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "100061036",
+        "value": "ΟΡΓΑΝΙΣΜΟΣ ΦΥΣΙΚΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΚΛΙΜΑΤΙΚΗΣ ΑΛΛΑΓΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1031.E00768.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100069850",
+          "value": "ΤΜΗΜΑ ΟΙΚΟΝΟΜΙΚΗΣ ΔΙΑΧΕΙΡΙΣΗΣ"
+        },
+        "signers": {
+          "key": "100061863",
+          "value": "Κωνσταντίνος Τριάντης - Διευθύνων Σύμβουλος"
+        }
+      },
+      "totalCostWithVAT": 34720.0,
+      "totalCostWithoutVAT": 28000.0,
+      "objectDetails": [
+        {
+          "quantity": 13,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 28000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια, μεταφορά, συναρμογή και πλήρης τοποθέτηση τριών (3) νέων Παρατηρητηρίων ορνιθοπανίδας, ενός (1) ξύλινου στεγάστρου (κιόσκι) και υποδομών ήπιας αναψυχής στην (ΕΖΔ) – «Λιμνοθάλασσα Μουστού» (κωδικός: GR 2520003)”, της ΜΔΠΠ Νότιας Πελοποννήσου του Ο.ΦΥ.ΠΕ.Κ.Α” στο πλαίσιο της βελτίωσης των υποδομών της Προστατευόμενης Περιοχής ",
+          "cpvs": [
+            {
+              "key": "03419100-1",
+              "value": "Προϊόντα ξυλείας"
+            },
+            {
+              "key": "37416000-7",
+              "value": "Εξοπλισμός αναψυχής"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "3",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "mixedContract": true,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "03419100",
+        "37416000"
+      ],
+      "cpv_divisions": [
+        "03",
+        "37"
+      ],
+      "all_domains": [
+        "Agriculture & Forestry",
+        "Sports, Toys & Recreation Goods"
+      ],
+      "primary_domain": "Agriculture & Forestry"
+    },
+    {
+      "title": "Α.A.2026 ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΚΑΙ ΕΞΟΠΛΙΣΜΟΥ ΓΙΑ ΤΟΝ ΕΚΣΥΓΧΡΟΝΙΣΜΟ, ΤΗΝ ΑΠΟΚΑΤΑΣΤΑΣΗ ΦΘΟΡΩΝ ΣΧΟΛΕΙΩΝ",
+      "referenceNumber": "26REQ018477919",
+      "previousRequestReferenceNumber": "23REQ013751750",
+      "signedDate": "2026-01-02",
+      "lastUpdateDate": "2025-10-14T00:00:00",
+      "submissionDate": "2026-02-13T11:28:34.399",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "294",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": "dperiouspromhth@fyli.gr",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997675481",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6312",
+        "value": "ΔΗΜΟΣ ΦΥΛΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL306",
+        "value": "Δυτική Αττική"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε85005.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "89907",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100047592",
+          "value": "ΠΑΝΤΕΛΗΣ ΒΑΜΒΟΥΚΑΣ - Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 414431.37,
+      "totalCostWithoutVAT": 334218.85,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "AG-001",
+            "value": "Μελέτη"
+          },
+          "costWithoutVAT": 334218.85,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "«ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΚΑΙ ΕΞΟΠΛΙΣΜΟΥ ΓΙΑ ΤΟΝ ΕΚΣΥΓΧΡΟΝΙΣΜΟ, ΤΗΝ ΑΠΟΚΑΤΑΣΤΑΣΗ ΦΘΟΡΩΝ ΚΑΙ ΤΗ ΛΕΙΤΟΥΡΓΙΚΗ ΑΝΑΒΑΘΜΙΣΗ ΤΩΝ ΠΡΟΑΥΛΙΩΝ ΧΩΡΩΝ ΤΟΥ ΣΥΝΟΛΟΥ ΤΩΝ ΣΧΟΛΕΙΩΝ ΤΟΥ ΔΗΜΟΥ ΦΥΛΗΣ ΚΑΙ ΑΠΟΔΟΣΗ ΠΡΟΣ ΤΗΝ ΧΡΗΣΗ ΑΥΤΩΝ ΣΥΜΦΩΝΑ ΜΕ ΤΑ ΙΣΧΥΟΝΤΑ ΠΡΟΤΥΠΑ ΑΣΦΑΛΕΙΑΣ ΚΑΙ ΠΡΟΣΒΑΣΙΜΟΤΗΤΑΣ»",
+          "cpvs": [
+            {
+              "key": "44114250-9",
+              "value": "Πλάκες από σκυρόδεμα"
+            },
+            {
+              "key": "34928200-0",
+              "value": "Περιφράξεις"
+            },
+            {
+              "key": "44114200-4",
+              "value": "Προϊόντα σκυροδέματος"
+            },
+            {
+              "key": "14212400-4",
+              "value": "Χώμα"
+            },
+            {
+              "key": "34928400-2",
+              "value": "Αστικός εξοπλισμός"
+            },
+            {
+              "key": "43323000-3",
+              "value": "Εξοπλισμός άρδευσης"
+            },
+            {
+              "key": "37450000-7",
+              "value": "Εξοπλισμός υπαίθριων αθλημάτων και αθλημάτων γηπέδου"
+            },
+            {
+              "key": "79132000-8",
+              "value": "Υπηρεσίες πιστοποίησης"
+            },
+            {
+              "key": "14212200-2",
+              "value": "Αδρανή υλικά"
+            },
+            {
+              "key": "44112200-0",
+              "value": "Επενδύσεις δαπέδων"
+            },
+            {
+              "key": "77310000-6",
+              "value": "Φύτευση και συντήρηση χώρων πρασίνου"
+            },
+            {
+              "key": "34991000-0",
+              "value": "Φωτιστικά σώματα υπαίθριων χώρων"
+            },
+            {
+              "key": "03451000-6",
+              "value": "Φυτά"
+            },
+            {
+              "key": "98342000-2",
+              "value": "Υπηρεσίες διαμόρφωσης χώρου εργασίας"
+            },
+            {
+              "key": "45236110-4",
+              "value": "Εργασίες διάστρωσης επιφανειών για γήπεδα αθλητισμού"
+            },
+            {
+              "key": "42416210-0",
+              "value": "Ανυψωτικά μηχανήματα κάδων"
+            },
+            {
+              "key": "43325000-7",
+              "value": "Εξοπλισμός πάρκων και παιδικής χαράς"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "44114250",
+        "34928200",
+        "44114200",
+        "14212400",
+        "34928400",
+        "43323000",
+        "37450000",
+        "79132000",
+        "14212200",
+        "44112200",
+        "77310000",
+        "34991000",
+        "03451000",
+        "98342000",
+        "45236110",
+        "42416210",
+        "43325000"
+      ],
+      "cpv_divisions": [
+        "44",
+        "34",
+        "14",
+        "43",
+        "37",
+        "79",
+        "77",
+        "03",
+        "98",
+        "45",
+        "42"
+      ],
+      "all_domains": [
+        "Construction Materials & Structures",
+        "Transport & Vehicles",
+        "Metals & Mining",
+        "Construction & Quarrying Machinery",
+        "Sports, Toys & Recreation Goods",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Agriculture/Forestry/Landscaping Services",
+        "Agriculture & Forestry",
+        "Community & Personal Services",
+        "Construction & Works",
+        "Industrial Machinery"
+      ],
+      "primary_domain": "Construction & Works"
     },
     {
       "title": "ΔΑΠΑΝΕΣ ΓΙΑ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗ ΑΠΟΚΡΙΑΤΙΚΩΝ ΕΚΔΗΛΩΣΕΩΝ ΣΕ ΟΛΕΣ ΤΙΣ Δ.Ε. ΕΝΟΤΗΤΕΣ ΤΟΥ Δ.ΠΡΕΒΕΖΑΣ",
-      "referenceNumber": "26REQ018471790",
-      "previousRequestReferenceNumber": null,
+      "referenceNumber": "26REQ018477899",
+      "previousRequestReferenceNumber": "26REQ018471790",
       "signedDate": "2026-02-12",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T11:48:04.717",
+      "submissionDate": "2026-02-13T11:27:58.183",
       "procurementDeliveryDate": "2026-02-20",
       "cancellationDate": null,
       "cancelled": false,
@@ -1843,7 +1999,7 @@
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
-      "approved": false,
+      "approved": true,
       "organization": {
         "key": "6253",
         "value": "ΔΗΜΟΣ ΠΡΕΒΕΖΑΣ"
@@ -1883,22 +2039,22 @@
       "totalCostWithoutVAT": 27904.0,
       "objectDetails": [
         {
-          "quantity": 300,
+          "quantity": 375,
           "type": {
-            "key": "KGM",
-            "value": "Kg"
+            "key": "C62",
+            "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 3600,
-          "vat": "13",
+          "costWithoutVAT": 1500,
+          "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΚΑΡΑΜΕΛΕΣ ΖΕΛΕΔΑΚΙΑ",
+          "shortDescription": "ΕΙΔΗ ΠΥΡΟΤΕΧΝΙΑΣ ΒΟΛΕΣ",
           "cpvs": [
             {
-              "key": "15833000-6",
-              "value": "Ζαχαρώδη προϊόντα"
+              "key": "24613200-6",
+              "value": "Πυροτεχνήματα"
             }
           ]
         },
@@ -1923,46 +2079,6 @@
           ]
         },
         {
-          "quantity": 480,
-          "type": {
-            "key": "MTR",
-            "value": "m"
-          },
-          "costWithoutVAT": 2400,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΦΑΣΜΑΤΑ ΓΙΑ ΤΟΝ ΣΤΟΛΙΣΜΟ ΤΟΥ ΔΗΜΟΥ",
-          "cpvs": [
-            {
-              "key": "19200000-8",
-              "value": "Υφάσματα και συναφή είδη"
-            }
-          ]
-        },
-        {
-          "quantity": 4500,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1755,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΣΕΡΠΑΤΙΝΕΣ",
-          "cpvs": [
-            {
-              "key": "39298900-6",
-              "value": "Διάφορα είδη διακόσμησης"
-            }
-          ]
-        },
-        {
           "quantity": 72,
           "type": {
             "key": "C62",
@@ -1983,42 +2099,22 @@
           ]
         },
         {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 8000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΗΧΗΤΙΚΗ ΚΑΛΥΨΗ ΠΑΡΕΛΑΣΗ ΚΟΜΙΤΑΤΟΥ ΚΑΙ ΣΥΝΑΥΛΙΑΚΟΣ ΗΧΟΣ ΣΑΒΒΑΤΟ 21-02-2026",
-          "cpvs": [
-            {
-              "key": "92370000-5",
-              "value": "Υπηρεσίες τεχνικών ήχου"
-            }
-          ]
-        },
-        {
-          "quantity": 375,
+          "quantity": 4500,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 1500,
+          "costWithoutVAT": 1755,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΕΙΔΗ ΠΥΡΟΤΕΧΝΙΑΣ ΒΟΛΕΣ",
+          "shortDescription": "ΣΕΡΠΑΤΙΝΕΣ",
           "cpvs": [
             {
-              "key": "24613200-6",
-              "value": "Πυροτεχνήματα"
+              "key": "39298900-6",
+              "value": "Διάφορα είδη διακόσμησης"
             }
           ]
         },
@@ -2061,1053 +2157,12 @@
               "value": "Σφυρίχτρες"
             }
           ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "15833000",
-        "92000000",
-        "19200000",
-        "39298900",
-        "92370000",
-        "24613200",
-        "37312500"
-      ],
-      "cpv_divisions": [
-        "15",
-        "92",
-        "19",
-        "39",
-        "24",
-        "37"
-      ],
-      "all_domains": [
-        "Food & Catering",
-        "Recreation, Culture & Sports Services",
-        "Textiles, Plastics & Rubber",
-        "Furniture & Cleaning Products",
-        "Chemicals",
-        "Sports, Toys & Recreation Goods"
-      ],
-      "primary_domain": "Food & Catering"
-    },
-    {
-      "title": "ΕΓΚΡΙΣΗ ΠΡΟΜΗΘΕΙΑΣ ΠΙΣΤΟΠΟΙΗΜΕΝΩΝ ΑΝΤΑΛΛΑΚΤΙΚΩΝ ΟΡΓΑΝΩΝ ΠΑΙΔΙΚΗΣ ΧΑΡΑΣ ΚΑΙ ΕΓΚΡΙΣΗ ΔΙΑΘΕΣΗΣ ΠΙΣΤΩΣΗΣ",
-      "referenceNumber": "26REQ018471503",
-      "previousRequestReferenceNumber": "26REQ018471486",
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T11:33:10.833",
-      "procurementDeliveryDate": "2026-02-20",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "ΔΥ",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "999472777",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "51940",
-        "value": "ΑΣΤΙΚΗ ΑΝΑΠΤΥΞΗ ΔΗΜΟΤΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ"
-      },
-      "nutsCode": {
-        "key": "EL611",
-        "value": "Καρδίτσα, Τρίκαλα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1007.F00624.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100016391",
-          "value": "ΑΣΤΙΚΗ ΑΝΑΠΤΥΞΗ ΔΗΜΟΤΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ"
-        },
-        "signers": {
-          "key": "100071248",
-          "value": "ΓΕΩΡΓΙΟΣ ΖΙΩΓΑΣ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 6255.8,
-      "totalCostWithoutVAT": 5045.0,
-      "objectDetails": [
-        {
-          "quantity": 114,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 5045,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "  Η ΑΣΤΙΚΗ ΑΝΑΠΤΥΞΗ ΜΟΝΟΜΕΤΟΧΙΚΗ Α.Ε. ΘΑ ΠΡΟΒΕΙ ΣΤΗΝ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗ ΠΡΟΜΗΘΕΙΑΣ ΠΙΣΤΟΠΟΙΗΜΕΝΩΝ ΑΝΤΑΛΛΑΚΤΙΚΩΝ ΚΑΙ ΕΞΑΡΤΗΜΑΤΩΝ ΥΦΙΣΤΑΜΕΝΩΝ ΟΡΓΑΝΩΝ ΠΑΙΔΙΚΩΝ ΧΑΡΩΝ, ΣΤΟ ΠΛΑΙΣΙΟ ΤΗΣ ΔΙΑΣΦΑΛΙΣΗΣ ΤΗΣ ΟΜΑΛΗΣ ΚΑΙ ΑΣΦΑΛΟΥΣ ΧΡΗΣΗΣ ΤΟΥΣ.",
-          "cpvs": [
-            {
-              "key": "37535200-9",
-              "value": "Εξοπλισμός παιδικής χαράς"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [
-        "26PROC018471619"
-      ],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "37535200"
-      ],
-      "cpv_divisions": [
-        "37"
-      ],
-      "all_domains": [
-        "Sports, Toys & Recreation Goods"
-      ],
-      "primary_domain": "Sports, Toys & Recreation Goods"
-    },
-    {
-      "title": "ΕΓΚΡΙΣΗ ΠΡΟΜΗΘΕΙΑΣ ΠΙΣΤΟΠΟΙΗΜΕΝΩΝ ΑΝΤΑΛΛΑΚΤΙΚΩΝ ΟΡΓΑΝΩΝ ΠΑΙΔΙΚΗΣ ΧΑΡΑΣ ΚΑΙ ΕΓΚΡΙΣΗ ΔΙΑΘΕΣΗΣ ΠΙΣΤΩΣΗΣ",
-      "referenceNumber": "26REQ018471486",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T11:32:25.19",
-      "procurementDeliveryDate": "2026-02-20",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "ΔΥ",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "999472777",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "51940",
-        "value": "ΑΣΤΙΚΗ ΑΝΑΠΤΥΞΗ ΔΗΜΟΤΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ"
-      },
-      "nutsCode": {
-        "key": "EL611",
-        "value": "Καρδίτσα, Τρίκαλα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1007.F00624.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100016391",
-          "value": "ΑΣΤΙΚΗ ΑΝΑΠΤΥΞΗ ΔΗΜΟΤΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ"
-        },
-        "signers": {
-          "key": "100071248",
-          "value": "ΓΕΩΡΓΙΟΣ ΖΙΩΓΑΣ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 6255.8,
-      "totalCostWithoutVAT": 5045.0,
-      "objectDetails": [
-        {
-          "quantity": 114,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 5045,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "  Η ΑΣΤΙΚΗ ΑΝΑΠΤΥΞΗ ΜΟΝΟΜΕΤΟΧΙΚΗ Α.Ε. ΘΑ ΠΡΟΒΕΙ ΣΤΗΝ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗ ΠΡΟΜΗΘΕΙΑΣ ΠΙΣΤΟΠΟΙΗΜΕΝΩΝ ΑΝΤΑΛΛΑΚΤΙΚΩΝ ΚΑΙ ΕΞΑΡΤΗΜΑΤΩΝ ΥΦΙΣΤΑΜΕΝΩΝ ΟΡΓΑΝΩΝ ΠΑΙΔΙΚΩΝ ΧΑΡΩΝ, ΣΤΟ ΠΛΑΙΣΙΟ ΤΗΣ ΔΙΑΣΦΑΛΙΣΗΣ ΤΗΣ ΟΜΑΛΗΣ ΚΑΙ ΑΣΦΑΛΟΥΣ ΧΡΗΣΗΣ ΤΟΥΣ.",
-          "cpvs": [
-            {
-              "key": "37535200-9",
-              "value": "Εξοπλισμός παιδικής χαράς"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018471503"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "37535200"
-      ],
-      "cpv_divisions": [
-        "37"
-      ],
-      "all_domains": [
-        "Sports, Toys & Recreation Goods"
-      ],
-      "primary_domain": "Sports, Toys & Recreation Goods"
-    },
-    {
-      "title": "Προμήθεια υλικών δειγματοληψιών, για τις ανάγκες των κλιμακίων ελέγχου της ΠΔΘ ΕΦΕΤ το 2026",
-      "referenceNumber": "26REQ018471351",
-      "previousRequestReferenceNumber": "26REQ018387304",
-      "signedDate": "2026-02-03",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T11:25:45.062",
-      "procurementDeliveryDate": "2026-03-09",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "25",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "099765151",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "50002",
-        "value": "ΕΝΙΑΙΟΣ ΦΟΡΕΑΣ ΕΛΕΓΧΟΥ ΤΡΟΦΙΜΩΝ (Ε.Φ.Ε.Τ. )"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1029.Ε00515.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "72181",
-          "value": "ΔΙΟΙΚΗΣΗ"
-        },
-        "signers": {
-          "key": "100056198",
-          "value": "ΑΝΤΩΝΙΟΣ ΖΑΜΠΕΛΑΣ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 1555.0,
-      "totalCostWithoutVAT": 1254.03,
-      "objectDetails": [
-        {
-          "quantity": 1031,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1254.03,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Η προμήθεια υλικών δειγματοληψιών για τις ανάγκες των ελεγκτών της Περιφερειακής Διεύθυνσης Θεσσαλίας του ΕΦΕΤ, για το έτος 2026.",
-          "cpvs": [
-            {
-              "key": "32354800-7",
-              "value": "Κολλητικές ταινίες"
-            },
-            {
-              "key": "33198200-6",
-              "value": "Χάρτινες σακούλες ή περιτυλίγματα αποστείρωσης"
-            },
-            {
-              "key": "44333000-3",
-              "value": "Σύρμα"
-            },
-            {
-              "key": "37414200-5",
-              "value": "Φορητοί καταψύκτες"
-            },
-            {
-              "key": "42513100-6",
-              "value": "Εξοπλισμός κατάψυξης"
-            },
-            {
-              "key": "18937100-7",
-              "value": "Σακούλες συσκευασίας"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "32354800",
-        "33198200",
-        "44333000",
-        "37414200",
-        "42513100",
-        "18937100"
-      ],
-      "cpv_divisions": [
-        "32",
-        "33",
-        "44",
-        "37",
-        "42",
-        "18"
-      ],
-      "all_domains": [
-        "Telecom & Electronics",
-        "Medical & Pharma",
-        "Construction Materials & Structures",
-        "Sports, Toys & Recreation Goods",
-        "Industrial Machinery",
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Construction Materials & Structures"
-    },
-    {
-      "title": "Προμήθεια εξοπλισμού για την αναβάθμιση των Αθλητικών εγκαταστάσεων του Αθλητικού Σωματείου ΠΑΟΚ Μεσ",
-      "referenceNumber": "26REQ018470545",
-      "previousRequestReferenceNumber": "25REQ018075023",
-      "signedDate": "2025-12-04",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T10:42:21.849",
-      "procurementDeliveryDate": "2025-12-29",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "152789",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997769589",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "5005",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL532",
-        "value": "Καστοριά"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.903.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "89588",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΔΗΜΟΣΙΑΣ ΥΓΕΙΑΣ & ΚΟΙΝΩΝΙΚΗΣ ΜΕΡΙΜΝΑΣ Π.Ε. ΚΑΣΤΟΡΙΑΣ"
-        },
-        "signers": {
-          "key": "100073364",
-          "value": "ΧΡΗΣΤΟΣ ΣΚΡΑΠΑΡΛΗΣ - Αναπληρωτής Διευθυντής"
-        }
-      },
-      "totalCostWithVAT": 2500.0,
-      "totalCostWithoutVAT": 2016.13,
-      "objectDetails": [
-        {
-          "quantity": 2,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 2016.13,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ 2 ΜΙΚΡΩΝ ΜΠΑΣΚΕΤΩΝ",
-          "cpvs": [
-            {
-              "key": "37415000-0",
-              "value": "Αθλητικός εξοπλισμός"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "37415000"
-      ],
-      "cpv_divisions": [
-        "37"
-      ],
-      "all_domains": [
-        "Sports, Toys & Recreation Goods"
-      ],
-      "primary_domain": "Sports, Toys & Recreation Goods"
-    },
-    {
-      "title": "ΔΙΑΦΟΡΕΣ ΥΠΗΡΕΣΙΕΣ ΚΑΙ ΠΡΟΜΗΘΕΙΕΣ ΓΙΑ ΑΝΑΓΚΕΣ ΤΟΥ ΔΗΜΟΥ",
-      "referenceNumber": "26REQ018470401",
-      "previousRequestReferenceNumber": "26REQ018470214",
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T10:34:00.054",
-      "procurementDeliveryDate": "2026-02-18",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "2199",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "998717658",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6196",
-        "value": "ΔΗΜΟΣ ΜΟΝΕΜΒΑΣΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL653",
-        "value": "Λακωνία, Μεσσηνία"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.Ε84305.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "88880",
-          "value": "Δ/ΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "129345",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΜΑΥΡΟΜΙΧΑΛΗΣ - Αντιδήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 398.99,
-      "totalCostWithoutVAT": 321.77,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 321.77,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια μουσικών οργάνων(Ηλεκτρικό πιάνο για το δημοτικό Παπαδιανίκων).",
-          "cpvs": [
-            {
-              "key": "37311000-1",
-              "value": "Πληκτροφόρα όργανα"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": [
-        {
-          "additionalContractType": {
-            "key": "2",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "mixedContract": true,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "37311000"
-      ],
-      "cpv_divisions": [
-        "37"
-      ],
-      "all_domains": [
-        "Sports, Toys & Recreation Goods"
-      ],
-      "primary_domain": "Sports, Toys & Recreation Goods"
-    },
-    {
-      "title": "ΔΙΑΦΟΡΕΣ ΥΠΗΡΕΣΙΕΣ ΚΑΙ ΠΡΟΜΗΘΕΙΕΣ ΓΙΑ ΑΝΑΓΚΕΣ ΤΟΥ ΔΗΜΟΥ",
-      "referenceNumber": "26REQ018470385",
-      "previousRequestReferenceNumber": "26REQ018470214",
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T10:33:05.728",
-      "procurementDeliveryDate": "2026-02-18",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "2199",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "998717658",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6196",
-        "value": "ΔΗΜΟΣ ΜΟΝΕΜΒΑΣΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL653",
-        "value": "Λακωνία, Μεσσηνία"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.Ε84305.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "88880",
-          "value": "Δ/ΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "129345",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΜΑΥΡΟΜΙΧΑΛΗΣ - Αντιδήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 1187.42,
-      "totalCostWithoutVAT": 957.6,
-      "objectDetails": [
-        {
-          "quantity": 54,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 957.6,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια αθλητικού υλικού για τις σχολικές μονάδες του δήμου.",
-          "cpvs": [
-            {
-              "key": "37415000-0",
-              "value": "Αθλητικός εξοπλισμός"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": [
-        {
-          "additionalContractType": {
-            "key": "2",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "mixedContract": true,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "37415000"
-      ],
-      "cpv_divisions": [
-        "37"
-      ],
-      "all_domains": [
-        "Sports, Toys & Recreation Goods"
-      ],
-      "primary_domain": "Sports, Toys & Recreation Goods"
-    },
-    {
-      "title": "ΔΙΑΦΟΡΕΣ ΥΠΗΡΕΣΙΕΣ ΚΑΙ ΠΡΟΜΗΘΕΙΕΣ ΓΙΑ ΑΝΑΓΚΕΣ ΤΟΥ ΔΗΜΟΥ",
-      "referenceNumber": "26REQ018470214",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T10:25:04.127",
-      "procurementDeliveryDate": "2026-02-18",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "2199",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "998717658",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "6196",
-        "value": "ΔΗΜΟΣ ΜΟΝΕΜΒΑΣΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL653",
-        "value": "Λακωνία, Μεσσηνία"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.Ε84305.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "88880",
-          "value": "Δ/ΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "129345",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΜΑΥΡΟΜΙΧΑΛΗΣ - Αντιδήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 123938.11,
-      "totalCostWithoutVAT": 99950.09,
-      "objectDetails": [
-        {
-          "quantity": 44,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 7741.93,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια κάδων απορριμμάτων ΔΕ Ζάρακα.",
-          "cpvs": [
-            {
-              "key": "34928480-6",
-              "value": "Δοχεία και κάδοι απορριμμάτων"
-            }
-          ]
         },
         {
-          "quantity": 1,
+          "quantity": 480,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 16090.1,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Δαπάνη για ΔΕ ΜΟΛΑΩΝ, ΑΣΩΠΟΥ,ΖΑΡΑΚΑ για εκτύπωση εμφακέλωση και αποστολή ειδοποιητηρίων ύδρευσης.",
-          "cpvs": [
-            {
-              "key": "79571000-7",
-              "value": "Υπηρεσίες ταχυδρομικών αποστολών"
-            }
-          ]
-        },
-        {
-          "quantity": 54,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 957.6,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια αθλητικού υλικού για τις σχολικές μονάδες του δήμου.",
-          "cpvs": [
-            {
-              "key": "37415000-0",
-              "value": "Αθλητικός εξοπλισμός"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 21370.97,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Δαπάνη για ΔΕ ΒΟΙΩΝ-ΜΟΝΕΜΒΑΣΙΑΣ για εκτύπωση εμφακέλωση και αποστολή ειδοποιητηρίων ύδρευσης.",
-          "cpvs": [
-            {
-              "key": "79571000-7",
-              "value": "Υπηρεσίες ταχυδρομικών αποστολών"
-            }
-          ]
-        },
-        {
-          "quantity": 61,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 11370.96,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθειας κάδων απορριμμάτων ΔΕ Μονεμβασίας.",
-          "cpvs": [
-            {
-              "key": "34928480-6",
-              "value": "Δοχεία και κάδοι απορριμμάτων"
-            }
-          ]
-        },
-        {
-          "quantity": 47,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 8145.16,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια κάδων απορριμμάτων ΔΕ Ασωπού.",
-          "cpvs": [
-            {
-              "key": "34928480-6",
-              "value": "Δοχεία και κάδοι απορριμμάτων"
-            }
-          ]
-        },
-        {
-          "quantity": 62,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 11532.25,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια κάδων απορριμμάτων ΔΕ Μολάων.",
-          "cpvs": [
-            {
-              "key": "34928480-6",
-              "value": "Δοχεία και κάδοι απορριμμάτων"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 321.77,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια μουσικών οργάνων(Ηλεκτρικό πιάνο για το δημοτικό Παπαδιανίκων).",
-          "cpvs": [
-            {
-              "key": "37311000-1",
-              "value": "Πληκτροφόρα όργανα"
-            }
-          ]
-        },
-        {
-          "quantity": 108,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 22419.35,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθειας κάδων απορριμμάτων ΔΕ Βοιών.",
-          "cpvs": [
-            {
-              "key": "34928480-6",
-              "value": "Δοχεία και κάδοι απορριμμάτων"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": [
-        {
-          "additionalContractType": {
-            "key": "2",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "mixedContract": true,
-      "approvalRefNo": [
-        "26REQ018470385",
-        "26REQ018470417",
-        "26REQ018470511",
-        "26REQ018470501",
-        "26REQ018470480",
-        "26REQ018470442",
-        "26REQ018470283",
-        "26REQ018470401",
-        "26REQ018470307"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "34928480",
-        "79571000",
-        "37415000",
-        "37311000"
-      ],
-      "cpv_divisions": [
-        "34",
-        "79",
-        "37"
-      ],
-      "all_domains": [
-        "Transport & Vehicles",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "Sports, Toys & Recreation Goods"
-      ],
-      "primary_domain": "Transport & Vehicles"
-    },
-    {
-      "title": "Πρωτογενές αίτημα για την προμήθεια και εγκατάσταση αθλητικών δαπέδων και λοιπού εξοπλισμού ",
-      "referenceNumber": "26REQ018469752",
-      "previousRequestReferenceNumber": "26REQ018443369",
-      "signedDate": "2026-02-06",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T10:02:15.998",
-      "procurementDeliveryDate": "2026-03-06",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "3779",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090127044",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6209",
-        "value": "ΔΗΜΟΣ ΝΕΑΣ ΙΩΝΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL301",
-        "value": "Βόρειος Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.E846080001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "79300",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "100012529",
-          "value": "ΕΜΜΑΝΟΥΗΛ ΣΜΑΡΑΓΔΑΚΗΣ - Διευθυντής"
-        }
-      },
-      "totalCostWithVAT": 126311.36,
-      "totalCostWithoutVAT": 101864.0,
-      "objectDetails": [
-        {
-          "quantity": 2,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
+            "key": "MTR",
+            "value": "m"
           },
           "costWithoutVAT": 2400,
           "vat": "24",
@@ -3115,19 +2170,19 @@
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Εστίες 5x5 -  χειροσφαίρισης  για το άθλημα της χειροσφαίρισης",
+          "shortDescription": "ΥΦΑΣΜΑΤΑ ΓΙΑ ΤΟΝ ΣΤΟΛΙΣΜΟ ΤΟΥ ΔΗΜΟΥ",
           "cpvs": [
             {
-              "key": "37415000-0",
-              "value": "Αθλητικός εξοπλισμός"
+              "key": "19200000-8",
+              "value": "Υφάσματα και συναφή είδη"
             }
           ]
         },
         {
-          "quantity": 4,
+          "quantity": 1,
           "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
           "costWithoutVAT": 8000,
           "vat": "24",
@@ -3135,31 +2190,150 @@
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Μπασκέτες πλήρεις με μεταλλικό στυλοβάτη, πίνακα, στεφάνη και προστατευτικά μαξιλάρια για το άθλημα της καλαθοσφαίρισης",
+          "shortDescription": "ΗΧΗΤΙΚΗ ΚΑΛΥΨΗ ΠΑΡΕΛΑΣΗ ΚΟΜΙΤΑΤΟΥ ΚΑΙ ΣΥΝΑΥΛΙΑΚΟΣ ΗΧΟΣ ΣΑΒΒΑΤΟ 21-02-2026",
           "cpvs": [
             {
-              "key": "37452210-6",
-              "value": "Πλήρη συστήματα παιχνιδιού για καλαθοσφαίριση"
+              "key": "92370000-5",
+              "value": "Υπηρεσίες τεχνικών ήχου"
             }
           ]
         },
         {
-          "quantity": 2220,
+          "quantity": 300,
           "type": {
-            "key": "MTK",
-            "value": "m 2"
+            "key": "KGM",
+            "value": "Kg"
           },
-          "costWithoutVAT": 91464,
+          "costWithoutVAT": 3600,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΚΑΡΑΜΕΛΕΣ ΖΕΛΕΔΑΚΙΑ",
+          "cpvs": [
+            {
+              "key": "15833000-6",
+              "value": "Ζαχαρώδη προϊόντα"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [
+        "26PROC018479421"
+      ],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "24613200",
+        "92000000",
+        "39298900",
+        "92370000",
+        "37312500",
+        "19200000",
+        "15833000"
+      ],
+      "cpv_divisions": [
+        "24",
+        "92",
+        "39",
+        "37",
+        "19",
+        "15"
+      ],
+      "all_domains": [
+        "Chemicals",
+        "Recreation, Culture & Sports Services",
+        "Furniture & Cleaning Products",
+        "Sports, Toys & Recreation Goods",
+        "Textiles, Plastics & Rubber",
+        "Food & Catering"
+      ],
+      "primary_domain": "Food & Catering"
+    },
+    {
+      "title": "Α.Α.305 2026ΕΡΓΑΣΙΕΣ ΕΠΙΣΚΕΥΗΣ ΚΑΙ ΣΥΝΤΗΡΗΣΗΣ ΠΑΙΔΙΚΩΝ ΧΑΡΩΝ ΜΕ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΕΞΟΠΛΙΣΜΟΥ ΓΙΑ ΑΣΦΑΛΗ ",
+      "referenceNumber": "26REQ018477665",
+      "previousRequestReferenceNumber": "21REQ009382828",
+      "signedDate": "2026-01-02",
+      "lastUpdateDate": "2025-01-31T00:00:00",
+      "submissionDate": "2026-02-13T11:13:05.165",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "305",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": "dperiouspromhth@fyli.gr",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997675481",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6312",
+        "value": "ΔΗΜΟΣ ΦΥΛΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL306",
+        "value": "Δυτική Αττική"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε85005.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "89907",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100047592",
+          "value": "ΠΑΝΤΕΛΗΣ ΒΑΜΒΟΥΚΑΣ - Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 150856.13,
+      "totalCostWithoutVAT": 121658.17,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 121658.17,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Συνθετικός - ακρυλικός τάπητας για την δημιουργία αθλητικού δαπέδου για τα αθλήματα της  καλαθοσφαίρισης και της χειροσφαίρισης. ",
+          "shortDescription": "ΕΡΓΑΣΙΕΣ ΕΠΙΣΚΕΥΗΣ ΚΑΙ ΣΥΝΤΗΡΗΣΗΣ ΠΑΙΔΙΚΩΝ ΧΑΡΩΝ ΜΕ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΕΞΟΠΛΙΣΜΟΥ ΓΙΑ ΤΗΝ ΑΣΦΑΛΗ ΛΕΙΤΟΥΡΓΙΑ ΤΟΥΣ. ME ΔΙΚΑΙΩΜΑ ΠΡΟΑΙΡΕΣΗΣ ΠΟΣΟΥ 372.000,00 ΕΥΡΩ",
           "cpvs": [
             {
-              "key": "37421000-5",
-              "value": "Τάπητες γυμναστηρίων"
+              "key": "37535200-9",
+              "value": "Εξοπλισμός παιδικής χαράς"
             }
           ]
         }
@@ -3172,9 +2346,7 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "37415000",
-        "37452210",
-        "37421000"
+        "37535200"
       ],
       "cpv_divisions": [
         "37"
@@ -3185,46 +2357,46 @@
       "primary_domain": "Sports, Toys & Recreation Goods"
     },
     {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΔΙΑΔΡΟΜΟΥ ΓΥΜΝΑΣΤΗΡΙΟΥ",
-      "referenceNumber": "26REQ018468519",
-      "previousRequestReferenceNumber": "26REQ018457689",
-      "signedDate": "2026-02-10",
+      "title": "Έξοδα πολιτιστικών δραστηριοτήτων (Προμήθεια Αποκριάτικων ειδών για τις καρναβαλικές εκδηλώσεις 2026",
+      "referenceNumber": "26REQ018477319",
+      "previousRequestReferenceNumber": "26REQ018476565",
+      "signedDate": "2026-02-13",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T08:46:18.246",
-      "procurementDeliveryDate": "2026-03-10",
+      "submissionDate": "2026-02-13T10:53:07.028",
+      "procurementDeliveryDate": "2026-02-20",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "136",
+      "protocolNumber": "2122",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090153025",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "099631382",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "6",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ"
+        "key": "6283",
+        "value": "ΔΗΜΟΣ ΣΟΥΛΙΟΥ"
       },
       "nutsCode": {
-        "key": "EL633",
-        "value": "Ηλεία"
+        "key": "EL542",
+        "value": "Θεσπρωτία"
       },
       "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
+        "key": "9",
+        "value": "ΝΠΔΔ"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
+        "key": "2",
+        "value": "ΟΤΑ"
       },
-      "aaht": "1011.2040000000.0008",
+      "aaht": "1007.E82002.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -3235,34 +2407,38 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "86398",
-          "value": "ΓΕΑ/ΑΤΑ/117ΠΜ"
+          "key": "81125",
+          "value": "ΔΗΜΑΡΧΟΣ"
         },
         "signers": {
-          "key": "100097588",
-          "value": "ΔΗΜΗΤΡΙΟΣ ΣΑΚΟΡΑΦΑΣ - Διοικητής"
+          "key": "100084983",
+          "value": "Αθανάσιος Ντάνης - Δήμαρχος"
         }
       },
-      "totalCostWithVAT": 7500.0,
-      "totalCostWithoutVAT": 6048.39,
+      "totalCostWithVAT": 1364.0,
+      "totalCostWithoutVAT": 1100.0,
       "objectDetails": [
         {
-          "quantity": 1,
+          "quantity": 530,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 6048.39,
+          "costWithoutVAT": 1100,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΔΙΑΔΡΟΜΟΣ Run Connect 300 Diamond Black",
+          "shortDescription": "Έξοδα πολιτιστικών δραστηριοτήτων (Προμήθεια Αποκριάτικων ειδών για τις καρναβαλικές εκδηλώσεις 2026",
           "cpvs": [
             {
-              "key": "37440000-4",
-              "value": "Εξοπλισμός γυμναστικής"
+              "key": "37312500-3",
+              "value": "Σφυρίχτρες"
+            },
+            {
+              "key": "39298900-6",
+              "value": "Διάφορα είδη διακόσμησης"
             }
           ]
         }
@@ -3271,13 +2447,439 @@
       "mixedContract": false,
       "approvalRefNo": [],
       "noticeRefNo": [
-        "26PROC018468914"
+        "26PROC018477876"
       ],
       "contractRefNo": [],
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "37440000"
+        "37312500",
+        "39298900"
+      ],
+      "cpv_divisions": [
+        "37",
+        "39"
+      ],
+      "all_domains": [
+        "Sports, Toys & Recreation Goods",
+        "Furniture & Cleaning Products"
+      ],
+      "primary_domain": "Furniture & Cleaning Products"
+    },
+    {
+      "title": "Προμήθεια ειδών ατομικής προστασίας",
+      "referenceNumber": "26REQ018476977",
+      "previousRequestReferenceNumber": "24REQ015819887",
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": "2026-01-29T00:00:00",
+      "submissionDate": "2026-02-13T10:33:42.752",
+      "procurementDeliveryDate": "2026-02-13",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "8807.8808.8813.8816",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": "epipro@piraeus.gov.gr",
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090001263",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "6243",
+        "value": "ΔΗΜΟΣ ΠΕΙΡΑΙΩΣ"
+      },
+      "nutsCode": {
+        "key": "EL307",
+        "value": "Πειραιάς, Νήσοι"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E85101.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "92539",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100005489",
+          "value": "ΑΘΗΝΑ ΓΛΥΚΑ - ΧΑΡΒΑΛΑΚΟΥ - Αντιδήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 984515.24,
+      "totalCostWithoutVAT": 793963.9,
+      "objectDetails": [
+        {
+          "quantity": 3985,
+          "type": {
+            "key": "NPR",
+            "value": "Ζευγάρι"
+          },
+          "costWithoutVAT": 190284,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Υποδήματα για τις ανάγκες του προσωπικού\nΤα στοιχεία του αντικειμένου που αιτείται ο Δήμος Πειραιά. Τα στοιχεία αυτά μπορεί να είναι πολλαπλά: Γαλότσες, άρβυλα, άρβυλα ηλεκτρολόγων",
+          "cpvs": [
+            {
+              "key": "18830000-6",
+              "value": "Προστατευτικά υποδήματα"
+            }
+          ]
+        },
+        {
+          "quantity": 464734,
+          "type": {
+            "key": "NPR",
+            "value": "Ζευγάρι"
+          },
+          "costWithoutVAT": 191096.9,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Γάντια για την ατομική προστασία των εργαζομένων Τα στοιχεία του αντικειμένου που αιτείται ο Δήμος Πειραιά. Τα στοιχεία αυτά μπορεί να είναι πολλαπλά: Γάντια δερματοπάνινα, νιτριλίου, μονωτικά, συγκολλητών, μιας χρήσης",
+          "cpvs": [
+            {
+              "key": "18141000-9",
+              "value": "Γάντια εργασίας"
+            }
+          ]
+        },
+        {
+          "quantity": 16230,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 34703,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Μάσκες για την προστασία της αναπνοής\nΤα στοιχεία του αντικειμένου που αιτείται ο Δήμος Πειραιά. Τα στοιχεία αυτά μπορεί να είναι πολλαπλά: Φιλτρομάσκες, μάσκες χάρτινες, ημίσεως, ολοκλήρου προσώπου",
+          "cpvs": [
+            {
+              "key": "37412250-6",
+              "value": "Μάσκες"
+            }
+          ]
+        },
+        {
+          "quantity": 1695,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 24620,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Γυαλιά και μάσκες προστασίας\nΤα στοιχεία του αντικειμένου που αιτείται ο Δήμος Πειραιά. Τα στοιχεία αυτά μπορεί να είναι πολλαπλά: Γυαλιά GOGGLES, ασφαλείας άχρωμα, μάσκα ηλεκτροσυγκόλλησης, ασπίδιο προστασίας από ηλεκτρικό τόξο",
+          "cpvs": [
+            {
+              "key": "39299200-6",
+              "value": "Γυαλί ασφαλείας"
+            }
+          ]
+        },
+        {
+          "quantity": 16703,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 326469,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προστατευτική ενδυμασία για τις ανάγκες του προσωπικού\nΤα στοιχεία του αντικειμένου που αιτείται ο Δήμος Πειραιά. Τα στοιχεία αυτά μπορεί να είναι πολλαπλά: ανακλαστικά γιλέκα ,ποδιές συγκολλητών, νιτσεράδες, στολές προστασίας από χημικά",
+          "cpvs": [
+            {
+              "key": "35113440-5",
+              "value": "Ανακλαστικά γιλέκα"
+            }
+          ]
+        },
+        {
+          "quantity": 2360,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 26791,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Άλλα μέσα ατoμικής προστασίας των εργαζομένων Τα στοιχεία του αντικειμένου που αιτείται ο Δήμος Πειραιά. Τα στοιχεία αυτά μπορεί να είναι πολλαπλά: κράνη , κράνη ηλεκτρολόγων, Επιγονατίδες, κώνοι σήμανσης, ωτοβύσματα, καπέλα τύπου jokey ",
+          "cpvs": [
+            {
+              "key": "18444100-4",
+              "value": "Κράνη ασφαλείας"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "18830000",
+        "18141000",
+        "37412250",
+        "39299200",
+        "35113440",
+        "18444100"
+      ],
+      "cpv_divisions": [
+        "18",
+        "37",
+        "39",
+        "35"
+      ],
+      "all_domains": [
+        "Clothing & PPE",
+        "Sports, Toys & Recreation Goods",
+        "Furniture & Cleaning Products",
+        "Security & Defense"
+      ],
+      "primary_domain": "Security & Defense"
+    },
+    {
+      "title": "Έξοδα πολιτιστικών δραστηριοτήτων (Προμήθεια Αποκριάτικων ειδών για τις καρναβαλικές εκδηλώσεις 2026",
+      "referenceNumber": "26REQ018476565",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T10:11:10.348",
+      "procurementDeliveryDate": "2026-02-20",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "2104",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "099631382",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6283",
+        "value": "ΔΗΜΟΣ ΣΟΥΛΙΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL542",
+        "value": "Θεσπρωτία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E82002.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "81125",
+          "value": "ΔΗΜΑΡΧΟΣ"
+        },
+        "signers": {
+          "key": "100084983",
+          "value": "Αθανάσιος Ντάνης - Δήμαρχος"
+        }
+      },
+      "totalCostWithVAT": 1364.0,
+      "totalCostWithoutVAT": 1100.0,
+      "objectDetails": [
+        {
+          "quantity": 530,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1100,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Έξοδα πολιτιστικών δραστηριοτήτων (Προμήθεια Αποκριάτικων ειδών για τις καρναβαλικές εκδηλώσεις 2026",
+          "cpvs": [
+            {
+              "key": "37312500-3",
+              "value": "Σφυρίχτρες"
+            },
+            {
+              "key": "39298900-6",
+              "value": "Διάφορα είδη διακόσμησης"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018477319"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "37312500",
+        "39298900"
+      ],
+      "cpv_divisions": [
+        "37",
+        "39"
+      ],
+      "all_domains": [
+        "Sports, Toys & Recreation Goods",
+        "Furniture & Cleaning Products"
+      ],
+      "primary_domain": "Furniture & Cleaning Products"
+    },
+    {
+      "title": "ΑΙΤΗΜΑ ΔΑΠΑΝΗΣ ΓΙΑ ΑΛΚΟΟΛΟΜΕΤΡΑ",
+      "referenceNumber": "26REQ018476115",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T09:45:01.723",
+      "procurementDeliveryDate": "2026-02-28",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "2128/26/337152",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090169846",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "100054489",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ"
+      },
+      "nutsCode": {
+        "key": "EL307",
+        "value": "Πειραιάς, Νήσοι"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1057-201-0800300",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "70911",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΑΣΤΥΝΟΜΙΑΣ ΠΕΙΡΑΙΩΣ"
+        },
+        "signers": {
+          "key": "100080113",
+          "value": "ΑΡΙΣΤΕΙΔΗΣ ΛΥΜΠΕΡΑΤΟΣ - Αναπληρωτής Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 6000.0,
+      "totalCostWithoutVAT": 4838.71,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 4838.71,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αίτημα δαπάνης για την προμήθεια έξι (6) αλκοολόμετρων για την κάλυψη αναγκών των Υπηρεσίων της Δ.Α.Πειραιά. ",
+          "cpvs": [
+            {
+              "key": "37322300-4",
+              "value": "Επιστόμια"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "37322300"
       ],
       "cpv_divisions": [
         "37"
@@ -3286,6 +2888,367 @@
         "Sports, Toys & Recreation Goods"
       ],
       "primary_domain": "Sports, Toys & Recreation Goods"
+    },
+    {
+      "title": "«Συντήρηση και επισκευή σιδηρών κατασκευών σε αθλητικές εγκαταστάσεις του τμήματος Αθλητισμού & Νεολ",
+      "referenceNumber": "26REQ018475671",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T09:15:32.141",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "4890",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997612469",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6257",
+        "value": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ"
+      },
+      "nutsCode": {
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E80712.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100015866",
+          "value": "ΤΜΗΜΑ ΑΘΛΗΤΙΣΜΟΥ ΚΑΙ ΝΕΟΛΑΙΑΣ"
+        },
+        "signers": {
+          "key": "100012824",
+          "value": "ΕΛΕΝΗ ΓΙΑΝΝΟΥΔΗ - Προεδρεύουσα"
+        }
+      },
+      "totalCostWithVAT": 36952.0,
+      "totalCostWithoutVAT": 29800.0,
+      "objectDetails": [
+        {
+          "quantity": 100,
+          "type": {
+            "key": "MTR",
+            "value": "m"
+          },
+          "costWithoutVAT": 13400,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Παροχή υπηρεσιών συντηρήσεων με την προμήθεια των απαιτούμενων υλικών, για τη συντήρηση και την επισκευή και των αθλητικών και λοιπών εγκαταστάσεων",
+          "cpvs": [
+            {
+              "key": "37451720-7",
+              "value": "Προστατευτικός εξοπλισμός ποδοσφαίρου"
+            }
+          ]
+        },
+        {
+          "quantity": 5,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 5000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Παροχή υπηρεσιών συντηρήσεων με την προμήθεια των\nαπαιτούμενων υλικών, για τη συντήρηση και την επισκευή και των\nαθλητικών και λοιπών εγκαταστάσεων",
+          "cpvs": [
+            {
+              "key": "50000000-5",
+              "value": "Υπηρεσίες επισκευής και συντήρησης"
+            }
+          ]
+        },
+        {
+          "quantity": 300,
+          "type": {
+            "key": "MTR",
+            "value": "m"
+          },
+          "costWithoutVAT": 11400,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Παροχή υπηρεσιών συντηρήσεων με την προμήθεια των\nαπαιτούμενων υλικών, για τη συντήρηση και την επισκευή και των\nαθλητικών και λοιπών εγκαταστάσεων",
+          "cpvs": [
+            {
+              "key": "50000000-5",
+              "value": "Υπηρεσίες επισκευής και συντήρησης"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "37451720",
+        "50000000"
+      ],
+      "cpv_divisions": [
+        "37",
+        "50"
+      ],
+      "all_domains": [
+        "Sports, Toys & Recreation Goods",
+        "Repair & Maintenance"
+      ],
+      "primary_domain": "Repair & Maintenance"
+    },
+    {
+      "title": "ΕΑΔ 2026 ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΜΑΠ",
+      "referenceNumber": "26REQ018475467",
+      "previousRequestReferenceNumber": "25REQ017657767",
+      "signedDate": "2026-02-11",
+      "lastUpdateDate": "2025-10-02T00:00:00",
+      "submissionDate": "2026-02-13T09:01:19.227",
+      "procurementDeliveryDate": "2026-02-28",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "100",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997592478",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "51301",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΕΩΣ ΚΑΙ ΑΠΟΧΕΤΕΥΣΕΩΣ ΧΑΛΚΙΔΟΣ"
+      },
+      "nutsCode": {
+        "key": "EL642",
+        "value": "Εύβοια"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1007.F00675.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "85925",
+          "value": "ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
+        },
+        "signers": {
+          "key": "100088829",
+          "value": "ΣΤΑΜΑΤΗΣ ΚΑΝΑΡΗΣ - Αναπληρωτής Γενικός Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 10800.0,
+      "totalCostWithoutVAT": 9000.0,
+      "objectDetails": [
+        {
+          "quantity": 294,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2000,
+          "vat": "6",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΜΑΠ",
+          "cpvs": [
+            {
+              "key": "18141000-9",
+              "value": "Γάντια εργασίας"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 7000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΜΑΠ",
+          "cpvs": [
+            {
+              "key": "35113440-5",
+              "value": "Ανακλαστικά γιλέκα"
+            },
+            {
+              "key": "18142000-6",
+              "value": "Προσωπίδες ασφαλείας"
+            },
+            {
+              "key": "18110000-3",
+              "value": "Ρουχισμός επαγγελματικής χρήσης"
+            },
+            {
+              "key": "18143000-3",
+              "value": "Προστατευτικά εξαρτήματα"
+            },
+            {
+              "key": "42514320-1",
+              "value": "Φίλτρα αερίων"
+            },
+            {
+              "key": "35113400-3",
+              "value": "Ρούχα προστασίας και ασφαλείας"
+            },
+            {
+              "key": "18113000-4",
+              "value": "Ρουχισμός για χρήση στη βιομηχανία"
+            },
+            {
+              "key": "31521320-3",
+              "value": "Ηλεκτρικοί φορητοί φανοί"
+            },
+            {
+              "key": "18221000-4",
+              "value": "Αδιάβροχος ρουχισμός"
+            },
+            {
+              "key": "18440000-5",
+              "value": "Καπέλα και καλύμματα κεφαλής"
+            },
+            {
+              "key": "34928460-0",
+              "value": "Οδικοί κώνοι"
+            },
+            {
+              "key": "18815400-9",
+              "value": "Ψηλές αδιάβροχες μπότες"
+            },
+            {
+              "key": "18830000-6",
+              "value": "Προστατευτικά υποδήματα"
+            },
+            {
+              "key": "37535292-0",
+              "value": "Εξοπλισμός αναρρίχησης με σχοινιά"
+            },
+            {
+              "key": "18816000-2",
+              "value": "Γαλότσες"
+            },
+            {
+              "key": "18815000-5",
+              "value": "Μπότες"
+            },
+            {
+              "key": "18444100-4",
+              "value": "Κράνη ασφαλείας"
+            },
+            {
+              "key": "35814000-3",
+              "value": "Μάσκες αερίου"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "18141000",
+        "35113440",
+        "18142000",
+        "18110000",
+        "18143000",
+        "42514320",
+        "35113400",
+        "18113000",
+        "31521320",
+        "18221000",
+        "18440000",
+        "34928460",
+        "18815400",
+        "18830000",
+        "37535292",
+        "18816000",
+        "18815000",
+        "18444100",
+        "35814000"
+      ],
+      "cpv_divisions": [
+        "18",
+        "35",
+        "42",
+        "31",
+        "34",
+        "37"
+      ],
+      "all_domains": [
+        "Clothing & PPE",
+        "Security & Defense",
+        "Industrial Machinery",
+        "Electrical Equipment & Lighting",
+        "Transport & Vehicles",
+        "Sports, Toys & Recreation Goods"
+      ],
+      "primary_domain": "Electrical Equipment & Lighting"
     }
   ]
 }

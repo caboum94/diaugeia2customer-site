@@ -1,35 +1,35 @@
 {
   "domain": "Clothing & PPE",
-  "count": 5,
+  "count": 4,
   "items": [
     {
-      "title": "Η ΥΠ'ΑΡΙΘΜ 6/2026Μ ΣΥΜΒΑΣΗ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΡΟΥΧΙΣΜΟΥ & ΕΞΟΠΛΙΣΜΟΥΤ ΜΑΠ Τ.Υ",
-      "referenceNumber": "26SYMV018474349",
+      "title": "ΣΥΜΒΑΣΗ ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΜΕΤΑΛΙΩΝ ΚΑΙ ΜΠΛΟΥΖΕΣ ΓΙΑ ΤΗΝ ΗΜ.ΦΙΛΑΘΛΟΥ ",
+      "referenceNumber": "26SYMV018482061",
       "prevReferenceNo": null,
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T15:00:03.378",
+      "submissionDate": "2026-02-13T22:04:33.035",
       "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-10",
-      "startDate": "2026-02-10",
-      "noEndDate": true,
-      "endDate": null,
+      "contractSignedDate": "2026-02-12",
+      "startDate": "2026-02-12",
+      "noEndDate": false,
+      "endDate": "2026-12-31",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "decisionRelatedAda": null,
-      "contractNumber": "6/2026",
+      "contractNumber": "50",
       "authorEmail": null,
-      "organizationVatNumber": "999389693",
-      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "996419518",
+      "greekOrganizationVatNumber": false,
       "commitmentNo": null,
       "diavgeiaADA": null,
-      "aaht": "1015.Ε00253.0001",
+      "aaht": "1020.F01369.0001",
       "budget": null,
-      "contractBudget": 6235.95,
+      "contractBudget": 23050,
       "bidsSubmitted": null,
-      "maxBidsSubmitted": 2,
+      "maxBidsSubmitted": 1,
       "numberOfSections": 1,
       "assignedContract": {
         "key": "2",
@@ -46,15 +46,15 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL51",
-            "value": "Aνατολική Μακεδονία, Θράκη"
+            "key": "EL301",
+            "value": "Βόρειος Τομέας Αθηνών"
           }
         }
       ],
       "approvedRequestsList": [],
       "organization": {
-        "key": "99221933",
-        "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΞΑΝΘΗΣ"
+        "key": "100097608",
+        "value": "ΕΘΝΙΚΗ ΟΡΓΑΝΩΤΙΚΗ ΕΠΙΤΡΟΠΗ ΑΘΛΗΤΙΚΗΣ, ΟΛΥΜΠΙΑΚΗΣ, ΠΑΡΑΟΛΥΜΠΙΑΚΗΣ ΠΑΙΔΕΙΑΣ, ΙΣΤΟΡΙΑΣ ΚΑΙ ΑΞΙΩΝ ΔΗΜΗΤΡΙΟΣ ΒΙΚΕΛΑΣ"
       },
       "procedureType": {
         "key": "6",
@@ -62,11 +62,296 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL51",
-        "value": "Aνατολική Μακεδονία, Θράκη"
+        "key": "EL301",
+        "value": "Βόρειος Τομέας Αθηνών"
       },
-      "nutsCity": "ΞΑΝΘΗ",
-      "nutsPostalCode": "67100",
+      "nutsCity": "ΜΑΡΟΥΣΙ",
+      "nutsPostalCode": "15122",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "1",
+            "value": "Συμφωνία-πλαίσιο"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "assignCriteria": {
+        "key": "9",
+        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 10,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractRelatedADA": {
+        "number1": null,
+        "number2": null,
+        "number3": "95ΔΧ46Ν2ΥΕ-0ΙΨ"
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "0899.0007"
+      },
+      "contractingDataDetails": {
+        "unitsOperator": {
+          "key": "100097624",
+          "value": "ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
+        },
+        "signers": {
+          "key": "100097625",
+          "value": "ΟΛΓΑ-ΑΝΑΣΤΑΣΙΑ ΒΑΣΔΕΚΗ - Πρόεδρος"
+        },
+        "contractingMembersDataList": [
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
+            "vatNumber": "802687000",
+            "greekVatNumber": false,
+            "name": "PRINTERY HOUSE Ο Ε"
+          }
+        ]
+      },
+      "totalCostWithVAT": 28582.0,
+      "totalCostWithoutVAT": 23050.0,
+      "objectDetailsList": [
+        {
+          "quantity": 4000,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 4000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Συμβαση για την προμήθεια μεταλιων  ΜΕΤΑΛΙΑ ΜΕ ΕΚΤΥΠΩΣΗ ΣΕ ΑΥΤΟΚΌΛΛΗΤΟ 4 ΧΡΩΜΙΑ Κ ΣΤΙΣ ΔΥΟ ΟΨΕΙΣ",
+          "cpvs": [
+            {
+              "key": "18512200-3",
+              "value": "Μετάλλια"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΜΑΡΟΥΣΙ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018482056"
+        },
+        {
+          "quantity": 2100,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 14280,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Συμβαση για την προμήθεια μπλουζων Tshirt λευκό 155γρ.\nΜε εκτύπωση κ στις δυο όψεις ( 4χρωματα) Έξτρα εκτύπωση θερμομεταφοράς λογότυπο φορέα",
+          "cpvs": [
+            {
+              "key": "18300000-2",
+              "value": "Ενδύματα"
+            },
+            {
+              "key": "18512200-3",
+              "value": "Μετάλλια"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΜΑΡΟΥΣΙ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018482056"
+        },
+        {
+          "quantity": 900,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 4770,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Συμβαση για την προμήθεια μπλουζων Tshirt λευκό 155γρ. Με εκτύπωση κ στις δυο όψεις ( 4χρωματα)",
+          "cpvs": [
+            {
+              "key": "18300000-2",
+              "value": "Ενδύματα"
+            },
+            {
+              "key": "18300000-2",
+              "value": "Ενδύματα"
+            },
+            {
+              "key": "18512200-3",
+              "value": "Μετάλλια"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΜΑΡΟΥΣΙ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018482056"
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "nextRefNo": null,
+      "nextExtended": null,
+      "nextModified": null,
+      "auctionRefNo": "26AWRD018482056",
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "18512200",
+        "18300000"
+      ],
+      "cpv_divisions": [
+        "18"
+      ],
+      "all_domains": [
+        "Clothing & PPE"
+      ],
+      "primary_domain": "Clothing & PPE"
+    },
+    {
+      "title": "ΣΥΜΒΑΣΗ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗΣ NFIS ΑΣΦΑΛΩΝ ΠΕΡΙΟΧΩΝ ΖΕΥΞΙΣ ΜΚΟ",
+      "referenceNumber": "26SYMV018481445",
+      "prevReferenceNo": null,
+      "noticeReferenceNumber": null,
+      "submissionDate": "2026-02-13T15:28:36.655",
+      "lastUpdateDate": null,
+      "contractSignedDate": "2026-01-19",
+      "startDate": "2026-01-19",
+      "noEndDate": false,
+      "endDate": "2026-03-31",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "decisionRelatedAda": null,
+      "contractNumber": "19126",
+      "authorEmail": null,
+      "organizationVatNumber": "997000871",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "diavgeiaADA": null,
+      "aaht": "9000.F01271.0001",
+      "budget": null,
+      "contractBudget": 24483.5,
+      "bidsSubmitted": null,
+      "maxBidsSubmitted": 3,
+      "numberOfSections": 3,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL303",
+            "value": "Κεντρικός Τομέας Αθηνών"
+          }
+        }
+      ],
+      "approvedRequestsList": [],
+      "organization": {
+        "key": "100059759",
+        "value": "ΖΕΥΞΙΣ Μ Κ Ο"
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "nutsCity": "ΑΘΗΝΑ",
+      "nutsPostalCode": "10677",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -96,14 +381,14 @@
         "value": "Εκτός Γενικής Κυβέρνησης"
       },
       "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
+        "key": "10",
+        "value": "ΝΠΙΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "6",
-        "value": "Υγεία"
+        "key": "8",
+        "value": "Κοινωνική προστασία"
       },
-      "contractDuration": 2,
+      "contractDuration": 3,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -111,25 +396,25 @@
       "contractRelatedADA": {
         "number1": null,
         "number2": null,
-        "number3": "91Ψ546907Ω-30Ζ"
+        "number3": "Ρ1Β746ΜΣΝΒ-3ΥΠ"
       },
       "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
+        "publicFundingRef": "ΝΑ356",
+        "publicFundingRefNum": "2025ΝΑ35600000",
+        "publicFundingRefOps": "5227108",
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "1529"
+        "regularBudgetFundedProgramRef": null
       },
       "contractingDataDetails": {
         "unitsOperator": {
-          "key": "72560",
-          "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΞΑΝΘΗΣ"
+          "key": "100060345",
+          "value": "ΖΕΥΞΙΣ ΜΚΟ"
         },
         "signers": {
-          "key": "100099652",
-          "value": "ΖΩΗ ΚΟΣΜΙΔΟΥ - Διοικητής"
+          "key": "100060348",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΝΙΚΑΣ - Διευθυντής"
         },
         "contractingMembersDataList": [
           {
@@ -137,14 +422,14 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "300803494",
-            "greekVatNumber": true,
-            "name": "ΓΙΑΝΤΣΟΥ ΜΑΡΙΑ"
+            "vatNumber": "094098385",
+            "greekVatNumber": false,
+            "name": "ALAB GLOBAL ΑΕΒΕ"
           }
         ]
       },
-      "totalCostWithVAT": 7732.58,
-      "totalCostWithoutVAT": 6235.95,
+      "totalCostWithVAT": 30359.54,
+      "totalCostWithoutVAT": 24483.5,
       "objectDetailsList": [
         {
           "quantity": 1,
@@ -152,17 +437,17 @@
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 6235.95,
+          "costWithoutVAT": 14358.5,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Προμήθεια Ρουχισμού & Εξοπλισμού (ΜΑΠ) της Τ.Υ",
+          "shortDescription": "ΣΥΜΒΑΣΗ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗΣ «Προμήθεια και τμηματική παράδοση  ειδών ένδυσης, υπόδησης» βάσει των αναγκών υλοποίησης του έργου «Ενίσχυση του συστήματος προστασίας ασυνόδευτων ανηλίκων και ευάλωτων γυναικών αιτούντων και δικαιούχων διεθνούς προστασίας» με ΟΠΣ 5227108.",
           "cpvs": [
             {
-              "key": "18100000-0",
-              "value": "Ρουχισμός επαγγελματικής χρήσης"
+              "key": "18230000-0",
+              "value": "Διάφορα είδη ρουχισμού"
             }
           ],
           "greenContracts": {
@@ -177,193 +462,28 @@
           },
           "addressForDelivery": null,
           "postalCode": null,
-          "city": "ΞΑΝΘΗ",
+          "city": "ΑΘΗΝΑ",
           "streetNumber": null,
           "budgetCode": null,
-          "requestRefNo": "26AWRD018474331"
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "26AWRD018474331",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "99221933",
-        "18100000"
-      ],
-      "cpv_divisions": [
-        "18"
-      ],
-      "all_domains": [
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Clothing & PPE"
-    },
-    {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΣΤΟΛΩΝ ΚΑΙ ΑΠΟΚΡΙΑΤΙΚΩΝ ΕΙΔΩΝ ΣΤO ΠΛΑΙΣΙΟ  ΤΩΝ ΑΠΟΚΡΙΑΤΙΚΩΝ ΕΚΔΗΛΩΣΕΩΝ ΤΟΥ ΔΗΜΟΥ ΑΚΤΙΟΥ ΒΟ",
-      "referenceNumber": "26SYMV018472350",
-      "prevReferenceNo": null,
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T12:13:15.901",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-12",
-      "startDate": "2026-02-12",
-      "noEndDate": false,
-      "endDate": "2026-02-23",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "1915",
-      "authorEmail": null,
-      "organizationVatNumber": "099202692",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1007.Ε83802.0001",
-      "budget": null,
-      "contractBudget": 3748.79,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 2,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL631",
-            "value": "Αιτωλοακαρνανία"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "6017",
-        "value": "ΔΗΜΟΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ"
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL631",
-        "value": "Αιτωλοακαρνανία"
-      },
-      "nutsCity": "ΒΟΝΙΤΣΑ",
-      "nutsPostalCode": "30002",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "assignCriteria": {
-        "key": "13",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
-      },
-      "contractDuration": 20,
-      "contractDurationUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "96Κ2Ω6Ζ-ΨΘΗ ΡΕΡ8Ω6Ζ-Χ1Γ ΡΥ1ΜΩ6Ζ-ΘΟΖ"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "015.2.4.2.09.08.001 002 003"
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "93482",
-          "value": "ΤΕΧΝΙΚΗ ΥΠΗΡΕΣΙΑ"
+          "requestRefNo": "26AWRD018361081"
         },
-        "signers": {
-          "key": "100084471",
-          "value": "ΣΠΥΡΙΔΩΝ ΤΟΜΑΡΑΣ - Αντιδήμαρχος"
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "132165523",
-            "greekVatNumber": false,
-            "name": "ΧΟΥΝΟΥ ΝΙΚΟΛΕΤΤΑ"
-          }
-        ]
-      },
-      "totalCostWithVAT": 4648.5,
-      "totalCostWithoutVAT": 3748.79,
-      "objectDetailsList": [
         {
-          "quantity": 1741,
+          "quantity": 1,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 3748.79,
+          "costWithoutVAT": 4307,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Προμήθεια στολών και αποκριάτικων ειδών για τις αποκριάτικες εκδηλώσεις της ΔΕ Ανακτορίου,  ΔΕ Παλαίρου  και Μεδεώνος του Δήμου Ακτίου- Βόνιτσας",
+          "shortDescription": "ΣΥΜΒΑΣΗ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗΣ «Προμήθεια και τμηματική παράδοση ειδών ατομικής υγιεινής» βάσει των αναγκών υλοποίησης του έργου «Ενίσχυση του συστήματος προστασίας ασυνόδευτων ανηλίκων και ευάλωτων γυναικών αιτούντων και δικαιούχων διεθνούς προστασίας» με ΟΠΣ 5227108.",
           "cpvs": [
             {
-              "key": "18400000-3",
-              "value": "Ειδικά ενδύματα και εξαρτήματα ένδυσης"
+              "key": "33700000-7",
+              "value": "Προϊόντα ατομικής περιποίησης"
             }
           ],
           "greenContracts": {
@@ -378,10 +498,46 @@
           },
           "addressForDelivery": null,
           "postalCode": null,
-          "city": "ΒΟΝΙΤΣΑ",
+          "city": "ΑΘΗΝΑ",
           "streetNumber": null,
           "budgetCode": null,
-          "requestRefNo": "26AWRD018472173"
+          "requestRefNo": "26AWRD018361081"
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 5818,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΣΥΜΒΑΣΗ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗΣ «Προμήθεια και τμηματική παράδοση λευκών ειδών» βάσει των αναγκών υλοποίησης του έργου «Ενίσχυση του συστήματος προστασίας ασυνόδευτων ανηλίκων και ευάλωτων γυναικών αιτούντων και δικαιούχων διεθνούς προστασίας» με ΟΠΣ 5227108.",
+          "cpvs": [
+            {
+              "key": "39510000-0",
+              "value": "Είδη κλωστοϋφαντουργίας οικιακής χρήσης"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018361081"
         }
       ],
       "additionalContractTypes": null,
@@ -390,439 +546,43 @@
       "nextRefNo": null,
       "nextExtended": null,
       "nextModified": null,
-      "auctionRefNo": "26AWRD018472173",
+      "auctionRefNo": "26AWRD018361081",
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "18400000"
+        "18230000",
+        "33700000",
+        "39510000"
       ],
       "cpv_divisions": [
-        "18"
+        "18",
+        "33",
+        "39"
       ],
       "all_domains": [
-        "Clothing & PPE"
+        "Clothing & PPE",
+        "Medical & Pharma",
+        "Furniture & Cleaning Products"
       ],
-      "primary_domain": "Clothing & PPE"
+      "primary_domain": "Medical & Pharma"
     },
     {
-      "title": "3_2026 ΣΥΜΒΑΣΗ",
-      "referenceNumber": "26SYMV018472153",
+      "title": "ΠΡΟΜΗΘΕΙΑ ΜΕΣΩΝ ΑΤΟΜΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ( ΜΑΠ 2025-2026) (ΕΙΔΟΣ  7-10-21-22-25-31-37-40-42-47)",
+      "referenceNumber": "26SYMV018477059",
       "prevReferenceNo": null,
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T12:05:06.31",
+      "submissionDate": "2026-02-13T10:37:43.926",
       "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-12",
+      "contractSignedDate": "2026-02-10",
       "startDate": "2026-02-13",
       "noEndDate": false,
-      "endDate": "2027-02-12",
+      "endDate": "2028-02-09",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "decisionRelatedAda": null,
-      "contractNumber": "3_2026",
-      "authorEmail": null,
-      "organizationVatNumber": "999681575",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1015.E00273.0001",
-      "budget": null,
-      "contractBudget": 24692.24,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 2,
-      "numberOfSections": 6,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL",
-            "value": "ΕΛΛΑΔΑ"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "99222012",
-        "value": "ΠΕΡΙΦ. ΠΑΝΕΠΙΣΤ. ΓΕΝ. ΝΟΣΟΚ. ΛΑΡΙΣΑΣ"
-      },
-      "procedureType": {
-        "key": "1",
-        "value": "Ανοιχτή διαδικασία"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "nutsCity": "ΛΑΡΙΣΑ",
-      "nutsPostalCode": "41110",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "assignCriteria": {
-        "key": "13",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "3",
-        "value": "ΟΚΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "6",
-        "value": "Υγεία"
-      },
-      "contractDuration": 12,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "Ψ8Ν0469060-ΧΙΕ"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "1139/24101110001001"
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "91863",
-          "value": "ΤΜΗΜΑ ΠΡΟΜΗΘΕΙΩΝ"
-        },
-        "signers": {
-          "key": "100098362",
-          "value": "ΜΑΙΡΗ ΚΟΥΤΣΙΟΥΜΠΑ - Διοικητής"
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "093781188",
-            "greekVatNumber": false,
-            "name": "«KARTEX» "
-          }
-        ]
-      },
-      "totalCostWithVAT": 19808.38,
-      "totalCostWithoutVAT": 15974.5,
-      "objectDetailsList": [
-        {
-          "quantity": 1300,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 15974.5,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "«Είδη και εξαρτήματα ρουχισμού, υπόδησης, αποσκευών» ",
-          "cpvs": [
-            {
-              "key": "18000000-9",
-              "value": "Είδη και εξαρτήματα ρουχισμού"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΛΑΡΙΣΑ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018360319"
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "26AWRD018360319",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "99222012",
-        "18000000"
-      ],
-      "cpv_divisions": [
-        "18"
-      ],
-      "all_domains": [
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Clothing & PPE"
-    },
-    {
-      "title": "Προμήθεια Ρουχισμού & Εξοπλισμού (ΜΑΠ) της Τ.Υ. ",
-      "referenceNumber": "26SYMV018470243",
-      "prevReferenceNo": null,
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T10:26:15.369",
-      "lastUpdateDate": "2026-02-12",
-      "contractSignedDate": "2026-02-10",
-      "startDate": "2026-02-10",
-      "noEndDate": true,
-      "endDate": null,
-      "cancelled": true,
-      "cancellationDate": "2026-02-12T14:40:15.461",
-      "cancellationType": "Ακύρωση λόγω λανθασμένης καταχώρησης",
-      "cancellationReason": "ΛΑΘΟΣ ΕΠΙΣΥΝΑΨΗ ΑΡΧΕΙΟΥ",
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "6",
-      "authorEmail": null,
-      "organizationVatNumber": "999389693",
-      "greekOrganizationVatNumber": true,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1015.Ε00253.0001",
-      "budget": null,
-      "contractBudget": 6235.95,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 2,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL51",
-            "value": "Aνατολική Μακεδονία, Θράκη"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "99221933",
-        "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΞΑΝΘΗΣ"
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL51",
-        "value": "Aνατολική Μακεδονία, Θράκη"
-      },
-      "nutsCity": "ΞΑΝΘΗ",
-      "nutsPostalCode": "67100",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "assignCriteria": {
-        "key": "13",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "6",
-        "value": "Υγεία"
-      },
-      "contractDuration": 2,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "91Ψ546907Ω-30Ζ"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "1529"
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "72560",
-          "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΞΑΝΘΗΣ"
-        },
-        "signers": {
-          "key": "100099652",
-          "value": "ΖΩΗ ΚΟΣΜΙΔΟΥ - Διοικητής"
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "300803494",
-            "greekVatNumber": true,
-            "name": "ΓΙΑΝΤΣΟΥ ΜΑΡΙΑ"
-          }
-        ]
-      },
-      "totalCostWithVAT": 7732.58,
-      "totalCostWithoutVAT": 6235.95,
-      "objectDetailsList": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 6235.95,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια Ρουχισμού & Εξοπλισμού (ΜΑΠ) της Τ.Υ. ",
-          "cpvs": [
-            {
-              "key": "18100000-0",
-              "value": "Ρουχισμός επαγγελματικής χρήσης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΞΑΝΘΗ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": null,
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "99221933",
-        "18100000"
-      ],
-      "cpv_divisions": [
-        "18"
-      ],
-      "all_domains": [
-        "Clothing & PPE"
-      ],
-      "primary_domain": "Clothing & PPE"
-    },
-    {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΜΕΣΩΝ ΑΤΟΜΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ( ΜΑΠ 2025-2026) (ΕΙΔΟΣ  1-6-11)",
-      "referenceNumber": "26SYMV018468886",
-      "prevReferenceNo": null,
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T09:12:13.567",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-10",
-      "startDate": "2026-02-12",
-      "noEndDate": false,
-      "endDate": "2026-02-12",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "3881",
+      "contractNumber": "3979",
       "authorEmail": null,
       "organizationVatNumber": "997769577",
       "greekOrganizationVatNumber": true,
@@ -940,9 +700,27 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "802529532",
+            "vatNumber": "094191520",
             "greekVatNumber": true,
-            "name": "ΚΑΠΡΑΓΚΟΣ ΚΑΙ ΣΙΑ Ε.Ε"
+            "name": "ΒΑΝΟΣ ΕΜΠΟΡΙΚΗ ΕΙΣΑΓΩΓΙΚΗ ΕΞΑΓΩΓΙΚΗ Α.Ε"
+          },
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
+            "vatNumber": "997993920",
+            "greekVatNumber": true,
+            "name": "ΓΙΟΥΚΑ ΑΕ"
+          },
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
+            "vatNumber": "800457573",
+            "greekVatNumber": true,
+            "name": "SPARTAN PARTNERS IKE  "
           },
           {
             "country": {
@@ -967,33 +745,6 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "067316559",
-            "greekVatNumber": true,
-            "name": "ΜΙΧΟΥ ΖΗΝΟΒΙΑ"
-          },
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "800457573",
-            "greekVatNumber": true,
-            "name": "SPARTAN PARTNERS IKE  "
-          },
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "094191520",
-            "greekVatNumber": true,
-            "name": "ΒΑΝΟΣ ΕΜΠΟΡΙΚΗ ΕΙΣΑΓΩΓΙΚΗ ΕΞΑΓΩΓΙΚΗ Α.Ε"
-          },
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
             "vatNumber": "140412317",
             "greekVatNumber": true,
             "name": "ΜΟΣΧΟΒΙΔΗ ΓΕΩΡΓΙΑ"
@@ -1003,9 +754,9 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "997993920",
+            "vatNumber": "802529532",
             "greekVatNumber": true,
-            "name": "ΓΙΟΥΚΑ ΑΕ"
+            "name": "ΚΑΠΡΑΓΚΟΣ ΚΑΙ ΣΙΑ Ε.Ε"
           },
           {
             "country": {
@@ -1021,14 +772,23 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
+            "vatNumber": "067316559",
+            "greekVatNumber": true,
+            "name": "ΜΙΧΟΥ ΖΗΝΟΒΙΑ"
+          },
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
             "vatNumber": "801461326",
             "greekVatNumber": true,
             "name": "ZERO DLG IKE"
           }
         ]
       },
-      "totalCostWithVAT": 18413.26,
-      "totalCostWithoutVAT": 14849.4,
+      "totalCostWithVAT": 43740.14,
+      "totalCostWithoutVAT": 35274.31,
       "objectDetailsList": [
         {
           "quantity": 129404,
@@ -1036,7 +796,7 @@
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 14849.4,
+          "costWithoutVAT": 35274.31,
           "vat": "24",
           "currency": {
             "key": "EUR",
@@ -1085,6 +845,210 @@
         "Clothing & PPE"
       ],
       "primary_domain": "Clothing & PPE"
+    },
+    {
+      "title": "1127/2026",
+      "referenceNumber": "26SYMV018475151",
+      "prevReferenceNo": null,
+      "noticeReferenceNumber": null,
+      "submissionDate": "2026-02-13T08:29:46.261",
+      "lastUpdateDate": null,
+      "contractSignedDate": "2026-02-12",
+      "startDate": "2026-02-12",
+      "noEndDate": true,
+      "endDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "decisionRelatedAda": null,
+      "contractNumber": "1127/2026",
+      "authorEmail": null,
+      "organizationVatNumber": "999332756",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "diavgeiaADA": null,
+      "aaht": "1015.Ε00151.0001  ",
+      "budget": null,
+      "contractBudget": 3850,
+      "bidsSubmitted": null,
+      "maxBidsSubmitted": 1,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL30",
+            "value": "Aττική"
+          }
+        }
+      ],
+      "approvedRequestsList": [],
+      "organization": {
+        "key": "99221992",
+        "value": "ΠΕΡ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ 'Γ. ΓΕΝΝΗΜΑΤΑΣ'"
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL30",
+        "value": "Aττική"
+      },
+      "nutsCity": "ΑΘΗΝΑ",
+      "nutsPostalCode": "11527",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "assignCriteria": {
+        "key": "13",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "6",
+        "value": "Υγεία"
+      },
+      "contractDuration": 3,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractRelatedADA": {
+        "number1": null,
+        "number2": null,
+        "number3": "ΡΠΟΓ4690ΩΝ-Β56"
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "18021001"
+      },
+      "contractingDataDetails": {
+        "unitsOperator": {
+          "key": "73103",
+          "value": "ΟΙΚΟΝΟΜΙΚΟ ΤΜΗΜΑ - ΔΙΑΧΕΙΡΙΣΗ ΥΛΙΚΟΥ"
+        },
+        "signers": {
+          "key": "100032950",
+          "value": "ΜΑΪΝΑ ΑΝΝΑ - Αναπληρωτής Διοικητής"
+        },
+        "contractingMembersDataList": [
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
+            "vatNumber": "800672760",
+            "greekVatNumber": false,
+            "name": "NEURO SPINE ΙΚΕ"
+          }
+        ]
+      },
+      "totalCostWithVAT": 3850.0,
+      "totalCostWithoutVAT": 3850.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 3850,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΥΓΕΙΟΝΟΜΙΚΑ ΥΛΙΚΑ",
+          "cpvs": [
+            {
+              "key": "33140000-3",
+              "value": "Ιατρικά αναλώσιμα"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018475142"
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "nextRefNo": null,
+      "nextExtended": null,
+      "nextModified": null,
+      "auctionRefNo": "26AWRD018475142",
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "99221992",
+        "18021001",
+        "33140000"
+      ],
+      "cpv_divisions": [
+        "18",
+        "33"
+      ],
+      "all_domains": [
+        "Clothing & PPE",
+        "Medical & Pharma"
+      ],
+      "primary_domain": "Medical & Pharma"
     }
   ]
 }

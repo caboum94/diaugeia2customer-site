@@ -1,25 +1,2155 @@
 {
   "domain": "Transport Support & Travel",
-  "count": 22,
+  "count": 16,
   "items": [
     {
-      "title": " ανάληψης υποχρέωσης υπηρεσίες στάθμευσης",
-      "referenceNumber": "26REQ018473995",
-      "previousRequestReferenceNumber": "23REQ014035533",
+      "title": "ΑΑΥ για το έτος 2026 για την \"Παροχή Υπηρεσιών Μετακίνησης και Διαμονής\"",
+      "referenceNumber": "26REQ018481731",
+      "previousRequestReferenceNumber": "25REQ017331289",
+      "signedDate": "2026-01-13",
+      "lastUpdateDate": "2025-08-01T00:00:00",
+      "submissionDate": "2026-02-13T16:50:55.458",
+      "procurementDeliveryDate": "2026-08-01",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "35, 977",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090196690",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "99221221",
+        "value": "ΕΘΝΙΚΗ ΛΥΡΙΚΗ ΣΚΗΝΗ"
+      },
+      "nutsCode": {
+        "key": "EL304",
+        "value": "Νότιος Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1022.E00370.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "84976",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+        },
+        "signers": {
+          "key": "100081368",
+          "value": "ΧΑΡΙΤΩΝ ΣΤΑΥΡΟΠΟΥΛΟΣ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "totalCostWithVAT": 331090.0,
+      "totalCostWithoutVAT": 293000.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 293000,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΑΥ για το έτος 2026 για την «Παροχή Υπηρεσιών Μετακίνησης και Διαμονής» ",
+          "cpvs": [
+            {
+              "key": "63510000-7",
+              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99221221",
+        "63510000"
+      ],
+      "cpv_divisions": [
+        "63"
+      ],
+      "all_domains": [
+        "Transport Support & Travel"
+      ],
+      "primary_domain": "Transport Support & Travel"
+    },
+    {
+      "title": "ΕΓΚΡΙΣΗ  ΔΑΠΑΝΗΣ ΣΥΝΔ/ΣΗΣ ΤΗΣ ΠΕΡ ΜΕ ΤΟ ΤΜΗΜΑ ΨΥΧΟΛΟΓΙΑΣ ΠΑΝΕΠΙΣΤ. ΚΡΗΤΗΣ ΠΟΛΙΤΙΣΤΙΚΗΣ ΕΚΔΗΛΩΣΗΣ",
+      "referenceNumber": "26REQ018481200",
+      "previousRequestReferenceNumber": "25REQ017557871",
+      "signedDate": "2026-01-01",
+      "lastUpdateDate": "2025-09-25T00:00:00",
+      "submissionDate": "2026-02-13T14:53:15.712",
+      "procurementDeliveryDate": "2026-02-13",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "47073",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "997579388",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "5010",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL43",
+        "value": "Κρήτη"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.F01328.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100065910",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΠΟΛΙΤΙΣΜΟΥ ΚΑΙ ΑΘΛΗΤΙΣΜΟΥ"
+        },
+        "signers": {
+          "key": "111549",
+          "value": "ΜΑΡΙΑ ΛΙΟΝΗ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+        }
+      },
+      "totalCostWithVAT": 1628.47,
+      "totalCostWithoutVAT": 1498.65,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 896,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Συνδ/ση με το Τμήμα Ψυχολογίας του Πανεπιστημίου Κρήτης της πολιτιστικής εκδήλωσης με τίτλο «Όταν οι Νευροεπιστήμες συνάντησαν την Ψυχολογία στην Ελλάδα: Τιμητική εκδήλωση για τον Ανδρέα Καστελλάκη» (Ρέθυμνο, 28 Νοεμβρίου 2025). Σκοπός της εκδήλωσης είναι η διερεύνηση επιστημονικών εξελίξεων στο πεδίο της σχέσης νευροεπιστημών  και ψυχολογίας & η απόδοση τιμής στον Καθηγητή  κ. Ανδρέα Καστελλάκη.",
+          "cpvs": [
+            {
+              "key": "55320000-9",
+              "value": "Υπηρεσίες παροχής γευμάτων"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 500,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Συνδ/ση με το Τμήμα Ψυχολογίας του Πανεπιστημίου Κρήτης της πολιτιστικής εκδήλωσης με τίτλο «Όταν οι Νευροεπιστήμες συνάντησαν την Ψυχολογία στην Ελλάδα: Τιμητική εκδήλωση για τον Ανδρέα Καστελλάκη» (Ρέθυμνο, 28 Νοεμβρίου 2025). Σκοπός της εκδήλωσης είναι η διερεύνηση επιστημονικών εξελίξεων στο πεδίο της σχέσης νευροεπιστημών  και ψυχολογίας & η απόδοση τιμής στον Καθηγητή  κ. Ανδρέα Καστελλάκη.",
+          "cpvs": [
+            {
+              "key": "63510000-7",
+              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 102.65,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Συνδ/ση με το Τμήμα Ψυχολογίας του Πανεπιστημίου Κρήτης της πολιτιστικής εκδήλωσης με τίτλο «Όταν οι Νευροεπιστήμες συνάντησαν την Ψυχολογία στην Ελλάδα: Τιμητική εκδήλωση για τον Ανδρέα Καστελλάκη» (Ρέθυμνο, 28 Νοεμβρίου 2025). Σκοπός της εκδήλωσης είναι η διερεύνηση επιστημονικών εξελίξεων στο πεδίο της σχέσης νευροεπιστημών  και ψυχολογίας & η απόδοση τιμής στον Καθηγητή  κ. Ανδρέα Καστελλάκη.",
+          "cpvs": [
+            {
+              "key": "55100000-1",
+              "value": "Υπηρεσίες ξενοδοχείων"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "2",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "mixedContract": true,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "55320000",
+        "63510000",
+        "55100000"
+      ],
+      "cpv_divisions": [
+        "55",
+        "63"
+      ],
+      "all_domains": [
+        "Hospitality, Retail & Catering Services",
+        "Transport Support & Travel"
+      ],
+      "primary_domain": "Transport Support & Travel"
+    },
+    {
+      "title": "ΑΙΤΗΜΑ ΕΓΚΡΙΣΗΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ",
+      "referenceNumber": "26REQ018479805",
+      "previousRequestReferenceNumber": "26REQ018479780",
+      "signedDate": "2026-01-28",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T13:19:10.651",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "04933",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090071277",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "99206913",
+        "value": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL61",
+        "value": "Θεσσαλία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1020. Ε00678.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "73398",
+          "value": "ΜΟΝΑΔΑ ΟΙΚΟΝΟΜΙΚΗΣ ΚΑΙ ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΕΛΚΕ"
+        },
+        "signers": {
+          "key": "100081630",
+          "value": "ΙΩΑΝΝΗΣ ΣΤΕΦΑΝΙΔΗΣ - Πρόεδρος της Επιτροπής Ερευνών – Αντιπρύτανης"
+        }
+      },
+      "totalCostWithVAT": 18330.0,
+      "totalCostWithoutVAT": 18330.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 18330,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΠΙΠΛΑ ΚΑΙ ΛΟΙΠΟΣ ΕΞΟΠΛΙΣΜΟΣ, ΑΜΟΙΒΕΣ ΚΑΙ ΠΑΡΟΧΕΣ ΤΡΙΤΩΝ, ΔΙΑΦΟΡΑ ΕΞΟΔΑ",
+          "cpvs": [
+            {
+              "key": "33100000-1",
+              "value": "Ιατρικές συσκευές"
+            },
+            {
+              "key": "39100000-3",
+              "value": "Έπιπλα"
+            },
+            {
+              "key": "64000000-6",
+              "value": "Υπηρεσίες ταχυδρομείων και τηλεπικοινωνιών"
+            },
+            {
+              "key": "30192700-8",
+              "value": "Γραφική ύλη"
+            },
+            {
+              "key": "55300000-3",
+              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
+            },
+            {
+              "key": "63510000-7",
+              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
+            },
+            {
+              "key": "50000000-5",
+              "value": "Υπηρεσίες επισκευής και συντήρησης"
+            },
+            {
+              "key": "55100000-1",
+              "value": "Υπηρεσίες ξενοδοχείων"
+            },
+            {
+              "key": "39700000-9",
+              "value": "Οικιακές συσκευές"
+            },
+            {
+              "key": "41100000-0",
+              "value": "Φυσικό νερό"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99206913",
+        "33100000",
+        "39100000",
+        "64000000",
+        "30192700",
+        "55300000",
+        "63510000",
+        "50000000",
+        "55100000",
+        "39700000",
+        "41100000"
+      ],
+      "cpv_divisions": [
+        "33",
+        "39",
+        "64",
+        "30",
+        "55",
+        "63",
+        "50",
+        "41"
+      ],
+      "all_domains": [
+        "Medical & Pharma",
+        "Furniture & Cleaning Products",
+        "Postal & Telecommunications Services",
+        "Office & Computing (Non-Software)",
+        "Hospitality, Retail & Catering Services",
+        "Transport Support & Travel",
+        "Repair & Maintenance",
+        "Water"
+      ],
+      "primary_domain": "Postal & Telecommunications Services"
+    },
+    {
+      "title": "ΑΙΤΗΜΑ ΕΓΚΡΙΣΗΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ",
+      "referenceNumber": "26REQ018479780",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-01-28",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T13:17:42.977",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "04933",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090071277",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "99206913",
+        "value": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL61",
+        "value": "Θεσσαλία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1020. Ε00678.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "73398",
+          "value": "ΜΟΝΑΔΑ ΟΙΚΟΝΟΜΙΚΗΣ ΚΑΙ ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΕΛΚΕ"
+        },
+        "signers": {
+          "key": "100081630",
+          "value": "ΙΩΑΝΝΗΣ ΣΤΕΦΑΝΙΔΗΣ - Πρόεδρος της Επιτροπής Ερευνών – Αντιπρύτανης"
+        }
+      },
+      "totalCostWithVAT": 18330.0,
+      "totalCostWithoutVAT": 18330.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 18330,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΠΙΠΛΑ ΚΑΙ ΛΟΙΠΟΣ ΕΞΟΠΛΙΣΜΟΣ, ΑΜΟΙΒΕΣ ΚΑΙ ΠΑΡΟΧΕΣ ΤΡΙΤΩΝ, ΔΙΑΦΟΡΑ ΕΞΟΔΑ",
+          "cpvs": [
+            {
+              "key": "33100000-1",
+              "value": "Ιατρικές συσκευές"
+            },
+            {
+              "key": "50000000-5",
+              "value": "Υπηρεσίες επισκευής και συντήρησης"
+            },
+            {
+              "key": "64000000-6",
+              "value": "Υπηρεσίες ταχυδρομείων και τηλεπικοινωνιών"
+            },
+            {
+              "key": "39100000-3",
+              "value": "Έπιπλα"
+            },
+            {
+              "key": "41100000-0",
+              "value": "Φυσικό νερό"
+            },
+            {
+              "key": "30192700-8",
+              "value": "Γραφική ύλη"
+            },
+            {
+              "key": "55100000-1",
+              "value": "Υπηρεσίες ξενοδοχείων"
+            },
+            {
+              "key": "39700000-9",
+              "value": "Οικιακές συσκευές"
+            },
+            {
+              "key": "63510000-7",
+              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
+            },
+            {
+              "key": "55300000-3",
+              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018479805"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99206913",
+        "33100000",
+        "50000000",
+        "64000000",
+        "39100000",
+        "41100000",
+        "30192700",
+        "55100000",
+        "39700000",
+        "63510000",
+        "55300000"
+      ],
+      "cpv_divisions": [
+        "33",
+        "50",
+        "64",
+        "39",
+        "41",
+        "30",
+        "55",
+        "63"
+      ],
+      "all_domains": [
+        "Medical & Pharma",
+        "Repair & Maintenance",
+        "Postal & Telecommunications Services",
+        "Furniture & Cleaning Products",
+        "Water",
+        "Office & Computing (Non-Software)",
+        "Hospitality, Retail & Catering Services",
+        "Transport Support & Travel"
+      ],
+      "primary_domain": "Postal & Telecommunications Services"
+    },
+    {
+      "title": "ΑΙΤΗΜΑ ΕΓΚΡΙΣΗΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ",
+      "referenceNumber": "26REQ018479623",
+      "previousRequestReferenceNumber": "26REQ018479593",
+      "signedDate": "2026-01-28",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T13:09:02.863",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "04932",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090071277",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "99206913",
+        "value": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL61",
+        "value": "Θεσσαλία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1020. Ε00678.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "73398",
+          "value": "ΜΟΝΑΔΑ ΟΙΚΟΝΟΜΙΚΗΣ ΚΑΙ ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΕΛΚΕ"
+        },
+        "signers": {
+          "key": "100081630",
+          "value": "ΙΩΑΝΝΗΣ ΣΤΕΦΑΝΙΔΗΣ - Πρόεδρος της Επιτροπής Ερευνών – Αντιπρύτανης"
+        }
+      },
+      "totalCostWithVAT": 20750.0,
+      "totalCostWithoutVAT": 20750.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 20750,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΠΙΠΛΑ ΚΑΙ ΛΟΙΠΟΣ ΕΞΟΠΛΙΣΜΟΣ, ΑΜΟΙΒΕΣ ΤΡΙΤΩΝ, ΔΙΑΦΟΡΑ ΕΞΟΔΑ",
+          "cpvs": [
+            {
+              "key": "30200000-1",
+              "value": "Εξοπλισμός ηλεκτρονικών υπολογιστών και προμήθειες"
+            },
+            {
+              "key": "30237000-9",
+              "value": "Μέρη"
+            },
+            {
+              "key": "79800000-2",
+              "value": "Υπηρεσίες εκτύπωσης και συναφείς υπηρεσίες"
+            },
+            {
+              "key": "30192700-8",
+              "value": "Γραφική ύλη"
+            },
+            {
+              "key": "32000000-3",
+              "value": "Εξοπλισμός ραδιοφωνίας"
+            },
+            {
+              "key": "63510000-7",
+              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
+            },
+            {
+              "key": "44423000-1",
+              "value": "Διάφορα είδη"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99206913",
+        "30200000",
+        "30237000",
+        "79800000",
+        "30192700",
+        "32000000",
+        "63510000",
+        "44423000"
+      ],
+      "cpv_divisions": [
+        "30",
+        "79",
+        "32",
+        "63",
+        "44"
+      ],
+      "all_domains": [
+        "Office & Computing (Non-Software)",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Telecom & Electronics",
+        "Transport Support & Travel",
+        "Construction Materials & Structures"
+      ],
+      "primary_domain": "Construction Materials & Structures"
+    },
+    {
+      "title": "ΑΙΤΗΜΑ ΕΓΚΡΙΣΗΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ",
+      "referenceNumber": "26REQ018479593",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-01-28",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T13:07:38.9",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "04932",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090071277",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "99206913",
+        "value": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL61",
+        "value": "Θεσσαλία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1020. Ε00678.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "73398",
+          "value": "ΜΟΝΑΔΑ ΟΙΚΟΝΟΜΙΚΗΣ ΚΑΙ ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΕΛΚΕ"
+        },
+        "signers": {
+          "key": "100081630",
+          "value": "ΙΩΑΝΝΗΣ ΣΤΕΦΑΝΙΔΗΣ - Πρόεδρος της Επιτροπής Ερευνών – Αντιπρύτανης"
+        }
+      },
+      "totalCostWithVAT": 20750.0,
+      "totalCostWithoutVAT": 20750.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 20750,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΠΙΠΛΑ ΚΑΙ ΛΟΙΠΟΣ ΕΞΟΠΛΙΣΜΟΣ, ΑΜΟΙΒΕΣ ΤΡΙΤΩΝ, ΔΙΑΦΟΡΑ ΕΞΟΔΑ",
+          "cpvs": [
+            {
+              "key": "63510000-7",
+              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
+            },
+            {
+              "key": "30200000-1",
+              "value": "Εξοπλισμός ηλεκτρονικών υπολογιστών και προμήθειες"
+            },
+            {
+              "key": "30192700-8",
+              "value": "Γραφική ύλη"
+            },
+            {
+              "key": "79800000-2",
+              "value": "Υπηρεσίες εκτύπωσης και συναφείς υπηρεσίες"
+            },
+            {
+              "key": "44423000-1",
+              "value": "Διάφορα είδη"
+            },
+            {
+              "key": "30237000-9",
+              "value": "Μέρη"
+            },
+            {
+              "key": "32000000-3",
+              "value": "Εξοπλισμός ραδιοφωνίας"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018479623"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99206913",
+        "63510000",
+        "30200000",
+        "30192700",
+        "79800000",
+        "44423000",
+        "30237000",
+        "32000000"
+      ],
+      "cpv_divisions": [
+        "63",
+        "30",
+        "79",
+        "44",
+        "32"
+      ],
+      "all_domains": [
+        "Transport Support & Travel",
+        "Office & Computing (Non-Software)",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Construction Materials & Structures",
+        "Telecom & Electronics"
+      ],
+      "primary_domain": "Construction Materials & Structures"
+    },
+    {
+      "title": "ΑΙΤΗΜΑ ΕΓΚΡΙΣΗΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ",
+      "referenceNumber": "26REQ018479409",
+      "previousRequestReferenceNumber": "26REQ018479378",
+      "signedDate": "2026-01-21",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T12:57:23.812",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "03565",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090071277",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "99206913",
+        "value": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL61",
+        "value": "Θεσσαλία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1020. Ε00678.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "73398",
+          "value": "ΜΟΝΑΔΑ ΟΙΚΟΝΟΜΙΚΗΣ ΚΑΙ ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΕΛΚΕ"
+        },
+        "signers": {
+          "key": "100081630",
+          "value": "ΙΩΑΝΝΗΣ ΣΤΕΦΑΝΙΔΗΣ - Πρόεδρος της Επιτροπής Ερευνών – Αντιπρύτανης"
+        }
+      },
+      "totalCostWithVAT": 9066.66,
+      "totalCostWithoutVAT": 9066.66,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 9066.66,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΠΙΠΛΑ ΚΑΙ ΛΟΙΠΟΣ ΕΞΟΠΛΙΣΜΟΣ, ΑΜΟΙΒΕΣ ΚΑΙ ΠΑΡΟΧΕΣ ΤΡΙΤΩΝ, ΔΙΑΦΟΡΑ ΕΞΟΔΑ",
+          "cpvs": [
+            {
+              "key": "55300000-3",
+              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
+            },
+            {
+              "key": "79340000-9",
+              "value": "Υπηρεσίες διαφήμισης και μάρκετινγκ"
+            },
+            {
+              "key": "63515000-2",
+              "value": "Ταξιδιωτικές υπηρεσίες"
+            },
+            {
+              "key": "90900000-6",
+              "value": "Υπηρεσίες καθαρισμού και απολύμανσης"
+            },
+            {
+              "key": "44423000-1",
+              "value": "Διάφορα είδη"
+            },
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            },
+            {
+              "key": "30192700-8",
+              "value": "Γραφική ύλη"
+            },
+            {
+              "key": "30200000-1",
+              "value": "Εξοπλισμός ηλεκτρονικών υπολογιστών και προμήθειες"
+            },
+            {
+              "key": "64000000-6",
+              "value": "Υπηρεσίες ταχυδρομείων και τηλεπικοινωνιών"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99206913",
+        "55300000",
+        "79340000",
+        "63515000",
+        "90900000",
+        "44423000",
+        "15000000",
+        "30192700",
+        "30200000",
+        "64000000"
+      ],
+      "cpv_divisions": [
+        "55",
+        "79",
+        "63",
+        "90",
+        "44",
+        "15",
+        "30",
+        "64"
+      ],
+      "all_domains": [
+        "Hospitality, Retail & Catering Services",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Transport Support & Travel",
+        "Environmental, Cleaning & Waste Services",
+        "Construction Materials & Structures",
+        "Food & Catering",
+        "Office & Computing (Non-Software)",
+        "Postal & Telecommunications Services"
+      ],
+      "primary_domain": "Construction Materials & Structures"
+    },
+    {
+      "title": "ΑΙΤΗΜΑ ΕΓΚΡΙΣΗΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ",
+      "referenceNumber": "26REQ018479378",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-01-21",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T12:55:40.545",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "03565",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090071277",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "99206913",
+        "value": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL61",
+        "value": "Θεσσαλία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1020. Ε00678.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "73398",
+          "value": "ΜΟΝΑΔΑ ΟΙΚΟΝΟΜΙΚΗΣ ΚΑΙ ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΕΛΚΕ"
+        },
+        "signers": {
+          "key": "100081630",
+          "value": "ΙΩΑΝΝΗΣ ΣΤΕΦΑΝΙΔΗΣ - Πρόεδρος της Επιτροπής Ερευνών – Αντιπρύτανης"
+        }
+      },
+      "totalCostWithVAT": 9066.66,
+      "totalCostWithoutVAT": 9066.66,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 9066.66,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΠΙΠΛΑ ΚΑΙ ΛΟΙΠΟΣ ΕΞΟΠΛΙΣΜΟΣ, ΑΜΟΙΒΕΣ ΚΑΙ ΠΑΡΟΧΕΣ ΤΡΙΤΩΝ, ΔΙΑΦΟΡΑ ΕΞΟΔΑ",
+          "cpvs": [
+            {
+              "key": "44423000-1",
+              "value": "Διάφορα είδη"
+            },
+            {
+              "key": "64000000-6",
+              "value": "Υπηρεσίες ταχυδρομείων και τηλεπικοινωνιών"
+            },
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            },
+            {
+              "key": "30200000-1",
+              "value": "Εξοπλισμός ηλεκτρονικών υπολογιστών και προμήθειες"
+            },
+            {
+              "key": "30192700-8",
+              "value": "Γραφική ύλη"
+            },
+            {
+              "key": "79340000-9",
+              "value": "Υπηρεσίες διαφήμισης και μάρκετινγκ"
+            },
+            {
+              "key": "55300000-3",
+              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
+            },
+            {
+              "key": "63515000-2",
+              "value": "Ταξιδιωτικές υπηρεσίες"
+            },
+            {
+              "key": "90900000-6",
+              "value": "Υπηρεσίες καθαρισμού και απολύμανσης"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018479409"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99206913",
+        "44423000",
+        "64000000",
+        "15000000",
+        "30200000",
+        "30192700",
+        "79340000",
+        "55300000",
+        "63515000",
+        "90900000"
+      ],
+      "cpv_divisions": [
+        "44",
+        "64",
+        "15",
+        "30",
+        "79",
+        "55",
+        "63",
+        "90"
+      ],
+      "all_domains": [
+        "Construction Materials & Structures",
+        "Postal & Telecommunications Services",
+        "Food & Catering",
+        "Office & Computing (Non-Software)",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Hospitality, Retail & Catering Services",
+        "Transport Support & Travel",
+        "Environmental, Cleaning & Waste Services"
+      ],
+      "primary_domain": "Construction Materials & Structures"
+    },
+    {
+      "title": "ΑΝΑΛΗΨΗ ΥΠΟΧΡΕΩΣΗΣ 2026 ΓΙΑ ΤΗΝ ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΜΕΤΑΚΙΝΗΣΗΣ ΤΗΣ ΕΣΔΔΑ",
+      "referenceNumber": "26REQ018478406",
+      "previousRequestReferenceNumber": "25REQ018061520",
+      "signedDate": "2026-01-23",
+      "lastUpdateDate": "2025-12-03T00:00:00",
+      "submissionDate": "2026-02-13T11:56:36.98",
+      "procurementDeliveryDate": "2026-04-30",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "638",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090055935",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "99220108",
+        "value": "ΕΘΝΙΚΟ ΚΕΝΤΡΟ ΔΗΜΟΣΙΑΣ ΔΙΟΙΚΗΣΗΣ ΚΑΙ ΑΥΤΟΔΙΟΙΚΗΣΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL304",
+        "value": "Νότιος Τομέας Αθηνών"
+      },
+      "typeOfContractingAuthority": {
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "aaht": "1007.Ε00004.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "72435",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΟΥ"
+        },
+        "signers": {
+          "key": "100066393",
+          "value": "ΒΑΣΙΛΕΙΟΣ ΕΞΑΡΧΟΣ - Αναπληρωτής Πρόεδρος"
+        }
+      },
+      "totalCostWithVAT": 734728.0,
+      "totalCostWithoutVAT": 592522.58,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 592522.58,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ανάληψη υποχρέωσης 2026 για την παροχή υπηρεσιών μετακίνησης και διαμονής στο πλαίσιο υλοποίησης του προγράμματος σπουδών της Εθνικής Σχολής Δημόσιας Διοίκησης και Αυτοδιοίκησης (Ε.Σ.Δ.Δ.Α.), για δύο (2) έτη.",
+          "cpvs": [
+            {
+              "key": "63510000-7",
+              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99220108",
+        "63510000"
+      ],
+      "cpv_divisions": [
+        "63"
+      ],
+      "all_domains": [
+        "Transport Support & Travel"
+      ],
+      "primary_domain": "Transport Support & Travel"
+    },
+    {
+      "title": "ΑΙΤΗΜΑ ΕΓΚΡΙΣΗΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ",
+      "referenceNumber": "26REQ018477629",
+      "previousRequestReferenceNumber": "26REQ018477601",
+      "signedDate": "2026-01-09",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T11:10:38.805",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "01331",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090071277",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "99206913",
+        "value": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL61",
+        "value": "Θεσσαλία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1020. Ε00678.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "73398",
+          "value": "ΜΟΝΑΔΑ ΟΙΚΟΝΟΜΙΚΗΣ ΚΑΙ ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΕΛΚΕ"
+        },
+        "signers": {
+          "key": "100081630",
+          "value": "ΙΩΑΝΝΗΣ ΣΤΕΦΑΝΙΔΗΣ - Πρόεδρος της Επιτροπής Ερευνών – Αντιπρύτανης"
+        }
+      },
+      "totalCostWithVAT": 320000.0,
+      "totalCostWithoutVAT": 320000.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 320000,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΠΙΠΛΑ ΚΑΙ ΛΟΙΠΟΣ ΕΞΟΠΛΙΣΜΟΣ, ΑΜΟΙΒΕΣ ΚΑΙ ΠΑΡΟΧΕΣ ΤΡΙΤΩΝ, ΔΙΑΦΟΡΑ ΕΞΟΔΑ",
+          "cpvs": [
+            {
+              "key": "79340000-9",
+              "value": "Υπηρεσίες διαφήμισης και μάρκετινγκ"
+            },
+            {
+              "key": "80000000-4",
+              "value": "Υπηρεσίες εκπαίδευσης και επιμόρφωσης"
+            },
+            {
+              "key": "60100000-9",
+              "value": "Υπηρεσίες οδικών μεταφορών"
+            },
+            {
+              "key": "55300000-3",
+              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
+            },
+            {
+              "key": "33140000-3",
+              "value": "Ιατρικά αναλώσιμα"
+            },
+            {
+              "key": "18530000-3",
+              "value": "Δώρα και βραβεία"
+            },
+            {
+              "key": "24300000-7",
+              "value": "Βασικές ανόργανες και οργανικές χημικές ουσίες"
+            },
+            {
+              "key": "33600000-6",
+              "value": "Φαρμακευτικά προϊόντα"
+            },
+            {
+              "key": "39100000-3",
+              "value": "Έπιπλα"
+            },
+            {
+              "key": "30192700-8",
+              "value": "Γραφική ύλη"
+            },
+            {
+              "key": "79950000-8",
+              "value": "Υπηρεσίες διοργάνωσης εκθέσεων και συνεδρίων"
+            },
+            {
+              "key": "33100000-1",
+              "value": "Ιατρικές συσκευές"
+            },
+            {
+              "key": "44423000-1",
+              "value": "Διάφορα είδη"
+            },
+            {
+              "key": "73000000-2",
+              "value": "Υπηρεσίες έρευνας και ανάπτυξης"
+            },
+            {
+              "key": "50000000-5",
+              "value": "Υπηρεσίες επισκευής και συντήρησης"
+            },
+            {
+              "key": "22110000-4",
+              "value": "Τυπωμένα βιβλία"
+            },
+            {
+              "key": "79980000-7",
+              "value": "Υπηρεσίες συνδρομών"
+            },
+            {
+              "key": "63515000-2",
+              "value": "Ταξιδιωτικές υπηρεσίες"
+            },
+            {
+              "key": "33790000-4",
+              "value": "Εργαστηριακά είδη"
+            },
+            {
+              "key": "38000000-5",
+              "value": "Εξοπλισμός εργαστηριακός"
+            },
+            {
+              "key": "72000000-5",
+              "value": "Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών"
+            },
+            {
+              "key": "30237000-9",
+              "value": "Μέρη"
+            },
+            {
+              "key": "32000000-3",
+              "value": "Εξοπλισμός ραδιοφωνίας"
+            },
+            {
+              "key": "63510000-7",
+              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
+            },
+            {
+              "key": "30200000-1",
+              "value": "Εξοπλισμός ηλεκτρονικών υπολογιστών και προμήθειες"
+            },
+            {
+              "key": "39700000-9",
+              "value": "Οικιακές συσκευές"
+            },
+            {
+              "key": "92000000-1",
+              "value": "Ψυχαγωγικές"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99206913",
+        "79340000",
+        "80000000",
+        "60100000",
+        "55300000",
+        "33140000",
+        "18530000",
+        "24300000",
+        "33600000",
+        "39100000",
+        "30192700",
+        "79950000",
+        "33100000",
+        "44423000",
+        "73000000",
+        "50000000",
+        "22110000",
+        "79980000",
+        "63515000",
+        "33790000",
+        "38000000",
+        "72000000",
+        "30237000",
+        "32000000",
+        "63510000",
+        "30200000",
+        "39700000",
+        "92000000"
+      ],
+      "cpv_divisions": [
+        "79",
+        "80",
+        "60",
+        "55",
+        "33",
+        "18",
+        "24",
+        "39",
+        "30",
+        "44",
+        "73",
+        "50",
+        "22",
+        "63",
+        "38",
+        "72",
+        "32",
+        "92"
+      ],
+      "all_domains": [
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Education & Training",
+        "Transport Services",
+        "Hospitality, Retail & Catering Services",
+        "Medical & Pharma",
+        "Clothing & PPE",
+        "Chemicals",
+        "Furniture & Cleaning Products",
+        "Office & Computing (Non-Software)",
+        "Construction Materials & Structures",
+        "R&D & Related Consulting",
+        "Repair & Maintenance",
+        "Printing & Publishing",
+        "Transport Support & Travel",
+        "Lab, Optical & Precision Equipment",
+        "IT Services",
+        "Telecom & Electronics",
+        "Recreation, Culture & Sports Services"
+      ],
+      "primary_domain": "Construction Materials & Structures"
+    },
+    {
+      "title": "ΑΙΤΗΜΑ ΕΓΚΡΙΣΗΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ",
+      "referenceNumber": "26REQ018477601",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-01-09",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T11:09:24.658",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "01331",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090071277",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "99206913",
+        "value": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL61",
+        "value": "Θεσσαλία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1020. Ε00678.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "73398",
+          "value": "ΜΟΝΑΔΑ ΟΙΚΟΝΟΜΙΚΗΣ ΚΑΙ ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΕΛΚΕ"
+        },
+        "signers": {
+          "key": "100081630",
+          "value": "ΙΩΑΝΝΗΣ ΣΤΕΦΑΝΙΔΗΣ - Πρόεδρος της Επιτροπής Ερευνών – Αντιπρύτανης"
+        }
+      },
+      "totalCostWithVAT": 320000.0,
+      "totalCostWithoutVAT": 320000.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 320000,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΠΙΠΛΑ ΚΑΙ ΛΟΙΠΟΣ ΕΞΟΠΛΙΣΜΟΣ, ΑΜΟΙΒΕΣ ΚΑΙ ΠΑΡΟΧΕΣ ΤΡΙΤΩΝ, ΔΙΑΦΟΡΑ ΕΞΟΔΑ",
+          "cpvs": [
+            {
+              "key": "73000000-2",
+              "value": "Υπηρεσίες έρευνας και ανάπτυξης"
+            },
+            {
+              "key": "60100000-9",
+              "value": "Υπηρεσίες οδικών μεταφορών"
+            },
+            {
+              "key": "30237000-9",
+              "value": "Μέρη"
+            },
+            {
+              "key": "33790000-4",
+              "value": "Εργαστηριακά είδη"
+            },
+            {
+              "key": "63515000-2",
+              "value": "Ταξιδιωτικές υπηρεσίες"
+            },
+            {
+              "key": "55300000-3",
+              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
+            },
+            {
+              "key": "38000000-5",
+              "value": "Εξοπλισμός εργαστηριακός"
+            },
+            {
+              "key": "50000000-5",
+              "value": "Υπηρεσίες επισκευής και συντήρησης"
+            },
+            {
+              "key": "80000000-4",
+              "value": "Υπηρεσίες εκπαίδευσης και επιμόρφωσης"
+            },
+            {
+              "key": "79340000-9",
+              "value": "Υπηρεσίες διαφήμισης και μάρκετινγκ"
+            },
+            {
+              "key": "33600000-6",
+              "value": "Φαρμακευτικά προϊόντα"
+            },
+            {
+              "key": "32000000-3",
+              "value": "Εξοπλισμός ραδιοφωνίας"
+            },
+            {
+              "key": "33100000-1",
+              "value": "Ιατρικές συσκευές"
+            },
+            {
+              "key": "79950000-8",
+              "value": "Υπηρεσίες διοργάνωσης εκθέσεων και συνεδρίων"
+            },
+            {
+              "key": "72000000-5",
+              "value": "Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών"
+            },
+            {
+              "key": "33140000-3",
+              "value": "Ιατρικά αναλώσιμα"
+            },
+            {
+              "key": "30200000-1",
+              "value": "Εξοπλισμός ηλεκτρονικών υπολογιστών και προμήθειες"
+            },
+            {
+              "key": "24300000-7",
+              "value": "Βασικές ανόργανες και οργανικές χημικές ουσίες"
+            },
+            {
+              "key": "22110000-4",
+              "value": "Τυπωμένα βιβλία"
+            },
+            {
+              "key": "39700000-9",
+              "value": "Οικιακές συσκευές"
+            },
+            {
+              "key": "39100000-3",
+              "value": "Έπιπλα"
+            },
+            {
+              "key": "63510000-7",
+              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
+            },
+            {
+              "key": "18530000-3",
+              "value": "Δώρα και βραβεία"
+            },
+            {
+              "key": "30192700-8",
+              "value": "Γραφική ύλη"
+            },
+            {
+              "key": "92000000-1",
+              "value": "Ψυχαγωγικές"
+            },
+            {
+              "key": "44423000-1",
+              "value": "Διάφορα είδη"
+            },
+            {
+              "key": "79980000-7",
+              "value": "Υπηρεσίες συνδρομών"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [
+        "26REQ018477629"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99206913",
+        "73000000",
+        "60100000",
+        "30237000",
+        "33790000",
+        "63515000",
+        "55300000",
+        "38000000",
+        "50000000",
+        "80000000",
+        "79340000",
+        "33600000",
+        "32000000",
+        "33100000",
+        "79950000",
+        "72000000",
+        "33140000",
+        "30200000",
+        "24300000",
+        "22110000",
+        "39700000",
+        "39100000",
+        "63510000",
+        "18530000",
+        "30192700",
+        "92000000",
+        "44423000",
+        "79980000"
+      ],
+      "cpv_divisions": [
+        "73",
+        "60",
+        "30",
+        "33",
+        "63",
+        "55",
+        "38",
+        "50",
+        "80",
+        "79",
+        "32",
+        "72",
+        "24",
+        "22",
+        "39",
+        "18",
+        "92",
+        "44"
+      ],
+      "all_domains": [
+        "R&D & Related Consulting",
+        "Transport Services",
+        "Office & Computing (Non-Software)",
+        "Medical & Pharma",
+        "Transport Support & Travel",
+        "Hospitality, Retail & Catering Services",
+        "Lab, Optical & Precision Equipment",
+        "Repair & Maintenance",
+        "Education & Training",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Telecom & Electronics",
+        "IT Services",
+        "Chemicals",
+        "Printing & Publishing",
+        "Furniture & Cleaning Products",
+        "Clothing & PPE",
+        "Recreation, Culture & Sports Services",
+        "Construction Materials & Structures"
+      ],
+      "primary_domain": "Construction Materials & Structures"
+    },
+    {
+      "title": "ΑΙΤΗΜΑ ΕΓΚΡΙΣΗΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ",
+      "referenceNumber": "26REQ018477304",
+      "previousRequestReferenceNumber": "25REQ018202677",
+      "signedDate": "2025-12-10",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T10:52:29.735",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "93592",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "090071277",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "99206913",
+        "value": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL61",
+        "value": "Θεσσαλία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "aaht": "1020. Ε00678.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "13",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "73398",
+          "value": "ΜΟΝΑΔΑ ΟΙΚΟΝΟΜΙΚΗΣ ΚΑΙ ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΕΛΚΕ"
+        },
+        "signers": {
+          "key": "100081630",
+          "value": "ΙΩΑΝΝΗΣ ΣΤΕΦΑΝΙΔΗΣ - Πρόεδρος της Επιτροπής Ερευνών – Αντιπρύτανης"
+        }
+      },
+      "totalCostWithVAT": 57572.18,
+      "totalCostWithoutVAT": 57572.18,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 57572.18,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΠΙΠΛΑ ΚΑΙ ΛΟΙΠΟΣ ΕΞΟΠΛΙΣΜΟΣ, ΠΑΡΟΧΕΣ ΤΡΙΤΩΝ, ΔΙΑΦΟΡΑ ΕΞΟΔΑ",
+          "cpvs": [
+            {
+              "key": "30192700-8",
+              "value": "Γραφική ύλη"
+            },
+            {
+              "key": "32000000-3",
+              "value": "Εξοπλισμός ραδιοφωνίας"
+            },
+            {
+              "key": "15000000-8",
+              "value": "Τρόφιμα"
+            },
+            {
+              "key": "30200000-1",
+              "value": "Εξοπλισμός ηλεκτρονικών υπολογιστών και προμήθειες"
+            },
+            {
+              "key": "39100000-3",
+              "value": "Έπιπλα"
+            },
+            {
+              "key": "44423000-1",
+              "value": "Διάφορα είδη"
+            },
+            {
+              "key": "55300000-3",
+              "value": "Υπηρεσίες εστιατορίου και παροχής φαγητού"
+            },
+            {
+              "key": "79340000-9",
+              "value": "Υπηρεσίες διαφήμισης και μάρκετινγκ"
+            },
+            {
+              "key": "30237000-9",
+              "value": "Μέρη"
+            },
+            {
+              "key": "79970000-4",
+              "value": "Υπηρεσίες δημοσιεύσεων"
+            },
+            {
+              "key": "63515000-2",
+              "value": "Ταξιδιωτικές υπηρεσίες"
+            },
+            {
+              "key": "64000000-6",
+              "value": "Υπηρεσίες ταχυδρομείων και τηλεπικοινωνιών"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "99206913",
+        "30192700",
+        "32000000",
+        "15000000",
+        "30200000",
+        "39100000",
+        "44423000",
+        "55300000",
+        "79340000",
+        "30237000",
+        "79970000",
+        "63515000",
+        "64000000"
+      ],
+      "cpv_divisions": [
+        "30",
+        "32",
+        "15",
+        "39",
+        "44",
+        "55",
+        "79",
+        "63",
+        "64"
+      ],
+      "all_domains": [
+        "Office & Computing (Non-Software)",
+        "Telecom & Electronics",
+        "Food & Catering",
+        "Furniture & Cleaning Products",
+        "Construction Materials & Structures",
+        "Hospitality, Retail & Catering Services",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Transport Support & Travel",
+        "Postal & Telecommunications Services"
+      ],
+      "primary_domain": "Construction Materials & Structures"
+    },
+    {
+      "title": "ΣΥΜΜΕΤΟΧΗ  ΤΗΣ ΠΕΔΘ ΣΤΗΝ ΕΚΘΕΣΗ ATTICA GREEN",
+      "referenceNumber": "26REQ018477230",
+      "previousRequestReferenceNumber": "26REQ018402419",
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T10:47:35.364",
+      "procurementDeliveryDate": "2026-05-26",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "222",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "998019973",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "54300",
+        "value": "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΩΣΗ ΔΗΜΩΝ (Π.Ε.Δ.) ΘΕΣΣΑΛΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL612",
+        "value": "Λάρισα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.E89558.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "88656",
+          "value": "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΩΣΗ ΔΗΜΩΝ (ΠΕΔ) ΘΕΣΣΑΛΙΑΣ"
+        },
+        "signers": {
+          "key": "100088407",
+          "value": "ΝΙΚΟΛΑΟΣ ΣΑΚΚΑΣ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "totalCostWithVAT": 26660.0,
+      "totalCostWithoutVAT": 21500.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 4000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΣΥΝΕΡΓΑΣΙΑ ΜΕ  ΤΟΥΡΙΣΤΙΚΟ ΓΡΑΦΕΙΟ ",
+          "cpvs": [
+            {
+              "key": "63510000-7",
+              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 15000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΕΝΟΙΚΙΑΣΗ ΠΕΡΙΠΤΕΡΟΥ",
+          "cpvs": [
+            {
+              "key": "39154100-7",
+              "value": "Περίπτερα εκθέσεων"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 2500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΒΙΝΤΕΟΣΚΟΠΗΣΗ - ΦΩΤΟΓΡΑΦΙΚΗ ΚΑΛΥΨΗ ",
+          "cpvs": [
+            {
+              "key": "92100000-2",
+              "value": "Κινηματογραφικές υπηρεσίες και υπηρεσίες βιντεοταινιών"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "63510000",
+        "39154100",
+        "92100000"
+      ],
+      "cpv_divisions": [
+        "63",
+        "39",
+        "92"
+      ],
+      "all_domains": [
+        "Transport Support & Travel",
+        "Furniture & Cleaning Products",
+        "Recreation, Culture & Sports Services"
+      ],
+      "primary_domain": "Transport Support & Travel"
+    },
+    {
+      "title": " ΔΕΣΜΕΥΣΗ ΠΙΣΤΩΣΕΩΝ 2026",
+      "referenceNumber": "26REQ018476623",
+      "previousRequestReferenceNumber": "25REQ016222972",
       "signedDate": "2026-02-09",
-      "lastUpdateDate": "2025-02-18T00:00:00",
-      "submissionDate": "2026-02-12T14:02:04.755",
+      "lastUpdateDate": "2025-03-12T00:00:00",
+      "submissionDate": "2026-02-13T10:14:42.565",
       "procurementDeliveryDate": "2026-02-28",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "4183/1977",
+      "protocolNumber": "4218/1998",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
-      "authorEmail": "klappa@ypakp.gr",
+      "authorEmail": "omarkaki@ypekyp.gov.gr",
       "greekOrganizationVatNumber": false,
       "organizationVatNumber": "099012257",
       "budget": null,
@@ -61,8 +2191,8 @@
           "value": "ΜΑΤΘΟΥΛΑ ΤΡΙΑΝΤΑΦΥΛΛΟΥ -  "
         }
       },
-      "totalCostWithVAT": 25439.99,
-      "totalCostWithoutVAT": 20516.12,
+      "totalCostWithVAT": 4712.0,
+      "totalCostWithoutVAT": 3800.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -70,17 +2200,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 20516.12,
+          "costWithoutVAT": 3800,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Τροποποίηση της αριθμ.110868/18-12-2023 (ΑΔΑ: ΨΨ7Β46ΝΛΔΓ-Ψ4Π) εγκριτικής απόφασης ανάληψης υποχρέωσης πολυετούς δέσμευσης για υπηρεσίες στάθμευσης υπηρεσιακών οχημάτων του Υπουργείου μας",
+          "shortDescription": "Παροχή μεταφορικών υπηρεσιών (μεταφορά επίπλων, αρχείων, η/υ και υλικών γραφείου) από διάφορα γραφεία και από τους διαδρόμους των κτιρίων του Υ.Ε.Κ.Α. (Σταδίου 29, Σοφοκλέους 4 και Δραγατσανίου 8)",
           "cpvs": [
             {
-              "key": "63712400-7",
-              "value": "Υπηρεσίες χώρων στάθμευσης οχημάτων"
+              "key": "63520000-0",
+              "value": "Υπηρεσίες γραφείων μεταφορών"
             }
           ]
         }
@@ -93,7 +2223,7 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "63712400"
+        "63520000"
       ],
       "cpv_divisions": [
         "63"
@@ -104,46 +2234,46 @@
       "primary_domain": "Transport Support & Travel"
     },
     {
-      "title": "ΛΕΙΤΟΥΡΓΙΚΕΣ ΔΑΠΑΝΕΣ Α΄ 6 ΜΗΝΟΥ 2026 Μ.Α. ΟΗΕ",
-      "referenceNumber": "26REQ018473713",
-      "previousRequestReferenceNumber": "25REQ018182252",
-      "signedDate": "2026-02-12",
+      "title": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ ΜΕΤΑΦΟΡΑΣ ΚΑΙ ΑΣΦΑΛΙΣΗΣ ΤΗΣ ΚΑΛ.ΠΑΡΑΓΩΓΗΣ \"CARMEN\"",
+      "referenceNumber": "26REQ018475233",
+      "previousRequestReferenceNumber": "26REQ018475194",
+      "signedDate": "2026-01-12",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T13:38:55.046",
-      "procurementDeliveryDate": "2026-02-13",
+      "submissionDate": "2026-02-13T08:39:31.541",
+      "procurementDeliveryDate": "2026-03-12",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "ΑΣ 1910",
+      "protocolNumber": "02653/2026",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
       "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090372363",
+      "organizationVatNumber": "090196690",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "10",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ"
+        "key": "99221221",
+        "value": "ΕΘΝΙΚΗ ΛΥΡΙΚΗ ΣΚΗΝΗ"
       },
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL304",
+        "value": "Νότιος Τομέας Αθηνών"
       },
       "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
+        "key": "10",
+        "value": "ΝΠΙΔ"
       },
       "classificationOfPublicLawOrganization": {
         "key": "1",
         "value": "Κεντρική Κυβέρνηση"
       },
-      "aaht": "ΑΝΕΥ",
+      "aaht": "1022.E00370.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -154,188 +2284,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "70950",
-          "value": "ΣΤ5 Δ/ΝΣΗ ΠΡΟΜΗΘΕΙΩΝ & ΛΕΙΤΟΥΡΓΙΚΩΝ ΔΑΠΑΝΩΝ"
+          "key": "84974",
+          "value": "ΚΑΛΛΙΤΕΧΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
         },
         "signers": {
-          "key": "100017544",
-          "value": "ΘΗΡΕΣΙΑ - ΠΑΡΑΣΚΕΥΗ ΑΓΓΕΛΑΤΟΥ - Γενικός Γραμματέας"
+          "key": "100027173",
+          "value": "ΓΕΩΡΓΙΟΣ ΚΟΥΜΕΝΤΑΚΗΣ - Διευθύνων"
         }
       },
-      "totalCostWithVAT": 246229.44,
-      "totalCostWithoutVAT": 246229.44,
-      "objectDetails": [
-        {
-          "quantity": 12,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 246229.44,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΛΕΙΤΟΥΡΓΙΚΕΣ ΔΑΠΑΝΕΣ Α΄ 6 ΜΗΝΟΥ 2026 Μ.Α. ΟΗΕ",
-          "cpvs": [
-            {
-              "key": "31531000-7",
-              "value": "Λαμπτήρες"
-            },
-            {
-              "key": "22200000-2",
-              "value": "Εφημερίδες"
-            },
-            {
-              "key": "90910000-9",
-              "value": "Υπηρεσίες καθαρισμού"
-            },
-            {
-              "key": "66110000-4",
-              "value": "Τραπεζικές υπηρεσίες"
-            },
-            {
-              "key": "09132100-4",
-              "value": "Αμόλυβδη βενζίνη"
-            },
-            {
-              "key": "39830000-9",
-              "value": "Προϊόντα καθαρισμού"
-            },
-            {
-              "key": "64212000-5",
-              "value": "Υπηρεσίες κινητής τηλεφωνίας"
-            },
-            {
-              "key": "63712210-8",
-              "value": "Υπηρεσίες διοδίων αυτοκινητοδρόμων"
-            },
-            {
-              "key": "66510000-8",
-              "value": "Υπηρεσίες ασφάλισης"
-            },
-            {
-              "key": "09000000-3",
-              "value": "Πετρελαϊκά προϊόντα"
-            },
-            {
-              "key": "64110000-0",
-              "value": "Ταχυδρομικές υπηρεσίες"
-            },
-            {
-              "key": "30192700-8",
-              "value": "Γραφική ύλη"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "31531000",
-        "22200000",
-        "90910000",
-        "66110000",
-        "09132100",
-        "39830000",
-        "64212000",
-        "63712210",
-        "66510000",
-        "09000000",
-        "64110000",
-        "30192700"
-      ],
-      "cpv_divisions": [
-        "31",
-        "22",
-        "90",
-        "66",
-        "09",
-        "39",
-        "64",
-        "63",
-        "30"
-      ],
-      "all_domains": [
-        "Electrical Equipment & Lighting",
-        "Printing & Publishing",
-        "Environmental, Cleaning & Waste Services",
-        "Financial & Insurance Services",
-        "Energy & Fuels",
-        "Furniture & Cleaning Products",
-        "Postal & Telecommunications Services",
-        "Transport Support & Travel",
-        "Office & Computing (Non-Software)"
-      ],
-      "primary_domain": "Postal & Telecommunications Services"
-    },
-    {
-      "title": "ΛΕΙΤΟΥΡΓΙΚΕΣ ΔΑΠΑΝΕΣ Α΄ ΕΞΑΜΗΝΟΥ 2026 ΠΡΕΣΒΕΙΑ ΜΟΣΧΑΣ",
-      "referenceNumber": "26REQ018472719",
-      "previousRequestReferenceNumber": "25REQ018088743",
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T12:31:12.447",
-      "procurementDeliveryDate": "2026-02-13",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "1593",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "090372363",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "10",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "ΑΝΕΥ",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "70950",
-          "value": "ΣΤ5 Δ/ΝΣΗ ΠΡΟΜΗΘΕΙΩΝ & ΛΕΙΤΟΥΡΓΙΚΩΝ ΔΑΠΑΝΩΝ"
-        },
-        "signers": {
-          "key": "100017544",
-          "value": "ΘΗΡΕΣΙΑ - ΠΑΡΑΣΚΕΥΗ ΑΓΓΕΛΑΤΟΥ - Γενικός Γραμματέας"
-        }
-      },
-      "totalCostWithVAT": 43191.28,
-      "totalCostWithoutVAT": 43191.28,
+      "totalCostWithVAT": 37200.0,
+      "totalCostWithoutVAT": 30000.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -343,476 +2301,21 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 43191.28,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΛΕΙΤΟΥΡΓΙΚΕΣ ΔΑΠΑΝΕΣ Α΄ ΕΞΑΜΗΝΟΥ 2026 ΠΡΕΣΒΕΙΑ ΜΟΣΧΑΣ",
-          "cpvs": [
-            {
-              "key": "30199000-0",
-              "value": "Γραφική ύλη και άλλα είδη από χαρτί"
-            },
-            {
-              "key": "90620000-9",
-              "value": "Υπηρεσίες εκχιονισμού"
-            },
-            {
-              "key": "90514000-3",
-              "value": "Υπηρεσίες ανακύκλωσης απορριμμάτων"
-            },
-            {
-              "key": "98351100-9",
-              "value": "Υπηρεσίες στάθμευσης αυτοκινήτων"
-            },
-            {
-              "key": "31531000-7",
-              "value": "Λαμπτήρες"
-            },
-            {
-              "key": "90910000-9",
-              "value": "Υπηρεσίες καθαρισμού"
-            },
-            {
-              "key": "64110000-0",
-              "value": "Ταχυδρομικές υπηρεσίες"
-            },
-            {
-              "key": "39830000-9",
-              "value": "Προϊόντα καθαρισμού"
-            },
-            {
-              "key": "09134100-8",
-              "value": "Πετρέλαιο ντίζελ"
-            },
-            {
-              "key": "90511000-2",
-              "value": "Υπηρεσίες αποκομιδής απορριμμάτων"
-            },
-            {
-              "key": "63712210-8",
-              "value": "Υπηρεσίες διοδίων αυτοκινητοδρόμων"
-            },
-            {
-              "key": "30125110-5",
-              "value": "Τόνερ για εκτυπωτές λέιζερ/συσκευές τηλεομοιοτυπίας"
-            },
-            {
-              "key": "32412110-8",
-              "value": "Δίκτυο Ιντερνέτ"
-            },
-            {
-              "key": "09310000-5",
-              "value": "Ηλεκτρισμός"
-            },
-            {
-              "key": "22200000-2",
-              "value": "Εφημερίδες"
-            },
-            {
-              "key": "34927100-2",
-              "value": "Αντιπαγετικό αλάτι"
-            },
-            {
-              "key": "09132100-4",
-              "value": "Αμόλυβδη βενζίνη"
-            },
-            {
-              "key": "79980000-7",
-              "value": "Υπηρεσίες συνδρομών"
-            },
-            {
-              "key": "64200000-8",
-              "value": "Υπηρεσίες τηλεπικοινωνιών"
-            },
-            {
-              "key": "09323000-9",
-              "value": "Κεντρική αστική θέρμανση"
-            },
-            {
-              "key": "65111000-4",
-              "value": "Διανομή πόσιμου νερού"
-            },
-            {
-              "key": "64212000-5",
-              "value": "Υπηρεσίες κινητής τηλεφωνίας"
-            },
-            {
-              "key": "31440000-2",
-              "value": "Μπαταρίες"
-            },
-            {
-              "key": "09123000-7",
-              "value": "Φυσικό αέριο"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "30199000",
-        "90620000",
-        "90514000",
-        "98351100",
-        "31531000",
-        "90910000",
-        "64110000",
-        "39830000",
-        "09134100",
-        "90511000",
-        "63712210",
-        "30125110",
-        "32412110",
-        "09310000",
-        "22200000",
-        "34927100",
-        "09132100",
-        "79980000",
-        "64200000",
-        "09323000",
-        "65111000",
-        "64212000",
-        "31440000",
-        "09123000"
-      ],
-      "cpv_divisions": [
-        "30",
-        "90",
-        "98",
-        "31",
-        "64",
-        "39",
-        "09",
-        "63",
-        "32",
-        "22",
-        "34",
-        "79",
-        "65"
-      ],
-      "all_domains": [
-        "Office & Computing (Non-Software)",
-        "Environmental, Cleaning & Waste Services",
-        "Community & Personal Services",
-        "Electrical Equipment & Lighting",
-        "Postal & Telecommunications Services",
-        "Furniture & Cleaning Products",
-        "Energy & Fuels",
-        "Transport Support & Travel",
-        "Telecom & Electronics",
-        "Printing & Publishing",
-        "Transport & Vehicles",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "Utilities"
-      ],
-      "primary_domain": "Telecom & Electronics"
-    },
-    {
-      "title": "ΛΕΙΤΟΥΡΓΙΚΕΣ ΔΑΠΑΝΕΣ Α΄ ΕΞΑΜΗΝΟΥ 2026 ΠΡΕΣΒΕΙΑ ΒΕΡΝΗΣ",
-      "referenceNumber": "26REQ018471739",
-      "previousRequestReferenceNumber": "25REQ018079744",
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T11:45:38.179",
-      "procurementDeliveryDate": "2026-02-13",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "1547",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "ΑΝΕΥ",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "10",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "ΑΝΕΥ",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "70950",
-          "value": "ΣΤ5 Δ/ΝΣΗ ΠΡΟΜΗΘΕΙΩΝ & ΛΕΙΤΟΥΡΓΙΚΩΝ ΔΑΠΑΝΩΝ"
-        },
-        "signers": {
-          "key": "100101277",
-          "value": "ΒΑΣΙΛΗΣ ΠΑΠΑΔΟΠΟΥΛΟΣ - Διατάκτης"
-        }
-      },
-      "totalCostWithVAT": 15696.78,
-      "totalCostWithoutVAT": 15696.78,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 15696.78,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΛΕΙΤΟΥΡΓΙΚΕΣ ΔΑΠΑΝΕΣ Α΄ ΕΞΑΜΗΝΟΥ 2026 ΠΡΕΣΒΕΙΑ ΒΕΡΝΗΣ",
-          "cpvs": [
-            {
-              "key": "31531000-7",
-              "value": "Λαμπτήρες"
-            },
-            {
-              "key": "39830000-9",
-              "value": "Προϊόντα καθαρισμού"
-            },
-            {
-              "key": "63712210-8",
-              "value": "Υπηρεσίες διοδίων αυτοκινητοδρόμων"
-            },
-            {
-              "key": "38730000-1",
-              "value": "Παρκόμετρα"
-            },
-            {
-              "key": "64214200-1",
-              "value": "Υπηρεσίες τηλεφωνικού κέντρου"
-            },
-            {
-              "key": "09132000-3",
-              "value": "Βενζίνη"
-            },
-            {
-              "key": "32412100-5",
-              "value": "Δίκτυο τηλεπικοινωνιών"
-            },
-            {
-              "key": "64110000-0",
-              "value": "Ταχυδρομικές υπηρεσίες"
-            },
-            {
-              "key": "66110000-4",
-              "value": "Τραπεζικές υπηρεσίες"
-            },
-            {
-              "key": "22210000-5",
-              "value": "Εφημερίδες"
-            },
-            {
-              "key": "30192700-8",
-              "value": "Γραφική ύλη"
-            },
-            {
-              "key": "09200000-1",
-              "value": "Πετρέλαιο"
-            },
-            {
-              "key": "09310000-5",
-              "value": "Ηλεκτρισμός"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "31531000",
-        "39830000",
-        "63712210",
-        "38730000",
-        "64214200",
-        "09132000",
-        "32412100",
-        "64110000",
-        "66110000",
-        "22210000",
-        "30192700",
-        "09200000",
-        "09310000"
-      ],
-      "cpv_divisions": [
-        "31",
-        "39",
-        "63",
-        "38",
-        "64",
-        "09",
-        "32",
-        "66",
-        "22",
-        "30"
-      ],
-      "all_domains": [
-        "Electrical Equipment & Lighting",
-        "Furniture & Cleaning Products",
-        "Transport Support & Travel",
-        "Lab, Optical & Precision Equipment",
-        "Postal & Telecommunications Services",
-        "Energy & Fuels",
-        "Telecom & Electronics",
-        "Financial & Insurance Services",
-        "Printing & Publishing",
-        "Office & Computing (Non-Software)"
-      ],
-      "primary_domain": "Telecom & Electronics"
-    },
-    {
-      "title": "Εκδηλώσεις παρουσίασης της Ηπειρωτικής Γαστρονομίας στην Άρτα και την Πρέβεζα",
-      "referenceNumber": "26REQ018471574",
-      "previousRequestReferenceNumber": "26REQ018471350",
-      "signedDate": "2026-02-03",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T11:36:35.167",
-      "procurementDeliveryDate": "2026-02-18",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "19764/246",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997908822",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "5006",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL54",
-        "value": "Ήπειρος"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.904.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100101774",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΠΟΛΙΤΙΣΜΟΥ, ΑΘΛΗΤΙΣΜΟΥ, ΤΟΥΡΙΣΜΟΥ ΚΑΙ ΠΡΟΒΟΛΗΣ ΗΠΕΙΡΩΤΙΚΩΝ ΠΡΟΙΟΝΤΩΝ"
-        },
-        "signers": {
-          "key": "111942",
-          "value": "ΑΛΕΞΑΝΔΡΟΣ ΚΑΧΡΙΜΑΝΗΣ - ΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
-        }
-      },
-      "totalCostWithVAT": 12419.99,
-      "totalCostWithoutVAT": 10378.06,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 7258.06,
+          "costWithoutVAT": 30000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Διοργάνωση εκδηλώσεων γαστρονομίας",
+          "shortDescription": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ ΜΕΤΑΦΟΡΑΣ ΚΑΙ ΑΣΦΑΛΙΣΗΣ ΤΗΣ ΚΑΛ.ΠΑΡΑΓΩΓΗΣ \"CARMEN\"",
           "cpvs": [
             {
-              "key": "55322000-3",
-              "value": "Υπηρεσίες παρασκευής γευμάτων"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 620,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Ενοικίαση αίθουσας",
-          "cpvs": [
+              "key": "63520000-0",
+              "value": "Υπηρεσίες γραφείων μεταφορών"
+            },
             {
-              "key": "79950000-8",
-              "value": "Υπηρεσίες διοργάνωσης εκθέσεων και συνεδρίων"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 2500,
-          "vat": "12",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Φιλοξενία ομιλητών",
-          "cpvs": [
-            {
-              "key": "63510000-7",
-              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
+              "key": "66514000-6",
+              "value": "Υπηρεσίες ασφάλισης φορτίου και υπηρεσίες ασφάλισης σε σχέση με μεταφορές"
             }
           ]
         }
@@ -821,1381 +2324,40 @@
       "mixedContract": false,
       "approvalRefNo": [],
       "noticeRefNo": [
-        "26PROC018471764"
+        "26PROC018477357"
       ],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "55322000",
-        "79950000",
-        "63510000"
-      ],
-      "cpv_divisions": [
-        "55",
-        "79",
-        "63"
-      ],
-      "all_domains": [
-        "Hospitality, Retail & Catering Services",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "Transport Support & Travel"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "Εκδηλώσεις παρουσίασης της Ηπειρωτικής Γαστρονομίας στην Άρτα και την Πρέβεζα",
-      "referenceNumber": "26REQ018471350",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-03",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T11:25:39.053",
-      "procurementDeliveryDate": "2026-02-18",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "19764/246",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "997908822",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "5006",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL54",
-        "value": "Ήπειρος"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.904.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100101774",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΠΟΛΙΤΙΣΜΟΥ, ΑΘΛΗΤΙΣΜΟΥ, ΤΟΥΡΙΣΜΟΥ ΚΑΙ ΠΡΟΒΟΛΗΣ ΗΠΕΙΡΩΤΙΚΩΝ ΠΡΟΙΟΝΤΩΝ"
-        },
-        "signers": {
-          "key": "111942",
-          "value": "ΑΛΕΞΑΝΔΡΟΣ ΚΑΧΡΙΜΑΝΗΣ - ΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
-        }
-      },
-      "totalCostWithVAT": 12419.99,
-      "totalCostWithoutVAT": 10378.06,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 7258.06,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Διοργάνωση εκδηλώσεων γαστρονομίας",
-          "cpvs": [
-            {
-              "key": "55322000-3",
-              "value": "Υπηρεσίες παρασκευής γευμάτων"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 2500,
-          "vat": "12",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Φιλοξενία ομιλητών",
-          "cpvs": [
-            {
-              "key": "63510000-7",
-              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 620,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Ενοικίαση αίθουσας",
-          "cpvs": [
-            {
-              "key": "79950000-8",
-              "value": "Υπηρεσίες διοργάνωσης εκθέσεων και συνεδρίων"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018471574"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "55322000",
-        "63510000",
-        "79950000"
-      ],
-      "cpv_divisions": [
-        "55",
-        "63",
-        "79"
-      ],
-      "all_domains": [
-        "Hospitality, Retail & Catering Services",
-        "Transport Support & Travel",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "ΣΥΝΟΛΙΚΟΣ ΠΡΟΫΠΟΛΟΓΙΣΜΟΣ ΕΡΓΟΥ 63228200",
-      "referenceNumber": "26REQ018471287",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2019-06-10",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T11:22:02.944",
-      "procurementDeliveryDate": "2024-08-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "32626",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "099793475",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99203026",
-        "value": "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1020.E00318.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "73955",
-          "value": "ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ"
-        },
-        "signers": {
-          "key": "100087481",
-          "value": "ΕΜΜΑΝΟΥΗΛ ΒΑΡΒΑΡΙΓΟΣ - Πρόεδρος Επιτροπής Ερευνών"
-        }
-      },
-      "totalCostWithVAT": 24999.0,
-      "totalCostWithoutVAT": 24999.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "Erg",
-            "value": "Έργο"
-          },
-          "costWithoutVAT": 24999,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "SANDA-SUPPLYING ACCURATE NUCLEAR DATA FOR ENERGY AND NON-ENERGY APPLICATIONS",
-          "cpvs": [
-            {
-              "key": "79311000-7",
-              "value": "Υπηρεσίες ερευνών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "63228200",
-        "99203026",
-        "79311000"
-      ],
-      "cpv_divisions": [
-        "63",
-        "79"
-      ],
-      "all_domains": [
-        "Transport Support & Travel",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "ΣΥΝΟΛΙΚΟΣ ΠΡΟΫΠΟΛΟΓΙΣΜΟΣ ΕΡΓΟΥ 63244900",
-      "referenceNumber": "26REQ018471261",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2022-05-19",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T11:20:47.01",
-      "procurementDeliveryDate": "2026-03-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "2502",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "099793475",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99203026",
-        "value": "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1020.E00318.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "73955",
-          "value": "ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ"
-        },
-        "signers": {
-          "key": "100087481",
-          "value": "ΕΜΜΑΝΟΥΗΛ ΒΑΡΒΑΡΙΓΟΣ - Πρόεδρος Επιτροπής Ερευνών"
-        }
-      },
-      "totalCostWithVAT": 8903632.0,
-      "totalCostWithoutVAT": 8903632.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "Erg",
-            "value": "Έργο"
-          },
-          "costWithoutVAT": 8903632,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "EURECOMP: EUROPEAN RECYCLING AND CIRCULARITY IN LARGE COMPOSITE COMPONENTS",
-          "cpvs": [
-            {
-              "key": "79311000-7",
-              "value": "Υπηρεσίες ερευνών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "63244900",
-        "99203026",
-        "79311000"
-      ],
-      "cpv_divisions": [
-        "63",
-        "79"
-      ],
-      "all_domains": [
-        "Transport Support & Travel",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "ΣΥΝΟΛΙΚΟΣ ΠΡΟΫΠΟΛΟΓΙΣΜΟΣ ΕΡΓΟΥ 63245100",
-      "referenceNumber": "26REQ018471236",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2022-05-25",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T11:19:32.267",
-      "procurementDeliveryDate": "2026-11-30",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "8853",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "099793475",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99203026",
-        "value": "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1020.E00318.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "73955",
-          "value": "ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ"
-        },
-        "signers": {
-          "key": "100087481",
-          "value": "ΕΜΜΑΝΟΥΗΛ ΒΑΡΒΑΡΙΓΟΣ - Πρόεδρος Επιτροπής Ερευνών"
-        }
-      },
-      "totalCostWithVAT": 1623125.0,
-      "totalCostWithoutVAT": 1623125.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "Erg",
-            "value": "Έργο"
-          },
-          "costWithoutVAT": 1623125,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "HEPHAESTUS - HEAVY AND EXTRACTIVE INDUSTRY WASTES PHASING OUT THROUGH ESG TAILINGS UPCYCLING SYNERGY",
-          "cpvs": [
-            {
-              "key": "79311000-7",
-              "value": "Υπηρεσίες ερευνών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "63245100",
-        "99203026",
-        "79311000"
-      ],
-      "cpv_divisions": [
-        "63",
-        "79"
-      ],
-      "all_domains": [
-        "Transport Support & Travel",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "ΣΥΝΟΛΙΚΟΣ ΠΡΟΫΠΟΛΟΓΙΣΜΟΣ ΕΡΓΟΥ 63255400",
-      "referenceNumber": "26REQ018471207",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2023-08-25",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T11:18:17.798",
-      "procurementDeliveryDate": "2026-08-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "44977",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "099793475",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99203026",
-        "value": "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1020.E00318.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "73955",
-          "value": "ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ"
-        },
-        "signers": {
-          "key": "100087481",
-          "value": "ΕΜΜΑΝΟΥΗΛ ΒΑΡΒΑΡΙΓΟΣ - Πρόεδρος Επιτροπής Ερευνών"
-        }
-      },
-      "totalCostWithVAT": 5999718.75,
-      "totalCostWithoutVAT": 5999718.75,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "Erg",
-            "value": "Έργο"
-          },
-          "costWithoutVAT": 5999718.75,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ENPOWER - ENERGY ACTIVATED CITIZENS AND DATA-DRIVEN ENERGY-SECURE COMMUNITIES FOR A CONSUMER-CENTRIC ENERGY SYSTEM ",
-          "cpvs": [
-            {
-              "key": "79311000-7",
-              "value": "Υπηρεσίες ερευνών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "63255400",
-        "99203026",
-        "79311000"
-      ],
-      "cpv_divisions": [
-        "63",
-        "79"
-      ],
-      "all_domains": [
-        "Transport Support & Travel",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "ΣΥΝΟΛΙΚΟΣ ΠΡΟΫΠΟΛΟΓΙΣΜΟΣ ΕΡΓΟΥ 63257500",
-      "referenceNumber": "26REQ018471189",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2023-12-01",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T11:17:02.368",
-      "procurementDeliveryDate": "2026-11-30",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "46510",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "099793475",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99203026",
-        "value": "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1020.E00318.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "73955",
-          "value": "ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ"
-        },
-        "signers": {
-          "key": "100087481",
-          "value": "ΕΜΜΑΝΟΥΗΛ ΒΑΡΒΑΡΙΓΟΣ - Πρόεδρος Επιτροπής Ερευνών"
-        }
-      },
-      "totalCostWithVAT": 293845.26,
-      "totalCostWithoutVAT": 293845.26,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "Erg",
-            "value": "Έργο"
-          },
-          "costWithoutVAT": 293845.26,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "PASITHEA: A HYBRID AUTONOMOUS UNMANNED VEHICLE SYSTEM OPENING NEW HORIZONS IN CONDUCTING MILITARY OPERATIONS IN THE MARINE ENVIRONMENT",
-          "cpvs": [
-            {
-              "key": "79311000-7",
-              "value": "Υπηρεσίες ερευνών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "63257500",
-        "99203026",
-        "79311000"
-      ],
-      "cpv_divisions": [
-        "63",
-        "79"
-      ],
-      "all_domains": [
-        "Transport Support & Travel",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "ΣΥΝΟΛΙΚΟΣ ΠΡΟΫΠΟΛΟΓΙΣΜΟΣ ΕΡΓΟΥ 63260300",
-      "referenceNumber": "26REQ018471164",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2024-04-03",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T11:15:47.741",
-      "procurementDeliveryDate": "2026-03-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "17799",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "099793475",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99203026",
-        "value": "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1020.E00318.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "73955",
-          "value": "ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ"
-        },
-        "signers": {
-          "key": "100087481",
-          "value": "ΕΜΜΑΝΟΥΗΛ ΒΑΡΒΑΡΙΓΟΣ - Πρόεδρος Επιτροπής Ερευνών"
-        }
-      },
-      "totalCostWithVAT": 57175.0,
-      "totalCostWithoutVAT": 57175.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "Erg",
-            "value": "Έργο"
-          },
-          "costWithoutVAT": 57175,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "SCIENCE ODYSSEY: RESEARCH MISSIONS UNDER STARRY SKIES",
-          "cpvs": [
-            {
-              "key": "79311000-7",
-              "value": "Υπηρεσίες ερευνών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "63260300",
-        "99203026",
-        "79311000"
-      ],
-      "cpv_divisions": [
-        "63",
-        "79"
-      ],
-      "all_domains": [
-        "Transport Support & Travel",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "ΣΥΝΟΛΙΚΟΣ ΠΡΟΫΠΟΛΟΓΙΣΜΟΣ ΕΡΓΟΥ 63261600",
-      "referenceNumber": "26REQ018471142",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2024-05-08",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T11:14:32.886",
-      "procurementDeliveryDate": "2026-12-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "17983",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "099793475",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99203026",
-        "value": "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1020.E00318.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "73955",
-          "value": "ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ"
-        },
-        "signers": {
-          "key": "100087481",
-          "value": "ΕΜΜΑΝΟΥΗΛ ΒΑΡΒΑΡΙΓΟΣ - Πρόεδρος Επιτροπής Ερευνών"
-        }
-      },
-      "totalCostWithVAT": 153486.72,
-      "totalCostWithoutVAT": 153486.72,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "Erg",
-            "value": "Έργο"
-          },
-          "costWithoutVAT": 153486.72,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "NEREUS SHIPPING: INTELLIGENT AND SELF-ADAPTIVE DECISION SUPPORT SYSTEM FOR OPTIMIZATION CONSIDERING SUSTAINABLE VALUE CREATION AND LIFE-CYCLE APPROACHES IN SHIPPING",
-          "cpvs": [
-            {
-              "key": "79311000-7",
-              "value": "Υπηρεσίες ερευνών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "63261600",
-        "99203026",
-        "79311000"
-      ],
-      "cpv_divisions": [
-        "63",
-        "79"
-      ],
-      "all_domains": [
-        "Transport Support & Travel",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "ΣΥΝΟΛΙΚΟΣ ΠΡΟΫΠΟΛΟΓΙΣΜΟΣ ΕΡΓΟΥ 63262700",
-      "referenceNumber": "26REQ018471111",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2024-07-03",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T11:13:16.684",
-      "procurementDeliveryDate": "2028-09-30",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "38080",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "099793475",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99203026",
-        "value": "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1020.E00318.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "73955",
-          "value": "ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ"
-        },
-        "signers": {
-          "key": "100087481",
-          "value": "ΕΜΜΑΝΟΥΗΛ ΒΑΡΒΑΡΙΓΟΣ - Πρόεδρος Επιτροπής Ερευνών"
-        }
-      },
-      "totalCostWithVAT": 80000.0,
-      "totalCostWithoutVAT": 80000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "Erg",
-            "value": "Έργο"
-          },
-          "costWithoutVAT": 80000,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "APRENDE - ADDRESSING PRIORITIES OF EVALUATED NUCLEAR DATA IN EUROPE",
-          "cpvs": [
-            {
-              "key": "79311000-7",
-              "value": "Υπηρεσίες ερευνών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "63262700",
-        "99203026",
-        "79311000"
-      ],
-      "cpv_divisions": [
-        "63",
-        "79"
-      ],
-      "all_domains": [
-        "Transport Support & Travel",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "ΣΥΝΟΛΙΚΟΣ ΠΡΟΫΠΟΛΟΓΙΣΜΟΣ ΕΡΓΟΥ 63269500",
-      "referenceNumber": "26REQ018471091",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2025-06-04",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T11:12:02.25",
-      "procurementDeliveryDate": "2028-05-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "31772",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "099793475",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99203026",
-        "value": "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1020.E00318.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "73955",
-          "value": "ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ"
-        },
-        "signers": {
-          "key": "100087481",
-          "value": "ΕΜΜΑΝΟΥΗΛ ΒΑΡΒΑΡΙΓΟΣ - Πρόεδρος Επιτροπής Ερευνών"
-        }
-      },
-      "totalCostWithVAT": 121250.0,
-      "totalCostWithoutVAT": 121250.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "Erg",
-            "value": "Έργο"
-          },
-          "costWithoutVAT": 121250,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "EPHYRA:  \"EUROPEAN PRODUCTION OF HYDROGEN FROM RENEW-ABLE ENERGY AND INTEGRATION INTO AN INDUSTRIAL ENVIRONMENT\"",
-          "cpvs": [
-            {
-              "key": "79311000-7",
-              "value": "Υπηρεσίες ερευνών"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "63269500",
-        "99203026",
-        "79311000"
-      ],
-      "cpv_divisions": [
-        "63",
-        "79"
-      ],
-      "all_domains": [
-        "Transport Support & Travel",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "Απόφαση έγκρισης ανάληψης πολυετούς υποχρέωσης",
-      "referenceNumber": "26REQ018470247",
-      "previousRequestReferenceNumber": "26REQ018430287",
-      "signedDate": "2026-02-11",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T10:26:29.568",
-      "procurementDeliveryDate": "2026-02-12",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "6712",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "997604027",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "55143",
-        "value": "ΕΛΛΗΝΙΚΟΣ ΓΕΩΡΓΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ-ΔΗΜΗΤΡΑ"
-      },
-      "nutsCode": {
-        "key": "EL515",
-        "value": "Θάσος, Καβάλα"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1029.E00514.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "91346",
-          "value": "ΙΝΣΤΙΤΟΥΤΟ ΑΛΙΕΥΤΙΚΗΣ ΕΡΕΥΝΑΣ"
-        },
-        "signers": {
-          "key": "100091750",
-          "value": "ΝΕΚΤΑΡΙΟΣ ΒΙΔΑΚΗΣ - Πρόεδρος Επιτροπής"
-        }
-      },
-      "totalCostWithVAT": 100000.0,
-      "totalCostWithoutVAT": 80645.16,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 4032.26,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΜΟΙΒΗ ΟΡΚΩΤΟΥ ΛΟΓΙΣΤΗ",
-          "cpvs": [
-            {
-              "key": "79210000-9",
-              "value": "Υπηρεσίες λογιστικής και διαχειριστικού ελέγχου"
-            }
-          ]
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 76612.9,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΝΑΥΛΩΣΗ ΣΚΑΦΟΥΣ",
-          "cpvs": [
-            {
-              "key": "63726700-1",
-              "value": "Υπηρεσίες αλιευτικού σκάφους"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "79210000",
-        "63726700"
-      ],
-      "cpv_divisions": [
-        "79",
-        "63"
-      ],
-      "all_domains": [
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "Transport Support & Travel"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "Απόφαση Ανάληψης Υποχρέωσης για την παροχή υπηρεσιών διαχείρισης ταξιδιού ",
-      "referenceNumber": "26REQ018469909",
-      "previousRequestReferenceNumber": "26REQ018469847",
-      "signedDate": "2026-02-06",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T10:09:39.234",
-      "procurementDeliveryDate": "2026-07-25",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "2373",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090196690",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "99221221",
-        "value": "ΕΘΝΙΚΗ ΛΥΡΙΚΗ ΣΚΗΝΗ"
-      },
-      "nutsCode": {
-        "key": "EL304",
-        "value": "Νότιος Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1022.E00370.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "84800",
-          "value": "ΤΟΜΕΑΣ ΔΙΟΙΚΗΤΙΚΩΝ ΕΝΕΡΓΕΙΩΝ"
-        },
-        "signers": {
-          "key": "100102070",
-          "value": "ΒΑΣΙΛΕΙΟΣ ΜΠΛΙΘΙΚΙΩΤΗΣ - Διευθυντής"
-        }
-      },
-      "totalCostWithVAT": 10304.4,
-      "totalCostWithoutVAT": 8310.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 8310,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Απόφαση Ανάληψης Υποχρέωσης για την παροχή υπηρεσιών διαχείρισης του ταξιδιού το οποίο θα πραγματοποιηθεί στο πλαίσιο του φεστιβάλ όπερας του Glyndebourne και στο οποίο θα παραβρεθούν μέλη ambassadors του OPERA CLUB",
-          "cpvs": [
-            {
-              "key": "63512000-1",
-              "value": "Υπηρεσίες πώλησης τουριστικών εισιτηρίων και οργανωμένων εκδρομών"
-            },
-            {
-              "key": "55320000-9",
-              "value": "Υπηρεσίες παροχής γευμάτων"
-            },
-            {
-              "key": "60100000-9",
-              "value": "Υπηρεσίες οδικών μεταφορών"
-            },
-            {
-              "key": "63516000-9",
-              "value": "Υπηρεσίες διαχείρισης ταξιδίων"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
         "99221221",
-        "63512000",
-        "55320000",
-        "60100000",
-        "63516000"
+        "63520000",
+        "66514000"
       ],
       "cpv_divisions": [
         "63",
-        "55",
-        "60"
+        "66"
       ],
       "all_domains": [
         "Transport Support & Travel",
-        "Hospitality, Retail & Catering Services",
-        "Transport Services"
+        "Financial & Insurance Services"
       ],
-      "primary_domain": "Transport Services"
+      "primary_domain": "Transport Support & Travel"
     },
     {
-      "title": "Πρωτογενές Αίτημα Δαπάνης",
-      "referenceNumber": "26REQ018469847",
+      "title": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ ΜΕΤΑΦΟΡΑΣ ΚΑΙ ΑΣΦΑΛΙΣΗΣ ΤΗΣ ΚΑΛ.ΠΑΡΑΓΩΓΗΣ \"CARMEN\"",
+      "referenceNumber": "26REQ018475194",
       "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-05",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T10:06:29.618",
-      "procurementDeliveryDate": "2026-07-25",
+      "signedDate": "2026-01-13",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T08:34:49.618",
+      "procurementDeliveryDate": "2026-03-12",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "GenReq-21043",
+      "protocolNumber": "21150",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
@@ -2233,16 +2395,16 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "84800",
-          "value": "ΤΟΜΕΑΣ ΔΙΟΙΚΗΤΙΚΩΝ ΕΝΕΡΓΕΙΩΝ"
+          "key": "84974",
+          "value": "ΚΑΛΛΙΤΕΧΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
         },
         "signers": {
-          "key": "100102070",
-          "value": "ΒΑΣΙΛΕΙΟΣ ΜΠΛΙΘΙΚΙΩΤΗΣ - Διευθυντής"
+          "key": "100027173",
+          "value": "ΓΕΩΡΓΙΟΣ ΚΟΥΜΕΝΤΑΚΗΣ - Διευθύνων"
         }
       },
-      "totalCostWithVAT": 10304.4,
-      "totalCostWithoutVAT": 8310.0,
+      "totalCostWithVAT": 37200.0,
+      "totalCostWithoutVAT": 30000.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -2250,29 +2412,21 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 8310,
+          "costWithoutVAT": 30000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Πρωτογενές Αίτημα Δαπάνης για την παροχή υπηρεσιών διαχείρισης του ταξιδιού το οποίο θα πραγματοποιηθεί στο πλαίσιο του φεστιβάλ όπερας του Glyndebourne και στο οποίο θα παραβρεθούν μέλη ambassadors του OPERA CLUB",
+          "shortDescription": "ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ ΜΕΤΑΦΟΡΑΣ ΚΑΙ ΑΣΦΑΛΙΣΗΣ ΤΗΣ ΚΑΛ.ΠΑΡΑΓΩΓΗΣ \"CARMEN\"",
           "cpvs": [
             {
-              "key": "63512000-1",
-              "value": "Υπηρεσίες πώλησης τουριστικών εισιτηρίων και οργανωμένων εκδρομών"
+              "key": "63520000-0",
+              "value": "Υπηρεσίες γραφείων μεταφορών"
             },
             {
-              "key": "63516000-9",
-              "value": "Υπηρεσίες διαχείρισης ταξιδίων"
-            },
-            {
-              "key": "55320000-9",
-              "value": "Υπηρεσίες παροχής γευμάτων"
-            },
-            {
-              "key": "60100000-9",
-              "value": "Υπηρεσίες οδικών μεταφορών"
+              "key": "66514000-6",
+              "value": "Υπηρεσίες ασφάλισης φορτίου και υπηρεσίες ασφάλισης σε σχέση με μεταφορές"
             }
           ]
         }
@@ -2280,7 +2434,7 @@
       "additionalContractTypes": null,
       "mixedContract": false,
       "approvalRefNo": [
-        "26REQ018469909"
+        "26REQ018475233"
       ],
       "noticeRefNo": [],
       "contractRefNo": [],
@@ -2288,426 +2442,16 @@
       "auctionRefNo": [],
       "cpv_codes_extracted": [
         "99221221",
-        "63512000",
-        "63516000",
-        "55320000",
-        "60100000"
+        "63520000",
+        "66514000"
       ],
       "cpv_divisions": [
         "63",
-        "55",
-        "60"
+        "66"
       ],
       "all_domains": [
         "Transport Support & Travel",
-        "Hospitality, Retail & Catering Services",
-        "Transport Services"
-      ],
-      "primary_domain": "Transport Services"
-    },
-    {
-      "title": "ΑΕΡΟΠΟΡΙΚΑ ΚΑΙ ΔΙΑΜΟΝΗ ΑΘΛΗΤΙΚΩΝ ΟΜΑΔΩΝ ΤΗΣ ΣΤΑ.ΣΥ ΣΤΗ ΔΑΝΙΑ",
-      "referenceNumber": "26REQ018469272",
-      "previousRequestReferenceNumber": "26REQ018469243",
-      "signedDate": "2026-01-02",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T09:33:48.767",
-      "procurementDeliveryDate": "2026-02-28",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "3",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "099939745",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "50083",
-        "value": "ΣΤΑΘΕΡΕΣ ΣΥΓΚΟΙΝΩΝΙΕΣ Α.Ε. (ΣΤΑΣΥ)"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1039.E00923.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100058522",
-          "value": "ΔΙΕΥΘΥΝΩΝ ΣΥΜΒΟΥΛΟΣ"
-        },
-        "signers": {
-          "key": "100073793",
-          "value": "ΑΘΑΝΑΣΙΟΣ ΚΟΤΤΑΡΑΣ - Διευθύνων Σύμβουλος"
-        }
-      },
-      "totalCostWithVAT": 37182.64,
-      "totalCostWithoutVAT": 29986.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 29986,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΕΡΟΠΟΡΙΚΑ ΚΑΙ ΔΙΑΜΟΝΗ ΑΘΛΗΤΙΚΩΝ ΟΜΑΔΩΝ ΤΗΣ ΣΤΑ.ΣΥ ΣΤΗ ΔΑΝΙΑ",
-          "cpvs": [
-            {
-              "key": "63510000-7",
-              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "63510000"
-      ],
-      "cpv_divisions": [
-        "63"
-      ],
-      "all_domains": [
-        "Transport Support & Travel"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "ΑΕΡΟΠΟΡΙΚΑ ΚΑΙ ΔΙΑΜΟΝΗ ΑΘΛΗΤΙΚΩΝ ΟΜΑΔΩΝ ΤΗΣ ΣΤΑ.ΣΥ ΣΤΗ ΔΑΝΙΑ",
-      "referenceNumber": "26REQ018469243",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-01-30",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T09:32:07.537",
-      "procurementDeliveryDate": "2026-02-28",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "952838",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "099939745",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "50083",
-        "value": "ΣΤΑΘΕΡΕΣ ΣΥΓΚΟΙΝΩΝΙΕΣ Α.Ε. (ΣΤΑΣΥ)"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1039.E00923.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100067211",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΕΤΑΙΡΙΚΗΣ ΕΠΙΚΟΙΝΩΝΙΑΣ ΚΑΙ ΕΜΠΕΙΡΙΑΣ ΕΠΙΒΑΤΩΝ"
-        },
-        "signers": {
-          "key": "100067214",
-          "value": "ΚΑΤΕΡΙΝΑ ΜΠΟΥΚΗ - Διευθυντής"
-        }
-      },
-      "totalCostWithVAT": 37182.64,
-      "totalCostWithoutVAT": 29986.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 29986,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΕΡΟΠΟΡΙΚΑ ΚΑΙ ΔΙΑΜΟΝΗ ΑΘΛΗΤΙΚΩΝ ΟΜΑΔΩΝ ΤΗΣ ΣΤΑ.ΣΥ ΣΤΗ ΔΑΝΙΑ",
-          "cpvs": [
-            {
-              "key": "63510000-7",
-              "value": "Υπηρεσίες ταξιδιωτικών πρακτορείων και συναφείς υπηρεσίες"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018469272"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "63510000"
-      ],
-      "cpv_divisions": [
-        "63"
-      ],
-      "all_domains": [
-        "Transport Support & Travel"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "Παροχή υπηρεσιών καθημερινής καταγραφής σκαφών και είσπραξης τελών στο Ενετικό Λιμάνι Ηρακλείου.",
-      "referenceNumber": "26REQ018468944",
-      "previousRequestReferenceNumber": "25REQ018283963",
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T09:15:34.39",
-      "procurementDeliveryDate": "2026-12-31",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "164",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "996558950",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "100099258",
-        "value": "ΛΙΜΕΝΙΚΟ ΤΑΜΕΙΟ ΗΡΑΚΛΕΙΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1041.Ε00991.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100099399",
-          "value": "ΛΙΜΕΝΙΚΟ ΤΑΜΕΙΟ ΗΡΑΚΛΕΙΟΥ"
-        },
-        "signers": {
-          "key": "100099262",
-          "value": "ΙΩΑΝΝΗΣ ΒΑΡΔΑΒΑΣ - Πρόεδρος"
-        }
-      },
-      "totalCostWithVAT": 23808.0,
-      "totalCostWithoutVAT": 19200.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 19200,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Παροχή υπηρεσιών καθημερινής καταγραφής σκαφών και είσπραξης τελών στο Ενετικό Λιμάνι Ηρακλείου.",
-          "cpvs": [
-            {
-              "key": "63723000-3",
-              "value": "Υπηρεσίες ελλιμενισμού πλοίων"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "63723000"
-      ],
-      "cpv_divisions": [
-        "63"
-      ],
-      "all_domains": [
-        "Transport Support & Travel"
-      ],
-      "primary_domain": "Transport Support & Travel"
-    },
-    {
-      "title": "Παροχή υπηρεσιών καθημερινής καταγραφής σκαφών και είσπραξης τελών στο Ενετικό Λιμάνι Ηρακλείου.",
-      "referenceNumber": "26REQ018468616",
-      "previousRequestReferenceNumber": "25REQ018283963",
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": "2026-02-12T09:12:40.204",
-      "submissionDate": "2026-02-12T08:54:44.704",
-      "procurementDeliveryDate": "2026-12-31",
-      "cancellationDate": "2026-02-12T09:12:40.204",
-      "cancelled": true,
-      "cancellationReason": "ΔΙΟΡΘΩΣΗ",
-      "cancellationADA": null,
-      "cancellationType": "Ακύρωση λόγω λανθασμένης καταχώρησης",
-      "protocolNumber": "164",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "996558950",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "100099258",
-        "value": "ΛΙΜΕΝΙΚΟ ΤΑΜΕΙΟ ΗΡΑΚΛΕΙΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1041.E00991.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100099399",
-          "value": "ΛΙΜΕΝΙΚΟ ΤΑΜΕΙΟ ΗΡΑΚΛΕΙΟΥ"
-        },
-        "signers": {
-          "key": "100099262",
-          "value": "ΙΩΑΝΝΗΣ ΒΑΡΔΑΒΑΣ - Πρόεδρος"
-        }
-      },
-      "totalCostWithVAT": 23808.0,
-      "totalCostWithoutVAT": 19200.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 19200,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Παροχή υπηρεσιών καθημερινής καταγραφής σκαφών και είσπραξης τελών στο Ενετικό Λιμάνι Ηρακλείου.",
-          "cpvs": [
-            {
-              "key": "63723000-3",
-              "value": "Υπηρεσίες ελλιμενισμού πλοίων"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "63723000"
-      ],
-      "cpv_divisions": [
-        "63"
-      ],
-      "all_domains": [
-        "Transport Support & Travel"
+        "Financial & Insurance Services"
       ],
       "primary_domain": "Transport Support & Travel"
     }

@@ -1,26 +1,26 @@
 {
   "domain": "Agricultural Machinery",
-  "count": 2,
+  "count": 1,
   "items": [
     {
-      "title": "20.2455.219 ΠΡΩΤΟΓΕΝΕΣ ΑΙΤΗΜΑ ΠΡΟΥΠ.LEGUMES4THES",
-      "referenceNumber": "26REQ018471039",
-      "previousRequestReferenceNumber": "26REQ018363329",
-      "signedDate": "2026-02-11",
+      "title": "EΓΚΡΙΣΗ  2026 ΕΡΓΟ SMARTANIMAL",
+      "referenceNumber": "26REQ018479407",
+      "previousRequestReferenceNumber": "26REQ018367712",
+      "signedDate": "2026-02-13",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T11:09:26.096",
-      "procurementDeliveryDate": "2026-02-12",
+      "submissionDate": "2026-02-13T12:57:17.04",
+      "procurementDeliveryDate": "2026-12-31",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "186/6717",
+      "protocolNumber": "91",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
-      "greekOrganizationVatNumber": false,
+      "greekOrganizationVatNumber": true,
       "organizationVatNumber": "997604027",
       "budget": null,
       "commitmentNo": null,
@@ -31,8 +31,8 @@
         "value": "ΕΛΛΗΝΙΚΟΣ ΓΕΩΡΓΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ-ΔΗΜΗΤΡΑ"
       },
       "nutsCode": {
-        "key": "EL612",
-        "value": "Λάρισα"
+        "key": "EL524",
+        "value": "Πέλλα"
       },
       "typeOfContractingAuthority": {
         "key": "10",
@@ -42,7 +42,7 @@
         "key": "4",
         "value": "Εκτός Γενικής Κυβέρνησης"
       },
-      "aaht": "1029.E00514.0001",
+      "aaht": "1029.E00514.0001 ",
       "contractTypes": [
         {
           "contractType": {
@@ -53,278 +53,226 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "100009124",
-          "value": "ΙΝΣΤΙΤΟΥΤΟ ΒΙΟΜΗΧΑΝΙΚΩΝ ΚΑΙ ΚΤΗΝΟΤΡΟΦΙΚΩΝ ΦΥΤΩΝ"
+          "key": "100009117",
+          "value": "ΙΝΣΤΙΤΟΥΤΟ ΕΠΙΣΤΗΜΗΣ ΖΩΙΚΗΣ ΠΑΡΑΓΩΓΗΣ"
         },
         "signers": {
           "key": "100091750",
           "value": "ΝΕΚΤΑΡΙΟΣ ΒΙΔΑΚΗΣ - Πρόεδρος Επιτροπής"
         }
       },
-      "totalCostWithVAT": 9999.99,
-      "totalCostWithoutVAT": 8064.51,
+      "totalCostWithVAT": 844353.2,
+      "totalCostWithoutVAT": 680930.0,
       "objectDetails": [
         {
-          "quantity": 2,
+          "quantity": 1,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "C62",
+            "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 1612.9,
+          "costWithoutVAT": 49500,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΕΞΟΔΑ ΠΡΟΒΟΛΗΣ ΚΑΙ ΔΙΑΦΗΜΙΣΗΣ",
+          "shortDescription": "Εξοπλισμός δικτύου",
           "cpvs": [
             {
-              "key": "79340000-9",
-              "value": "Υπηρεσίες διαφήμισης και μάρκετινγκ"
+              "key": "32420000-3",
+              "value": "Εξοπλισμός δικτύου"
             }
           ]
         },
         {
-          "quantity": 20,
+          "quantity": 1,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 4435.48,
+          "costWithoutVAT": 246328.9,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΥΛΙΚΑ ΑΜΕΣΗΣ ΑΝΑΛΩΣΗΣ",
+          "shortDescription": "AΓΟΡΑ ΕΠΙΣΤΗΜΟΝΙΚΟΥ ΕΞΟΠΛΙΣΜΟΥ( χημικοί αναλυτές,μικροσκόπια,καταψύκτες,χρωματογράφοι,φασματοφωτόμετρα κλπ.)",
           "cpvs": [
             {
-              "key": "24453000-4",
-              "value": "Ζιζανιοκτόνα"
+              "key": "42943000-8",
+              "value": "Θερμοστατικά λουτρά και σχετικά εξαρτήματα"
             },
             {
-              "key": "16400000-9",
-              "value": "Γεωργικά μηχανήματα ψεκασμού"
+              "key": "42959000-3",
+              "value": "Πλυντήρια πιάτων επαγγελματικού τύπου"
             },
             {
-              "key": "18141000-9",
-              "value": "Γάντια εργασίας"
+              "key": "71356300-1",
+              "value": "Υπηρεσίες τεχνικής υποστήριξης"
             },
             {
-              "key": "18937100-7",
-              "value": "Σακούλες συσκευασίας"
+              "key": "38436300-3",
+              "value": "Ανακινητήρες επώασης"
             },
             {
-              "key": "44423000-1",
-              "value": "Διάφορα είδη"
+              "key": "38434560-9",
+              "value": "Χημικοί αναλυτές"
             },
             {
-              "key": "18830000-6",
-              "value": "Προστατευτικά υποδήματα"
+              "key": "33120000-7",
+              "value": "Συστήματα καταγραφής και ερευνητικές συσκευές"
             },
             {
-              "key": "24440000-0",
-              "value": "Διάφορα λιπάσματα"
+              "key": "38416000-4",
+              "value": "Πεχάμετρα"
+            },
+            {
+              "key": "38436700-7",
+              "value": "Διασπαστές υπερήχων"
+            },
+            {
+              "key": "38436800-8",
+              "value": "Ομογενοποιητές με περιστρεφόμενα πτερύγια"
+            },
+            {
+              "key": "39711124-4",
+              "value": "Βιομηχανικοί καταψύκτες"
+            },
+            {
+              "key": "38510000-3",
+              "value": "Μικροσκόπια"
+            },
+            {
+              "key": "38437000-7",
+              "value": "Εργαστηριακά σιφώνια (πιπέτες) και εξαρτήματα"
+            },
+            {
+              "key": "38433000-9",
+              "value": "Φασματοφωτόμετρα"
+            },
+            {
+              "key": "38310000-1",
+              "value": "Ζυγοί ακριβείας"
+            },
+            {
+              "key": "42300000-9",
+              "value": "Βιομηχανικοί ή εργαστηριακοί κλίβανοι"
+            },
+            {
+              "key": "38519100-7",
+              "value": "Διατάξεις φωτισμού για μικροσκόπια"
+            },
+            {
+              "key": "72120000-2",
+              "value": "Υπηρεσίες παροχής συμβουλών σε θέματα αποκατάστασης βλαβών υλικού πληροφορικής"
+            },
+            {
+              "key": "38518200-1",
+              "value": "Στερεοσκοπικά ή ανατομικά φωτομικροσκόπια"
+            },
+            {
+              "key": "38432000-2",
+              "value": "Συσκευές αναλύσεων"
+            },
+            {
+              "key": "38432200-4",
+              "value": "Χρωματογράφοι"
             }
           ]
         },
         {
-          "quantity": 5,
+          "quantity": 1,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 2016.13,
+          "costWithoutVAT": 385101.1,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΗΛΕΚΤ.ΥΠΟΛΟΓ.ΛΟΙΠΟΣ ΕΞΟΠΛΙΣΜΟΣ",
+          "shortDescription": "ΑΓΟΡΑ ΠΑΓΙΟΥ ΕΞΟΠΛΙΣΜΟΥ (αμελκτικές μηχανές,μηχανήματα παρασκευής ζωοτροφών,ανεμιστήρες,αισθητήρες κλπ.)",
           "cpvs": [
             {
-              "key": "30213100-6",
-              "value": "Φορητοί επιτραπέζιοι μικροϋπολογιστές"
+              "key": "42967000-2",
+              "value": "Μονάδες ελεγκτών"
             },
             {
-              "key": "38652200-2",
-              "value": "Συσκευές μεγέθυνσης"
+              "key": "35125100-7",
+              "value": "Αισθητήρες"
             },
             {
-              "key": "42923110-6",
-              "value": "Ζυγαριές"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": [
-        {
-          "additionalContractType": {
-            "key": "3",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "mixedContract": true,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "79340000",
-        "24453000",
-        "16400000",
-        "18141000",
-        "18937100",
-        "44423000",
-        "18830000",
-        "24440000",
-        "30213100",
-        "38652200",
-        "42923110"
-      ],
-      "cpv_divisions": [
-        "79",
-        "24",
-        "16",
-        "18",
-        "44",
-        "30",
-        "38",
-        "42"
-      ],
-      "all_domains": [
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "Chemicals",
-        "Agricultural Machinery",
-        "Clothing & PPE",
-        "Construction Materials & Structures",
-        "Office & Computing (Non-Software)",
-        "Lab, Optical & Precision Equipment",
-        "Industrial Machinery"
-      ],
-      "primary_domain": "Construction Materials & Structures"
-    },
-    {
-      "title": "ΑΑΥ 150/2026",
-      "referenceNumber": "26REQ018469634",
-      "previousRequestReferenceNumber": "26REQ018466869",
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T09:55:42.987",
-      "procurementDeliveryDate": "2026-02-18",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "2982",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "998583210",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "6225",
-        "value": "ΔΗΜΟΣ ΟΡΕΣΤΙΑΔΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL511",
-        "value": "Έβρος"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.Ε80303.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "13",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100002719",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "100084344",
-          "value": "Αδαμάντιος Παπαδόπουλος - Δήμαρχος"
-        }
-      },
-      "totalCostWithVAT": 390.75,
-      "totalCostWithoutVAT": 331.0,
-      "objectDetails": [
-        {
-          "quantity": 3,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 92,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΟΒΟΛΗ ΑΙΤΗΜΑΤΟΣ ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΕΞΟΠΛΙΣΜΟΥ",
-          "cpvs": [
+              "key": "38310000-1",
+              "value": "Ζυγοί ακριβείας"
+            },
             {
-              "key": "16160000-4",
-              "value": "Διάφορα είδη εξοπλισμού κηπουρικής"
-            }
-          ]
-        },
-        {
-          "quantity": 14,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 179,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΟΒΟΛΗ ΑΙΤΗΜΑΤΟΣ ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΦΥΤΩΝ",
-          "cpvs": [
+              "key": "30213200-7",
+              "value": "Φορητοί υπολογιστές για την εισαγωγή χειρόγραφου κειμένου με τη χρήση γραφίδας"
+            },
             {
-              "key": "03121100-6",
-              "value": "Ζώντα φυτά"
-            }
-          ]
-        },
-        {
-          "quantity": 6,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 60,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΥΠΟΒΟΛΗ ΑΙΤΗΜΑΤΟΣ ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΒΕΛΤΙΩΤΙΚΩΝ ΕΔΑΦΟΥΣ",
-          "cpvs": [
+              "key": "03340000-6",
+              "value": "Ενώτια για το μαρκάρισμα ζώων"
+            },
             {
-              "key": "03100000-2",
-              "value": "Προϊόντα γεωργίας και κηπευτικής"
+              "key": "48219300-9",
+              "value": "Πακέτα λογισμικού διαχείρισης"
+            },
+            {
+              "key": "42923200-4",
+              "value": "Ζυγοί"
+            },
+            {
+              "key": "39711130-9",
+              "value": "Ψυγεία"
+            },
+            {
+              "key": "39711121-3",
+              "value": "Καταψύκτες τύπου κασέλας"
+            },
+            {
+              "key": "16630000-0",
+              "value": "Μηχανήματα για την παρασκευή ζωοτροφών"
+            },
+            {
+              "key": "30216130-6",
+              "value": "Αναγνώστες κωδικών ραβδώσεων"
+            },
+            {
+              "key": "72322000-8",
+              "value": "Υπηρεσίες διαχείρισης δεδομένων"
+            },
+            {
+              "key": "42417220-0",
+              "value": "Ανυψωτήρες και ταινίες μεταφοράς"
+            },
+            {
+              "key": "16620000-7",
+              "value": "Αμελκτικές μηχανές"
+            },
+            {
+              "key": "39711110-3",
+              "value": "Ψυγεία-καταψύκτες"
+            },
+            {
+              "key": "31440000-2",
+              "value": "Μπαταρίες"
+            },
+            {
+              "key": "16650000-6",
+              "value": "Μηχανήματα πτηνοτροφείων"
+            },
+            {
+              "key": "42522000-1",
+              "value": "Μη οικιακοί ανεμιστήρες"
+            },
+            {
+              "key": "16640000-3",
+              "value": "Μελισσοκομικά μηχανήματα"
+            },
+            {
+              "key": "71356300-1",
+              "value": "Υπηρεσίες τεχνικής υποστήριξης"
             }
           ]
         }
@@ -337,19 +285,77 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "16160000",
-        "03121100",
-        "03100000"
+        "32420000",
+        "42943000",
+        "42959000",
+        "71356300",
+        "38436300",
+        "38434560",
+        "33120000",
+        "38416000",
+        "38436700",
+        "38436800",
+        "39711124",
+        "38510000",
+        "38437000",
+        "38433000",
+        "38310000",
+        "42300000",
+        "38519100",
+        "72120000",
+        "38518200",
+        "38432000",
+        "38432200",
+        "42967000",
+        "35125100",
+        "30213200",
+        "03340000",
+        "48219300",
+        "42923200",
+        "39711130",
+        "39711121",
+        "16630000",
+        "30216130",
+        "72322000",
+        "42417220",
+        "16620000",
+        "39711110",
+        "31440000",
+        "16650000",
+        "42522000",
+        "16640000"
       ],
       "cpv_divisions": [
+        "32",
+        "42",
+        "71",
+        "38",
+        "33",
+        "39",
+        "72",
+        "35",
+        "30",
+        "03",
+        "48",
         "16",
-        "03"
+        "31"
       ],
       "all_domains": [
+        "Telecom & Electronics",
+        "Industrial Machinery",
+        "Architecture, Engineering & Inspection",
+        "Lab, Optical & Precision Equipment",
+        "Medical & Pharma",
+        "Furniture & Cleaning Products",
+        "IT Services",
+        "Security & Defense",
+        "Office & Computing (Non-Software)",
+        "Agriculture & Forestry",
+        "Software & Information Systems",
         "Agricultural Machinery",
-        "Agriculture & Forestry"
+        "Electrical Equipment & Lighting"
       ],
-      "primary_domain": "Agriculture & Forestry"
+      "primary_domain": "Architecture, Engineering & Inspection"
     }
   ]
 }

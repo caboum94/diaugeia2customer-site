@@ -3,12 +3,12 @@
   "count": 13,
   "items": [
     {
-      "title": "Πρόσκληση υποβολής προσφοράς",
-      "referenceNumber": "26PROC018474577",
-      "signedDate": "2026-02-12T00:00:00",
+      "title": "ΠΡΟΣΚΛΗΣΗ ΓΙΑ ΥΠΟΒΟΛΗ ΠΡΟΣΦΟΡΑΣ ΠΡΟΜΗΘΕΙΑ ΚΑΙ ΕΚΤΥΠΩΣΕΙΣ ΕΝΤΥΠΟΥ ΥΛΙΚΟΥ ΓΙΑ ΤΙΣ ΑΠΟΚΡΙΑΤΙΚΕΣ ΕΚΔΗΛΩΣ",
+      "referenceNumber": "26PROC018482154",
+      "signedDate": "2026-02-14T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-24T00:00:00",
-      "submissionDate": "2026-02-12T17:30:02.301",
+      "finalSubmissionDate": "2026-02-16T23:59:00",
+      "submissionDate": "2026-02-14T11:30:41.929",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -20,7 +20,7 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1004.0000000000.0001",
+      "aaht": "1007.E84403.0001",
       "biddingWebsite": null,
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
@@ -29,11 +29,11 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL653",
+        "value": "Λακωνία, Μεσσηνία"
       },
-      "nutsCity": "Αθήνα",
-      "nutsPostalCode": "10674",
+      "nutsCity": "ΜΕΣΣΗΝΗ",
+      "nutsPostalCode": "24200",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -52,12 +52,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100062183",
-          "value": "ΜΟΝΑΔΑ ΔΙΟΙΚΗΤΙΚΗΣ ΚΑΙ ΟΙΚΟΝΟΜΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ"
+          "key": "100015767",
+          "value": "ΤΜΗΜΑ ΚΟΙΝΩΝΙΚΗΣ ΠΟΛΙΤΙΚΗΣ, ΠΑΙΔΕΙΑΣ ΚΑΙ ΔΙΑ ΒΙΟΥ ΜΑΘΗΣΗΣ"
         },
         "signers": {
-          "key": "100063980",
-          "value": "ΕΛΕΝΗ ΛΥΚΟΓΙΑΝΝΗ - Α/Α (Αντι Αυτού) Προϊσταμένου Διεύθυνσης"
+          "key": "100069436",
+          "value": "ΔΗΜΗΤΡΙΟΣ ΑΘΑΝΑΣΑΚΟΠΟΥΛΟΣ - Αντιδήμαρχος"
         }
       },
       "fundingDetails": {
@@ -65,211 +65,14 @@
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": null,
+        "selfFundProgramRef": "ΙΔΙΟΙ ΠΟΡΟΙ",
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2410904001"
+        "regularBudgetFundedProgramRef": null
       },
       "systemicNumbers": [],
       "approvedRequests": [
         {
-          "code": "26REQ018467695"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "12",
-            "value": "Κεντρική Διοίκηση"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL303",
-            "value": "Κεντρικός Τομέας Αθηνών"
-          }
-        }
-      ],
-      "organization": {
-        "key": "100048574",
-        "value": "ΠΡΟΕΔΡΙΑ ΤΗΣ ΚΥΒΕΡΝΗΣΗΣ"
-      },
-      "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
-      },
-      "digitalPlatform": null,
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
-      },
-      "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
-      },
-      "contractDuration": 15,
-      "contractDurationUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "totalCostWithVAT": 3693.87,
-      "totalCostWithoutVAT": 2978.93,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 2978.93,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια βιβλίων",
-          "cpvs": [
-            {
-              "key": "22110000-4",
-              "value": "Τυπωμένα βιβλία"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 30,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "22110000"
-      ],
-      "cpv_divisions": [
-        "22"
-      ],
-      "all_domains": [
-        "Printing & Publishing"
-      ],
-      "primary_domain": "Printing & Publishing"
-    },
-    {
-      "title": "ΠΡΟΣΚΛΗΣΗ ΥΠΟΒΟΛΗΣ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΤΕΤΡΑΔΙΩΝ ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΔΙΑΓΩΝΙΣΜΩΝ ΕΣΔΙ",
-      "referenceNumber": "26PROC018474407",
-      "signedDate": "2026-02-12T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-13T11:00:00",
-      "submissionDate": "2026-02-12T15:17:24.229",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1017.Ε00532.0001",
-      "biddingWebsite": null,
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 1,
-      "nutsCode": {
-        "key": "EL522",
-        "value": "Θεσσαλονίκη"
-      },
-      "nutsCity": "ΘΕΣΣΑΛΟΝΙΚΗ",
-      "nutsPostalCode": "55102",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100059889",
-          "value": "ΤΜΗΜΑ ΕΦΑΡΜΟΓΗΣ ΠΡΟΓΡΑΜΜΑΤΟΣ ΔΗΜΟΣΙΩΝ ΕΠΕΝΔΥΣΕΩΝ"
-        },
-        "signers": {
-          "key": "100100803",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΕΦΕΝΤΑΚΗΣ - Διευθυντής"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "0002410101001"
-      },
-      "systemicNumbers": [],
-      "approvedRequests": [
-        {
-          "code": "26REQ018435713"
+          "code": "26REQ018481366"
         }
       ],
       "contractingAuthorities": [
@@ -283,212 +86,14 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL522",
-            "value": "Θεσσαλονίκη"
+            "key": "EL653",
+            "value": "Λακωνία, Μεσσηνία"
           }
         }
       ],
       "organization": {
-        "key": "99200399",
-        "value": "ΕΘΝΙΚΗ ΣΧΟΛΗ ΔΙΚΑΣΤΙΚΩΝ ΛΕΙΤΟΥΡΓΩΝ (Ε.Σ.ΔΙ.)"
-      },
-      "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
-      },
-      "digitalPlatform": null,
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
-      },
-      "contractingAuthorityActivity": {
-        "key": "11",
-        "value": "Εκπαίδευση"
-      },
-      "contractDuration": 19,
-      "contractDurationUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "totalCostWithVAT": 4285.44,
-      "totalCostWithoutVAT": 3456.0,
-      "objectDetails": [
-        {
-          "quantity": 12000,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 3456,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "προσκληση για την προμήθεια τετραδίων εξετάσεων για τις ανάγκες των εισαγωγικών και εξαγωγικών διαγωνισμών της ΕΣΔι έτους 2026",
-          "cpvs": [
-            {
-              "key": "22830000-7",
-              "value": "Τετράδια"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 30,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "99200399",
-        "22830000"
-      ],
-      "cpv_divisions": [
-        "22"
-      ],
-      "all_domains": [
-        "Printing & Publishing"
-      ],
-      "primary_domain": "Printing & Publishing"
-    },
-    {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΕΝΤΥΠΟΥ ΥΛΙΚΟΥ ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΑΠΟΚΡΙΑΤΙΚΩΝ ΕΚΔΗΛΩΣΕΩΝ ΣΤΗΝ ΑΞΙΟΥΠΟΛΗ",
-      "referenceNumber": "26PROC018474147",
-      "signedDate": "2026-02-12T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-17T00:00:00",
-      "submissionDate": "2026-02-12T14:23:59.503",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1007.Ε80902.0001",
-      "biddingWebsite": null,
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 1,
-      "nutsCode": {
-        "key": "EL523",
-        "value": "Κιλκίς"
-      },
-      "nutsCity": "ΠΟΛΥΚΑΣΤΡΟ",
-      "nutsPostalCode": "61200",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "84936",
-          "value": "ΔΗΜΟΣ ΠΑΙΟΝΙΑΣ"
-        },
-        "signers": {
-          "key": "100049130",
-          "value": "Κωνσταντίνος Σιωνίδης - Δήμαρχος"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "000.2420907002 "
-      },
-      "systemicNumbers": [],
-      "approvedRequests": [
-        {
-          "code": "26REQ018473687"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL523",
-            "value": "Κιλκίς"
-          }
-        }
-      ],
-      "organization": {
-        "key": "6231",
-        "value": "ΔΗΜΟΣ ΠΑΙΟΝΙΑΣ"
+        "key": "6190",
+        "value": "ΔΗΜΟΣ ΜΕΣΣΗΝΗΣ"
       },
       "typeOfProcedure": {
         "key": "6",
@@ -534,11 +139,11 @@
       },
       "contractDuration": 1,
       "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
+        "key": "1",
+        "value": "Ημέρες"
       },
-      "totalCostWithVAT": 200.0,
-      "totalCostWithoutVAT": 161.29,
+      "totalCostWithVAT": 1488.0,
+      "totalCostWithoutVAT": 1200.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -546,13 +151,849 @@
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 161.29,
+          "costWithoutVAT": 1200,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΕΝΤΥΠΟΥ ΥΛΙΚΟΥ ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΑΠΟΚΡΙΑΤΙΚΩΝ ΕΚΔΗΛΩΣΕΩΝ ΣΤΗΝ ΑΞΙΟΥΠΟΛΗ",
+          "shortDescription": "Εκτυπώσεις έντυπων ειδών προβολής ( Banner διαστάσεων 1,40*2,40 με κρίκους για τις αποκριάτικες εκδηλώσεις 2026 με διαφορετικά θέματα)",
+          "cpvs": [
+            {
+              "key": "22140000-3",
+              "value": "Ενημερωτικά έντυπα"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "3",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "mixedContract": true,
+      "offersValidTime": 1,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "1",
+        "value": "Ημέρες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "22140000"
+      ],
+      "cpv_divisions": [
+        "22"
+      ],
+      "all_domains": [
+        "Printing & Publishing"
+      ],
+      "primary_domain": "Printing & Publishing"
+    },
+    {
+      "title": "ΠΡΟΣΚΛΗΣΗ ",
+      "referenceNumber": "26PROC018481201",
+      "signedDate": "2026-02-13T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-18T15:00:00",
+      "submissionDate": "2026-02-13T14:53:28.994",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "00000000",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
+      },
+      "nutsCity": "ΑΘΗΝΑ",
+      "nutsPostalCode": "112 53",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100100636",
+          "value": "ΠΡΟΕΔΡΟΣ ΔΣ"
+        },
+        "signers": {
+          "key": "100100637",
+          "value": "ΒΑΣΙΛΙΚΗ ΔΑΝΕΛΛΗ ΜΥΛΩΝΑ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "6020868",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018481095"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "10",
+            "value": "ΝΠΙΔ"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL",
+            "value": "ΕΛΛΑΔΑ"
+          }
+        }
+      ],
+      "organization": {
+        "key": "100099222",
+        "value": "ΕΛΛΗΝΙΚΟ ΙΝΣΤΙΤΟΥΤΟ ΕΡΕΥΝΑΣ ΚΑΙ ΕΚΠΑΙΔΕΥΣΗΣ ΓΙΑ ΤΗΝ ΟΔΙΚΗ ΑΣΦΑΛΕΙΑ ΚΑΙ ΤΗΝ ΠΡΟΛΗΨΗ ΚΑΙ ΤΗΝ ΜΕΙΩΣΗ ΤΩΝ ΤΡΟΧΑΙΩΝ ΑΤΥΧΗΜΑΤΩ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 10,
+      "contractDurationUnitOfMeasure": {
+        "key": "1",
+        "value": "Ημέρες"
+      },
+      "totalCostWithVAT": 21899.64,
+      "totalCostWithoutVAT": 17661.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 17661,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια και παραγωγή έντυπου/ενημερωτικού και προωθητικού υλικού, καθώς και συναφών υλικών/εξοπλισμού, στο πλαίσιο που προβλέπονται στο ΠΕ3",
+          "cpvs": [
+            {
+              "key": "22462000-6",
+              "value": "Διαφημιστικό υλικό"
+            },
+            {
+              "key": "79810000-5",
+              "value": "Υπηρεσίες εκτύπωσης"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 30,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "1",
+        "value": "Ημέρες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "00000000",
+        "22462000",
+        "79810000"
+      ],
+      "cpv_divisions": [
+        "22",
+        "79"
+      ],
+      "all_domains": [
+        "Printing & Publishing",
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)"
+      ],
+      "primary_domain": "Business Services (Legal/Marketing/Recruitment/Security/Print)"
+    },
+    {
+      "title": "ΕΝΟΙΚΙΑΣΗ ΜΟΥΣΙΚΟΥ ΥΛΙΚΟΥ ΓΙΑ ΕΚΔΗΛΩΣΗ:''MOYSA'' 23/3 (ΟΜΜΘ), 26/3 (Σόφια) & 25/3/26 (Βουκουρέστι)",
+      "referenceNumber": "26PROC018481171",
+      "signedDate": "2026-02-12T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-18T12:00:00",
+      "submissionDate": "2026-02-13T14:50:48.266",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1022.Ε00376.0001",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
+      },
+      "nutsCity": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "nutsPostalCode": "54646",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100022360",
+          "value": "ΚΑΛΛΙΤΕΧΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
+        },
+        "signers": {
+          "key": "100078227",
+          "value": "ΜΑΡΙΑ ΡΟΔΟΚΑΛΑΚΗ - Προϊστάμενος"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "62.04.50"
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018465707"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "10",
+            "value": "ΝΠΙΔ"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL522",
+            "value": "Θεσσαλονίκη"
+          }
+        }
+      ],
+      "organization": {
+        "key": "100022203",
+        "value": "ΟΡΓΑΝΙΣΜΟΣ ΜΕΓΑΡΟΥ ΜΟΥΣΙΚΗΣ ΘΕΣΣΑΛΟΝΙΚΗΣ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "10",
+        "value": "Πολιτισμός και θρησκεία"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "totalCostWithVAT": 682.0,
+      "totalCostWithoutVAT": 550.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 550,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ενοικίαση μουσικού υλικού Ν. Σκαλκώτα \"Τρεις χοροί\" για ορχήστρα για την συναυλία της ΜΟΥΣΑ στο Μέγαρο Μουσικής Θεσσαλονίκης στις 23.03, στην Σόφια στις 24.03 & στο Βουκουρέστι στις 25/3/26.  Δ207/23.12.2025",
+          "cpvs": [
+            {
+              "key": "22114400-6",
+              "value": "Παρτιτούρες"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 1,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "22114400"
+      ],
+      "cpv_divisions": [
+        "22"
+      ],
+      "all_domains": [
+        "Printing & Publishing"
+      ],
+      "primary_domain": "Printing & Publishing"
+    },
+    {
+      "title": "Εκτυπώσεις εντύπων προβολής για την κάλυψη των πολιτιστικών εκδηλώσεων για τον εορτασμό της «Καθαράς",
+      "referenceNumber": "26PROC018480970",
+      "signedDate": "2026-02-13T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-18T00:00:00",
+      "submissionDate": "2026-02-13T14:33:44.682",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.Ε80602.0001",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL512",
+        "value": "Ξάνθη"
+      },
+      "nutsCity": "ΓΕΝΙΣΕΑ ΞΑΝΘΗΣ",
+      "nutsPostalCode": "67064",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "80597",
+          "value": "ΔΗΜΑΡΧΟΣ ΓΙΑ ΟΛΕΣ ΤΙΣ ΜΟΝΑΔΕΣ ΤΗΣ ΥΠΗΡΕΣΙΑΣ"
+        },
+        "signers": {
+          "key": "100002353",
+          "value": "Γεώργιος Τσιτιρίδης - Δήμαρχος"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "02.020.2420908"
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018480714"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "9",
+            "value": "ΝΠΔΔ"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL512",
+            "value": "Ξάνθη"
+          }
+        }
+      ],
+      "organization": {
+        "key": "6001",
+        "value": "ΔΗΜΟΣ ΑΒΔΗΡΩΝ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "2",
+        "value": "Εβδομάδες"
+      },
+      "totalCostWithVAT": 1123.44,
+      "totalCostWithoutVAT": 906.0,
+      "objectDetails": [
+        {
+          "quantity": 3057,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 906,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "“Εκτυπώσεις εντύπων προβολής για την κάλυψη των πολιτιστικών εκδηλώσεων για τον εορτασμό της «Καθαράς Δευτέρας» σε οικισμούς του Δήμου Αβδήρων”",
+          "cpvs": [
+            {
+              "key": "22140000-3",
+              "value": "Ενημερωτικά έντυπα"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 1,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "22140000"
+      ],
+      "cpv_divisions": [
+        "22"
+      ],
+      "all_domains": [
+        "Printing & Publishing"
+      ],
+      "primary_domain": "Printing & Publishing"
+    },
+    {
+      "title": "Προμήθεια κερασμάτων και ειδών σουπερμάρκετ στο πλαίσιο των Αποκριάτικων εκδηλώσεων στο Περιθώρι.",
+      "referenceNumber": "26PROC018480966",
+      "signedDate": "2026-02-13T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-19T12:00:00",
+      "submissionDate": "2026-02-13T14:33:28.493",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.E80203.0001",
+      "biddingWebsite": "https://www.nevrokopi.gr/",
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL514",
+        "value": "Δράμα"
+      },
+      "nutsCity": "ΚΑΤΩ ΝΕΥΡΟΚΟΠΙ",
+      "nutsPostalCode": "66033",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100020160",
+          "value": "ΤΜΗΜΑ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ ΛΟΓΙΣΤΗΡΙΟΥ ΟΙΚΟΝΟΜΙΚΗΣ ΠΛΗΡΟΦΟΡΗΣΗΣ"
+        },
+        "signers": {
+          "key": "100084653",
+          "value": "ΕΛΕΥΘΕΡΙΟΣ ΤΑΜΠΟΥΡΙΔΗΣ - Δήμαρχος"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "0611",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "systemicNumbers": [
+        {
+          "systemicNumber": "-"
+        }
+      ],
+      "approvedRequests": [
+        {
+          "code": "26REQ018480745"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "9",
+            "value": "ΝΠΔΔ"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL514",
+            "value": "Δράμα"
+          }
+        }
+      ],
+      "organization": {
+        "key": "6143",
+        "value": "ΔΗΜΟΣ ΚΑΤΩ ΝΕΥΡΟΚΟΠΙΟΥ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "4",
+        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "1",
+        "value": "Ηλεκτρονική Διαδικασία"
+      },
+      "digitalPlatform": {
+        "key": "7",
+        "value": "Άλλη"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "totalCostWithVAT": 650.0,
+      "totalCostWithoutVAT": 524.19,
+      "objectDetails": [
+        {
+          "quantity": 703,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 524.19,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "κερασμάτων και ειδών σουπερμάρκετ",
+          "cpvs": [
+            {
+              "key": "15812000-3",
+              "value": "Είδη ζαχαροπλαστικής και γλυκίσματα"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 102,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 0,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "εκτυπώσεις",
           "cpvs": [
             {
               "key": "22150000-6",
@@ -584,23 +1025,26 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
+        "15812000",
         "22150000"
       ],
       "cpv_divisions": [
+        "15",
         "22"
       ],
       "all_domains": [
+        "Food & Catering",
         "Printing & Publishing"
       ],
-      "primary_domain": "Printing & Publishing"
+      "primary_domain": "Food & Catering"
     },
     {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΕΙΔΩΝ ΓΡΑΦΙΚΗΣ ΥΛΗΣ ΓΙΑ ΤΗΝ ΠΔ ΘΕΣΣΑΛΙΑΣ ΚΑΙ ΤΙΣ ΥΠΗΡΕΣΙΕΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΤΗΣ ΓΙΑ ΤΟ 2026",
-      "referenceNumber": "26PROC018473859",
-      "signedDate": "2026-02-12T00:00:00",
+      "title": "προμήθεια εκτυπώσεων στο πλαίσιο των Αποκριάτικων εκδηλώσεων στην Κοινότητα Περιθωρίου",
+      "referenceNumber": "26PROC018480875",
+      "signedDate": "2026-02-13T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-20T12:00:00",
-      "submissionDate": "2026-02-12T13:49:39.2",
+      "finalSubmissionDate": "2026-02-19T12:00:00",
+      "submissionDate": "2026-02-13T14:26:41.66",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -612,8 +1056,8 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1032.Ε00445.0005",
-      "biddingWebsite": null,
+      "aaht": "1007.E80203.0001",
+      "biddingWebsite": "https://www.nevrokopi.gr/",
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
       "budget": null,
@@ -621,11 +1065,11 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL6",
-        "value": "ΚΕΝΤΡΙΚΗ ΕΛΛΑΔΑ"
+        "key": "EL514",
+        "value": "Δράμα"
       },
-      "nutsCity": "ΛΑΡΙΣΑ",
-      "nutsPostalCode": "41447",
+      "nutsCity": "ΚΑΤΩ ΝΕΥΡΟΚΟΠΙ",
+      "nutsPostalCode": "66033",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -644,12 +1088,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "72349",
-          "value": "ΠΕΡΙΦΕΡΕΙΑΚΗ ΔΙΕΥΘΥΝΣΗ ΘΕΣΣΑΛΙΑΣ"
+          "key": "100020160",
+          "value": "ΤΜΗΜΑ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ ΛΟΓΙΣΤΗΡΙΟΥ ΟΙΚΟΝΟΜΙΚΗΣ ΠΛΗΡΟΦΟΡΗΣΗΣ"
         },
         "signers": {
-          "key": "134497",
-          "value": "ΕΥΦΡΟΣΥΝΗ ΧΑΤΖΗΚΩΝΣΤΑΝΤΙΝΟΥ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
+          "key": "100084653",
+          "value": "ΕΛΕΥΘΕΡΙΟΣ ΤΑΜΠΟΥΡΙΔΗΣ - Δήμαρχος"
         }
       },
       "fundingDetails": {
@@ -657,14 +1101,18 @@
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": null,
+        "selfFundProgramRef": "0611",
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2410101(1261), 2410189 (1299)"
+        "regularBudgetFundedProgramRef": null
       },
-      "systemicNumbers": [],
+      "systemicNumbers": [
+        {
+          "systemicNumber": "-"
+        }
+      ],
       "approvedRequests": [
         {
-          "code": "26REQ018459204"
+          "code": "26REQ018480745"
         }
       ],
       "contractingAuthorities": [
@@ -678,14 +1126,14 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL6",
-            "value": "ΚΕΝΤΡΙΚΗ ΕΛΛΑΔΑ"
+            "key": "EL514",
+            "value": "Δράμα"
           }
         }
       ],
       "organization": {
-        "key": "99219675",
-        "value": "ΔΗΜΟΣΙΑ ΥΠΗΡΕΣΙΑ ΑΠΑΣΧΟΛΗΣΗΣ"
+        "key": "6143",
+        "value": "ΔΗΜΟΣ ΚΑΤΩ ΝΕΥΡΟΚΟΠΙΟΥ"
       },
       "typeOfProcedure": {
         "key": "6",
@@ -705,634 +1153,17 @@
         }
       ],
       "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
-      },
-      "digitalPlatform": null,
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "noticeType": {
         "key": "4",
-        "value": "Πρόσκληση"
-      },
-      "contractingAuthorityActivity": {
-        "key": "8",
-        "value": "Κοινωνική προστασία"
-      },
-      "contractDuration": 1,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "totalCostWithVAT": 27586.49,
-      "totalCostWithoutVAT": 22247.17,
-      "objectDetails": [
-        {
-          "quantity": 555,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 937.95,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΕΙΔΩΝ ΓΡΑΦΙΚΗΣ ΥΛΗΣ ΓΙΑ ΤΗΝ ΠΔ ΘΕΣΣΑΛΙΑΣ ΚΑΙ ΤΙΣ ΥΠΗΡΕΣΙΕΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΤΗΣ ΓΙΑ ΤΟ 2026",
-          "cpvs": [
-            {
-              "key": "22851000-0",
-              "value": "Κλασέρ"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 7893,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 9880.15,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΕΙΔΩΝ ΓΡΑΦΙΚΗΣ ΥΛΗΣ ΓΙΑ ΤΗΝ ΠΔ ΘΕΣΣΑΛΙΑΣ ΚΑΙ ΤΙΣ ΥΠΗΡΕΣΙΕΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΤΗΣ ΓΙΑ ΤΟ 2026",
-          "cpvs": [
-            {
-              "key": "30191100-5",
-              "value": "Εξοπλισμός αρχειοθέτησης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 172,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 309.6,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΕΙΔΩΝ ΓΡΑΦΙΚΗΣ ΥΛΗΣ ΓΙΑ ΤΗΝ ΠΔ ΘΕΣΣΑΛΙΑΣ ΚΑΙ ΤΙΣ ΥΠΗΡΕΣΙΕΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΤΗΣ ΓΙΑ ΤΟ 2026",
-          "cpvs": [
-            {
-              "key": "39300000-5",
-              "value": "Ποικίλος εξοπλισμός"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 10490,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 6383.33,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΕΙΔΩΝ ΓΡΑΦΙΚΗΣ ΥΛΗΣ ΓΙΑ ΤΗΝ ΠΔ ΘΕΣΣΑΛΙΑΣ ΚΑΙ ΤΙΣ ΥΠΗΡΕΣΙΕΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΤΗΣ ΓΙΑ ΤΟ 2026",
-          "cpvs": [
-            {
-              "key": "30197000-6",
-              "value": "Μικρός εξοπλισμός γραφείου"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 489,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1369.55,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΕΙΔΩΝ ΓΡΑΦΙΚΗΣ ΥΛΗΣ ΓΙΑ ΤΗΝ ΠΔ ΘΕΣΣΑΛΙΑΣ ΚΑΙ ΤΙΣ ΥΠΗΡΕΣΙΕΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΤΗΣ ΓΙΑ ΤΟ 2026",
-          "cpvs": [
-            {
-              "key": "22853000-4",
-              "value": "Θήκες εγγράφων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1755,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 263.25,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΕΙΔΩΝ ΓΡΑΦΙΚΗΣ ΥΛΗΣ ΓΙΑ ΤΗΝ ΠΔ ΘΕΣΣΑΛΙΑΣ ΚΑΙ ΤΙΣ ΥΠΗΡΕΣΙΕΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΤΗΣ ΓΙΑ ΤΟ 2026",
-          "cpvs": [
-            {
-              "key": "22852000-7",
-              "value": "Ντοσιέ"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 231,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 293.67,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΕΙΔΩΝ ΓΡΑΦΙΚΗΣ ΥΛΗΣ ΓΙΑ ΤΗΝ ΠΔ ΘΕΣΣΑΛΙΑΣ ΚΑΙ ΤΙΣ ΥΠΗΡΕΣΙΕΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΤΗΣ ΓΙΑ ΤΟ 2026",
-          "cpvs": [
-            {
-              "key": "42900000-5",
-              "value": "Διάφορα μηχανήματα γενικής και ειδικής χρήσης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 3639,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 2809.67,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΕΙΔΩΝ ΓΡΑΦΙΚΗΣ ΥΛΗΣ ΓΙΑ ΤΗΝ ΠΔ ΘΕΣΣΑΛΙΑΣ ΚΑΙ ΤΙΣ ΥΠΗΡΕΣΙΕΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΤΗΣ ΓΙΑ ΤΟ 2026",
-          "cpvs": [
-            {
-              "key": "30192700-8",
-              "value": "Γραφική ύλη"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 90,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "99219675",
-        "22851000",
-        "30191100",
-        "39300000",
-        "30197000",
-        "22853000",
-        "22852000",
-        "42900000",
-        "30192700"
-      ],
-      "cpv_divisions": [
-        "22",
-        "30",
-        "39",
-        "42"
-      ],
-      "all_domains": [
-        "Printing & Publishing",
-        "Office & Computing (Non-Software)",
-        "Furniture & Cleaning Products",
-        "Industrial Machinery"
-      ],
-      "primary_domain": "Office & Computing (Non-Software)"
-    },
-    {
-      "title": "Πρόσκληση για την προμήθεια Αντιδραστηρίων CliniMACS για ασθενή του Νοσοκομείου με Κ.Α. 22133850",
-      "referenceNumber": "26PROC018473466",
-      "signedDate": "2026-02-11T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-19T15:00:00",
-      "submissionDate": "2026-02-12T13:19:13.027",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1015.Ε00166.0001",
-      "biddingWebsite": null,
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 1,
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "nutsCity": "Αθήνα",
-      "nutsPostalCode": "11527",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "75974",
-          "value": "ΔΙΟΙΚΗΤΗΣ"
-        },
-        "signers": {
-          "key": "100080073",
-          "value": "ΑΝΑΣΤΑΣΙΟΣ ΜΙΧΑΣ - Αναπληρωτής Διοικητής"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "32302050000001"
-      },
-      "systemicNumbers": [],
-      "approvedRequests": [
-        {
-          "code": "26REQ018443970"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL303",
-            "value": "Κεντρικός Τομέας Αθηνών"
-          }
-        }
-      ],
-      "organization": {
-        "key": "99222006",
-        "value": "ΠΕΡ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΠΑΙΔΩΝ 'Η ΑΓΙΑ ΣΟΦΙΑ'"
-      },
-      "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
       },
       "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
-      },
-      "digitalPlatform": null,
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
         "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
+        "value": "Ηλεκτρονική Διαδικασία"
       },
-      "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
+      "digitalPlatform": {
+        "key": "7",
+        "value": "Άλλη"
       },
-      "contractingAuthorityActivity": {
-        "key": "6",
-        "value": "Υγεία"
-      },
-      "contractDuration": 1,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "totalCostWithVAT": 34656.96,
-      "totalCostWithoutVAT": 29739.0,
-      "objectDetails": [
-        {
-          "quantity": 2,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 12330,
-          "vat": "6",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Πρόσκληση για την προμήθεια Αντιδραστηρίων CliniMACS για ασθενή του Νοσοκομείου με Κ.Α. 22133850",
-          "cpvs": [
-            {
-              "key": "33696500-0",
-              "value": "Αντιδραστήρια εργαστηρίων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 11,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 17409,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Πρόσκληση για την προμήθεια Αντιδραστηρίων CliniMACS για ασθενή του Νοσοκομείου με Κ.Α. 22133850",
-          "cpvs": [
-            {
-              "key": "33696500-0",
-              "value": "Αντιδραστήρια εργαστηρίων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 6,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "22133850",
-        "99222006",
-        "33696500"
-      ],
-      "cpv_divisions": [
-        "22",
-        "33"
-      ],
-      "all_domains": [
-        "Printing & Publishing",
-        "Medical & Pharma"
-      ],
-      "primary_domain": "Medical & Pharma"
-    },
-    {
-      "title": "ΔΗΜΟΣΙΕΥΣΗ ΤΗΣ ΠΡΟΚΗΡΥΞΗΣ ΤΟΥ ΔΙΑΓΩΝΙΣΜΟΥ 'ΨΗΦΙΑΚΟΣ ΜΕΤΑΣΧΗΜΑΤΙΣΜΟΣ ΔΗΜΟΥ ΑΝΔΡΟY",
-      "referenceNumber": "26PROC018473098",
-      "signedDate": "2026-02-12T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-17T00:00:00",
-      "submissionDate": "2026-02-12T12:54:07.221",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1007.E85901.0001",
-      "biddingWebsite": null,
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 1,
-      "nutsCode": {
-        "key": "EL422",
-        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
-      },
-      "nutsCity": "ΆΝΔΡΟΣ",
-      "nutsPostalCode": "84500",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "socialContract": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "82076",
-          "value": "ΓΡΑΦΕΙΟ ΔΗΜΑΡΧΟΥ"
-        },
-        "signers": {
-          "key": "100002631",
-          "value": "ΘΕΟΔΟΣΙΟΣ ΣΟΥΣΟΥΔΗΣ - Δήμαρχος"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "000.2420905"
-      },
-      "systemicNumbers": [],
-      "approvedRequests": [
-        {
-          "code": "26REQ018451823"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL422",
-            "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
-          }
-        }
-      ],
-      "organization": {
-        "key": "6037",
-        "value": "ΔΗΜΟΣ ΑΝΔΡΟΥ"
-      },
-      "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
-      },
-      "digitalPlatform": null,
       "criteriaCode": {
         "key": "2",
         "value": "Βάσει τιμής"
@@ -1346,34 +1177,60 @@
         "value": "Πρόσκληση"
       },
       "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 12,
+      "contractDuration": 1,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 912.64,
-      "totalCostWithoutVAT": 736.0,
+      "totalCostWithVAT": 560.0,
+      "totalCostWithoutVAT": 451.61,
       "objectDetails": [
         {
-          "quantity": 1,
+          "quantity": 703,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "C62",
+            "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 736,
+          "costWithoutVAT": 0,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Υπηρεσία δημοσίευσης της προκήρυξης του διαγωνισμού «ΨΗΦΙΑΚΟΣ ΜΕΤΑΣΧΗΜΑΤΙΣΜΟΣ ΔΗΜΟΥ ΑΝΔΡΟΥ», σύμφωνα με τις διατάξεις του ν. 4412/2016",
+          "shortDescription": "κερασμάτων και ειδών σουπερμάρκετ",
           "cpvs": [
             {
-              "key": "22120000-7",
-              "value": "Δημοσιεύσεις"
+              "key": "15812000-3",
+              "value": "Είδη ζαχαροπλαστικής και γλυκίσματα"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 102,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 451.61,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "εκτυπώσεις",
+          "cpvs": [
+            {
+              "key": "22150000-6",
+              "value": "Διαφημιστικά φυλλάδια"
             }
           ],
           "greenContracts": {
@@ -1401,23 +1258,26 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "22120000"
+        "15812000",
+        "22150000"
       ],
       "cpv_divisions": [
+        "15",
         "22"
       ],
       "all_domains": [
+        "Food & Catering",
         "Printing & Publishing"
       ],
-      "primary_domain": "Printing & Publishing"
+      "primary_domain": "Food & Catering"
     },
     {
-      "title": "ΔΑΠΑΝΕΣ ΕΚΔΗΛΩΣΕΩΝ ΚΑΡΝΑΒΑΛΙ-ΚΟΥΛΟΥΜΑ 2026 ΟΜΑΔΕΣ Γ-Θ",
-      "referenceNumber": "26PROC018472900",
+      "title": "ΕΝΟΙΚΙΑΣΗ ΜΟΥΣΙΚΟΥ ΥΛΙΚΟΥ ΓΙΑ ΕΚΔΗΛΩΣΗ:''MOYSA'' 23/3 (ΟΜΜΘ), 26/3 (Σόφια) & 25/3/26 (Βουκουρέστι)",
+      "referenceNumber": "26PROC018480834",
       "signedDate": "2026-02-12T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-17T07:00:00",
-      "submissionDate": "2026-02-12T12:42:13.459",
+      "finalSubmissionDate": "2026-02-18T12:00:00",
+      "submissionDate": "2026-02-13T14:23:53.612",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -1429,20 +1289,20 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007.Ε84804.0001",
+      "aaht": "1022.Ε00376.0001",
       "biddingWebsite": null,
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
       "budget": null,
       "commitmentNo": null,
       "relatedNoticeADAM": null,
-      "numberOfSections": 7,
+      "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL304",
-        "value": "Νότιος Τομέας Αθηνών"
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
       },
-      "nutsCity": "ΓΛΥΦΑΔΑ",
-      "nutsPostalCode": "16675",
+      "nutsCity": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "nutsPostalCode": "54646",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -1461,12 +1321,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "92892",
-          "value": "ΤΜΗΜΑ ΠΡΟΜΗΘΕΙΩΝ"
+          "key": "100022360",
+          "value": "ΚΑΛΛΙΤΕΧΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
         },
         "signers": {
-          "key": "100002483",
-          "value": "ΓΕΩΡΓΙΟΣ ΠΑΠΑΝΙΚΟΛΑΟΥ - Δήμαρχος"
+          "key": "100078227",
+          "value": "ΜΑΡΙΑ ΡΟΔΟΚΑΛΑΚΗ - Προϊστάμενος"
         }
       },
       "fundingDetails": {
@@ -1476,12 +1336,209 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "015.2420908.003"
+        "regularBudgetFundedProgramRef": "62.04.50"
       },
       "systemicNumbers": [],
       "approvedRequests": [
         {
-          "code": "26REQ018459644"
+          "code": "26REQ018458016"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "10",
+            "value": "ΝΠΙΔ"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL522",
+            "value": "Θεσσαλονίκη"
+          }
+        }
+      ],
+      "organization": {
+        "key": "100022203",
+        "value": "ΟΡΓΑΝΙΣΜΟΣ ΜΕΓΑΡΟΥ ΜΟΥΣΙΚΗΣ ΘΕΣΣΑΛΟΝΙΚΗΣ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "10",
+        "value": "Πολιτισμός και θρησκεία"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "totalCostWithVAT": 1091.2,
+      "totalCostWithoutVAT": 880.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 880,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Eνοικίαση μουσικού υλικού του Μ. Θεοδωράκη με τίτλο \"Zorbas suite for flute solo and orchestra\" arranged by Achilleas Wastor & Stathis Karapanos για τις συναυλίες της ΜΟΥΣΑ (23.03.2026) στο Μέγαρο Θεσσαλονίκης, Σόφια (24.03.2026), και Βουκουρέστι (25.03.2026), Δ207/23.12.2026",
+          "cpvs": [
+            {
+              "key": "22114400-6",
+              "value": "Παρτιτούρες"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 1,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "22114400"
+      ],
+      "cpv_divisions": [
+        "22"
+      ],
+      "all_domains": [
+        "Printing & Publishing"
+      ],
+      "primary_domain": "Printing & Publishing"
+    },
+    {
+      "title": "ΠΡΟΣΚΛΗΣΗ ΥΠΟΒΟΛΗ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΤΗ ΣΥΝΔΙΟΡΓΑΝΩΣΗ ΜΟΥΣΙΚΟΧΟΡΕΥΤΙΚΗΣ ΕΚΔΗΛΩΣΕΙΣ ΑΦΙΕΡΩΜΕΝΗ ΣΤΗ ΓΥΝΑΙΚ",
+      "referenceNumber": "26PROC018480127",
+      "signedDate": "2026-02-13T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-18T14:00:00",
+      "submissionDate": "2026-02-13T13:38:00.073",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.E82202.0001",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 2,
+      "nutsCode": {
+        "key": "EL612",
+        "value": "Λάρισα"
+      },
+      "nutsCity": "ΛΑΡΙΣΑ",
+      "nutsPostalCode": "41222",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "80189",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100065662",
+          "value": "ΕΛΕΝΗ ΔΗΜΟΠΟΥΛΟΥ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "00.000.2420907001",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018478334"
         }
       ],
       "contractingAuthorities": [
@@ -1495,22 +1552,22 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL304",
-            "value": "Νότιος Τομέας Αθηνών"
+            "key": "EL612",
+            "value": "Λάρισα"
           }
         }
       ],
       "organization": {
-        "key": "6066",
-        "value": "ΔΗΜΟΣ ΓΛΥΦΑΔΑΣ"
+        "key": "6167",
+        "value": "ΔΗΜΟΣ ΛΑΡΙΣΑΙΩΝ"
       },
       "typeOfProcedure": {
         "key": "6",
         "value": "Απευθείας ανάθεση"
       },
       "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
+        "key": "13",
+        "value": "Προμήθειες"
       },
       "awardProcedure": null,
       "centralizedMarkets": [
@@ -1546,369 +1603,31 @@
         "key": "5",
         "value": "Οικονομικές και δημοσιονομικές υποθέσεις"
       },
-      "contractDuration": 12,
+      "contractDuration": 18,
       "contractDurationUnitOfMeasure": {
         "key": "1",
         "value": "Ημέρες"
       },
-      "totalCostWithVAT": 98888.78,
-      "totalCostWithoutVAT": 81379.5,
+      "totalCostWithVAT": 1395.0,
+      "totalCostWithoutVAT": 1125.0,
       "objectDetails": [
         {
-          "quantity": 1,
+          "quantity": 554,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 400,
+          "costWithoutVAT": 825,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Πανό για κούλουμα ",
+          "shortDescription": "ΠΡΟΣΚΛΗΣΗ ΥΠΟΒΟΛΗ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΤΗ ΣΥΝΔΙΟΡΓΑΝΩΣΗ ΜΟΥΣΙΚΟΧΟΡΕΥΤΙΚΗΣ ΕΚΔΗΛΩΣΕΙΣ ΑΦΙΕΡΩΜΕΝΗ ΣΤΗ ΓΥΝΑΙΚΑ ΜΕ ΤΙΤΛΟ «ΓΙΑΤΙ ΕΙΜΑΣΤΕ ΓΥΝΑΙΚΕΣ»  ΤΜΗΜΑ 1- ΕΚΤΥΠΩΣΕΙΣ-BANNER",
           "cpvs": [
             {
-              "key": "22462000-6",
-              "value": "Διαφημιστικό υλικό"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 100,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Πανό εξέδρας Συναυλίας\n",
-          "cpvs": [
-            {
-              "key": "22462000-6",
-              "value": "Διαφημιστικό υλικό"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 20,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 50,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Αφισες εκδηλωσης",
-          "cpvs": [
-            {
-              "key": "22462000-6",
-              "value": "Διαφημιστικό υλικό"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 4,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 2800,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΝΟΝΑΚΙ ΕΚΔΗΛΩΣΗΣ ΜΕ ΜΕΤΑΛΛΙΚΟ FOIL  ή ΧΑΡΤΙΝΟ ΚΟΜΦΕΤΙ/ΣΕΡΠΑΝΤΙΝΕΣ",
-          "cpvs": [
-            {
-              "key": "37525000-4",
-              "value": "Μπαλόνια και μπάλες (παιχνίδια)"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 4,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 200,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Ενημερωτικά πανό",
-          "cpvs": [
-            {
-              "key": "22462000-6",
-              "value": "Διαφημιστικό υλικό"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 15,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 7500,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Πυροτεχνήματα καπνου - ημερας animal friendly ανευ αδειας",
-          "cpvs": [
-            {
-              "key": "24613200-6",
-              "value": "Πυροτεχνήματα"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 10,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 2750,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Αποκριάτικες εκδηλώσεις σε βρεφονηπιακούς σταθμούς",
-          "cpvs": [
-            {
-              "key": "79954000-6",
-              "value": "Υπηρεσίες οργάνωσης πάρτι"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 2000,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 500,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υπηρεσία Catering για το Καρναβάλι, στις 22/2/2026 νερα 500ml ",
-          "cpvs": [
-            {
-              "key": "55520000-1",
-              "value": "Υπηρεσίες τροφοδοσίας"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 60,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 120,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Κάρτες/lanyard Συγκροτημάτων\n",
-          "cpvs": [
-            {
-              "key": "22462000-6",
-              "value": "Διαφημιστικό υλικό"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 43,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 206.4,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΜΑΣΚΕΣ ΤΟΙΧΟΥ",
-          "cpvs": [
-            {
-              "key": "39298900-6",
-              "value": "Διάφορα είδη διακόσμησης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1436,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 789.8,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΜΑΣΚΕΣ ΜΑΥΡΕΣ",
-          "cpvs": [
-            {
-              "key": "39298900-6",
-              "value": "Διάφορα είδη διακόσμησης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 4,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 30,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΟΡΝΕΣ",
-          "cpvs": [
-            {
-              "key": "39298900-6",
-              "value": "Διάφορα είδη διακόσμησης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 60,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 351,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΔΙΑΚ.ΠΟΛΥΧ.ΠΛΑΣΤΙΚΕΣ ΣΗΜΑΙΕΣ",
-          "cpvs": [
-            {
-              "key": "39298900-6",
-              "value": "Διάφορα είδη διακόσμησης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 10000,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 280,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Φυλλάδια καρναβαλιού",
-          "cpvs": [
-            {
-              "key": "22462000-6",
-              "value": "Διαφημιστικό υλικό"
+              "key": "22000000-0",
+              "value": "Έντυπο υλικό και συναφή προϊόντα"
             }
           ],
           "greenContracts": {
@@ -1924,641 +1643,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 8500,
+          "costWithoutVAT": 300,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Ενοικίαση Τουριστικού Τρένου \n(Μηχανικού)\n",
+          "shortDescription": "ΠΡΟΣΚΛΗΣΗ ΥΠΟΒΟΛΗ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΤΗ ΣΥΝΔΙΟΡΓΑΝΩΣΗ ΜΟΥΣΙΚΟΧΟΡΕΥΤΙΚΗΣ ΕΚΔΗΛΩΣΕΙΣ ΑΦΙΕΡΩΜΕΝΗ ΣΤΗ ΓΥΝΑΙΚΑ ΜΕ ΤΙΤΛΟ «ΓΙΑΤΙ ΕΙΜΑΣΤΕ ΓΥΝΑΙΚΕΣ»  \n\n  TMHMA 2-ΦΩΤΟΓΡΑΦΙΚΗ ΚΑΛΥΨΗ",
           "cpvs": [
             {
-              "key": "79952100-3",
-              "value": "Υπηρεσίες οργάνωσης πολιτιστικών εκδηλώσεων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 85,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 255,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΣΤΟΛΙΣΜΟΣ",
-          "cpvs": [
-            {
-              "key": "39298900-6",
-              "value": "Διάφορα είδη διακόσμησης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 950,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 855,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΧΕΡΑΚΙΑ",
-          "cpvs": [
-            {
-              "key": "39298900-6",
-              "value": "Διάφορα είδη διακόσμησης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 290,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Εξυπηρέτηση εκδήλωσης για την ημέρα του Καρναβαλιού 22/2/2026\n(2 άτομα)\n",
-          "cpvs": [
-            {
-              "key": "55520000-1",
-              "value": "Υπηρεσίες τροφοδοσίας"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1800,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1800,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υπηρεσία Catering για το Καρναβάλι, στις 22/2/2026 σάντουιτς ",
-          "cpvs": [
-            {
-              "key": "55520000-1",
-              "value": "Υπηρεσίες τροφοδοσίας"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1300,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Ενοικίαση 1 άρματος",
-          "cpvs": [
-            {
-              "key": "79952100-3",
-              "value": "Υπηρεσίες οργάνωσης πολιτιστικών εκδηλώσεων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1000,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 150,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΣΦΥΡΙΧΤΡΕΣ",
-          "cpvs": [
-            {
-              "key": "39298900-6",
-              "value": "Διάφορα είδη διακόσμησης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1000,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 700,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΣΕΡΠΑΤΙΝΕΣ",
-          "cpvs": [
-            {
-              "key": "39298900-6",
-              "value": "Διάφορα είδη διακόσμησης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 2680,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 16080,
-          "vat": "13",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υπηρεσία Catering για τα Κούλουμα στις 23/2/2026\n(Μενού - Νερό _ Αναψυκτικό) για 2700 άτομα\n",
-          "cpvs": [
-            {
-              "key": "55520000-1",
-              "value": "Υπηρεσίες τροφοδοσίας"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 3200,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1120,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΣΕΡΠΑΤΙΝΕΣ",
-          "cpvs": [
-            {
-              "key": "39298900-6",
-              "value": "Διάφορα είδη διακόσμησης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 1500,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΕΚΦΩΝΗΤΗΣ",
-          "cpvs": [
-            {
-              "key": "79952000-2",
-              "value": "Υπηρεσίες εκδηλώσεων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 2,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 60,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΑΝΟ ΤΡΕΝΑΚΙ",
-          "cpvs": [
-            {
-              "key": "22462000-6",
-              "value": "Διαφημιστικό υλικό"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1000,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 5000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΜΠΑΛΟΝΙΑ ΜΕ ΗΛΙΟ F",
-          "cpvs": [
-            {
-              "key": "37525000-4",
-              "value": "Μπαλόνια και μπάλες (παιχνίδια)"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 7,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 91,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΦΤΕΡΑ ΠΛΑΤΗΣ",
-          "cpvs": [
-            {
-              "key": "39298900-6",
-              "value": "Διάφορα είδη διακόσμησης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 2000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια άρματος Καρνάβαλου",
-          "cpvs": [
-            {
-              "key": "79952100-3",
-              "value": "Υπηρεσίες οργάνωσης πολιτιστικών εκδηλώσεων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 11,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 8910,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Καρναβαλικές ψυχαγωγικές υπηρεσίες",
-          "cpvs": [
-            {
-              "key": "79952000-2",
-              "value": "Υπηρεσίες εκδηλώσεων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 2680,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 5360,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Κρασί για τα Κούλουμα στις 23/2/2026 ",
-          "cpvs": [
-            {
-              "key": "55520000-1",
-              "value": "Υπηρεσίες τροφοδοσίας"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1764,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 1058.4,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΟΛΥΧΡΩΜΕΣ ΜΑΣΚΕΣ",
-          "cpvs": [
-            {
-              "key": "39298900-6",
-              "value": "Διάφορα είδη διακόσμησης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 8,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 30.4,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΝΤΑΛΑΚΤΙΚΑ ΚΟΡΝΑΣ",
-          "cpvs": [
-            {
-              "key": "39298900-6",
-              "value": "Διάφορα είδη διακόσμησης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 45,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 900,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΑΝΟ ΣΧΟΛΕΙΩΝ",
-          "cpvs": [
-            {
-              "key": "22462000-6",
-              "value": "Διαφημιστικό υλικό"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 2,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 3300,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Ενοικίαση 2 αρμάτων",
-          "cpvs": [
-            {
-              "key": "79952100-3",
-              "value": "Υπηρεσίες οργάνωσης πολιτιστικών εκδηλώσεων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 2000,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 2000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Μπαλονια με Εκτυπωση\n",
-          "cpvs": [
-            {
-              "key": "37525000-4",
-              "value": "Μπαλόνια και μπάλες (παιχνίδια)"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 60,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 180,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Μπλοκ γευμάτων",
-          "cpvs": [
-            {
-              "key": "22462000-6",
-              "value": "Διαφημιστικό υλικό"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 950,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 237.5,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΚΑΠΕΛΑ",
-          "cpvs": [
-            {
-              "key": "39298900-6",
-              "value": "Διάφορα είδη διακόσμησης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 3625,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Εξυπηρέτηση εκδήλωσης για τα Κούλουμα στις 23/2/2026 ",
-          "cpvs": [
-            {
-              "key": "55520000-1",
-              "value": "Υπηρεσίες τροφοδοσίας"
+              "key": "79961000-8",
+              "value": "Φωτογραφικές υπηρεσίες"
             }
           ],
           "greenContracts": {
@@ -2569,9 +1664,16 @@
           "budgetCode": null
         }
       ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 12,
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "3",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "mixedContract": true,
+      "offersValidTime": 17,
       "offersValidTimeUnitOfMeasure": {
         "key": "1",
         "value": "Ημέρες"
@@ -2586,40 +1688,26 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "22462000",
-        "37525000",
-        "24613200",
-        "79954000",
-        "55520000",
-        "39298900",
-        "79952100",
-        "79952000"
+        "22000000",
+        "79961000"
       ],
       "cpv_divisions": [
         "22",
-        "37",
-        "24",
-        "79",
-        "55",
-        "39"
+        "79"
       ],
       "all_domains": [
         "Printing & Publishing",
-        "Sports, Toys & Recreation Goods",
-        "Chemicals",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
-        "Hospitality, Retail & Catering Services",
-        "Furniture & Cleaning Products"
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)"
       ],
-      "primary_domain": "Hospitality, Retail & Catering Services"
+      "primary_domain": "Business Services (Legal/Marketing/Recruitment/Security/Print)"
     },
     {
-      "title": "Δημοσίευση του ισολογισμού και της έκθεσης ελέγχου  για τα έτη 2021, 2022",
-      "referenceNumber": "26PROC018472696",
-      "signedDate": "2026-02-12T00:00:00",
+      "title": "ΠΡΟΣΚΛΗΣΗ ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΠΕΡΙΚΑΡΠΙΩΝ ΤΑΥΤΟΠΟΙΗΣΗΣ ΑΣΘΕΝΩΝ",
+      "referenceNumber": "26PROC018480087",
+      "signedDate": "2026-02-13T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-17T00:00:00",
-      "submissionDate": "2026-02-12T12:30:06.522",
+      "finalSubmissionDate": "2026-02-18T14:00:00",
+      "submissionDate": "2026-02-13T13:35:19.735",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -2631,8 +1719,8 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007.E85901.0001",
-      "biddingWebsite": null,
+      "aaht": "ΑΑΗΤ  1015.Ε00228.0001",
+      "biddingWebsite": "https://karditsa.isupplies.gr",
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
       "budget": null,
@@ -2640,18 +1728,18 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL422",
-        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
+        "key": "EL611",
+        "value": "Καρδίτσα, Τρίκαλα"
       },
-      "nutsCity": "ΆΝΔΡΟΣ",
-      "nutsPostalCode": "84500",
+      "nutsCity": "ΚΑΡΔΙΤΣΑ",
+      "nutsPostalCode": "43100",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
       },
       "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
+        "key": "2",
+        "value": "Όχι"
       },
       "socialContract": {
         "key": "2",
@@ -2663,12 +1751,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "82076",
-          "value": "ΓΡΑΦΕΙΟ ΔΗΜΑΡΧΟΥ"
+          "key": "93642",
+          "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΚΑΡΔΙΤΣΑΣ"
         },
         "signers": {
-          "key": "100002631",
-          "value": "ΘΕΟΔΟΣΙΟΣ ΣΟΥΣΟΥΔΗΣ - Δήμαρχος"
+          "key": "100098366",
+          "value": "ΣΤΑΥΡΟΣ ΠΑΠΑΓΕΩΡΓΙΟΥ - Διοικητής"
         }
       },
       "fundingDetails": {
@@ -2678,12 +1766,16 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "000.2420905"
+        "regularBudgetFundedProgramRef": "24101890000001 1899"
       },
-      "systemicNumbers": [],
+      "systemicNumbers": [
+        {
+          "systemicNumber": "2535/13-02-2026"
+        }
+      ],
       "approvedRequests": [
         {
-          "code": "26REQ018451928"
+          "code": "26REQ018478785"
         }
       ],
       "contractingAuthorities": [
@@ -2697,14 +1789,215 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL422",
-            "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
+            "key": "EL611",
+            "value": "Καρδίτσα, Τρίκαλα"
           }
         }
       ],
       "organization": {
-        "key": "6037",
-        "value": "ΔΗΜΟΣ ΑΝΔΡΟΥ"
+        "key": "99221913",
+        "value": "ΝΟΜ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΚΑΡΔΙΤΣΑΣ"
+      },
+      "typeOfProcedure": {
+        "key": "18",
+        "value": "Διαδικασία άρθρου 128 του ν.4412/16"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "1",
+        "value": "Ηλεκτρονική Διαδικασία"
+      },
+      "digitalPlatform": {
+        "key": "6",
+        "value": "iSupplies"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "6",
+        "value": "Υγεία"
+      },
+      "contractDuration": 6,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "totalCostWithVAT": 1774.44,
+      "totalCostWithoutVAT": 1431.0,
+      "objectDetails": [
+        {
+          "quantity": 7500,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1431,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΠΕΡΙΚΑΡΠΙΩΝ ΤΑΥΤΟΠΟΙΗΣΗΣ ΑΣΘΕΝΩΝ",
+          "cpvs": [
+            {
+              "key": "22455100-5",
+              "value": "Περικάρπια αναγνώρισης ταυτότητας"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 3,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "99221913",
+        "22455100"
+      ],
+      "cpv_divisions": [
+        "22"
+      ],
+      "all_domains": [
+        "Printing & Publishing"
+      ],
+      "primary_domain": "Printing & Publishing"
+    },
+    {
+      "title": "ΠΡΟΣΚΛΗΣΗ ΥΠΟΒΟΛΗΣ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΑΝΑΜΝΗΣΤΙΚΩΝ ΔΩΡΩΝ ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΤΟΥ ΓΡΑΦΕΙΟΥ ΑΝΤΙΠ",
+      "referenceNumber": "26PROC018479307",
+      "signedDate": "2026-02-13T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-18T11:00:00",
+      "submissionDate": "2026-02-13T12:51:16.19",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.903.0001",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL532",
+        "value": "Καστοριά"
+      },
+      "nutsCity": "ΚΑΣΤΟΡΙΑ",
+      "nutsPostalCode": "52100",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100072031",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΩΝ ΚΑΙ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ ΠΕ ΚΑΣΤΟΡΙΑΣ"
+        },
+        "signers": {
+          "key": "100084419",
+          "value": "ΔΗΜΗΤΡΙΟΣ ΣΑΒΒΟΠΟΥΛΟΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "02.03.0072.2420906"
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018464217"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "9",
+            "value": "ΝΠΔΔ"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL532",
+            "value": "Καστοριά"
+          }
+        }
+      ],
+      "organization": {
+        "key": "5005",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ"
       },
       "typeOfProcedure": {
         "key": "6",
@@ -2745,34 +2038,34 @@
         "value": "Πρόσκληση"
       },
       "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
+        "key": "5",
+        "value": "Οικονομικές και δημοσιονομικές υποθέσεις"
       },
-      "contractDuration": 12,
+      "contractDuration": 1,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 496.0,
-      "totalCostWithoutVAT": 400.0,
+      "totalCostWithVAT": 949.99,
+      "totalCostWithoutVAT": 896.22,
       "objectDetails": [
         {
-          "quantity": 2,
+          "quantity": 7,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "C62",
+            "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 400,
-          "vat": "24",
+          "costWithoutVAT": 896.22,
+          "vat": "6",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Δημοσίευση ισολογισμού και έκθεσης ελέγχου Δήμου Άνδρου για το έτος 2021 ΚΑΙ 2022",
+          "shortDescription": "Εικόνες",
           "cpvs": [
             {
-              "key": "22120000-7",
-              "value": "Δημοσιεύσεις"
+              "key": "22312000-0",
+              "value": "Εικόνες"
             }
           ],
           "greenContracts": {
@@ -2800,7 +2093,7 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "22120000"
+        "22312000"
       ],
       "cpv_divisions": [
         "22"
@@ -2811,12 +2104,12 @@
       "primary_domain": "Printing & Publishing"
     },
     {
-      "title": "Πρόσκληση κατ. προσφοράς Ebook Central™Academic Complete™ Collection",
-      "referenceNumber": "26PROC018472374",
-      "signedDate": "2026-02-12T00:00:00",
+      "title": "Πρόσκληση εκδήλωσης ενδιαφέροντος για την προμήθεια καταλόγου βιβλίων",
+      "referenceNumber": "26PROC018478848",
+      "signedDate": "2026-02-13T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-20T11:00:00",
-      "submissionDate": "2026-02-12T12:14:50.371",
+      "finalSubmissionDate": "2026-02-18T13:00:00",
+      "submissionDate": "2026-02-13T12:23:31.31",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -2828,7 +2121,7 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1020.Ε00312.0001",
+      "aaht": "1007.Ε00004.0001",
       "biddingWebsite": null,
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
@@ -2837,18 +2130,18 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL411",
-        "value": "Λέσβος, Λήμνος"
+        "key": "EL304",
+        "value": "Νότιος Τομέας Αθηνών"
       },
-      "nutsCity": "ΜΥΤΙΛΗΝΗ",
-      "nutsPostalCode": "81100",
+      "nutsCity": "ΤΑΥΡΟΣ",
+      "nutsPostalCode": "17778",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
       },
       "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
+        "key": "2",
+        "value": "Όχι"
       },
       "socialContract": {
         "key": "2",
@@ -2860,12 +2153,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "72311",
-          "value": "ΚΕΝΤΡΙΚΗ ΥΠΗΡΕΣΙΑ ΒΙΒΛΙΟΘΗΚΗΣ / ΤΜΗΜΑ ΠΑΡΑΓΓΕΛΙΩΝ - ΠΡΟΜΗΘΕΙΩΝ"
+          "key": "72461",
+          "value": "ΤΜΗΜΑ ΠΡΟΜΗΘΕΙΩΝ / ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΟΥ"
         },
         "signers": {
-          "key": "100002156",
-          "value": "ΙΩΑΝΝΗΣ ΣΕΪΜΕΝΗΣ - Κοσμήτορας Σχολής"
+          "key": "100097707",
+          "value": "ΒΑΣΙΛΙΚΗ ΚΑΚΟΣΙΜΟΥ - Αντιπρόεδρος"
         }
       },
       "fundingDetails": {
@@ -2875,12 +2168,12 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2.4.2.09.27.001"
+        "regularBudgetFundedProgramRef": "2420909004"
       },
       "systemicNumbers": [],
       "approvedRequests": [
         {
-          "code": "26REQ018450926"
+          "code": "26REQ018444244"
         }
       ],
       "contractingAuthorities": [
@@ -2894,27 +2187,24 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL411",
-            "value": "Λέσβος, Λήμνος"
+            "key": "EL304",
+            "value": "Νότιος Τομέας Αθηνών"
           }
         }
       ],
       "organization": {
-        "key": "99206911",
-        "value": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΙΓΑΙΟΥ"
+        "key": "99220108",
+        "value": "ΕΘΝΙΚΟ ΚΕΝΤΡΟ ΔΗΜΟΣΙΑΣ ΔΙΟΙΚΗΣΗΣ ΚΑΙ ΑΥΤΟΔΙΟΙΚΗΣΗΣ"
       },
       "typeOfProcedure": {
-        "key": "12",
-        "value": "Διαπραγμάτευση χωρίς προηγούμενη δημοσίευση"
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
       },
       "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
+        "key": "13",
+        "value": "Προμήθειες"
       },
-      "awardProcedure": {
-        "key": "58",
-        "value": "Απουσία ανταγωνισμού για τεχνικούς λόγους"
-      },
+      "awardProcedure": null,
       "centralizedMarkets": [
         {
           "centralizedMarket": {
@@ -2948,27 +2238,27 @@
         "key": "11",
         "value": "Εκπαίδευση"
       },
-      "contractDuration": 12,
+      "contractDuration": 2,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 19139.4,
-      "totalCostWithoutVAT": 15435.0,
+      "totalCostWithVAT": 3215.09,
+      "totalCostWithoutVAT": 3033.1,
       "objectDetails": [
         {
-          "quantity": 1,
+          "quantity": 84,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "C62",
+            "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 15435,
-          "vat": "24",
+          "costWithoutVAT": 3033.1,
+          "vat": "6",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Πρόσκληση κατάθεσης προσφοράς   για την εγγραφή της Βιβλιοθήκης του Πανεπιστημίου Αιγαίου ως συνδρομητρίας στην ψηφιακή πλατφόρμα ξενόγλωσσων ηλεκτρονικών βιβλίων Ebook Central™Academic Complete™ Collection",
+          "shortDescription": "Πρόσκληση εκδήλωσης ενδιαφέροντος για την προμήθεια καταλόγου βιβλίων για τις ανάγκες της Βιβλιοθήκης του ΕΚΔΔΑ",
           "cpvs": [
             {
               "key": "22113000-5",
@@ -2985,7 +2275,7 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "offersValidTime": 3,
+      "offersValidTime": 1,
       "offersValidTimeUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -3000,7 +2290,7 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "99206911",
+        "99220108",
         "22113000"
       ],
       "cpv_divisions": [
@@ -3012,12 +2302,12 @@
       "primary_domain": "Printing & Publishing"
     },
     {
-      "title": "Πρόσκληση υποβολής προσφ. για την προμήθεια έντυπου υλικού προβολής στο πλαίσιο υλοποίησης των παρ",
-      "referenceNumber": "26PROC018471776",
+      "title": "Πρόσκλ.υποβ.προσφ.παρ.υπηρ. διαχείρισης και διαφήμισης στα social στο πλαίσιο της Β' Καλλ. Περιόδου",
+      "referenceNumber": "26PROC018475884",
       "signedDate": "2026-02-12T00:00:00",
       "publishedDate": null,
       "finalSubmissionDate": "2026-02-17T00:00:00",
-      "submissionDate": "2026-02-12T11:47:19.122",
+      "submissionDate": "2026-02-13T09:30:59.645",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -3029,7 +2319,7 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1007.Ε89808.0001",
+      "aaht": "1007.E89808.0001.",
       "biddingWebsite": null,
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
@@ -3122,8 +2412,8 @@
         }
       ],
       "legalContext": {
-        "key": "7",
-        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
       },
       "conductingProceedings": {
         "key": "2",
@@ -3151,8 +2441,8 @@
         "key": "1",
         "value": "Ημέρες"
       },
-      "totalCostWithVAT": 1119.99,
-      "totalCostWithoutVAT": 903.22,
+      "totalCostWithVAT": 1120.01,
+      "totalCostWithoutVAT": 903.23,
       "objectDetails": [
         {
           "quantity": 1,
@@ -3160,13 +2450,13 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 903.22,
+          "costWithoutVAT": 903.23,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "«Πρωτογενές Αίτημα Δαπάνης για την προμήθεια έντυπου λοιπού υλικού προβολής στο πλαίσιο υλοποίησης των παραστάσεων της “Β’ Καλλιτεχνικής Περιόδου 2025 - 2026” ",
+          "shortDescription": "Πρόσκληση υποβολής προσφοράς για την προμήθεια έντυπου υλικού προβολής στο πλαίσιο υλοποίησης των παραστάσεων της “Β’ Καλλιτεχνικής Περιόδου 2025 - 2026” της Δημοτικής Θεατρικής Κοινωφελούς Επιχείρησης Καβάλας",
           "cpvs": [
             {
               "key": "22820000-4",
@@ -3209,12 +2499,12 @@
       "primary_domain": "Printing & Publishing"
     },
     {
-      "title": "Πρόσκληση υποβολής προσφορών με αντικείμενο την προμήθεια χαρτιού φωτοαντιγραφικού Α4",
-      "referenceNumber": "26PROC018471173",
-      "signedDate": "2026-02-12T00:00:00",
+      "title": "Πρόσκληση εκδήλωσης ενδιαφέροντος για την διεξαγωγή επιπλέον έρευνας ",
+      "referenceNumber": "26PROC018475742",
+      "signedDate": "2026-02-13T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-17T10:00:00",
-      "submissionDate": "2026-02-12T11:16:16.092",
+      "finalSubmissionDate": "2026-02-19T23:59:00",
+      "submissionDate": "2026-02-13T09:22:08.601",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -3226,212 +2516,7 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1015.E00200.0001",
-      "biddingWebsite": "https://pgna.isupplies.gr/",
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 3,
-      "nutsCode": {
-        "key": "EL511",
-        "value": "Έβρος"
-      },
-      "nutsCity": "ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ",
-      "nutsPostalCode": "68100",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "76285",
-          "value": "ΔΙΟΙΚΗΤΙΚΗ ΥΠΗΡΕΣΙΑ"
-        },
-        "signers": {
-          "key": "100065462",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΤΣΙΦΕΤΑΚΗΣ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": ",2410101,2410189"
-      },
-      "systemicNumbers": [
-        {
-          "systemicNumber": "1111"
-        }
-      ],
-      "approvedRequests": [
-        {
-          "code": "26REQ018442050"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL511",
-            "value": "Έβρος"
-          }
-        }
-      ],
-      "organization": {
-        "key": "99221985",
-        "value": "ΠΑΝΕΠΙΣΤΗΜΙΑΚΟ ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΕΒΡΟΥ"
-      },
-      "typeOfProcedure": {
-        "key": "1",
-        "value": "Ανοιχτή διαδικασία"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "1",
-        "value": "Ηλεκτρονική Διαδικασία"
-      },
-      "digitalPlatform": {
-        "key": "6",
-        "value": "iSupplies"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
-      },
-      "contractingAuthorityActivity": {
-        "key": "6",
-        "value": "Υγεία"
-      },
-      "contractDuration": 12,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "totalCostWithVAT": 26900.25,
-      "totalCostWithoutVAT": 21693.75,
-      "objectDetails": [
-        {
-          "quantity": 8470,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 21693.75,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Διάφορο έντυπο υλικό για τις ανάγκες των τμημάτων του Π.Γ.Ν.Α.",
-          "cpvs": [
-            {
-              "key": "22000000-0",
-              "value": "Έντυπο υλικό και συναφή προϊόντα"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 2,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "99221985",
-        "22000000"
-      ],
-      "cpv_divisions": [
-        "22"
-      ],
-      "all_domains": [
-        "Printing & Publishing"
-      ],
-      "primary_domain": "Printing & Publishing"
-    },
-    {
-      "title": "Πρόσκληση Προμήθειας Καρτών Εισόδου Νέας Καμένης 2026",
-      "referenceNumber": "26PROC018471097",
-      "signedDate": "2026-02-12T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-19T08:00:00",
-      "submissionDate": "2026-02-12T11:12:25.252",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1007.F00457.0001",
+      "aaht": "1022.0000000000.0018",
       "biddingWebsite": null,
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
@@ -3440,11 +2525,11 @@
       "relatedNoticeADAM": null,
       "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL422",
-        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
       },
-      "nutsCity": "θηρα",
-      "nutsPostalCode": "84700",
+      "nutsCity": "ΑΘΗΝΑ",
+      "nutsPostalCode": "10433",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -3458,246 +2543,53 @@
         "value": "Όχι"
       },
       "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
+        "key": "1",
+        "value": "Ναι"
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "83522",
-          "value": "ΓΕΩΘΗΡΑ Μ.Α.Ε."
+          "key": "100037646",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΝΕΟΤΕΡΗΣ ΠΟΛΙΤΙΣΤΙΚΗΣ ΚΛΗΡΟΝΟΜΙΑΣ"
         },
         "signers": {
-          "key": "100087357",
-          "value": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΚΑΝΕΛΛΑΚΗΣ - Πρόεδρος Δ.Σ."
+          "key": "100001262",
+          "value": "ΣΤΑΥΡΟΥΛΑ ΦΩΤΟΠΟΥΛΟΥ - Προϊστάμενος"
         }
       },
       "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
+        "publicFundingRef": "ΣΑΤΑ 014 ",
+        "publicFundingRefNum": "2022ΤΑ01400030",
+        "publicFundingRefOps": "ΤΑ 5150268",
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "64.68.02"
-      },
-      "systemicNumbers": [],
-      "approvedRequests": [],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "10",
-            "value": "ΝΠΙΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL422",
-            "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
-          }
-        }
-      ],
-      "organization": {
-        "key": "51278",
-        "value": "ΤΟΥΡΙΣΤΙΚΗ ΜΟΝΟΜΕΤΟΧΙΚΗ ΔΗΜΟΤΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΑΞΙΟΠΟΙΗΣΗΣ ΔΗΜΟΤΙΚΩΝ ΑΚΙΝΗΤΩΝ (ΓΕΩΘΗΡΑ Μ.Α.Ε.) ΔΗΜΟΥ ΘΗΡΑΣ"
-      },
-      "typeOfProcedure": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "2",
-        "value": "Μη ηλεκτρονική διαδικασία"
-      },
-      "digitalPlatform": null,
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "noticeType": {
-        "key": "4",
-        "value": "Πρόσκληση"
-      },
-      "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
-      },
-      "contractDuration": 9,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "totalCostWithVAT": 18600.0,
-      "totalCostWithoutVAT": 15000.0,
-      "objectDetails": [
-        {
-          "quantity": 375,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 15000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Η ΓΕΩΘΗΡΑ Μ.Α.Ε. στα πλαίσια της εύρυθμης λειτουργίας της και προκειμένου να υπάρχει ο απαραίτητος για την ασφάλεια τιυν επισκεπτών του Πάρκου έλεγχος έχει προβεί στην προμήθεια τουρνικέ εισόδου των επισκεπτών (Απ. Προέδρου 17-03/03/2020). Τα εν λόγω τουρνικέ εισόδου ανοίγουν με τη σάρωση κωδικού QR εισιτηρίων. Η ΓΕΩΘΗΡΑ Μ.Α.Ε. προκειμένου να μπορεί να διαθέσει άμεσα εισιτήρια με κοίδικό QR είναι ",
-          "cpvs": [
-            {
-              "key": "22457000-8",
-              "value": "Κάρτες εισόδου"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 3,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "22457000"
-      ],
-      "cpv_divisions": [
-        "22"
-      ],
-      "all_domains": [
-        "Printing & Publishing"
-      ],
-      "primary_domain": "Printing & Publishing"
-    },
-    {
-      "title": "ΔΗΜΟΣΙΕΥΣΗ ΔΙΑΚΗΡΥΞΗΣ ΜΙΣΘΩΣΗΣ ΚΑΤΑΛΛΗΛΟΥ ΧΩΡΟΥ ΓΙΑ ΤΗ ΣΤΕΓΑΣΗ ΤΟΥ ΓΡΑΦΕΙΟΥ ΤΗΣ ΔΗΜΟΤΙΚΗΣ ΚΟΙΝΟΤΗΤΑΣ",
-      "referenceNumber": "26PROC018470921",
-      "signedDate": "2026-02-12T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-18T00:00:00",
-      "submissionDate": "2026-02-12T11:04:08.634",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1007.Ε82602.0001",
-      "biddingWebsite": null,
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 1,
-      "nutsCode": {
-        "key": "EL611",
-        "value": "Καρδίτσα, Τρίκαλα"
-      },
-      "nutsCity": "ΚΑΛΑΜΠΑΚΑ",
-      "nutsPostalCode": "42200",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100042927",
-          "value": "ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ-ΛΟΓΙΣΤΗΡΙΟΥ ΚΑΙ ΠΡΟΜΗΘΕΙΩΝ"
-        },
-        "signers": {
-          "key": "100094084",
-          "value": "Γεώργιος Τσατσάνης - Γενικός Γραμματέας"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": "00.000.2420905001",
         "espaFundProgramRef": null,
         "regularBudgetFundedProgramRef": null
       },
       "systemicNumbers": [],
       "approvedRequests": [
         {
-          "code": "26REQ018470198"
+          "code": "22REQ011505152"
         }
       ],
       "contractingAuthorities": [
         {
           "contractingAuthority": {
-            "key": "9",
-            "value": "ΝΠΔΔ"
+            "key": "12",
+            "value": "Κεντρική Διοίκηση"
           }
         }
       ],
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL611",
-            "value": "Καρδίτσα, Τρίκαλα"
+            "key": "EL303",
+            "value": "Κεντρικός Τομέας Αθηνών"
           }
         }
       ],
       "organization": {
-        "key": "100062933",
-        "value": "ΔΗΜΟΣ ΜΕΤΕΩΡΩΝ"
+        "key": "100081912",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΠΟΛΙΤΙΣΜΟΥ"
       },
       "typeOfProcedure": {
         "key": "6",
@@ -3730,24 +2622,24 @@
         "value": "Βάσει τιμής"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
       },
       "noticeType": {
         "key": "4",
         "value": "Πρόσκληση"
       },
       "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
+        "key": "10",
+        "value": "Πολιτισμός και θρησκεία"
       },
       "contractDuration": 1,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 54.56,
-      "totalCostWithoutVAT": 44.0,
+      "totalCostWithVAT": 880.0,
+      "totalCostWithoutVAT": 880.0,
       "objectDetails": [
         {
           "quantity": 1,
@@ -3755,17 +2647,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 44,
-          "vat": "24",
+          "costWithoutVAT": 880,
+          "vat": "0",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΔΗΜΟΣΙΕΥΣΗ ΔΙΑΚΗΡΥΞΗΣ ΜΙΣΘΩΣΗΣ ΚΑΤΑΛΛΗΛΟΥ ΧΩΡΟΥ ΓΙΑ ΤΗ ΣΤΕΓΑΣΗ ΤΟΥ ΓΡΑΦΕΙΟΥ ΤΗΣ ΔΗΜΟΤΙΚΗΣ ΚΟΙΝΟΤΗΤΑΣ ΚΑΛΑΜΠΑΚΑΣ.",
+          "shortDescription": "Πρόσκληση εκδήλωσης ενδιαφέροντος για την διεξαγωγή επιπλέον έρευνας στους φακέλους της Βασιλικής Οικογένειας της Δανίας που φυλάσσονται στα Εθνικά Αρχεία της Δανίας για τις ανάγκες εμπλουτισμού της έκθεσης στο πλαίσιο του Υ/Ε 1«Δημιουργία μόνιμης έκθεσης του Ανακτόρου στο κτήμα Τατοΐου».",
           "cpvs": [
             {
-              "key": "22210000-5",
-              "value": "Εφημερίδες"
+              "key": "22315000-1",
+              "value": "Φωτογραφίες"
             }
           ],
           "greenContracts": {
@@ -3778,10 +2670,10 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "offersValidTime": 5,
+      "offersValidTime": 1,
       "offersValidTimeUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
+        "key": "3",
+        "value": "Μήνες"
       },
       "maxNumberOfContractors": null,
       "optionRight": {
@@ -3793,7 +2685,7 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "22210000"
+        "22315000"
       ],
       "cpv_divisions": [
         "22"

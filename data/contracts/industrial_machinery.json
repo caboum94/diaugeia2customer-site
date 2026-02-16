@@ -1,39 +1,39 @@
 {
   "domain": "Industrial Machinery",
-  "count": 10,
+  "count": 8,
   "items": [
     {
-      "title": "ΣΥΜΒΑΣΗ 24/2026 ΜΕΤΑΞΥ ΤΟΥ ΓΝΑ Ο ΕΥΑΓΓΕΛΙΣΜΟΣ-ΠΟΛΥΚΛΙΝΙΚΗ ΝΠΔΔ Κ KLIMALINE ΜΠΕΜΠΛΙΔΑΚΗΣ ",
-      "referenceNumber": "26SYMV018474483",
-      "prevReferenceNo": null,
+      "title": "Η  TΡΟΠ[ΟΠΟΙΗΣΗ  ΤΗΣ 411  ΣΥΜΒΑΣΗ  ΜΕ ΤΗΝ ΕΤΑΙΡΕΙΑ ΤΣΟΥΜΑΝΗΣ  Α.Ε  ΓΙΑ ΣΥΣΤΗΜΑ ΔΙΑΧΕΙΡΙΣΗΣ  ΑΠΟΘΗΚΗΣ",
+      "referenceNumber": "26SYMV018481630",
+      "prevReferenceNo": "25SYMV017503273",
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T15:58:12.691",
-      "lastUpdateDate": "2026-02-12",
-      "contractSignedDate": "2026-02-11",
-      "startDate": "2026-02-12",
+      "submissionDate": "2026-02-13T16:21:30.093",
+      "lastUpdateDate": null,
+      "contractSignedDate": "2025-09-05",
+      "startDate": "2025-09-05",
       "noEndDate": false,
-      "endDate": "2026-07-11",
+      "endDate": "2026-09-04",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "24/2026",
+      "decisionRelatedAda": "ΕΗΠΙ469066-2Υ6",
+      "contractNumber": "411/2025",
       "authorEmail": null,
-      "organizationVatNumber": "999336270",
-      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "996956397",
+      "greekOrganizationVatNumber": true,
       "commitmentNo": null,
       "diavgeiaADA": null,
-      "aaht": "1015.E.00159.0001",
+      "aaht": "1015.Ε00242.0001  ",
       "budget": null,
-      "contractBudget": 11960,
-      "bidsSubmitted": null,
+      "contractBudget": 59272,
+      "bidsSubmitted": 1,
       "maxBidsSubmitted": 1,
-      "numberOfSections": 2,
+      "numberOfSections": 1,
       "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
+        "key": "2",
+        "value": "Όχι"
       },
       "socialContract": {
         "key": "2",
@@ -46,27 +46,27 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL303",
-            "value": "Κεντρικός Τομέας Αθηνών"
+            "key": "EL612",
+            "value": "Λάρισα"
           }
         }
       ],
       "approvedRequestsList": [],
       "organization": {
-        "key": "99221993",
-        "value": "ΠΕΡ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ 'Ο ΕΥΑΓΓΕΛΙΣΜΟΣ'"
+        "key": "99222002",
+        "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΛΑΡΙΣΑΣ ΚΟΥΤΛΙΜΠΑΝΕΙΟ ΚΑΙ ΤΡΙΑΝΤΑΦΥΛΛΕΙΟ"
       },
       "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
+        "key": "1",
+        "value": "Ανοιχτή διαδικασία"
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL612",
+        "value": "Λάρισα"
       },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "10676",
+      "nutsCity": "ΛΑΡΙΣΑ",
+      "nutsPostalCode": "41221",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -92,6 +92,810 @@
         "value": "Βάσει τιμής"
       },
       "classificationOfPublicLawOrganization": {
+        "key": "3",
+        "value": "ΟΚΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "6",
+        "value": "Υγεία"
+      },
+      "contractDuration": 12,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractRelatedADA": {
+        "number1": null,
+        "number2": null,
+        "number3": "/ΕΕΥΧ469066-0ΥΨ"
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "0831/0824"
+      },
+      "contractingDataDetails": {
+        "unitsOperator": {
+          "key": "76203",
+          "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΛΑΡΙΣΑΣ"
+        },
+        "signers": {
+          "key": "100060626",
+          "value": "ΓΡΗΓΟΡΙΟΣ ΒΛΑΧΑΚΗΣ - Διοικητής"
+        },
+        "contractingMembersDataList": [
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
+            "vatNumber": "801124696",
+            "greekVatNumber": true,
+            "name": "«ΤΣΟΥΜΑΝΗΣ LOGISTICS SERVICES ΑΝΩΝΥΜΗ ΕΤΑΙΡΙΑ» "
+          }
+        ]
+      },
+      "totalCostWithVAT": 8390.66,
+      "totalCostWithoutVAT": 6766.66,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 6766.66,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΡΟΠΟΠΟΙΗΣΗ ΤΗΣ 411  ΣΥΜΒΑΣΗΣ  ΜΕ ΤΗΝ ΕΤΑΙΡΕΙΑ ΤΣΟΥΜΑΝΗΣ  Α.Ε  ΓΙΑ ΣΥΣΤΗΜΑ ΔΙΑΧΕΙΡΙΣΗΣ  ΑΠΟΘΗΚΗΣ",
+          "cpvs": [
+            {
+              "key": "42965100-9",
+              "value": "Σύστημα διαχείρισης αποθήκης"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΛΑΡΙΣΑ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "nextRefNo": null,
+      "nextExtended": null,
+      "nextModified": null,
+      "auctionRefNo": null,
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "99222002",
+        "42965100"
+      ],
+      "cpv_divisions": [
+        "42"
+      ],
+      "all_domains": [
+        "Industrial Machinery"
+      ],
+      "primary_domain": "Industrial Machinery"
+    },
+    {
+      "title": "«ΕΤΗΣΙΑ ΣΥΝΤΗΡΗΣΗ ΕΝΝΕΑ ΑΝΕΛΚΥΣΤΗΡΩΝ (ΓΙΑ 3 ΜΗΝΕΣ)» (209386) ",
+      "referenceNumber": "26SYMV018480813",
+      "prevReferenceNo": null,
+      "noticeReferenceNumber": null,
+      "submissionDate": "2026-02-13T14:22:24.739",
+      "lastUpdateDate": null,
+      "contractSignedDate": "2026-02-13",
+      "startDate": "2026-02-16",
+      "noEndDate": false,
+      "endDate": "2026-05-15",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "decisionRelatedAda": null,
+      "contractNumber": "292",
+      "authorEmail": null,
+      "organizationVatNumber": "999233397",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "diavgeiaADA": null,
+      "aaht": "1015Ε00171.0001",
+      "budget": null,
+      "contractBudget": 4012.1,
+      "bidsSubmitted": null,
+      "maxBidsSubmitted": 1,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL307",
+            "value": "Πειραιάς, Νήσοι"
+          }
+        }
+      ],
+      "approvedRequestsList": [],
+      "organization": {
+        "key": "99221995",
+        "value": "ΠΕΡ.ΓΕΝ. ΝΟΣΟΚΟΜΕΙΟ ΑΝΤΙΚΑΡΚΙΝΙΚΟ 'ΜΕΤΑΞΑ'"
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL307",
+        "value": "Πειραιάς, Νήσοι"
+      },
+      "nutsCity": "ΠΕΙΡΑΙΑΣ",
+      "nutsPostalCode": "18537",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "assignCriteria": {
+        "key": "13",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "6",
+        "value": "Υγεία"
+      },
+      "contractDuration": 3,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractRelatedADA": {
+        "number1": null,
+        "number2": null,
+        "number3": "(243)6ΣΘ64690ΩΖ-ΣΟ8"
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "242030"
+      },
+      "contractingDataDetails": {
+        "unitsOperator": {
+          "key": "75436",
+          "value": "TMHMA ΠΡΟΜΗΘΕΙΩN"
+        },
+        "signers": {
+          "key": "100056403",
+          "value": "ΣΑΡΑΝΤΟΣ ΕΥΣΤΑΘΟΠΟΥΛΟΣ - Διοικητής"
+        },
+        "contractingMembersDataList": [
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
+            "vatNumber": "099021186",
+            "greekVatNumber": true,
+            "name": "ΚΑΡΑΜΟΛΕΓΚΟΣ ΣΤΑΥΡΟΣ & ΝΙΚΟΣ Ο.Ε."
+          }
+        ]
+      },
+      "totalCostWithVAT": 4975.0,
+      "totalCostWithoutVAT": 4012.1,
+      "objectDetailsList": [
+        {
+          "quantity": 3,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 4012.1,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "«ΕΤΗΣΙΑ ΣΥΝΤΗΡΗΣΗ ΕΝΝΕΑ ΑΝΕΛΚΥΣΤΗΡΩΝ (ΓΙΑ 3 ΜΗΝΕΣ)» (209386) ΕΝΗΜΕΡΩΤΙΚΟ ΠΡΟΜΗΘΕΙΑΣ ΑΙΤ 176-26/1/2026,  υπάρχει υπόλοιπο μηνών για την κάλυψη της ετήσιας σύμβασης που υπογράφηκε από 16/05/2025. ΔΙΑΡΚΕΙΑ ΣΥΜΒΑΣΗΣ 16/02/2026 ΕΩΣ 15/05/2026 ",
+          "cpvs": [
+            {
+              "key": "42416100-6",
+              "value": "Ανελκυστήρες"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΠΕΙΡΑΙΑΣ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018480783"
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "nextRefNo": null,
+      "nextExtended": null,
+      "nextModified": null,
+      "auctionRefNo": "26AWRD018480783",
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "99221995",
+        "42416100"
+      ],
+      "cpv_divisions": [
+        "42"
+      ],
+      "all_domains": [
+        "Industrial Machinery"
+      ],
+      "primary_domain": "Industrial Machinery"
+    },
+    {
+      "title": "1400",
+      "referenceNumber": "26SYMV018480178",
+      "prevReferenceNo": null,
+      "noticeReferenceNumber": null,
+      "submissionDate": "2026-02-13T13:41:38.78",
+      "lastUpdateDate": null,
+      "contractSignedDate": "2026-02-10",
+      "startDate": "2026-02-10",
+      "noEndDate": true,
+      "endDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "decisionRelatedAda": null,
+      "contractNumber": "1400",
+      "authorEmail": null,
+      "organizationVatNumber": "998965064",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "diavgeiaADA": null,
+      "aaht": "1015.Ε.00837.0001",
+      "budget": null,
+      "contractBudget": 8940,
+      "bidsSubmitted": null,
+      "maxBidsSubmitted": 1,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL301",
+            "value": "Βόρειος Τομέας Αθηνών"
+          }
+        }
+      ],
+      "approvedRequestsList": [],
+      "organization": {
+        "key": "99221996",
+        "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΑΤΤΙΚΗΣ (ΚΑΤ)"
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL301",
+        "value": "Βόρειος Τομέας Αθηνών"
+      },
+      "nutsCity": "ΚΗΦΙΣΙΑ",
+      "nutsPostalCode": "14561",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "assignCriteria": {
+        "key": "13",
+        "value": "Βάσει κόστους – άλλο"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "6",
+        "value": "Υγεία"
+      },
+      "contractDuration": 3,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractRelatedADA": {
+        "number1": null,
+        "number2": null,
+        "number3": "ΨΣΧ946906Π-ΙΟΧ"
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "31201040000001"
+      },
+      "contractingDataDetails": {
+        "unitsOperator": {
+          "key": "76105",
+          "value": "ΣΩΜΑ ΔΙΟΙΚΗΣΗΣ"
+        },
+        "signers": {
+          "key": "100056251",
+          "value": "Ιωάννης Ηλιόπουλος - Διοικητής"
+        },
+        "contractingMembersDataList": [
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
+            "vatNumber": "094143441",
+            "greekVatNumber": false,
+            "name": "ΑΝΑΛΥΤΙΚΕΣ ΣΥΣΚΕΥΕΣ Α.Ε./ΔΡ Κ.Ι.ΒΑΜΒΑΚΑΣ ΑΕ"
+          }
+        ]
+      },
+      "totalCostWithVAT": 11085.6,
+      "totalCostWithoutVAT": 8940.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 8940,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Επιτραπέζια μηχανήματα φυγοκέντρισης",
+          "cpvs": [
+            {
+              "key": "42931120-8",
+              "value": "Επιτραπέζια μηχανήματα φυγοκέντρισης"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΚΗΦΙΣΙΑ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018480111"
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "nextRefNo": null,
+      "nextExtended": null,
+      "nextModified": null,
+      "auctionRefNo": "26AWRD018480111",
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "99221996",
+        "42931120"
+      ],
+      "cpv_divisions": [
+        "42"
+      ],
+      "all_domains": [
+        "Industrial Machinery"
+      ],
+      "primary_domain": "Industrial Machinery"
+    },
+    {
+      "title": "E100/26",
+      "referenceNumber": "26SYMV018480176",
+      "prevReferenceNo": null,
+      "noticeReferenceNumber": null,
+      "submissionDate": "2026-02-13T13:41:30.314",
+      "lastUpdateDate": null,
+      "contractSignedDate": "2026-02-04",
+      "startDate": "2026-02-05",
+      "noEndDate": true,
+      "endDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "decisionRelatedAda": null,
+      "contractNumber": "E100/26",
+      "authorEmail": null,
+      "organizationVatNumber": "999275167",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "diavgeiaADA": null,
+      "aaht": "1015.Ε00842.0001",
+      "budget": null,
+      "contractBudget": 4320,
+      "bidsSubmitted": null,
+      "maxBidsSubmitted": 1,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL",
+            "value": "ΕΛΛΑΔΑ"
+          }
+        }
+      ],
+      "approvedRequestsList": [],
+      "organization": {
+        "key": "99221932",
+        "value": "ΚΩΝΣΤΑΝΤΟΠΟΥΛΕΙΟ ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ Ν.ΙΩΝΙΑΣ"
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL305",
+        "value": "Ανατολική Αττική"
+      },
+      "nutsCity": "Ν.ΙΩΝΙΑ",
+      "nutsPostalCode": "14233",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "assignCriteria": {
+        "key": "13",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "6",
+        "value": "Υγεία"
+      },
+      "contractDuration": 2,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractRelatedADA": {
+        "number1": null,
+        "number2": null,
+        "number3": "ΨΟ1Θ469077-1Η2-02/01/2026"
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "32302050000001"
+      },
+      "contractingDataDetails": {
+        "unitsOperator": {
+          "key": "77595",
+          "value": "ΣΩΜΑ ΔΙΟΙΚΗΣΗΣ"
+        },
+        "signers": {
+          "key": "100088610",
+          "value": "Χρήστος Χ. Τσάμης - Διοικητής"
+        },
+        "contractingMembersDataList": [
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
+            "vatNumber": "095530045",
+            "greekVatNumber": true,
+            "name": "ΜΠΑΞΤΕΡ"
+          }
+        ]
+      },
+      "totalCostWithVAT": 4881.6,
+      "totalCostWithoutVAT": 4320.0,
+      "objectDetailsList": [
+        {
+          "quantity": 800,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 4320,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Αντλίες για ιατρική χρήση",
+          "cpvs": [
+            {
+              "key": "42122410-7",
+              "value": "Αντλίες για ιατρική χρήση"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "Ν.ΙΩΝΙΑ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "nextRefNo": null,
+      "nextExtended": null,
+      "nextModified": null,
+      "auctionRefNo": null,
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "99221932",
+        "42122410"
+      ],
+      "cpv_divisions": [
+        "42"
+      ],
+      "all_domains": [
+        "Industrial Machinery"
+      ],
+      "primary_domain": "Industrial Machinery"
+    },
+    {
+      "title": "ΕΠΙΤΟΙΧΙΑ ΚΛΙΜΑΤΙΣΤΙΚΑ ΤΕΙ",
+      "referenceNumber": "26SYMV018479145",
+      "prevReferenceNo": null,
+      "noticeReferenceNumber": null,
+      "submissionDate": "2026-02-13T12:41:24.643",
+      "lastUpdateDate": null,
+      "contractSignedDate": "2026-02-13",
+      "startDate": "2026-02-16",
+      "noEndDate": true,
+      "endDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "decisionRelatedAda": null,
+      "contractNumber": "784/2026",
+      "authorEmail": null,
+      "organizationVatNumber": "999516730",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "diavgeiaADA": null,
+      "aaht": "1015.Ε00834.0001",
+      "budget": null,
+      "contractBudget": 2898,
+      "bidsSubmitted": null,
+      "maxBidsSubmitted": 2,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL307",
+            "value": "Πειραιάς, Νήσοι"
+          }
+        }
+      ],
+      "approvedRequestsList": [],
+      "organization": {
+        "key": "99222003",
+        "value": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΝΙΚΑΙΑΣ ΠΕΙΡΑΙΑ ΑΓΙΟΣ ΠΑΝΤΕΛΕΗΜΩΝ"
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL307",
+        "value": "Πειραιάς, Νήσοι"
+      },
+      "nutsCity": "ΝΙΚΑΙΑ",
+      "nutsPostalCode": "18454",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "assignCriteria": {
+        "key": "13",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
         "key": "1",
         "value": "Κεντρική Κυβέρνηση"
       },
@@ -103,453 +907,6 @@
         "key": "6",
         "value": "Υγεία"
       },
-      "contractDuration": 5,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "Ρ8014690ΩΧ-Σ1Η"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "24101060000001,24203010000001"
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "74855",
-          "value": "ΠΡΟΜΗΘΕΙΕΣ"
-        },
-        "signers": {
-          "key": "135941",
-          "value": "ΑΝΑΣΤΑΣΙΟΣ ΓΡΗΓΟΡΟΠΟΥΛΟΣ - Διοικητής"
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "053915698",
-            "greekVatNumber": false,
-            "name": "KLIMALINE ΜΠΕΜΠΛΙΔΑΚΗΣ"
-          }
-        ]
-      },
-      "totalCostWithVAT": 14830.4,
-      "totalCostWithoutVAT": 11960.0,
-      "objectDetailsList": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 7320,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΑΡΟΧΗ ΕΡΓΑΣΙΑΣ ΓΙΑ ΤΗΝ << ΑΝΤΙΚΑΤΑΣΤΑΣΗ ΤΩΝ ΜΟΝΑΔΩΝ ΚΛΙΜΑΤΙΣΜΟΥ VRV ΣΤΟΝ ΑΓΓΕΙΟΓΡΑΦΟ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ (3Η ΣΤΑΘΜΗ – ΚΤΙΡΙΟ ΧΕΙΡΟΥΡΓΕΙΩΝ), ΜΕ ΝΕΕΣ ΜΟΝΑΔΕΣ 48.000 BTU >>",
-          "cpvs": [
-            {
-              "key": "50712000-9",
-              "value": "Υπηρεσίες επισκευής και συντήρησης μηχανολογικών εγκαταστάσεων κτιρίου"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΑΘΗΝΑ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018445160"
-        },
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 4640,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΓΙΑ ΤΗΝ << ΑΝΤΙΚΑΤΑΣΤΑΣΗ ΤΩΝ ΜΟΝΑΔΩΝ ΚΛΙΜΑΤΙΣΜΟΥ VRV ΣΤΟΝ ΑΓΓΕΙΟΓΡΑΦΟ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ (3Η ΣΤΑΘΜΗ – ΚΤΙΡΙΟ ΧΕΙΡΟΥΡΓΕΙΩΝ), ΜΕ ΝΕΕΣ ΜΟΝΑΔΕΣ 48.000 BTU >>",
-          "cpvs": [
-            {
-              "key": "42520000-7",
-              "value": "Εξοπλισμός αερισμού"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΑΘΗΝΑ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018445160"
-        }
-      ],
-      "additionalContractTypes": [
-        {
-          "additionalContractType": {
-            "key": "2",
-            "value": "Προμήθειες"
-          }
-        }
-      ],
-      "mixedContract": true,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "26AWRD018445160",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "99221993",
-        "50712000",
-        "42520000"
-      ],
-      "cpv_divisions": [
-        "50",
-        "42"
-      ],
-      "all_domains": [
-        "Repair & Maintenance",
-        "Industrial Machinery"
-      ],
-      "primary_domain": "Repair & Maintenance"
-    },
-    {
-      "title": "ΣΥΜΒΑΣΗ ΠΡΟΜΗΘΕΙΑΣ ΚΟΜΠΛΕΡ ΚΙΝΗΤΗΡΑ ΕΛΞΗΣ ΣΥΡΜΩΝ ΣΕΙΡΑΣ ΙΙΙ (ΤΔ-013Β/24)",
-      "referenceNumber": "26SYMV018474120",
-      "prevReferenceNo": null,
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T14:19:28.915",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-12",
-      "startDate": "2026-02-12",
-      "noEndDate": true,
-      "endDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "ΤΔ-013Β/24",
-      "authorEmail": null,
-      "organizationVatNumber": "099939745",
-      "greekOrganizationVatNumber": true,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1039.Ε00923.0001",
-      "budget": null,
-      "contractBudget": 153000,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 1,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL303",
-            "value": "Κεντρικός Τομέας Αθηνών"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "50083",
-        "value": "ΣΤΑΘΕΡΕΣ ΣΥΓΚΟΙΝΩΝΙΕΣ Α.Ε. (ΣΤΑΣΥ)"
-      },
-      "procedureType": {
-        "key": "1",
-        "value": "Ανοιχτή διαδικασία"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "10552",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "7",
-        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "assignCriteria": {
-        "key": "13",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
-      },
-      "contractDuration": 12,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "9ΛΓΗΟΡΛΟ-ΡΣ8"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2600"
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "100058522",
-          "value": "ΔΙΕΥΘΥΝΩΝ ΣΥΜΒΟΥΛΟΣ"
-        },
-        "signers": {
-          "key": "100073793",
-          "value": "ΑΘΑΝΑΣΙΟΣ ΚΟΤΤΑΡΑΣ - Διευθύνων Σύμβουλος"
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "801397780",
-            "greekVatNumber": true,
-            "name": "ΤΕΚΜΟΤΟΝ ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ"
-          }
-        ]
-      },
-      "totalCostWithVAT": 189720.0,
-      "totalCostWithoutVAT": 153000.0,
-      "objectDetailsList": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 153000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Κατακύρωση διαγωνισμού ΤΔ-013Β/24_με αντικείμενο την «Προμήθεια κόμπλερ κινητήρα έλξης συρμών σειράς ΙΙΙ».",
-          "cpvs": [
-            {
-              "key": "42142200-8",
-              "value": "Μέρη στοιχείων μετάδοσης της κίνησης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΑΘΗΝΑ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018420258"
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "26AWRD018420258",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "42142200"
-      ],
-      "cpv_divisions": [
-        "42"
-      ],
-      "all_domains": [
-        "Industrial Machinery"
-      ],
-      "primary_domain": "Industrial Machinery"
-    },
-    {
-      "title": "ΠΡΟΜΗΘΕΙΑ & ΕΓΚΑΤΑΣΤΑΣΗ ΛΕΒΗΤΑ ΧΩΝΕΥΤΗ 1 - ΕΕΛ",
-      "referenceNumber": "26SYMV018473611",
-      "prevReferenceNo": null,
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T13:30:20.714",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-12",
-      "startDate": "2026-02-13",
-      "noEndDate": false,
-      "endDate": "2026-05-29",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "2511",
-      "authorEmail": null,
-      "organizationVatNumber": "090071204",
-      "greekOrganizationVatNumber": true,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1007.F00299.0001",
-      "budget": null,
-      "contractBudget": 7391,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 1,
-      "numberOfSections": 4,
-      "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL613",
-            "value": "Μαγνησία, Σποράδες"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "50884",
-        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΙΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΜΕΙΖΟΝΟΣ ΒΟΛΟΥ"
-      },
-      "procedureType": {
-        "key": "18",
-        "value": "Διαδικασία άρθρου 128 του ν.4412/16"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL613",
-        "value": "Μαγνησία, Σποράδες"
-      },
-      "nutsCity": "ΒΟΛΟΣ",
-      "nutsPostalCode": "38221",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "7",
-        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "assignCriteria": {
-        "key": "13",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
-      },
       "contractDuration": 3,
       "contractDurationUnitOfMeasure": {
         "key": "3",
@@ -558,7 +915,7 @@
       "contractRelatedADA": {
         "number1": null,
         "number2": null,
-        "number3": "63Υ8ΟΕΠΘ-3ΘΞ"
+        "number3": "ΨΝΘΡ46906Ψ-ΙΒ7"
       },
       "fundingDetails": {
         "publicFundingRef": null,
@@ -567,16 +924,16 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "12.06.000"
+        "regularBudgetFundedProgramRef": "9746"
       },
       "contractingDataDetails": {
         "unitsOperator": {
-          "key": "82523",
-          "value": "ΛΕΙΤΟΥΡΓΙΑΣ & ΣΥΝΤΗΡΗΣΗΣ ΥΠΟΔΟΜΩΝ"
+          "key": "75132",
+          "value": "ΔΙΟΙΚΗΣΗ"
         },
         "signers": {
-          "key": "100086779",
-          "value": "ΑΡΓΥΡΙΟΣ ΚΟΠΑΝΑΣ - Πρόεδρος Δ.Σ."
+          "key": "100097096",
+          "value": "ΕΛΕΝΗ ΚΑΝΤΑΡΑΚΗ - Διοικητής"
         },
         "contractingMembersDataList": [
           {
@@ -584,32 +941,32 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "054884433",
-            "greekVatNumber": true,
-            "name": "ΤΟΛΗΣ ΓΕΩΡΓΙΟΣ"
+            "vatNumber": "043915076",
+            "greekVatNumber": false,
+            "name": "ΣΩΤΗΡΟΠΟΥΛΟΥ ΜΑΡΙΑ"
           }
         ]
       },
-      "totalCostWithVAT": 9164.84,
-      "totalCostWithoutVAT": 7391.0,
+      "totalCostWithVAT": 3593.52,
+      "totalCostWithoutVAT": 2898.0,
       "objectDetailsList": [
         {
-          "quantity": 4,
+          "quantity": 6,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 7391,
+          "costWithoutVAT": 2898,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ & ΕΓΚΑΤΑΣΤΑΣΗ ΛΕΒΗΤΑ ΧΩΝΕΥΤΗ 1 - ΕΕΛ",
+          "shortDescription": "ΕΠΙΤΟΙΧΙΑ ΚΛΙΜΑΤΙΣΤΙΚΑ",
           "cpvs": [
             {
-              "key": "42121000-3",
-              "value": "Υδραυλικοί ή πνευματικοί κινητήρες και μηχανές παραγωγής ενέργειας"
+              "key": "42512200-0",
+              "value": "Κλιματιστικά μηχανήματα προσαρμοζόμενα επί τοίχου"
             }
           ],
           "greenContracts": {
@@ -624,29 +981,23 @@
           },
           "addressForDelivery": null,
           "postalCode": null,
-          "city": "ΒΟΛΟΣ",
+          "city": "ΝΙΚΑΙΑ",
           "streetNumber": null,
           "budgetCode": null,
-          "requestRefNo": "26AWRD018457080"
+          "requestRefNo": null
         }
       ],
-      "additionalContractTypes": [
-        {
-          "additionalContractType": {
-            "key": "3",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "mixedContract": true,
+      "additionalContractTypes": null,
+      "mixedContract": false,
       "requestRefNo": null,
       "nextRefNo": null,
       "nextExtended": null,
       "nextModified": null,
-      "auctionRefNo": "26AWRD018457080",
+      "auctionRefNo": null,
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "42121000"
+        "99222003",
+        "42512200"
       ],
       "cpv_divisions": [
         "42"
@@ -657,238 +1008,31 @@
       "primary_domain": "Industrial Machinery"
     },
     {
-      "title": "Προμήθεια μηχανολογικού εξοπλισμού για τις εγκαταστάσεις της Δ.Ε.Υ.Α Επιδαύρου ",
-      "referenceNumber": "26SYMV018472595",
+      "title": "Προμήθεια αντλίας προοδευτικής κοιλότητας BELLIN για τις ανάγκες της Δ.Ε.Υ.Α.ΕΛ.",
+      "referenceNumber": "26SYMV018477807",
       "prevReferenceNo": null,
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T12:25:13.226",
+      "submissionDate": "2026-02-13T11:22:06.956",
       "lastUpdateDate": null,
       "contractSignedDate": "2026-02-12",
-      "startDate": "2026-02-12",
-      "noEndDate": false,
-      "endDate": "2026-03-12",
+      "startDate": "2026-02-13",
+      "noEndDate": true,
+      "endDate": null,
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "decisionRelatedAda": null,
-      "contractNumber": "258",
+      "contractNumber": "443",
       "authorEmail": null,
-      "organizationVatNumber": "998142717",
+      "organizationVatNumber": "090102930",
       "greekOrganizationVatNumber": false,
       "commitmentNo": null,
       "diavgeiaADA": null,
-      "aaht": "1007.Ε90032.0001",
+      "aaht": "1007.F00368.0001",
       "budget": null,
-      "contractBudget": 3981.02,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 1,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL651",
-            "value": "Αργολίδα, Αρκαδία"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "52794",
-        "value": "Δ.Ε.Υ.Α ΕΠΙΔΑΥΡΟΥ"
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL651",
-        "value": "Αργολίδα, Αρκαδία"
-      },
-      "nutsCity": "ΛΥΓΟΥΡΙΟ",
-      "nutsPostalCode": "21052",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "7",
-        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "assignCriteria": {
-        "key": "13",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "7",
-        "value": "Στέγαση και υποδομές κοινής ωφέλειας"
-      },
-      "contractDuration": 1,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "9ΒΟ5ΟΛΤΣ-ΟΛΣ"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "62.07.09"
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "86486",
-          "value": "ΔΙΟΙΚΗΤΙΚΗ"
-        },
-        "signers": {
-          "key": "100054011",
-          "value": "ΓΕΩΡΓΙΟΣ ΠΑΥΛΟΥ - Πρόεδρος Δ.Σ."
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "099394009",
-            "greekVatNumber": false,
-            "name": "ΚΟΥΤΡΟΥΦΙΝΗΣ Ι - ΑΝΑΤΟΛΙΤΗΣ Π ΟΕ"
-          }
-        ]
-      },
-      "totalCostWithVAT": 4936.46,
-      "totalCostWithoutVAT": 3981.02,
-      "objectDetailsList": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 3981.02,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια μηχανολογικού εξοπλισμού για τις εγκαταστάσεις της Δ.Ε.Υ.Α Επιδαύρου ",
-          "cpvs": [
-            {
-              "key": "50511000-0",
-              "value": "Υπηρεσίες επισκευής και συντήρησης αντλιών"
-            },
-            {
-              "key": "42122220-8",
-              "value": "Αντλίες αποχέτευσης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΛΥΓΟΥΡΙΟ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018461767"
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "26AWRD018461767",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "50511000",
-        "42122220"
-      ],
-      "cpv_divisions": [
-        "50",
-        "42"
-      ],
-      "all_domains": [
-        "Repair & Maintenance",
-        "Industrial Machinery"
-      ],
-      "primary_domain": "Repair & Maintenance"
-    },
-    {
-      "title": "ΣΥΜΒΑΣΗ για: «Αποκατάσταση λειτουργίας γεωθερμικού συστήματος στο Π.Σ.Κ.Η.»",
-      "referenceNumber": "26SYMV018472028",
-      "prevReferenceNo": null,
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T11:59:39.82",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-12",
-      "startDate": "2026-02-12",
-      "noEndDate": false,
-      "endDate": "2026-05-12",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "244",
-      "authorEmail": null,
-      "organizationVatNumber": "094258926",
-      "greekOrganizationVatNumber": true,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": ".",
-      "budget": null,
-      "contractBudget": 20500,
+      "contractBudget": 940.2,
       "bidsSubmitted": null,
       "maxBidsSubmitted": 1,
       "numberOfSections": 1,
@@ -914,8 +1058,8 @@
       ],
       "approvedRequestsList": [],
       "organization": {
-        "key": "100048449",
-        "value": "ΠΟΛΥΜΕΤΟΧΙΚΗ ΔΗΜΟΤΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΠΟΛΙΤΙΣΜΟΥ ΤΟΥΡΙΣΜΟΥ ΑΝΑΠΤΥΞΗΣ ΗΡΑΚΛΕΙΟΥ"
+        "key": "50592",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΕΛΑΣΣΟΝΑΣ"
       },
       "procedureType": {
         "key": "6",
@@ -926,595 +1070,8 @@
         "key": "EL",
         "value": "ΕΛΛΑΔΑ"
       },
-      "nutsCity": "ΗΡΑΚΛΕΙΟ",
-      "nutsPostalCode": "71201",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "assignCriteria": {
-        "key": "13",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
-      },
-      "contractDuration": 3,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "9Ι6546ΜΓΒΗ-4ΓΡ"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": "62.00",
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "100015472",
-          "value": "ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
-        },
-        "signers": {
-          "key": "100087832",
-          "value": "ΒΑΡΒΕΡΑΚΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ - Πρόεδρος Δ.Σ."
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "800956386",
-            "greekVatNumber": true,
-            "name": "REGEON Ι.Κ.Ε."
-          }
-        ]
-      },
-      "totalCostWithVAT": 25420.0,
-      "totalCostWithoutVAT": 20500.0,
-      "objectDetailsList": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 20500,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Αποκατάσταση λειτουργίας γεωθερμικού συστήματος στο Π.Σ.Κ.Η.",
-          "cpvs": [
-            {
-              "key": "42533000-1",
-              "value": "Μέρη αντλιών θερμότητας"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΗΡΑΚΛΕΙΟ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018463940"
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "26AWRD018463940",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "42533000"
-      ],
-      "cpv_divisions": [
-        "42"
-      ],
-      "all_domains": [
-        "Industrial Machinery"
-      ],
-      "primary_domain": "Industrial Machinery"
-    },
-    {
-      "title": "2026- 12Α ΣΥΜΒΑΣΗ ΠΡΟΜΗΘΕΙΑΣ",
-      "referenceNumber": "26SYMV018471575",
-      "prevReferenceNo": null,
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T11:36:36.823",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-11",
-      "startDate": "2026-02-12",
-      "noEndDate": false,
-      "endDate": "2026-03-12",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "1010/111/M5E, 612/671",
-      "authorEmail": null,
-      "organizationVatNumber": "094144112",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1007.E90029.0001",
-      "budget": null,
-      "contractBudget": 8281.5,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 1,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL531",
-            "value": "Γρεβενά, Κοζάνη"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "100065929",
-        "value": "ΑΝΚΟ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ Α Ε  ΑΝΑΠΤΥΞΙΑΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΤΟΠΙΚΗΣ ΑΥΤΟΔΙΟΙΚΗΣΗΣ"
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL531",
-        "value": "Γρεβενά, Κοζάνη"
-      },
-      "nutsCity": "ΚΟΖΑΝΗ",
-      "nutsPostalCode": "50131",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "assignCriteria": {
-        "key": "13",
-        "value": "Βάσει τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
-      },
-      "contractDuration": 1,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "94ΟΟ46Μ8ΨΙ-ΙΦ8"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "12.01"
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "100037366",
-          "value": "ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
-        },
-        "signers": {
-          "key": "100037383",
-          "value": "ΑΝΑΣΤΑΣΙΟΣ ΣΙΔΗΡΟΠΟΥΛΟΣ - Γενικός Διευθυντής"
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "094144093",
-            "greekVatNumber": true,
-            "name": "ΤΕΧΝΟΜΠΕΤΟΝ ΑΕ"
-          }
-        ]
-      },
-      "totalCostWithVAT": 10269.06,
-      "totalCostWithoutVAT": 8281.5,
-      "objectDetailsList": [
-        {
-          "quantity": 40,
-          "type": {
-            "key": "MTQ",
-            "value": "m 3"
-          },
-          "costWithoutVAT": 3660,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια Σκυρόδεμα C25/30 επί τόπου του στο έργο",
-          "cpvs": [
-            {
-              "key": "44114100-3",
-              "value": "Έτοιμο σκυρόδεμα"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΚΟΖΑΝΗ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018458351"
-        },
-        {
-          "quantity": 7,
-          "type": {
-            "key": "MTQ",
-            "value": "m 3"
-          },
-          "costWithoutVAT": 581,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια Σκυρόδεμα C12/15 επί τόπου του στο έργο",
-          "cpvs": [
-            {
-              "key": "44114100-3",
-              "value": "Έτοιμο σκυρόδεμα"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΚΟΖΑΝΗ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018458351"
-        },
-        {
-          "quantity": 47,
-          "type": {
-            "key": "MTQ",
-            "value": "m 3"
-          },
-          "costWithoutVAT": 305.5,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Χρήση αντλίας για σκυροδέτηση",
-          "cpvs": [
-            {
-              "key": "42122190-8",
-              "value": "Αντλίες σκυροδέματος"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΚΟΖΑΝΗ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018458351"
-        },
-        {
-          "quantity": 3,
-          "type": {
-            "key": "TNE",
-            "value": "Τόνος"
-          },
-          "costWithoutVAT": 2760,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια σιδηρού οπλισμού B500C επί τόπου του στο έργο",
-          "cpvs": [
-            {
-              "key": "44330000-2",
-              "value": "Ράβδοι"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΚΟΖΑΝΗ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018458351"
-        },
-        {
-          "quantity": 130,
-          "type": {
-            "key": "TNE",
-            "value": "Τόνος"
-          },
-          "costWithoutVAT": 585,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προμήθεια θραυστού υλικού λατομείου",
-          "cpvs": [
-            {
-              "key": "14500000-6",
-              "value": "Προϊόντα ορυχείων και λατομείων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΚΟΖΑΝΗ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018458351"
-        },
-        {
-          "quantity": 130,
-          "type": {
-            "key": "TNE",
-            "value": "Τόνος"
-          },
-          "costWithoutVAT": 390,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Μεταφορά θραυστού υλικού λατομείου επί τόπου του στο έργο",
-          "cpvs": [
-            {
-              "key": "14500000-6",
-              "value": "Προϊόντα ορυχείων και λατομείων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΚΟΖΑΝΗ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018458351"
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "26AWRD018458351",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "44114100",
-        "42122190",
-        "44330000",
-        "14500000"
-      ],
-      "cpv_divisions": [
-        "44",
-        "42",
-        "14"
-      ],
-      "all_domains": [
-        "Construction Materials & Structures",
-        "Industrial Machinery",
-        "Metals & Mining"
-      ],
-      "primary_domain": "Construction Materials & Structures"
-    },
-    {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΥΠΟΒΡΥΧΙΩΝ ΑΝΤΛΗΤΙΚΩΝ ΣΥΓΚΡΟΤΗΜΑΤΩΝ - ΥΠΟΒΡΥΧΙΩΝ ΗΛΕΚΤΡΟΚΙΝΗΤΗΡΩΝ – ΑΝΤΛΙΩΝ ΑΚΑΘΑΡΤΩΝ,  ΟΜ",
-      "referenceNumber": "26SYMV018470785",
-      "prevReferenceNo": null,
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T10:57:13.294",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-12",
-      "startDate": "2026-02-12",
-      "noEndDate": false,
-      "endDate": "2027-02-11",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "504",
-      "authorEmail": null,
-      "organizationVatNumber": "997919572",
-      "greekOrganizationVatNumber": true,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1007.Ε90008.0001",
-      "budget": null,
-      "contractBudget": 100343,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 5,
-      "numberOfSections": 3,
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL",
-            "value": "ΕΛΛΑΔΑ"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "54928",
-        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΚΑΙ ΑΠΟΧΕΤΕΥΣΗΣ ΔΗΜΟΥ ΚΩ"
-      },
-      "procedureType": {
-        "key": "1",
-        "value": "Ανοιχτή διαδικασία"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL421",
-        "value": "Κάλυμνος, Κάρπαθος, Κως, Ρόδος"
-      },
-      "nutsCity": "ΚΩ",
-      "nutsPostalCode": "85300",
+      "nutsCity": "ΕΛΑΣΣΟΝΑ",
+      "nutsPostalCode": "40200",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -1548,208 +1105,8 @@
         "value": "ΝΠΙΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
-      },
-      "contractDuration": 12,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "ΨΦΑΟΟΞΓΦ-3ΒΟ"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "03.26.0171 03.26.0181"
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "90448",
-          "value": "ΠΡΟΕΔΡΟΣ"
-        },
-        "signers": {
-          "key": "100100917",
-          "value": "ΣΤΑΜΑΤΙΟΣ ΚΑΜΠΟΥΡΑΚΗΣ - Πρόεδρος Δ.Σ."
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "800553120",
-            "greekVatNumber": true,
-            "name": "WASTETECH"
-          }
-        ]
-      },
-      "totalCostWithVAT": 117401.31,
-      "totalCostWithoutVAT": 100343.0,
-      "objectDetailsList": [
-        {
-          "quantity": 14,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 100343,
-          "vat": "17",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Υποβρύχιες αντλίες λυμάτων",
-          "cpvs": [
-            {
-              "key": "42122220-8",
-              "value": "Αντλίες αποχέτευσης"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΚΩ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018402642"
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": "26AWRD018402642",
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "42122220"
-      ],
-      "cpv_divisions": [
-        "42"
-      ],
-      "all_domains": [
-        "Industrial Machinery"
-      ],
-      "primary_domain": "Industrial Machinery"
-    },
-    {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΑΝΤΛ ΣΥΓΚΡΟΤΗΜΑΤΩΝ ΚΑΙ ΑΝΤΑΛΛΑΚΤΙΚΩΝ ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΤΟΥ ΒΙΟΛΟΙΚΟΥ ΣΤΑΘΜΟΥ",
-      "referenceNumber": "26SYMV018469271",
-      "prevReferenceNo": null,
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T09:33:33.19",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-11",
-      "startDate": "2026-02-12",
-      "noEndDate": false,
-      "endDate": "2026-05-31",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "380",
-      "authorEmail": null,
-      "organizationVatNumber": "090028785",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1007.F00767.0001",
-      "budget": null,
-      "contractBudget": 3412,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 1,
-      "numberOfSections": 2,
-      "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL511",
-            "value": "Έβρος"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "50444",
-        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΟΡΕΣΤΙΑΔΑΣ"
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL511",
-        "value": "Έβρος"
-      },
-      "nutsCity": "ΟΡΕΣΤΙΑΔΑ",
-      "nutsPostalCode": "68200",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
         "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "assignCriteria": {
-        "key": "13",
-        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
+        "value": "Οικονομικές και δημοσιονομικές υποθέσεις"
       },
       "contractDuration": 3,
       "contractDurationUnitOfMeasure": {
@@ -1759,25 +1116,25 @@
       "contractRelatedADA": {
         "number1": null,
         "number2": null,
-        "number3": "922ΠΟΡΥΤ-Λ9Κ"
+        "number3": "Ψ5ΦΠΟΡΣΠ-ΜΨΗ"
       },
       "fundingDetails": {
         "publicFundingRef": null,
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": null,
+        "selfFundProgramRef": "    ",
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "26040005"
+        "regularBudgetFundedProgramRef": null
       },
       "contractingDataDetails": {
         "unitsOperator": {
-          "key": "81618",
-          "value": "ΓΡΑΦΕΙΟ ΠΡΟΕΔΡΟΥ"
+          "key": "87191",
+          "value": "ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
         },
         "signers": {
-          "key": "100097885",
-          "value": "ΑΔΑΜΑΝΤΙΟΣ ΠΑΠΑΔΟΠΟΥΛΟΣ - Πρόεδρος Δ.Σ."
+          "key": "100069704",
+          "value": "ΑΘΑΝΑΣΙΟΣ ΓΕΡΟΦΩΚΑΣ - Πρόεδρος Δ.Σ."
         },
         "contractingMembersDataList": [
           {
@@ -1785,28 +1142,28 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "117269137",
+            "vatNumber": "094328030",
             "greekVatNumber": false,
-            "name": "SYBRIDOY"
+            "name": "MIXOΣ Α.Ε."
           }
         ]
       },
-      "totalCostWithVAT": 4230.88,
-      "totalCostWithoutVAT": 3412.0,
+      "totalCostWithVAT": 1165.85,
+      "totalCostWithoutVAT": 940.2,
       "objectDetailsList": [
         {
-          "quantity": 3,
+          "quantity": 1,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 2558,
+          "costWithoutVAT": 940.2,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΑΝΤΛΗΤΙΚΩΝ ΣΥΓΚΡΟΤΗΜΑΤΩΝ",
+          "shortDescription": "Προμήθεια αντλίας προοδευτικής κοιλότητας BELLIN για τις ανάγκες της Δ.Ε.Υ.Α.ΕΛ.",
           "cpvs": [
             {
               "key": "42122130-0",
@@ -1825,46 +1182,10 @@
           },
           "addressForDelivery": null,
           "postalCode": null,
-          "city": "ΟΡΕΣΤΙΑΔΑ",
+          "city": "ΕΛΑΣΣΟΝΑ",
           "streetNumber": null,
           "budgetCode": null,
-          "requestRefNo": "26AWRD018435025"
-        },
-        {
-          "quantity": 26,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 854,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΝΤΑΛΛΑΚΤΙΚΑ ΒΣ",
-          "cpvs": [
-            {
-              "key": "42124100-5",
-              "value": "Μέρη μηχανών ή κινητήρων"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΟΡΕΣΤΙΑΔΑ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": "26AWRD018435025"
+          "requestRefNo": "26AWRD018448525"
         }
       ],
       "additionalContractTypes": null,
@@ -1873,12 +1194,10 @@
       "nextRefNo": null,
       "nextExtended": null,
       "nextModified": null,
-      "auctionRefNo": "26AWRD018435025",
+      "auctionRefNo": "26AWRD018448525",
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "26040005",
-        "42122130",
-        "42124100"
+        "42122130"
       ],
       "cpv_divisions": [
         "42"
@@ -1889,33 +1208,33 @@
       "primary_domain": "Industrial Machinery"
     },
     {
-      "title": "ΣΥΜΒΑΣΗ ΠΡΟΜΗΘΕΙΑΣ ΕΞΟΠΛΙΣΜΟΥ ΑΠΟ ΔΙΑΓΩΝΙΣΜΟ ΑΝΩ ΤΩΝ ΟΡΙΩΝ",
-      "referenceNumber": "26SYMV018468960",
+      "title": "ΣΥΜΒΑΣΗ 4.617,76 €",
+      "referenceNumber": "26SYMV018476049",
       "prevReferenceNo": null,
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T09:16:22.384",
+      "submissionDate": "2026-02-13T09:41:07.308",
       "lastUpdateDate": null,
-      "contractSignedDate": "2026-01-29",
-      "startDate": "2026-02-12",
-      "noEndDate": false,
-      "endDate": "2026-05-12",
+      "contractSignedDate": "2026-02-13",
+      "startDate": "2026-02-13",
+      "noEndDate": true,
+      "endDate": null,
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "decisionRelatedAda": null,
-      "contractNumber": "14306/12-02-2026",
+      "contractNumber": "3/2026",
       "authorEmail": null,
-      "organizationVatNumber": "998219694",
-      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "996673084",
+      "greekOrganizationVatNumber": false,
       "commitmentNo": null,
       "diavgeiaADA": null,
-      "aaht": "1020.E00681.0001",
+      "aaht": "1060.2011000100.0001",
       "budget": null,
-      "contractBudget": 55000,
+      "contractBudget": 3724,
       "bidsSubmitted": null,
-      "maxBidsSubmitted": 3,
+      "maxBidsSubmitted": 1,
       "numberOfSections": 1,
       "assignedContract": {
         "key": "2",
@@ -1932,27 +1251,27 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL632",
-            "value": "Αχαΐα"
+            "key": "EL422",
+            "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
           }
         }
       ],
       "approvedRequestsList": [],
       "organization": {
-        "key": "99206920",
-        "value": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΑΤΡΩΝ"
+        "key": "100068650",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΚΛΙΜΑΤΙΚΗΣ ΚΡΙΣΗΣ ΚΑΙ ΠΟΛΙΤΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ"
       },
       "procedureType": {
-        "key": "1",
-        "value": "Ανοιχτή διαδικασία"
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL632",
-        "value": "Αχαΐα"
+        "key": "EL422",
+        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
       },
-      "nutsCity": "ΠΑΤΡΑ",
-      "nutsPostalCode": "26500",
+      "nutsCity": "ΣΥΡΟΣ",
+      "nutsPostalCode": "84100",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -1966,8 +1285,8 @@
         }
       ],
       "legalContext": {
-        "key": "4",
-        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
       },
       "contractType": {
         "key": "13",
@@ -1975,21 +1294,21 @@
       },
       "assignCriteria": {
         "key": "13",
-        "value": "Βάσει τιμής"
+        "value": "Βάσει κόστους – άλλο"
       },
       "classificationOfPublicLawOrganization": {
         "key": "1",
         "value": "Κεντρική Κυβέρνηση"
       },
       "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
       },
       "contractingAuthorityActivity": {
-        "key": "11",
-        "value": "Εκπαίδευση"
+        "key": "3",
+        "value": "Δημόσια τάξη και ασφάλεια"
       },
-      "contractDuration": 3,
+      "contractDuration": 1,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -1997,25 +1316,25 @@
       "contractRelatedADA": {
         "number1": null,
         "number2": null,
-        "number3": "ΨΖΑΧ469Β7Θ-ΥΑΨ"
+        "number3": "68Α846ΝΠΙΘ-ΨΟΗ"
       },
       "fundingDetails": {
         "publicFundingRef": null,
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": "60060",
+        "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
+        "regularBudgetFundedProgramRef": "3120102001"
       },
       "contractingDataDetails": {
         "unitsOperator": {
-          "key": "74045",
-          "value": "ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ (ΕΛΚΕ)"
+          "key": "71379",
+          "value": "ΔΙΟΙΚΗΣΗ ΠΥΡΟΣΒΕΣΤΙΚΩΝ ΥΠΗΡΕΣΙΩΝ ΝΟΜΟΥ ΚΥΚΛΑΔΩΝ"
         },
         "signers": {
-          "key": "100061239",
-          "value": "ΧΡΗΣΤΟΣ ΜΠΟΥΡΑΣ - Πρύτανης"
+          "key": "100101973",
+          "value": "ΓΕΩΡΓΙΑ ΤΣΑΦΟΥ - Διοικητής"
         },
         "contractingMembersDataList": [
           {
@@ -2023,52 +1342,32 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "042807878",
-            "greekVatNumber": true,
-            "name": "ΦΟΗ ΑΝΔΡΟΝΙΚΗ ΙΩΑΝΝΗΣ"
+            "vatNumber": "099566820",
+            "greekVatNumber": false,
+            "name": "Μ. ΡΟΥΣΣΟΣ ΚΑΙ ΥΙΟΙ Ο.Ε."
           }
         ]
       },
-      "totalCostWithVAT": 47408.92,
-      "totalCostWithoutVAT": 38233.0,
+      "totalCostWithVAT": 4617.76,
+      "totalCostWithoutVAT": 3724.0,
       "objectDetailsList": [
         {
-          "quantity": 10,
+          "quantity": 4,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 38233,
+          "costWithoutVAT": 3724,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΚΛΙΜΑΤΙΣΜΟΥ ΑΕΡΙΣΜΟΥ",
+          "shortDescription": "προμήθεια  τεσσάρων  κλιματιστικών μονάδων για τις ανάγκες των κτιριακών εγκαταστάσεων των Π.Υ. Ερμούπολης , ΔΙ.Π.Υ.Ν. Κυκλάδων και ΠΕ.Π.Υ.Δ. Νοτίου Αιγαίου.",
           "cpvs": [
             {
-              "key": "42512000-8",
-              "value": "Κλιματιστικές εγκαταστάσεις"
-            },
-            {
-              "key": "45331210-1",
-              "value": "Εργασίες εγκατάστασης αερισμού"
-            },
-            {
-              "key": "45331220-4",
-              "value": "Εργασίες εγκατάστασης συστημάτων κλιματισμού"
-            },
-            {
-              "key": "42512300-1",
-              "value": "Συγκροτήματα θέρμανσης"
-            },
-            {
-              "key": "42520000-7",
-              "value": "Εξοπλισμός αερισμού"
-            },
-            {
-              "key": "44622000-6",
-              "value": "Συστήματα ανάκτησης θερμότητας"
+              "key": "42512200-0",
+              "value": "Κλιματιστικά μηχανήματα προσαρμοζόμενα επί τοίχου"
             }
           ],
           "greenContracts": {
@@ -2083,10 +1382,10 @@
           },
           "addressForDelivery": null,
           "postalCode": null,
-          "city": "ΠΑΤΡΑ",
+          "city": "ΣΥΡΟΣ",
           "streetNumber": null,
           "budgetCode": null,
-          "requestRefNo": "25AWRD018222810"
+          "requestRefNo": "26AWRD018475450"
         }
       ],
       "additionalContractTypes": null,
@@ -2095,37 +1394,27 @@
       "nextRefNo": null,
       "nextExtended": null,
       "nextModified": null,
-      "auctionRefNo": "25AWRD018222810",
+      "auctionRefNo": "26AWRD018475450",
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "99206920",
-        "42512000",
-        "45331210",
-        "45331220",
-        "42512300",
-        "42520000",
-        "44622000"
+        "42512200"
       ],
       "cpv_divisions": [
-        "42",
-        "45",
-        "44"
+        "42"
       ],
       "all_domains": [
-        "Industrial Machinery",
-        "Construction & Works",
-        "Construction Materials & Structures"
+        "Industrial Machinery"
       ],
-      "primary_domain": "Construction & Works"
+      "primary_domain": "Industrial Machinery"
     },
     {
-      "title": "ΣΥΜΦΩΝΗΤΙΚΟ ΠΡΟΜΗΘΕΙΑΣ 12/81482/2026",
-      "referenceNumber": "26SYMV018468327",
+      "title": "Εγκατάσταση συστημάτων κλιματισμού σε δύο οχήματα μεταφοράς προσωπικού του Ε.Τ.Ι.Κ της Κ.Υ του ΕΚΑΒ",
+      "referenceNumber": "26SYMV018474949",
       "prevReferenceNo": null,
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T08:25:31.133",
+      "submissionDate": "2026-02-13T07:53:31.846",
       "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-11",
+      "contractSignedDate": "2026-02-12",
       "startDate": "2026-02-13",
       "noEndDate": false,
       "endDate": "2026-03-13",
@@ -2135,18 +1424,18 @@
       "cancellationReason": null,
       "cancellationADA": null,
       "decisionRelatedAda": null,
-      "contractNumber": "12/81482/2026",
+      "contractNumber": "12",
       "authorEmail": null,
-      "organizationVatNumber": "997018524",
+      "organizationVatNumber": "090073326",
       "greekOrganizationVatNumber": true,
       "commitmentNo": null,
       "diavgeiaADA": null,
-      "aaht": "1020.E00934.0001",
+      "aaht": "1015.Ε00035.0001",
       "budget": null,
-      "contractBudget": 893976.22,
+      "contractBudget": 7167.33,
       "bidsSubmitted": null,
-      "maxBidsSubmitted": 22,
-      "numberOfSections": 155,
+      "maxBidsSubmitted": 1,
+      "numberOfSections": 2,
       "assignedContract": {
         "key": "2",
         "value": "Όχι"
@@ -2162,27 +1451,27 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL302",
-            "value": "Δυτικός Τομέας Αθηνών"
+            "key": "EL301",
+            "value": "Βόρειος Τομέας Αθηνών"
           }
         }
       ],
       "approvedRequestsList": [],
       "organization": {
-        "key": "100038385",
-        "value": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ"
+        "key": "50184",
+        "value": "ΕΘΝΙΚΟ ΚΕΝΤΡΟ ΑΜΕΣΗΣ ΒΟΗΘΕΙΑΣ (ΕΚΑΒ)"
       },
       "procedureType": {
-        "key": "1",
-        "value": "Ανοιχτή διαδικασία"
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL302",
-        "value": "Δυτικός Τομέας Αθηνών"
+        "key": "EL305",
+        "value": "Ανατολική Αττική"
       },
-      "nutsCity": "ΑΙΓΑΛΕΩ",
-      "nutsPostalCode": "12243",
+      "nutsCity": "ΑΘΗΝΑ",
+      "nutsPostalCode": "11527",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -2196,8 +1485,8 @@
         }
       ],
       "legalContext": {
-        "key": "4",
-        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
       },
       "contractType": {
         "key": "13",
@@ -2216,8 +1505,8 @@
         "value": "ΝΠΔΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "11",
-        "value": "Εκπαίδευση"
+        "key": "6",
+        "value": "Υγεία"
       },
       "contractDuration": 1,
       "contractDurationUnitOfMeasure": {
@@ -2227,25 +1516,25 @@
       "contractRelatedADA": {
         "number1": null,
         "number2": null,
-        "number3": "Ψ6ΗΧ46Μ9ΞΗ-ΒΤΔ"
+        "number3": "ΡΙ03ΟΡ1Π-ΧΔ8"
       },
       "fundingDetails": {
-        "publicFundingRef": "ΣΑΤΑ 047",
-        "publicFundingRefNum": "2022ΤΑ04700017",
-        "publicFundingRefOps": "ΤΑ 5180665",
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": "81482",
+        "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
+        "regularBudgetFundedProgramRef": "24101070000001 + 24203020000"
       },
       "contractingDataDetails": {
         "unitsOperator": {
-          "key": "100039213",
-          "value": "ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ & ΕΡΕΥΝΑΣ"
+          "key": "77457",
+          "value": "ΓΡΑΦΕΙΟ ΠΡΟΕΔΡΟΥ"
         },
         "signers": {
-          "key": "100096596",
-          "value": "Πέτρος Καλαντώνης - Αντιπρύτανης"
+          "key": "100097505",
+          "value": "ΓΕΩΡΓΙΟΣ ΧΑΡΑΛΑΜΠΟΥΣ - Πρόεδρος Δ.Σ."
         },
         "contractingMembersDataList": [
           {
@@ -2253,32 +1542,32 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "999780829",
+            "vatNumber": "094186404",
             "greekVatNumber": true,
-            "name": "ΚΑΓΙΑΦΑΣ ΒΙΟΜΗΧΑΝΙΚΑ ΕΡΓΑΛΕΙΑ ΕΕ"
+            "name": "ΗΛΕΠ ΗΛΕΚΤΡΟΝΙΚΗ ΠΛΗΡΟΦΟΡΙΚΗ Α.Ε."
           }
         ]
       },
-      "totalCostWithVAT": 6448.0,
-      "totalCostWithoutVAT": 5200.0,
+      "totalCostWithVAT": 9755.49,
+      "totalCostWithoutVAT": 7867.33,
       "objectDetailsList": [
         {
-          "quantity": 1,
+          "quantity": 2,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 5200,
+          "costWithoutVAT": 7167.33,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "4.13_Μηχανή συγκόλλησης τόξου συνεχούς παλμικού ρεύματος [88MIG500XDP ATLAS ΜΗΧΑΝΗ MIG 500A Διπλού Παλμού] [ΚΑΓΙΑΦΑΣ ΒΙΟΜΗΧΑΝΙΚΑ ΕΡΓΑΛΕΙΑ ΕΕ] ",
+          "shortDescription": "Εγκατάσταση συστημάτων κλιματισμού στα υπ’ αρ. ΚΥ-8082 και ΚΥ-8306 οχήματα μεταφοράς προσωπικού και εξοπλισμού του Ειδικού Τμήματος Ιατρικής Καταστροφών (ΕΤΙΚ) της Κεντρικής Υπηρεσίας (Κ.Υ.) του ΕΚΑΒ. ",
           "cpvs": [
             {
-              "key": "42662000-4",
-              "value": "Εξοπλισμός συγκόλλησης"
+              "key": "39717200-3",
+              "value": "Συσκευές κλιματισμού"
             }
           ],
           "greenContracts": {
@@ -2296,27 +1585,73 @@
           "city": "ΑΘΗΝΑ",
           "streetNumber": null,
           "budgetCode": null,
-          "requestRefNo": "26AWRD018438667"
+          "requestRefNo": "26AWRD018432490"
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 700,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Εγκατάσταση συστημάτων κλιματισμού στα υπ’ αρ. ΚΥ-8082 και ΚΥ-8306 οχήματα μεταφοράς προσωπικού και εξοπλισμού του Ειδικού Τμήματος Ιατρικής Καταστροφών (ΕΤΙΚ) της Κεντρικής Υπηρεσίας (Κ.Υ.) του ΕΚΑΒ. ",
+          "cpvs": [
+            {
+              "key": "42512400-2",
+              "value": "Κλιματιστικές εγκαταστάσεις οχημάτων"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΑΘΗΝΑ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018432490"
         }
       ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "3",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "mixedContract": true,
       "requestRefNo": null,
       "nextRefNo": null,
       "nextExtended": null,
       "nextModified": null,
-      "auctionRefNo": "26AWRD018438667",
+      "auctionRefNo": "26AWRD018432490",
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "42662000"
+        "39717200",
+        "42512400"
       ],
       "cpv_divisions": [
+        "39",
         "42"
       ],
       "all_domains": [
+        "Furniture & Cleaning Products",
         "Industrial Machinery"
       ],
-      "primary_domain": "Industrial Machinery"
+      "primary_domain": "Furniture & Cleaning Products"
     }
   ]
 }

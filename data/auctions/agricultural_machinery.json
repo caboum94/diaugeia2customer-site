@@ -3,27 +3,27 @@
   "count": 1,
   "items": [
     {
-      "title": "Απόφαση ανάθεσης για την προμήθεια χορτοκοπτικού μηχανήματος για το έργο Καστροπολιτεία Σκύρου",
-      "referenceNumber": "26AWRD018473891",
-      "submissionDate": "2026-02-12T13:52:05.324",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-11",
+      "title": "ΠΡΟΜΗΘΕΙΑ ΕΞΟΠΛΙΣΜΟΥ ΓΙΑ ΤΗΝ ΠΡΟΛΗΨΗ & ΑΝΤΑΠΟΚΡΙΣΗ ΕΝΑΝΤΙ ΦΥΣΙΚΩΝ ΚΙΝΔΥΝΩΝ ΤΟΥ ΔΗΜΟΥ ΒΟΛΒΗΣ",
+      "referenceNumber": "26AWRD018480546",
+      "submissionDate": "2026-02-13T14:05:15.048",
+      "lastUpdateDate": "2026-02-13",
+      "signedDate": "2025-12-01",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1022.0000000000.0060",
+      "aaht": "1007.E80703.0001",
       "authorEmail": null,
-      "organizationVatNumber": "090283815",
-      "greekOrganizationVatNumber": true,
-      "budget": 418.55,
+      "organizationVatNumber": "998246635",
+      "greekOrganizationVatNumber": false,
+      "budget": 220674,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
       "amendPreviousAuction": false,
-      "numberOfSections": 1,
+      "numberOfSections": 3,
       "assignedContract": {
         "key": "2",
         "value": "Όχι"
@@ -33,26 +33,26 @@
         "value": "Όχι"
       },
       "centralGovernmentAuthority": {
-        "key": "1",
-        "value": "Ναι"
+        "key": "2",
+        "value": "Όχι"
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100003614",
-          "value": "ΕΦΟΡΕΙΑ ΑΡΧΑΙΟΤΗΤΩΝ ΕΥΒΟΙΑΣ"
+          "key": "100087180",
+          "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΤΡΟΠΗ"
         },
         "signers": {
-          "key": "100011937",
-          "value": "ΔΗΜΗΤΡΙΟΣ ΧΡΙΣΤΟΔΟΥΛΟΥ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
+          "key": "135716",
+          "value": "ΔΙΑΜΑΝΤΗΣ ΛΙΑΜΑΣ - Δήμαρχος"
         }
       },
       "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
+        "key": "1",
+        "value": "Ανοιχτή διαδικασία"
       },
       "organization": {
-        "key": "100081912",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΠΟΛΙΤΙΣΜΟΥ"
+        "key": "6057",
+        "value": "ΔΗΜΟΣ ΒΟΛΒΗΣ"
       },
       "contractType": {
         "key": "13",
@@ -64,11 +64,11 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL64",
-        "value": "Στερεά Ελλάδα"
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
       },
-      "nutsCity": "ΧΑΛΚΙΔΑ",
-      "nutsPostalCode": "34133",
+      "nutsCity": "ΣΤΑΥΡΟΣ",
+      "nutsPostalCode": "57014",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -82,23 +82,23 @@
         }
       ],
       "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+        "key": "4",
+        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
       },
       "centralizedTypes": null,
       "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
+        "key": "2",
+        "value": "ΟΤΑ"
       },
       "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
+        "key": "9",
+        "value": "ΝΠΔΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "10",
-        "value": "Πολιτισμός και θρησκεία"
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 24,
+      "contractDuration": 6,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -106,12 +106,25 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "800543137",
-            "greekVatNumber": true,
-            "name": "Γ. ΜΠΟΥΖΑΛΑΣ ΙΚΕ",
+            "vatNumber": "094007885",
+            "greekVatNumber": false,
+            "name": "ΠΑΥΛΟΣ Ι. ΚΟΝΤΕΛΛΗΣ Α.Ε.Β.Ε.",
             "nutsCode": {
-              "key": "EL64",
-              "value": "Στερεά Ελλάδα"
+              "key": "EL303",
+              "value": "Κεντρικός Τομέας Αθηνών"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          },
+          {
+            "vatNumber": "801083010",
+            "greekVatNumber": false,
+            "name": "C.I.PARTS Ι.Κ.Ε.",
+            "nutsCode": {
+              "key": "EL302",
+              "value": "Δυτικός Τομέας Αθηνών"
             },
             "installationCountry": {
               "key": "GR",
@@ -120,8 +133,8 @@
           }
         ]
       },
-      "totalCostWithVAT": 519.0,
-      "totalCostWithoutVAT": 418.55,
+      "totalCostWithVAT": 273635.76,
+      "totalCostWithoutVAT": 220674.0,
       "objectDetailsList": [
         {
           "quantity": 1,
@@ -129,17 +142,69 @@
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 418.55,
+          "costWithoutVAT": 91800,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Απόφαση ανάθεσης για την προμήθεια χορτοκοπτικού μηχανήματος (βενζινοκίνητου) για την κάλυψη των αναγκών του Υποέργου 1 με τίτλο: «Ανάδειξη περιβάλλοντος χώρου μνημείων και δημιουργία διαδρομών στην Καστροπολιτεία Σκύρου», που εκτελείται απολογιστικά και με αυτεπιστασία από την Εφορεία Αρχαιοτήτων Ευβοίας",
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΕΞΟΠΛΙΣΜΟΥ ΓΙΑ ΤΗΝ ΠΡΟΛΗΨΗ ΚΑΙ ΑΝΤΑΠΟΚΡΙΣΗ ΕΝΑΝΤΙ ΦΥΣΙΚΩΝ ΚΙΝΔΥΝΩΝ ΤΟΥ ΔΗΜΟΥ ΒΟΛΒΗΣ: ΤΜΗΜΑ Α’: ΕΝΑΣ (1) ΚΑΙΝΟΥΡΓΙΟΣ ΓΕΩΡΓΙΚΟΣ ΕΛΚΥΣΤΗΡΑΣ ΜΕ ΠΑΡΕΛΚΟΜΕΝΑ",
           "cpvs": [
             {
-              "key": "16310000-1",
-              "value": "Χορτοκοπτικές μηχανές"
+              "key": "16000000-5",
+              "value": "Γεωργικά μηχανήματα"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 3,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 96774,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΕΞΟΠΛΙΣΜΟΥ ΓΙΑ ΤΗΝ ΠΡΟΛΗΨΗ ΚΑΙ ΑΝΤΑΠΟΚΡΙΣΗ ΕΝΑΝΤΙ ΦΥΣΙΚΩΝ ΚΙΝΔΥΝΩΝ ΤΟΥ ΔΗΜΟΥ ΒΟΛΒΗΣ: ΤΜΗΜΑ Β’: ΤΡΙΑ (3) ΚΑΙΝΟΥΡΓΙΑ ΗΜΙΦΟΡΤΗΓΑ 4x4 ΜΕ ΔΙΠΛΗ ΚΑΜΠΙΝΑ",
+          "cpvs": [
+            {
+              "key": "34131000-4",
+              "value": "Ημιφορτηγά"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 3,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 32100,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΕΞΟΠΛΙΣΜΟΥ ΓΙΑ ΤΗΝ ΠΡΟΛΗΨΗ ΚΑΙ ΑΝΤΑΠΟΚΡΙΣΗ ΕΝΑΝΤΙ ΦΥΣΙΚΩΝ ΚΙΝΔΥΝΩΝ ΤΟΥ ΔΗΜΟΥ ΒΟΛΒΗΣ: ΤΜΗΜΑ Γ’: ΤΡΕΙΣ (3) ΚΑΙΝΟΥΡΓΙΕΣ ΠΡΟΣΘΑΦΑΙΡΟΥΜΕΝΕΣ ΠΥΡΟΣΒΕΣΤΙΚΕΣ ΥΠΕΡΚΑΤΑΣΚΕΥΕΣ",
+          "cpvs": [
+            {
+              "key": "35111000-5",
+              "value": "Πυροσβεστικός εξοπλισμός"
             }
           ],
           "greenContracts": {
@@ -153,20 +218,26 @@
       "additionalContractTypes": null,
       "mixedContract": false,
       "approvedRequestsList": [],
-      "noticeRefNo": "25PROC017774308",
+      "noticeRefNo": "25PROC017288611",
       "amendsAuctionRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "16310000"
+        "16000000",
+        "34131000",
+        "35111000"
       ],
       "cpv_divisions": [
-        "16"
+        "16",
+        "34",
+        "35"
       ],
       "all_domains": [
-        "Agricultural Machinery"
+        "Agricultural Machinery",
+        "Transport & Vehicles",
+        "Security & Defense"
       ],
-      "primary_domain": "Agricultural Machinery"
+      "primary_domain": "Transport & Vehicles"
     }
   ]
 }

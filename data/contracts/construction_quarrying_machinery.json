@@ -1,13 +1,13 @@
 {
   "domain": "Construction & Quarrying Machinery",
-  "count": 4,
+  "count": 6,
   "items": [
     {
-      "title": "ΠΡΟΜΗΘΕΙΑ ΕΝΟΣ (1) ΔΟΝΗΤΙΚΟΥ ΟΔΟΣΤΡΩΤΗΡΑ",
-      "referenceNumber": "26SYMV018473388",
+      "title": "Φόρτωση & Μεταφορά  αδρανών υλικών εντός του λατομείου Λιτοχώρου",
+      "referenceNumber": "26SYMV018481676",
       "prevReferenceNo": null,
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T13:12:54.185",
+      "submissionDate": "2026-02-13T16:37:55.713",
       "lastUpdateDate": null,
       "contractSignedDate": "2026-02-12",
       "startDate": "2026-02-12",
@@ -19,15 +19,15 @@
       "cancellationReason": null,
       "cancellationADA": null,
       "decisionRelatedAda": null,
-      "contractNumber": "2611",
+      "contractNumber": "2543",
       "authorEmail": null,
-      "organizationVatNumber": "090046938",
+      "organizationVatNumber": "094107233",
       "greekOrganizationVatNumber": true,
       "commitmentNo": null,
       "diavgeiaADA": null,
-      "aaht": "1007.E85204.0001",
+      "aaht": "1007.F00343.0001",
       "budget": null,
-      "contractBudget": 46000,
+      "contractBudget": 30000,
       "bidsSubmitted": null,
       "maxBidsSubmitted": 1,
       "numberOfSections": 1,
@@ -46,27 +46,266 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL307",
-            "value": "Πειραιάς, Νήσοι"
+            "key": "EL525",
+            "value": "Πιερία"
           }
         }
       ],
       "approvedRequestsList": [],
       "organization": {
-        "key": "6016",
-        "value": "ΔΗΜΟΣ ΑΙΓΙΝΑΣ"
+        "key": "100021356",
+        "value": "ΜΟΝΟΜΕΤΟΧΙΚΗ ΑΝΩΝΥΜΗ ΔΗΜΟΤΙΚΗ ΕΤΑΙΡΕΙΑ ΑΝΑΠΤΥΞΗΣ ΒΙΟ ΠΑ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗΣ ΑΜΜΟΡΥΧΕΙΩΝ ΔΙΟΥ ΟΛΥΜΠΟΥ"
       },
       "procedureType": {
-        "key": "1",
-        "value": "Ανοιχτή διαδικασία"
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL307",
-        "value": "Πειραιάς, Νήσοι"
+        "key": "EL525",
+        "value": "Πιερία"
       },
-      "nutsCity": "ΑΙΓΙΝΑ",
-      "nutsPostalCode": "18010",
+      "nutsCity": "ΛΙΤΟΧΩΡΟ",
+      "nutsPostalCode": "60200",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "assignCriteria": {
+        "key": "9",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 12,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractRelatedADA": {
+        "number1": null,
+        "number2": null,
+        "number3": "98ΜΩ465ΑΤΘ-99Α"
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "61.00.009  "
+      },
+      "contractingDataDetails": {
+        "unitsOperator": {
+          "key": "100021728",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+        },
+        "signers": {
+          "key": "100096004",
+          "value": "ΑΣΤΕΡΙΟΣ ΦΑΡΜΑΚΗΣ - Πρόεδρος Δ.Σ."
+        },
+        "contractingMembersDataList": [
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
+            "vatNumber": "800709873",
+            "greekVatNumber": true,
+            "name": "ΓΕΩΡΓΙΟΣ ΤΣΙΑΝΑΚΑΣ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ "
+          }
+        ]
+      },
+      "totalCostWithVAT": 37200.0,
+      "totalCostWithoutVAT": 30000.0,
+      "objectDetailsList": [
+        {
+          "quantity": 400,
+          "type": {
+            "key": "MH",
+            "value": "Ανθρωποώρα"
+          },
+          "costWithoutVAT": 20000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Φόρτωση  αδρανών υλικών εντός του λατομείου Λιτοχώρου",
+          "cpvs": [
+            {
+              "key": "43260000-3",
+              "value": "Αυτοκινούμενα μηχανικά πτύα"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΛΙΤΟΧΩΡΟ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018460402"
+        },
+        {
+          "quantity": 250,
+          "type": {
+            "key": "MH",
+            "value": "Ανθρωποώρα"
+          },
+          "costWithoutVAT": 10000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Μεταφορά αδρανών υλικών εντός του λατομείου Λιτοχώρου",
+          "cpvs": [
+            {
+              "key": "60000000-8",
+              "value": "Υπηρεσίες μεταφορών (εκτός από μεταφορά αποβλήτων)"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΛΙΤΟΧΩΡΟ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018460402"
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "nextRefNo": null,
+      "nextExtended": null,
+      "nextModified": null,
+      "auctionRefNo": "26AWRD018460402",
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "43260000",
+        "60000000"
+      ],
+      "cpv_divisions": [
+        "43",
+        "60"
+      ],
+      "all_domains": [
+        "Construction & Quarrying Machinery",
+        "Transport Services"
+      ],
+      "primary_domain": "Construction & Quarrying Machinery"
+    },
+    {
+      "title": "Προμήθεια μαχαιριών των Σπαστήρων του Λατομείου Λιτοχώρου",
+      "referenceNumber": "26SYMV018481656",
+      "prevReferenceNo": null,
+      "noticeReferenceNumber": null,
+      "submissionDate": "2026-02-13T16:31:02.852",
+      "lastUpdateDate": null,
+      "contractSignedDate": "2026-02-12",
+      "startDate": "2026-02-12",
+      "noEndDate": false,
+      "endDate": "2026-04-02",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "decisionRelatedAda": null,
+      "contractNumber": "2539",
+      "authorEmail": null,
+      "organizationVatNumber": "094107233",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "diavgeiaADA": null,
+      "aaht": "1007.F00343.0001",
+      "budget": null,
+      "contractBudget": 14186.5,
+      "bidsSubmitted": null,
+      "maxBidsSubmitted": 1,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL525",
+            "value": "Πιερία"
+          }
+        }
+      ],
+      "approvedRequestsList": [],
+      "organization": {
+        "key": "100021356",
+        "value": "ΜΟΝΟΜΕΤΟΧΙΚΗ ΑΝΩΝΥΜΗ ΔΗΜΟΤΙΚΗ ΕΤΑΙΡΕΙΑ ΑΝΑΠΤΥΞΗΣ ΒΙΟ ΠΑ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗΣ ΑΜΜΟΡΥΧΕΙΩΝ ΔΙΟΥ ΟΛΥΜΠΟΥ"
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL525",
+        "value": "Πιερία"
+      },
+      "nutsCity": "ΛΙΤΟΧΩΡΟ",
+      "nutsPostalCode": "60200",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -96,22 +335,22 @@
         "value": "ΟΤΑ"
       },
       "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
+        "key": "10",
+        "value": "ΝΠΙΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
       },
-      "contractDuration": 12,
+      "contractDuration": 50,
       "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
+        "key": "1",
+        "value": "Ημέρες"
       },
       "contractRelatedADA": {
         "number1": null,
         "number2": null,
-        "number3": "92Ν9Ω68-22Ε"
+        "number3": "9ΧΖ0465ΑΤΘ-ΩΛ7"
       },
       "fundingDetails": {
         "publicFundingRef": null,
@@ -120,16 +359,16 @@
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "030.3120101015"
+        "regularBudgetFundedProgramRef": "64.08.003  "
       },
       "contractingDataDetails": {
         "unitsOperator": {
-          "key": "81655",
-          "value": "ΔΙΟΙΚΗΤΙΚΟ - ΟΙΚΟΝΟΜΙΚΟ"
+          "key": "100021728",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
         },
         "signers": {
-          "key": "100048673",
-          "value": "ΙΩΑΝΝΗΣ ΖΟΡΜΠΑΣ - Α/Α Πρόεδρος"
+          "key": "100096004",
+          "value": "ΑΣΤΕΡΙΟΣ ΦΑΡΜΑΚΗΣ - Πρόεδρος Δ.Σ."
         },
         "contractingMembersDataList": [
           {
@@ -137,32 +376,32 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "094366624",
-            "greekVatNumber": true,
-            "name": "ΓΙΟΥΝΙΤΡΑΚ ΑΝΩΝΥΜΗ ΕΜΠΟΡΙΚΗ ΕΤΑΙΡΕΙΑ ΜΗΧΑΝΗΜΑΤΩΝ ΤΕΧΝΙΚΩΝΕΡΓΩΝ»"
+            "vatNumber": "094519670",
+            "greekVatNumber": false,
+            "name": "ΕΓΝΑΤΙΑ ΧΥΤΗΡΙΟ Α.Ε."
           }
         ]
       },
-      "totalCostWithVAT": 57040.0,
-      "totalCostWithoutVAT": 46000.0,
+      "totalCostWithVAT": 17590.64,
+      "totalCostWithoutVAT": 14186.0,
       "objectDetailsList": [
         {
-          "quantity": 1,
+          "quantity": 11,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 46000,
+          "costWithoutVAT": 14186,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΕΝΟΣ (1) ΔΟΝΗΤΙΚΟΥ ΟΔΟΣΤΡΩΤΗΡΑ",
+          "shortDescription": "Προμήθεια μαχαιριών των Σπαστήρων του Λατομείου Λιτοχώρου",
           "cpvs": [
             {
-              "key": "43240000-7",
-              "value": "Αυτοκινούμενοι οδοστρωτήρες"
+              "key": "43600000-9",
+              "value": "Μέρη μηχανημάτων ορυχείων"
             }
           ],
           "greenContracts": {
@@ -177,10 +416,10 @@
           },
           "addressForDelivery": null,
           "postalCode": null,
-          "city": "ΑΙΓΙΝΑ",
+          "city": "ΛΙΤΟΧΩΡΟ",
           "streetNumber": null,
           "budgetCode": null,
-          "requestRefNo": "26AWRD018392710"
+          "requestRefNo": "26AWRD018460275"
         }
       ],
       "additionalContractTypes": null,
@@ -189,10 +428,210 @@
       "nextRefNo": null,
       "nextExtended": null,
       "nextModified": null,
-      "auctionRefNo": "26AWRD018392710",
+      "auctionRefNo": "26AWRD018460275",
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "43240000"
+        "43600000"
+      ],
+      "cpv_divisions": [
+        "43"
+      ],
+      "all_domains": [
+        "Construction & Quarrying Machinery"
+      ],
+      "primary_domain": "Construction & Quarrying Machinery"
+    },
+    {
+      "title": "Προμήθεια  Ανταλλακτικών της κύριας μονάδας του Σπαστήρα του Λατομείου Λιτοχώρου (Ράουλα & Ταινίες)",
+      "referenceNumber": "26SYMV018481635",
+      "prevReferenceNo": null,
+      "noticeReferenceNumber": null,
+      "submissionDate": "2026-02-13T16:22:49.769",
+      "lastUpdateDate": null,
+      "contractSignedDate": "2026-02-12",
+      "startDate": "2026-02-12",
+      "noEndDate": false,
+      "endDate": "2026-04-02",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "decisionRelatedAda": null,
+      "contractNumber": "2537",
+      "authorEmail": null,
+      "organizationVatNumber": "094107233",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "diavgeiaADA": null,
+      "aaht": "1007.F00343.0001",
+      "budget": null,
+      "contractBudget": 5327,
+      "bidsSubmitted": null,
+      "maxBidsSubmitted": 1,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL525",
+            "value": "Πιερία"
+          }
+        }
+      ],
+      "approvedRequestsList": [],
+      "organization": {
+        "key": "100021356",
+        "value": "ΜΟΝΟΜΕΤΟΧΙΚΗ ΑΝΩΝΥΜΗ ΔΗΜΟΤΙΚΗ ΕΤΑΙΡΕΙΑ ΑΝΑΠΤΥΞΗΣ ΒΙΟ ΠΑ ΚΑΙ ΕΚΜΕΤΑΛΛΕΥΣΗΣ ΑΜΜΟΡΥΧΕΙΩΝ ΔΙΟΥ ΟΛΥΜΠΟΥ"
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL525",
+        "value": "Πιερία"
+      },
+      "nutsCity": "ΛΙΤΟΧΩΡΟ",
+      "nutsPostalCode": "60200",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "assignCriteria": {
+        "key": "13",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 50,
+      "contractDurationUnitOfMeasure": {
+        "key": "1",
+        "value": "Ημέρες"
+      },
+      "contractRelatedADA": {
+        "number1": null,
+        "number2": null,
+        "number3": "ΨΒΛΣ465ΑΤΘ-ΙΜ3"
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "62.07.002  "
+      },
+      "contractingDataDetails": {
+        "unitsOperator": {
+          "key": "100021728",
+          "value": "ΔΙΟΙΚΗΤΙΚΟ ΣΥΜΒΟΥΛΙΟ"
+        },
+        "signers": {
+          "key": "100096004",
+          "value": "ΑΣΤΕΡΙΟΣ ΦΑΡΜΑΚΗΣ - Πρόεδρος Δ.Σ."
+        },
+        "contractingMembersDataList": [
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
+            "vatNumber": "802708602",
+            "greekVatNumber": true,
+            "name": "ΤΣΙΝΑΡΙΔΗΣ Ε.Ε."
+          }
+        ]
+      },
+      "totalCostWithVAT": 6605.48,
+      "totalCostWithoutVAT": 5327.0,
+      "objectDetailsList": [
+        {
+          "quantity": 258,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 5327,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια  Ανταλλακτικών της κύριας μονάδας του Σπαστήρα του Λατομείου Λιτοχώρου (Ράουλα & Ταινίες)",
+          "cpvs": [
+            {
+              "key": "43600000-9",
+              "value": "Μέρη μηχανημάτων ορυχείων"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΛΙΤΟΧΩΡΟ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": "26AWRD018465952"
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "nextRefNo": null,
+      "nextExtended": null,
+      "nextModified": null,
+      "auctionRefNo": "26AWRD018465952",
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "43600000"
       ],
       "cpv_divisions": [
         "43"
@@ -204,10 +643,10 @@
     },
     {
       "title": "ΣΥΜΒΑΣΗ",
-      "referenceNumber": "26SYMV018470572",
+      "referenceNumber": "26SYMV018479446",
       "prevReferenceNo": null,
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T10:44:30.821",
+      "submissionDate": "2026-02-13T12:59:28.159",
       "lastUpdateDate": null,
       "contractSignedDate": "2026-01-07",
       "startDate": "2026-01-08",
@@ -219,7 +658,7 @@
       "cancellationReason": null,
       "cancellationADA": null,
       "decisionRelatedAda": null,
-      "contractNumber": "ΠΔΕ/ΔΠΠ/3458/238",
+      "contractNumber": "ΠΔΕ/ΔΠΠ/3463/243",
       "authorEmail": null,
       "organizationVatNumber": "997824337",
       "greekOrganizationVatNumber": false,
@@ -314,7 +753,7 @@
       "contractRelatedADA": {
         "number1": null,
         "number2": null,
-        "number3": "ΕΟΤΞ7Λ6-ΧΓΒ"
+        "number3": "Ρ62Α7Λ6-Σ9Σ"
       },
       "fundingDetails": {
         "publicFundingRef": null,
@@ -340,9 +779,9 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "300161689",
+            "vatNumber": "999212955",
             "greekVatNumber": false,
-            "name": "ΔΗΜΗΤΡΑΚΟΠΟΥΛΟΣ ΑΝΔΡΕΑΣ"
+            "name": "ΑΠΟΛΥΜΑΝΤΙΚΗ ΑΝΩΝΥΜΗ ΕΜΠΟΡΙΚΗ & ΤΕΧΝΙΚΗ ΕΤΑΙΡΕΙΑ"
           }
         ]
       },
@@ -361,7 +800,7 @@
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": " λειτουργία σταθμών απολύμανσης στο οδικό δίκτυο για την καταστολή της ευλογιάς των αιγοπροβάτων. Θέση εργασία: Συμβολή επαρχιακής οδού Πύργου- Οινόης με επαρχιακή οδό Αμαλιάδας-Χάνι (Σιμόπουλο) στην Π.Ε. Ηλείας,",
+          "shortDescription": "λειτουργία σταθμών απολύμανσης στο οδικό δίκτυο για την καταστολή της ευλογιάς των αιγοπροβάτων. Θέση εργασία: Στην διασταύρωση της τοπικής κοινότητας Αρχαίας Πίσσας (Μιράκα) στην Π.Ε. Ηλείας",
           "cpvs": [
             {
               "key": "43210000-8",
@@ -407,213 +846,10 @@
     },
     {
       "title": "ΣΥΜΒΑΣΗ",
-      "referenceNumber": "26SYMV018470266",
-      "prevReferenceNo": null,
+      "referenceNumber": "26SYMV018477269",
+      "prevReferenceNo": "26SYMV018477239",
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T10:27:10",
-      "lastUpdateDate": null,
-      "contractSignedDate": "2026-01-29",
-      "startDate": "2026-01-30",
-      "noEndDate": true,
-      "endDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "decisionRelatedAda": null,
-      "contractNumber": "ΠΔΕ/ΔΠΠ/29091/859",
-      "authorEmail": null,
-      "organizationVatNumber": "997824337",
-      "greekOrganizationVatNumber": false,
-      "commitmentNo": null,
-      "diavgeiaADA": null,
-      "aaht": "1007.907.0001",
-      "budget": null,
-      "contractBudget": 6580,
-      "bidsSubmitted": null,
-      "maxBidsSubmitted": 1,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL633",
-            "value": "Ηλεία"
-          }
-        }
-      ],
-      "approvedRequestsList": [],
-      "organization": {
-        "key": "5004",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
-      },
-      "procedureType": {
-        "key": "12",
-        "value": "Διαπραγμάτευση χωρίς προηγούμενη δημοσίευση"
-      },
-      "awardProcedure": {
-        "key": "60",
-        "value": "Κατεπείγουσα ανάγκη οφειλόμενη σε  γεγονότα απρόβλεπτα για την αναθέτουσα αρχή"
-      },
-      "nutsCode": {
-        "key": "EL633",
-        "value": "Ηλεία"
-      },
-      "nutsCity": "ΠΥΡΓΟΣ",
-      "nutsPostalCode": "27131",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "assignCriteria": {
-        "key": "9",
-        "value": "Βάσει κόστους – άλλο"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "8",
-        "value": "Κοινωνική προστασία"
-      },
-      "contractDuration": 2,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractRelatedADA": {
-        "number1": null,
-        "number2": null,
-        "number3": "ΨΔΟΘ7Λ6-3ΡΒ"
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "9778.01.0002"
-      },
-      "contractingDataDetails": {
-        "unitsOperator": {
-          "key": "100008615",
-          "value": "ΤΜΗΜΑ ΠΟΛΙΤΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ Π.Ε. ΗΛΕΙΑΣ"
-        },
-        "signers": {
-          "key": "100050125",
-          "value": "ΝΙΚΟΛΑΟΣ ΚΟΡΟΒΕΣΗΣ - Αναπληρωτής Θεματικός Αντιπεριφερειάρχης"
-        },
-        "contractingMembersDataList": [
-          {
-            "country": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            },
-            "vatNumber": "800925834",
-            "greekVatNumber": false,
-            "name": "ΣΚΑΝΔΑΛΗ ΜΑΡΙΑ & ΣΙΑ Ε.Ε."
-          }
-        ]
-      },
-      "totalCostWithVAT": 8159.2,
-      "totalCostWithoutVAT": 6580.0,
-      "objectDetailsList": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 6580,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": " αντιμετώπιση των πλημμυρικών φαινομένων στις τοπικές κοινότητες Ψάρι, Κουρτέσι, Αρετή και στον ποταμό Βέργα στον Δήμο Ανδραβίδας-Κυλλήνης στην Π.Ε. Ηλείας",
-          "cpvs": [
-            {
-              "key": "43210000-8",
-              "value": "Μηχανήματα χωματουργικών εργασιών"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "cityOfConstruction": null,
-          "countryOfDelivery": {
-            "key": "GR",
-            "value": "Ελλάδα"
-          },
-          "addressForDelivery": null,
-          "postalCode": null,
-          "city": "ΠΥΡΓΟΣ",
-          "streetNumber": null,
-          "budgetCode": null,
-          "requestRefNo": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "requestRefNo": null,
-      "nextRefNo": null,
-      "nextExtended": null,
-      "nextModified": null,
-      "auctionRefNo": null,
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "43210000"
-      ],
-      "cpv_divisions": [
-        "43"
-      ],
-      "all_domains": [
-        "Construction & Quarrying Machinery"
-      ],
-      "primary_domain": "Construction & Quarrying Machinery"
-    },
-    {
-      "title": "ΣΥΜΒΑΣΗ",
-      "referenceNumber": "26SYMV018469254",
-      "prevReferenceNo": "26SYMV018467733",
-      "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T09:32:34.408",
+      "submissionDate": "2026-02-13T10:49:59.873",
       "lastUpdateDate": null,
       "contractSignedDate": "2026-01-07",
       "startDate": "2026-01-08",
@@ -625,7 +861,7 @@
       "cancellationReason": null,
       "cancellationADA": null,
       "decisionRelatedAda": null,
-      "contractNumber": "ΠΔΕ/ΔΠΠ/3412/204",
+      "contractNumber": "ΠΔΕ/ΔΠΠ/3449/229",
       "authorEmail": null,
       "organizationVatNumber": "997824337",
       "greekOrganizationVatNumber": false,
@@ -720,7 +956,7 @@
       "contractRelatedADA": {
         "number1": null,
         "number2": null,
-        "number3": "Ε7Ρ57Λ6-6ΔΒ"
+        "number3": "9Ρ1Χ7Λ6-6ΟΓ"
       },
       "fundingDetails": {
         "publicFundingRef": null,
@@ -746,9 +982,9 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "800525076",
+            "vatNumber": "300166300",
             "greekVatNumber": false,
-            "name": "ΠΡΟΤΥΠΟ ΚΑΤΑΣΚΕΥΑΣΤΙΚΗ ΙΚΕ"
+            "name": "ΜΠΙΡΜΠΑ ΑΓΓΕΛΙΚΗ"
           }
         ]
       },
@@ -767,7 +1003,7 @@
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": " λειτουργία σταθμών απολύμανσης στο οδικό δίκτυο για την καταστολή της ευλογιάς των αιγοπροβάτων. Θέση εργασία: Στην Επαρχιακή οδό Ολυμπίας-Πύργου ,  στην περιοχή Καρούτες στην Π.Ε. Ηλείας",
+          "shortDescription": "Λειτουργία σταθμών απολύμανσης στο οδικό δίκτυο για την καταστολή της ευλογιάς των αιγοπροβάτων. Θέση εργασία: Eθνική οδός Πατρών-Πύργου με την επαρχιακή οδό προς Δημοτική Κοινότητα Γαστούνης (πλησίον σφαγείων Αγροκτηνοτροφικής Νικολόπουλου) στην Π.Ε. Ηλείας",
           "cpvs": [
             {
               "key": "43210000-8",
@@ -798,6 +1034,209 @@
       "nextRefNo": null,
       "nextExtended": null,
       "nextModified": null,
+      "auctionRefNo": null,
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "43210000"
+      ],
+      "cpv_divisions": [
+        "43"
+      ],
+      "all_domains": [
+        "Construction & Quarrying Machinery"
+      ],
+      "primary_domain": "Construction & Quarrying Machinery"
+    },
+    {
+      "title": "ΣΥΜΒΑΣΗ",
+      "referenceNumber": "26SYMV018477239",
+      "prevReferenceNo": null,
+      "noticeReferenceNumber": null,
+      "submissionDate": "2026-02-13T10:47:53.369",
+      "lastUpdateDate": "2026-02-13",
+      "contractSignedDate": "2026-01-07",
+      "startDate": "2026-01-08",
+      "noEndDate": true,
+      "endDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "decisionRelatedAda": null,
+      "contractNumber": "ΠΔΕ/ΔΠΠ/3449/229",
+      "authorEmail": null,
+      "organizationVatNumber": "997824337",
+      "greekOrganizationVatNumber": false,
+      "commitmentNo": null,
+      "diavgeiaADA": null,
+      "aaht": "1007.907.0001",
+      "budget": null,
+      "contractBudget": 30000,
+      "bidsSubmitted": null,
+      "maxBidsSubmitted": 1,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL633",
+            "value": "Ηλεία"
+          }
+        }
+      ],
+      "approvedRequestsList": [],
+      "organization": {
+        "key": "5004",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ"
+      },
+      "procedureType": {
+        "key": "12",
+        "value": "Διαπραγμάτευση χωρίς προηγούμενη δημοσίευση"
+      },
+      "awardProcedure": {
+        "key": "58",
+        "value": "Απουσία ανταγωνισμού για τεχνικούς λόγους"
+      },
+      "nutsCode": {
+        "key": "EL633",
+        "value": "Ηλεία"
+      },
+      "nutsCity": "ΠΥΡΓΟΣ",
+      "nutsPostalCode": "27131",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "assignCriteria": {
+        "key": "9",
+        "value": "Βάσει κόστους – άλλο"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "8",
+        "value": "Κοινωνική προστασία"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractRelatedADA": {
+        "number1": null,
+        "number2": null,
+        "number3": "9Ρ1Χ7Λ6-6ΟΓ"
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "9778.01.0002"
+      },
+      "contractingDataDetails": {
+        "unitsOperator": {
+          "key": "100008615",
+          "value": "ΤΜΗΜΑ ΠΟΛΙΤΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ Π.Ε. ΗΛΕΙΑΣ"
+        },
+        "signers": {
+          "key": "100050125",
+          "value": "ΝΙΚΟΛΑΟΣ ΚΟΡΟΒΕΣΗΣ - Αναπληρωτής Θεματικός Αντιπεριφερειάρχης"
+        },
+        "contractingMembersDataList": [
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
+            "vatNumber": "300166300",
+            "greekVatNumber": false,
+            "name": "ΜΠΙΡΜΠΑ ΑΓΓΕΛΙΚΗ"
+          }
+        ]
+      },
+      "totalCostWithVAT": 37200.0,
+      "totalCostWithoutVAT": 30000.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 30000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Λειτουργία σταθμών απολύμανσης στο οδικό δίκτυο για την καταστολή της ευλογιάς των αιγοπροβάτων. Θέση εργασία: Eθνική οδός Πατρών-Πύργου με την επαρχιακή οδό προς Δημοτική Κοινότητα Γαστούνης (πλησίον σφαγείων Αγροκτηνοτροφικής Νικολόπουλου) στην Π.Ε. Ηλείας",
+          "cpvs": [
+            {
+              "key": "43210000-8",
+              "value": "Μηχανήματα χωματουργικών εργασιών"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΠΥΡΓΟΣ",
+          "streetNumber": null,
+          "budgetCode": null,
+          "requestRefNo": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "nextRefNo": "26SYMV018477269",
+      "nextExtended": false,
+      "nextModified": true,
       "auctionRefNo": null,
       "paymentRefNo": [],
       "cpv_codes_extracted": [

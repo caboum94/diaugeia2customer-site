@@ -1,38 +1,38 @@
 {
   "domain": "Real Estate",
-  "count": 12,
+  "count": 5,
   "items": [
     {
-      "title": "Μίσθωση ακινήτου για τη στέγαση των Υπηρεσιών του Αναγκαστικού Συνδέσμου Διαχείρισης Στερεών Αποβλήτ",
-      "referenceNumber": "26REQ018473890",
-      "previousRequestReferenceNumber": "26REQ018473814",
-      "signedDate": "2026-02-12",
+      "title": "ΔΑΠΑΝΕΣ ΔΙΕΞΑΓΩΓΗΣ ΑΠΟΚΡΙΑΤΙΚΟΥ ΧΟΡΟΥ ΔΗΜΟΤΙΚΗΣ ΦΙΛΑΡΜΟΝΙΚΗΣ ΜΕΣΣΗΝΗΣ & ΔΗΜΟΤΙΚΟΥ ΧΟΡΕΥΤΙΚΟΥ ΟΜΙΛΟΥ ",
+      "referenceNumber": "26REQ018481801",
+      "previousRequestReferenceNumber": "26REQ018481797",
+      "signedDate": "2026-02-13",
       "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T13:52:02.203",
-      "procurementDeliveryDate": "2026-07-01",
+      "submissionDate": "2026-02-13T17:23:52.859",
+      "procurementDeliveryDate": "2026-02-21",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "339",
+      "protocolNumber": "OIK/595",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "998166881",
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "998762513",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
       "approved": true,
       "organization": {
-        "key": "100055352",
-        "value": "ΑΝΑΓΚΑΣΤΙΚΟΣ ΣΥΝΔΕΣΜΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΣΤΕΡΕΩΝ ΑΠΟΒΛΗΤΩΝ ΔΙΑΧΕΙΡΙΣΤΙΚΗΣ ΕΝΟΤΗΤΑΣ ΠΕΡΙΦΕΡΕΙΑΣ ΗΠΕΙΡΟΥ"
+        "key": "6190",
+        "value": "ΔΗΜΟΣ ΜΕΣΣΗΝΗΣ"
       },
       "nutsCode": {
-        "key": "EL54",
-        "value": "Ήπειρος"
+        "key": "EL653",
+        "value": "Λακωνία, Μεσσηνία"
       },
       "typeOfContractingAuthority": {
         "key": "9",
@@ -42,7 +42,7 @@
         "key": "2",
         "value": "ΟΤΑ"
       },
-      "aaht": "1007.E89018.0001",
+      "aaht": "1007.Ε84403.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -53,34 +53,301 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "100057826",
-          "value": "ΠΡΟΕΔΡΟΣ"
+          "key": "100015771",
+          "value": "ΤΜΗΜΑ ΠΟΛΙΤΙΣΜΟΥ, ΑΘΛΗΤΙΣΜΟΥ ΚΑΙ ΝΕΑΣ ΓΕΝΙΑΣ"
         },
         "signers": {
-          "key": "100090916",
-          "value": "ΝΙΚΟΛΑΟΣ ΓΕΩΡΓΑΚΟΣ - Πρόεδρος Δ.Σ."
+          "key": "100015828",
+          "value": "ΕΥΓΕΝΙΑ ΝΤΡΕ - Αναπληρωτης Προϊστάμενος Τμήματος"
         }
       },
-      "totalCostWithVAT": 17767.6,
-      "totalCostWithoutVAT": 17767.6,
+      "totalCostWithVAT": 3000.56,
+      "totalCostWithoutVAT": 2576.86,
       "objectDetails": [
+        {
+          "quantity": 80,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1770.4,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια δείπνου ογδόντα (80) ατόμων συντελεστών της εκδήλωσης μέλη Δημοτικής Φιλαρμονικής & Χορευτικού.",
+          "cpvs": [
+            {
+              "key": "15894200-3",
+              "value": "Έτοιμα γεύματα"
+            }
+          ]
+        },
         {
           "quantity": 1,
           "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
+            "key": "C62",
+            "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 17767.6,
+          "costWithoutVAT": 806.46,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ενοικίαση αίθουσας για την διεξαγωγή του αποκριάτικου χορού Δημοτικής Φιλαρμονικής Μεσσήνης & Δημοτικού Χορευτικού Ομίλου το Σάββατο 21/02/2026",
+          "cpvs": [
+            {
+              "key": "70310000-7",
+              "value": "Υπηρεσίες ενοικίασης ή πώλησης κτιρίων"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "2",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "mixedContract": true,
+      "approvalRefNo": [],
+      "noticeRefNo": [
+        "26PROC018482492",
+        "26PROC018482488"
+      ],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "15894200",
+        "70310000"
+      ],
+      "cpv_divisions": [
+        "15",
+        "70"
+      ],
+      "all_domains": [
+        "Food & Catering",
+        "Real Estate"
+      ],
+      "primary_domain": "Food & Catering"
+    },
+    {
+      "title": "ΔΑΠΑΝΕΣ ΔΙΕΞΑΓΩΓΗΣ ΑΠΟΚΡΙΑΤΙΚΟΥ ΧΟΡΟΥ ΔΗΜΟΤΙΚΗΣ ΦΙΛΑΡΜΟΝΙΚΗΣ ΜΕΣΣΗΝΗΣ & ΔΗΜΟΤΙΚΟΥ ΧΟΡΕΥΤΙΚΟΥ ΟΜΙΛΟΥ ",
+      "referenceNumber": "26REQ018481797",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "submissionDate": "2026-02-13T17:20:27.058",
+      "procurementDeliveryDate": "2026-02-21",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "2623",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "998762513",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6190",
+        "value": "ΔΗΜΟΣ ΜΕΣΣΗΝΗΣ"
+      },
+      "nutsCode": {
+        "key": "EL653",
+        "value": "Λακωνία, Μεσσηνία"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε84403.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100015771",
+          "value": "ΤΜΗΜΑ ΠΟΛΙΤΙΣΜΟΥ, ΑΘΛΗΤΙΣΜΟΥ ΚΑΙ ΝΕΑΣ ΓΕΝΙΑΣ"
+        },
+        "signers": {
+          "key": "100015828",
+          "value": "ΕΥΓΕΝΙΑ ΝΤΡΕ - Αναπληρωτης Προϊστάμενος Τμήματος"
+        }
+      },
+      "totalCostWithVAT": 3000.56,
+      "totalCostWithoutVAT": 2576.86,
+      "objectDetails": [
+        {
+          "quantity": 80,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1770.4,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Προμήθεια δείπνου ογδόντα (80) ατόμων συντελεστών της εκδήλωσης μέλη Δημοτικής Φιλαρμονικής & Χορευτικού.",
+          "cpvs": [
+            {
+              "key": "15894200-3",
+              "value": "Έτοιμα γεύματα"
+            }
+          ]
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 806.46,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Ενοικίαση αίθουσας για την διεξαγωγή του αποκριάτικου χορού Δημοτικής Φιλαρμονικής Μεσσήνης & Δημοτικού Χορευτικού Ομίλου το Σάββατο 21/02/2026",
+          "cpvs": [
+            {
+              "key": "70310000-7",
+              "value": "Υπηρεσίες ενοικίασης ή πώλησης κτιρίων"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "2",
+            "value": "Προμήθειες"
+          }
+        }
+      ],
+      "mixedContract": true,
+      "approvalRefNo": [
+        "26REQ018481801"
+      ],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
+        "15894200",
+        "70310000"
+      ],
+      "cpv_divisions": [
+        "15",
+        "70"
+      ],
+      "all_domains": [
+        "Food & Catering",
+        "Real Estate"
+      ],
+      "primary_domain": "Food & Catering"
+    },
+    {
+      "title": "ΔΑΠΑΝΗΣ ΜΙΣΘΩΣΗ ΧΩΡΟΥ 400 Τ.Μ. ΣΤΕΓΑΣΗΣ ΤΩΝ ΥΠΗΡΕΣΙΩΝΠΕ ΦΛΩΡΙΝΑΣ ΣΤΗΝ ΠΟΛΗ ΤΟΥ ΑΜΥΝΤΑΙΟΥ (ΔΕΚΕΜΒΡ 25",
+      "referenceNumber": "26REQ018480398",
+      "previousRequestReferenceNumber": "20REQ007461531",
+      "signedDate": "2026-02-10",
+      "lastUpdateDate": "2025-02-07T00:00:00",
+      "submissionDate": "2026-02-13T13:55:38.686",
+      "procurementDeliveryDate": "2026-02-16",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "23230/26",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": "x.konstantinidis@florina.pdm.gov.gr",
+      "greekOrganizationVatNumber": true,
+      "organizationVatNumber": "997769589",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": true,
+      "organization": {
+        "key": "5005",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ"
+      },
+      "nutsCode": {
+        "key": "EL533",
+        "value": "Φλώρινα"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.903.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100071959",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΩΝ ΚΑΙ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ ΠΕ ΦΛΩΡΙΝΑΣ"
+        },
+        "signers": {
+          "key": "100084423",
+          "value": "ΑΘΑΝΑΣΙΟΣ ΤΑΣΚΑΣ - ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+        }
+      },
+      "totalCostWithVAT": 1036.0,
+      "totalCostWithoutVAT": 1036.0,
+      "objectDetails": [
+        {
+          "quantity": 31,
+          "type": {
+            "key": "DAY",
+            "value": "Ημέρα"
+          },
+          "costWithoutVAT": 1036,
           "vat": "0",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Προκειμένου να βρεθεί το κατάλληλο προς μίσθωση ακίνητο για κατ’ ελάχιστο τέσσερα (4) έτη, το ΔΣ με την αριθ. 11/26-1-2026 (ΑΔΑ:9ΖΜΤ46Μ340-Μ12) αποφάσισε τη διεξαγωγή δημοπρασίας σύμφωνα με το ΠΔ 270/81 και ενέκρινε τους όρους της διακήρυξης, ενώ ταυτόχρονα με την αριθ. 10/26-1-2026 (ΑΔΑ: 9ΕΒ046Μ340-7ΟΞ) απόφαση ενέκρινε την παράταση μέχρι 31-3-2026 του ισχύοντος μισθωτηρίου συμβολαίου, προκειμένο",
+          "shortDescription": "ΕΓΚΕΚΡΙΜ ΑΙΤΗΜΑΤΟΣ ΔΑΠΑΝΗΣ ΓΙΑ ΤΗΝ ΜΙΣΘΩΣΗ ΧΩΡΟΥ 400 Τ.Μ. ΣΤΕΓΑΣΗΣ ΤΩΝ ΥΠΗΡΕΣΙΩΝ ΤΗΣ Π.Ε ΦΛΩΡΙΝΑΣ ΣΤΗΝ ΠΟΛΗ ΤΟΥ ΑΜΥΝΤΑΙΟΥ ΔΙΑΡΚΕΙΑΣ 31 ΗΜΕΡΩΝ",
           "cpvs": [
             {
-              "key": "70220000-9",
-              "value": "Υπηρεσίες ενοικίασης ή χρηματοδοτικής μίσθωσης ιδιόκτητων ακινήτων που δεν προορίζονται για κατοίκηση"
+              "key": "70200000-3",
+              "value": "Υπηρεσίες ενοικίασης ή χρηματοδοτικής μίσθωσης ιδιόκτητων ακινήτων"
             }
           ]
         }
@@ -93,7 +360,7 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "70220000"
+        "70200000"
       ],
       "cpv_divisions": [
         "70"
@@ -104,46 +371,46 @@
       "primary_domain": "Real Estate"
     },
     {
-      "title": "ΕΓΚΡΙΣΗ ΑΑΥ ΓΙΑ ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ \"ΠΡΟΣΔΙΟΡΙΣΜΟ ΑΝΤΙΚΕΙΜΕΝΙΚΗΣ ΑΞΙΑΣ...ΠΑΓΙΩΝ ΚΙΝΗΤΗΣ & ΑΚΙΝΗΤΗΣ...\"",
-      "referenceNumber": "26REQ018473885",
-      "previousRequestReferenceNumber": "25REQ017480058",
-      "signedDate": "2026-01-07",
-      "lastUpdateDate": "2025-09-22T00:00:00",
-      "submissionDate": "2026-02-12T13:51:47.06",
-      "procurementDeliveryDate": "2027-09-03",
+      "title": "Δέσμευση Πίστωσης",
+      "referenceNumber": "26REQ018478672",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-13",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T12:13:20.027",
+      "procurementDeliveryDate": "2026-02-20",
       "cancellationDate": null,
       "cancelled": false,
       "cancellationReason": null,
       "cancellationADA": null,
       "cancellationType": null,
-      "protocolNumber": "126773/12",
+      "protocolNumber": "ΥΣ 84",
       "approvalCommitmentCode": null,
       "procedureType": null,
       "approvalADA": null,
       "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090165896",
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "090153025",
       "budget": null,
       "commitmentNo": null,
       "preApproval": false,
-      "approved": true,
+      "approved": false,
       "organization": {
-        "key": "99219608",
-        "value": "ΧΑΡΟΚΟΠΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ"
+        "key": "6",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ"
       },
       "nutsCode": {
-        "key": "EL304",
-        "value": "Νότιος Τομέας Αθηνών"
+        "key": "EL301",
+        "value": "Βόρειος Τομέας Αθηνών"
       },
       "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
+        "key": "12",
+        "value": "Κεντρική Διοίκηση"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
       },
-      "aaht": "1020.Ε00299.001",
+      "aaht": "1011.0000000000.0001",
       "contractTypes": [
         {
           "contractType": {
@@ -154,38 +421,34 @@
       ],
       "contractingData": {
         "unitsOperator": {
-          "key": "73791",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΗΣ ΔΙΑΧΕΙΡΙΣΗΣ"
+          "key": "70166",
+          "value": "ΥΠΕΘΑ/ΓΔΟΣΥ/ΔΙΕΥΘΥΝΣΗ ΣΤΡΑΤΙΩΤΙΚΗΣ ΚΑΙ ΤΕΧΝΟΛΟΓΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ"
         },
         "signers": {
-          "key": "100093216",
-          "value": "ΓΕΩΡΓΙΟΣ ΜΠΟΣΚΟΥ - Αντιπρύτανης"
+          "key": "100092422",
+          "value": "Μάριος Αρβανιτάκης - Διευθυντής"
         }
       },
-      "totalCostWithVAT": 241800.0,
-      "totalCostWithoutVAT": 195000.0,
+      "totalCostWithVAT": 7500.0,
+      "totalCostWithoutVAT": 7500.0,
       "objectDetails": [
         {
-          "quantity": 1,
+          "quantity": 6,
           "type": {
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 195000,
-          "vat": "24",
+          "costWithoutVAT": 7500,
+          "vat": "0",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Προσδιορισμός της αντικειμενικής αξίας της ακίνητης Περιουσίας και Δημιουργία Μητρώου Παγίων κινητής και ακίνητης περιουσίας του Χαροκοπείου Πανεπιστημίου, Υποστήριξη εναρμόνισης στην Λογιστική Μεταρρύθμιση και στην μετάβαση από το σημερινό καθεστώς στο Νέο Λογιστικό Πλαίσιο σύμφωνα με το Π.Δ.54/2018 και Σύνταξη Χρηματοοικονομικών Καταστάσεων 1ης Χρήσης για το Οικονομικό Έτος 2026 βάση του Π.Δ. 54",
+          "shortDescription": "για συμβάσεις μίσθωσης κτιρίων (πλην leasing), για κάλυψη αναγκών οργανικών φορέων και διευθύνσεων του ΥΠΕΘΑ.",
           "cpvs": [
             {
-              "key": "70000000-1",
-              "value": "Υπηρεσίες που αφορούν τα ακίνητα"
-            },
-            {
-              "key": "79211000-6",
-              "value": "Λογιστικές υπηρεσίες"
+              "key": "70310000-7",
+              "value": "Υπηρεσίες ενοικίασης ή πώλησης κτιρίων"
             }
           ]
         }
@@ -198,1109 +461,123 @@
       "paymentRefNo": [],
       "auctionRefNo": [],
       "cpv_codes_extracted": [
-        "99219608",
+        "70310000"
+      ],
+      "cpv_divisions": [
+        "70"
+      ],
+      "all_domains": [
+        "Real Estate"
+      ],
+      "primary_domain": "Real Estate"
+    },
+    {
+      "title": "ΔΙΕΚΠΕΡΑΙΩΣΗ ΔΙΑΔΙΚΑΣΙΑΣ ΚΤΗΜΑΤΟΓΡΑΦΗΣΗΣ ΤΩΝ ΔΗΜΟΤΙΚΩΝ ΑΚΙΝΗΤΩΝ ",
+      "referenceNumber": "26REQ018477661",
+      "previousRequestReferenceNumber": null,
+      "signedDate": "2026-02-12",
+      "lastUpdateDate": null,
+      "submissionDate": "2026-02-13T11:12:45.289",
+      "procurementDeliveryDate": "2026-12-31",
+      "cancellationDate": null,
+      "cancelled": false,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "cancellationType": null,
+      "protocolNumber": "2869",
+      "approvalCommitmentCode": null,
+      "procedureType": null,
+      "approvalADA": null,
+      "authorEmail": null,
+      "greekOrganizationVatNumber": false,
+      "organizationVatNumber": "998230533",
+      "budget": null,
+      "commitmentNo": null,
+      "preApproval": false,
+      "approved": false,
+      "organization": {
+        "key": "6022",
+        "value": "ΔΗΜΟΣ ΑΛΜΥΡΟΥ"
+      },
+      "nutsCode": {
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "aaht": "1007.Ε82402.0001",
+      "contractTypes": [
+        {
+          "contractType": {
+            "key": "9",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "contractingData": {
+        "unitsOperator": {
+          "key": "79084",
+          "value": "DIMOSALMYROU/Δ/ΝΣΗ ΔΙΟΙΚΗΤΙΚΩΝ & ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ/ΤΜΗΜΑ ΕΣΟΔΩΝ, ΠΕΡΙΟΥΣΙΑΣ & ΤΑΜΕΙΟΥ"
+        },
+        "signers": {
+          "key": "100068927",
+          "value": "ΜΙΧΑΗΛ ΘΕΟΔΩΡΟΥ - Αναπληρωτής Διευθυντής"
+        }
+      },
+      "totalCostWithVAT": 28520.0,
+      "totalCostWithoutVAT": 23000.0,
+      "objectDetails": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "AG-001",
+            "value": "Μελέτη"
+          },
+          "costWithoutVAT": 23000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΔΙΕΚΠΕΡΑΙΩΣΗ ΔΙΑΔΙΚΑΣΙΑΣ ΚΤΗΜΑΤΟΓΡΑΦΗΣΗΣ ΤΩΝ ΔΗΜΟΤΙΚΩΝ ΑΚΙΝΗΤΩΝ ",
+          "cpvs": [
+            {
+              "key": "70000000-1",
+              "value": "Υπηρεσίες που αφορούν τα ακίνητα"
+            },
+            {
+              "key": "71354300-7",
+              "value": "Υπηρεσίες κτηματολογικής έρευνας"
+            }
+          ]
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvalRefNo": [],
+      "noticeRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "auctionRefNo": [],
+      "cpv_codes_extracted": [
         "70000000",
-        "79211000"
+        "71354300"
       ],
       "cpv_divisions": [
         "70",
-        "79"
+        "71"
       ],
       "all_domains": [
         "Real Estate",
-        "Business Services (Legal/Marketing/Recruitment/Security/Print)"
+        "Architecture, Engineering & Inspection"
       ],
-      "primary_domain": "Business Services (Legal/Marketing/Recruitment/Security/Print)"
-    },
-    {
-      "title": "Μίσθωση ακινήτου για τη στέγαση των Υπηρεσιών του Αναγκαστικού Συνδέσμου Διαχείρισης Στερεών Αποβλήτ",
-      "referenceNumber": "26REQ018473814",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T13:46:10.461",
-      "procurementDeliveryDate": "2026-07-01",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "337",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "998166881",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "100055352",
-        "value": "ΑΝΑΓΚΑΣΤΙΚΟΣ ΣΥΝΔΕΣΜΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΣΤΕΡΕΩΝ ΑΠΟΒΛΗΤΩΝ ΔΙΑΧΕΙΡΙΣΤΙΚΗΣ ΕΝΟΤΗΤΑΣ ΠΕΡΙΦΕΡΕΙΑΣ ΗΠΕΙΡΟΥ"
-      },
-      "nutsCode": {
-        "key": "EL54",
-        "value": "Ήπειρος"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "2",
-        "value": "ΟΤΑ"
-      },
-      "aaht": "1007.E89018.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100057826",
-          "value": "ΠΡΟΕΔΡΟΣ"
-        },
-        "signers": {
-          "key": "100090916",
-          "value": "ΝΙΚΟΛΑΟΣ ΓΕΩΡΓΑΚΟΣ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 17767.6,
-      "totalCostWithoutVAT": 17767.6,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 17767.6,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Προκειμένου να βρεθεί το κατάλληλο προς μίσθωση ακίνητο για κατ’ ελάχιστο τέσσερα (4) έτη, το ΔΣ με την αριθ. 11/26-1-2026 (ΑΔΑ:9ΖΜΤ46Μ340-Μ12) αποφάσισε τη διεξαγωγή δημοπρασίας σύμφωνα με το ΠΔ 270/81 και ενέκρινε τους όρους της διακήρυξης, ενώ ταυτόχρονα με την αριθ. 10/26-1-2026 (ΑΔΑ: 9ΕΒ046Μ340-7ΟΞ) απόφαση ενέκρινε την παράταση μέχρι 31-3-2026 του ισχύοντος μισθωτηρίου συμβολαίου, προκειμένο",
-          "cpvs": [
-            {
-              "key": "70220000-9",
-              "value": "Υπηρεσίες ενοικίασης ή χρηματοδοτικής μίσθωσης ιδιόκτητων ακινήτων που δεν προορίζονται για κατοίκηση"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018473890"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "70220000"
-      ],
-      "cpv_divisions": [
-        "70"
-      ],
-      "all_domains": [
-        "Real Estate"
-      ],
-      "primary_domain": "Real Estate"
-    },
-    {
-      "title": "ανάληψης υποχρέωσης (δέσμευσης) έως του ποσού των 9.000,00€  συμπεριλαμβανομένου Φ.Π.Α , για ",
-      "referenceNumber": "26REQ018473527",
-      "previousRequestReferenceNumber": "26REQ018467170",
-      "signedDate": "2026-01-02",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T13:23:33.784",
-      "procurementDeliveryDate": "2026-01-07",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "136/411",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090044306",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "99203024",
-        "value": "ΙΔΡΥΜΑ ΝΕΟΛΑΙΑΣ ΚΑΙ ΔΙΑ ΒΙΟΥ ΜΑΘΗΣΗΣ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1020.E00721.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100037571",
-          "value": "ΓΡΑΦΕΙΟ ΠΡΟΕΔΡΟΥ"
-        },
-        "signers": {
-          "key": "100082794",
-          "value": "ΑΝΝΑ ΡΟΚΟΦΥΛΛΟΥ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "totalCostWithVAT": 9000.0,
-      "totalCostWithoutVAT": 9000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 9000,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ανάληψης υποχρέωσης (δέσμευσης) έως του ποσού των 9.000,00€  συμπεριλαμβανομένου Φ.Π.Α , για δαπάνες που αφορούν  Υπηρεσίες Στέγασης  του  ΜΚ ΕΧΙΝΟΥ για το έτος 2026 (62.04).",
-          "cpvs": [
-            {
-              "key": "70130000-1",
-              "value": "Υπηρεσίες ενοικίασης ιδιόκτητων ακινήτων"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99203024",
-        "70130000"
-      ],
-      "cpv_divisions": [
-        "70"
-      ],
-      "all_domains": [
-        "Real Estate"
-      ],
-      "primary_domain": "Real Estate"
-    },
-    {
-      "title": "ΛΕΙΤΟΥΡΓΙΚΕΣ ΔΑΠΑΝΕΣ Α΄ ΕΞΑΜΗΝΟΥ 2026 ΠΡΟΞΕΝΙΚΟ ΓΡΑΦΕΙΟ  ΠΡΕΣΒΕΙΑ ΜΟΣΧΑΣ",
-      "referenceNumber": "26REQ018472823",
-      "previousRequestReferenceNumber": "25REQ018132585",
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T12:37:14.488",
-      "procurementDeliveryDate": "2026-02-13",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "1617",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090372363",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "10",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ"
-      },
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "ΑΝΕΥ",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "70950",
-          "value": "ΣΤ5 Δ/ΝΣΗ ΠΡΟΜΗΘΕΙΩΝ & ΛΕΙΤΟΥΡΓΙΚΩΝ ΔΑΠΑΝΩΝ"
-        },
-        "signers": {
-          "key": "100017544",
-          "value": "ΘΗΡΕΣΙΑ - ΠΑΡΑΣΚΕΥΗ ΑΓΓΕΛΑΤΟΥ - Γενικός Γραμματέας"
-        }
-      },
-      "totalCostWithVAT": 77235.93,
-      "totalCostWithoutVAT": 77235.93,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 77235.93,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΛΕΙΤΟΥΡΓΙΚΕΣ ΔΑΠΑΝΕΣ Α΄ ΕΞΑΜΗΝΟΥ 2026 ΠΡΟΞΕΝΙΚΟ ΓΡΑΦΕΙΟ  ΠΡΕΣΒΕΙΑ ΜΟΣΧΑΣ",
-          "cpvs": [
-            {
-              "key": "98390000-3",
-              "value": "Λοιπές υπηρεσίες"
-            },
-            {
-              "key": "90511000-2",
-              "value": "Υπηρεσίες αποκομιδής απορριμμάτων"
-            },
-            {
-              "key": "70330000-3",
-              "value": "Υπηρεσίες διαχείρισης ακινήτων έναντι αμοιβής ή βάσει σύμβασης"
-            },
-            {
-              "key": "64100000-7",
-              "value": "Υπηρεσίες κρατικών και ιδιωτικών ταχυδρομείων"
-            },
-            {
-              "key": "32412110-8",
-              "value": "Δίκτυο Ιντερνέτ"
-            },
-            {
-              "key": "39800000-0",
-              "value": "Είδη καθαρισμού και στίλβωσης"
-            },
-            {
-              "key": "64211100-9",
-              "value": "Υπηρεσίες αστικής τηλεφωνίας"
-            },
-            {
-              "key": "65100000-4",
-              "value": "Διανομή ύδατος και συναφείς υπηρεσίες"
-            },
-            {
-              "key": "31531000-7",
-              "value": "Λαμπτήρες"
-            },
-            {
-              "key": "30199000-0",
-              "value": "Γραφική ύλη και άλλα είδη από χαρτί"
-            },
-            {
-              "key": "09310000-5",
-              "value": "Ηλεκτρισμός"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "98390000",
-        "90511000",
-        "70330000",
-        "64100000",
-        "32412110",
-        "39800000",
-        "64211100",
-        "65100000",
-        "31531000",
-        "30199000",
-        "09310000"
-      ],
-      "cpv_divisions": [
-        "98",
-        "90",
-        "70",
-        "64",
-        "32",
-        "39",
-        "65",
-        "31",
-        "30",
-        "09"
-      ],
-      "all_domains": [
-        "Community & Personal Services",
-        "Environmental, Cleaning & Waste Services",
-        "Real Estate",
-        "Postal & Telecommunications Services",
-        "Telecom & Electronics",
-        "Furniture & Cleaning Products",
-        "Utilities",
-        "Electrical Equipment & Lighting",
-        "Office & Computing (Non-Software)",
-        "Energy & Fuels"
-      ],
-      "primary_domain": "Telecom & Electronics"
-    },
-    {
-      "title": "ΑΠΟΦΑΣΗ ΑΝΑΛΗΨΗΣ ΕΞΩΦΛΗΣΗΣ ΚΟΙΝΟΧΡΗΣΤΩΝ ΛΑΡΙΣΑΣ (ΙΑΝΟΥΑΡΙΟΣ 2025)",
-      "referenceNumber": "26REQ018472453",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-12",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T12:18:22.056",
-      "procurementDeliveryDate": "2026-02-26",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "1667",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "0900381888",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99200298",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΕΛΛ. ΓΕΩΡΓΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ (ΕΛ.Γ.Α.)"
-      },
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1029.Ε00517.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "75238",
-          "value": "ΟΙΚΟΝΟΜΙΚΟΥ"
-        },
-        "signers": {
-          "key": "105423",
-          "value": "ΓΕΩΡΓΙΑ ΑΛΕΒΙΖΟΥ - Προϊστάμενος Διεύθυνσης"
-        }
-      },
-      "totalCostWithVAT": 408.49,
-      "totalCostWithoutVAT": 329.43,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 329.43,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΑΠΟΦΑΣΗ ΑΝΑΛΗΨΗΣ ΕΞΩΦΛΗΣΗΣ ΚΟΙΝΟΧΡΗΣΤΩΝ ΛΑΡΙΣΑΣ (ΙΑΝΟΥΑΡΙΟΣ 2025)",
-          "cpvs": [
-            {
-              "key": "70330000-3",
-              "value": "Υπηρεσίες διαχείρισης ακινήτων έναντι αμοιβής ή βάσει σύμβασης"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99200298",
-        "70330000"
-      ],
-      "cpv_divisions": [
-        "70"
-      ],
-      "all_domains": [
-        "Real Estate"
-      ],
-      "primary_domain": "Real Estate"
-    },
-    {
-      "title": "ΕΚΤΙΜΗΣΗ ΕΥΛΟΓΗΣ ΑΞΙΑΣ ΕΠΑΓΓΕΛΜΑΤΙΚΩΝ ΑΚΙΝΗΤΩΝ ΙΔΙΟΚΤΗΣΙΑΣ ΑΔΜΗΕ",
-      "referenceNumber": "26REQ018470565",
-      "previousRequestReferenceNumber": "26REQ018470548",
-      "signedDate": "2026-02-05",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T10:43:38.673",
-      "procurementDeliveryDate": "2026-03-05",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "ΔΟΛΥ/20190/05.02.2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "099877486",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "100034350",
-        "value": "ΑΝΕΞΑΡΤΗΤΟΣ ΔΙΑΧΕΙΡΙΣΤΗΣ ΜΕΤΑΦΟΡΑΣ ΗΛΕΚΤΡΙΚΗΣ ΕΝΕΡΓΕΙΑΣ ΑΔΜΗΕ ΑΕ"
-      },
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": ".",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100034536",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ & ΛΟΓΙΣΤΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "100075749",
-          "value": "ΠΡΟΚΟΠΗΣ ΜΑΥΡΩΝΑΣ - Διευθυντής"
-        }
-      },
-      "totalCostWithVAT": 6200.0,
-      "totalCostWithoutVAT": 5000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 5000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Στο πλαίσιο της κατάρτισης των χρηματοοικονομικών καταστάσεων του ΑΔΜΗΕ της 31.12.2025 κατά ΔΠΧΑ, απαιτείται η επανεκτίμηση σε εύλογη αξία των ακινήτων της εταιρείας με χρήση γραφείων και συγκεκριμένα των ακινήτων επί της Δυρραχίου 89 στην Αθήνα και επί της Κωνσταντινουπόλεως 1 στο Περιστέρι Αττικής.",
-          "cpvs": [
-            {
-              "key": "70000000-1",
-              "value": "Υπηρεσίες που αφορούν τα ακίνητα"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [
-        "26AWRD018470926"
-      ],
-      "cpv_codes_extracted": [
-        "70000000"
-      ],
-      "cpv_divisions": [
-        "70"
-      ],
-      "all_domains": [
-        "Real Estate"
-      ],
-      "primary_domain": "Real Estate"
-    },
-    {
-      "title": "ΕΚΤΙΜΗΣΗ ΕΥΛΟΓΗΣ ΑΞΙΑΣ ΕΠΑΓΓΕΛΜΑΤΙΚΩΝ ΑΚΙΝΗΤΩΝ ΙΔΙΟΚΤΗΣΙΑΣ ΑΔΜΗΕ",
-      "referenceNumber": "26REQ018470548",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-05",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T10:42:35.984",
-      "procurementDeliveryDate": "2026-03-05",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "ΔΟΛΥ/20190/05.02.2026",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "099877486",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "100034350",
-        "value": "ΑΝΕΞΑΡΤΗΤΟΣ ΔΙΑΧΕΙΡΙΣΤΗΣ ΜΕΤΑΦΟΡΑΣ ΗΛΕΚΤΡΙΚΗΣ ΕΝΕΡΓΕΙΑΣ ΑΔΜΗΕ ΑΕ"
-      },
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": ".",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100034536",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ & ΛΟΓΙΣΤΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
-        },
-        "signers": {
-          "key": "100075749",
-          "value": "ΠΡΟΚΟΠΗΣ ΜΑΥΡΩΝΑΣ - Διευθυντής"
-        }
-      },
-      "totalCostWithVAT": 6200.0,
-      "totalCostWithoutVAT": 5000.0,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 5000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Στο πλαίσιο της κατάρτισης των χρηματοοικονομικών καταστάσεων του ΑΔΜΗΕ της 31.12.2025 κατά ΔΠΧΑ, απαιτείται η επανεκτίμηση σε εύλογη αξία των ακινήτων της εταιρείας με χρήση γραφείων και συγκεκριμένα των ακινήτων επί της Δυρραχίου 89 στην Αθήνα και επί της Κωνσταντινουπόλεως 1 στο Περιστέρι Αττικής.",
-          "cpvs": [
-            {
-              "key": "70000000-1",
-              "value": "Υπηρεσίες που αφορούν τα ακίνητα"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018470565"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "70000000"
-      ],
-      "cpv_divisions": [
-        "70"
-      ],
-      "all_domains": [
-        "Real Estate"
-      ],
-      "primary_domain": "Real Estate"
-    },
-    {
-      "title": "ΔΙΑΒΙΒΑΣΤΙΚΟ ΕΞΟΦΛΗΣΗΣ ΚΟΙΝΟΧΡΗΣΤΩΝ ΛΑΡΙΣΑΣ (ΙΑΝΟΥΑΡΙΟΣ 2026)",
-      "referenceNumber": "26REQ018469444",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-04",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T09:44:38.543",
-      "procurementDeliveryDate": "2026-02-26",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "745",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "0900381888",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99200298",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΕΛΛ. ΓΕΩΡΓΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ (ΕΛ.Γ.Α.)"
-      },
-      "nutsCode": {
-        "key": "EL6",
-        "value": "ΚΕΝΤΡΙΚΗ ΕΛΛΑΔΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1029.Ε00517.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "76212",
-          "value": "ΥΠΟΚΑΤΑΣΤΗΜΑ ΕΛ.Γ.Α. ΛΑΡΙΣΑΣ"
-        },
-        "signers": {
-          "key": "100072222",
-          "value": "ΣΠΥΡΙΔΩΝ ΣΠΥΡΟΠΟΥΛΟΣ - Προϊστάμενος Διεύθυνσης"
-        }
-      },
-      "totalCostWithVAT": 408.49,
-      "totalCostWithoutVAT": 329.43,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 329.43,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΔΙΑΒΙΒΑΣΤΙΚΟ ΕΞΟΦΛΗΣΗΣ ΚΟΙΝΟΧΡΗΣΤΩΝ ΛΑΡΙΣΑΣ (ΙΑΝΟΥΑΡΙΟΣ 2026)",
-          "cpvs": [
-            {
-              "key": "70330000-3",
-              "value": "Υπηρεσίες διαχείρισης ακινήτων έναντι αμοιβής ή βάσει σύμβασης"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99200298",
-        "70330000"
-      ],
-      "cpv_divisions": [
-        "70"
-      ],
-      "all_domains": [
-        "Real Estate"
-      ],
-      "primary_domain": "Real Estate"
-    },
-    {
-      "title": "ΔΙΑΒΙΒΑΣΤΙΚΟ ΕΞΟΦΛΗΣΗΣ ΚΟΙΝΟΧΡΗΣΤΩΝ ΤΡΙΠΟΛΗΣ (ΔΕΚΕΜΒΡΙΟΣ 2025)",
-      "referenceNumber": "26REQ018469395",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-01-30",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T09:41:25.093",
-      "procurementDeliveryDate": "2026-02-27",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "142",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": false,
-      "organizationVatNumber": "0900381888",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "99200298",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΕΛΛ. ΓΕΩΡΓΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ (ΕΛ.Γ.Α.)"
-      },
-      "nutsCode": {
-        "key": "EL65",
-        "value": "Πελοπόννησος"
-      },
-      "typeOfContractingAuthority": {
-        "key": "10",
-        "value": "ΝΠΙΔ"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "aaht": "1029.Ε00517.0001",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "76215",
-          "value": "ΥΠΟΚΑΤΑΣΤΗΜΑ ΕΛ.Γ.Α. ΤΡΙΠΟΛΗΣ"
-        },
-        "signers": {
-          "key": "100072233",
-          "value": "ΙΩΑΝΝΗΣ ΑΣΣΙΟΥΡΑΣ - Προϊστάμενος Διεύθυνσης"
-        }
-      },
-      "totalCostWithVAT": 343.39,
-      "totalCostWithoutVAT": 276.93,
-      "objectDetails": [
-        {
-          "quantity": 1,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 276.93,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΔΙΑΒΙΒΑΣΤΙΚΟ ΕΞΟΦΛΗΣΗΣ ΚΟΙΝΟΧΡΗΣΤΩΝ ΤΡΙΠΟΛΗΣ (ΔΕΚΕΜΒΡΙΟΣ 2025)",
-          "cpvs": [
-            {
-              "key": "70330000-3",
-              "value": "Υπηρεσίες διαχείρισης ακινήτων έναντι αμοιβής ή βάσει σύμβασης"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "99200298",
-        "70330000"
-      ],
-      "cpv_divisions": [
-        "70"
-      ],
-      "all_domains": [
-        "Real Estate"
-      ],
-      "primary_domain": "Real Estate"
-    },
-    {
-      "title": " ΔΕΣΜΕΥΣΗ ΠΙΣΤΩΣΗΣ ΓΙΑ ΤΟ ΟΙΚΟΝΟΜΙΚΟ ΕΤΟΣ 2026 \"ΣΥΜΒΑΣΕΙΣ ΜΙΣΘΩΣΗΣ ΚΤΙΡΙΩΝ ΠΛΗΝ LEASING",
-      "referenceNumber": "26REQ018468723",
-      "previousRequestReferenceNumber": "26REQ018468675",
-      "signedDate": "2026-02-09",
-      "lastUpdateDate": null,
-      "submissionDate": "2026-02-12T09:03:12.275",
-      "procurementDeliveryDate": "2026-02-16",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "47230",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090273987",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": true,
-      "organization": {
-        "key": "100015996",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL5",
-        "value": "ΒΟΡΕΙΑ ΕΛΛΑΔΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1031.2090000000.0003",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100073459",
-          "value": "ΕΠΙΘΕΩΡΗΣΗ ΕΦΑΡΜΟΓΗΣ ΔΑΣΙΚΗΣ ΠΟΛΙΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ"
-        },
-        "signers": {
-          "key": "100073727",
-          "value": "ΝΙΚΗΤΑΣ ΦΡΑΓΚΙΣΚΑΚΗΣ - Γενικός Διευθυντής"
-        }
-      },
-      "totalCostWithVAT": 41064.02,
-      "totalCostWithoutVAT": 41064.02,
-      "objectDetails": [
-        {
-          "quantity": 20,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 41064.02,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": " Δέσμευση ποσού 41.064,02€ ΑΛΕ 2440101001 \"Συμβάσεις μίσθωσης κτιρίων (πλην leasing) του τακτικού Προϋπολογισμού του ΥΠΕΝ οικονομικού έτους 2026 για απλήρωτες υποχρεώσεις οικονομικού έτους 2025 για τις ανάγκες της ΕΕΔΠΜΘ",
-          "cpvs": [
-            {
-              "key": "70220000-9",
-              "value": "Υπηρεσίες ενοικίασης ή χρηματοδοτικής μίσθωσης ιδιόκτητων ακινήτων που δεν προορίζονται για κατοίκηση"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "70220000"
-      ],
-      "cpv_divisions": [
-        "70"
-      ],
-      "all_domains": [
-        "Real Estate"
-      ],
-      "primary_domain": "Real Estate"
-    },
-    {
-      "title": "ΑΙΤΗΜΑ ΔΕΣΜΕΥΣΗΣ ΠΙΣΤΩΣΗΣ ΓΙΑ ΤΟ ΟΙΚΟΝΟΜΙΚΟ ΕΤΟΣ 2026 \"ΣΥΜΒΑΣΕΙΣ ΜΙΣΘΩΣΗΣ ΚΤΙΡΙΩΝ ΠΛΗΝ LEASING",
-      "referenceNumber": "26REQ018468675",
-      "previousRequestReferenceNumber": null,
-      "signedDate": "2026-02-05",
-      "lastUpdateDate": "2026-02-12T00:00:00",
-      "submissionDate": "2026-02-12T09:00:00.173",
-      "procurementDeliveryDate": "2026-02-16",
-      "cancellationDate": null,
-      "cancelled": false,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "cancellationType": null,
-      "protocolNumber": "43352",
-      "approvalCommitmentCode": null,
-      "procedureType": null,
-      "approvalADA": null,
-      "authorEmail": null,
-      "greekOrganizationVatNumber": true,
-      "organizationVatNumber": "090273987",
-      "budget": null,
-      "commitmentNo": null,
-      "preApproval": false,
-      "approved": false,
-      "organization": {
-        "key": "100015996",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ"
-      },
-      "nutsCode": {
-        "key": "EL5",
-        "value": "ΒΟΡΕΙΑ ΕΛΛΑΔΑ"
-      },
-      "typeOfContractingAuthority": {
-        "key": "12",
-        "value": "Κεντρική Διοίκηση"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "1",
-        "value": "Κεντρική Κυβέρνηση"
-      },
-      "aaht": "1031.2090000000.0003",
-      "contractTypes": [
-        {
-          "contractType": {
-            "key": "9",
-            "value": "Υπηρεσίες"
-          }
-        }
-      ],
-      "contractingData": {
-        "unitsOperator": {
-          "key": "100073459",
-          "value": "ΕΠΙΘΕΩΡΗΣΗ ΕΦΑΡΜΟΓΗΣ ΔΑΣΙΚΗΣ ΠΟΛΙΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ"
-        },
-        "signers": {
-          "key": "100073727",
-          "value": "ΝΙΚΗΤΑΣ ΦΡΑΓΚΙΣΚΑΚΗΣ - Γενικός Διευθυντής"
-        }
-      },
-      "totalCostWithVAT": 41064.02,
-      "totalCostWithoutVAT": 41064.02,
-      "objectDetails": [
-        {
-          "quantity": 20,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 41064.02,
-          "vat": "0",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Αίτημα δέσμευσης ποσού 41.064,02€ ΑΛΕ 2440101001 \"Συμβάσεις μίσθωσης κτιρίων (πλην leasing) του τακτικού Προϋπολογισμού του ΥΠΕΝ οικονομικού έτους 2026 για απλήρωτες υποχρεώσεις οικονομικού έτους 2025 για τις ανάγκες της ΕΕΔΠΜΘ",
-          "cpvs": [
-            {
-              "key": "70220000-9",
-              "value": "Υπηρεσίες ενοικίασης ή χρηματοδοτικής μίσθωσης ιδιόκτητων ακινήτων που δεν προορίζονται για κατοίκηση"
-            }
-          ]
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvalRefNo": [
-        "26REQ018468723"
-      ],
-      "noticeRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "auctionRefNo": [],
-      "cpv_codes_extracted": [
-        "70220000"
-      ],
-      "cpv_divisions": [
-        "70"
-      ],
-      "all_domains": [
-        "Real Estate"
-      ],
-      "primary_domain": "Real Estate"
+      "primary_domain": "Architecture, Engineering & Inspection"
     }
   ]
 }

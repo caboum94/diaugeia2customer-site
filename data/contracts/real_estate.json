@@ -1,33 +1,33 @@
 {
   "domain": "Real Estate",
-  "count": 1,
+  "count": 2,
   "items": [
     {
-      "title": "ΕΚΤΙΜΗΣΗ ΕΥΛΟΓΗΣ ΑΞΙΑΣ ΕΠΑΓΓΕΛΜΑΤΙΚΩΝ ΑΚΙΝΗΤΩΝ ΙΔΙΟΚΤΗΣΙΑΣ ΑΔΜΗΕ",
-      "referenceNumber": "26SYMV018471555",
+      "title": "ΣΥΜΒΑΣΗ ΓΙΑ ΜΙΣΘΩΣΗ ΑΚΙΝΗΤΟΥ ΓΙΑ ΤΙΣ ΥΠΗΡΕΣΙΕΣ ΤΗΣ ΔΕΥΑΜ",
+      "referenceNumber": "26SYMV018479913",
       "prevReferenceNo": null,
       "noticeReferenceNumber": null,
-      "submissionDate": "2026-02-12T11:35:32.182",
+      "submissionDate": "2026-02-13T13:25:16.882",
       "lastUpdateDate": null,
-      "contractSignedDate": "2026-02-10",
-      "startDate": "2026-02-10",
-      "noEndDate": true,
-      "endDate": null,
+      "contractSignedDate": "2026-01-20",
+      "startDate": "2026-02-20",
+      "noEndDate": false,
+      "endDate": "2032-01-19",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "decisionRelatedAda": null,
-      "contractNumber": "ΔΟΛΥ/00465/11.02.2026",
+      "contractNumber": "95",
       "authorEmail": null,
-      "organizationVatNumber": "099877486",
+      "organizationVatNumber": "090233584",
       "greekOrganizationVatNumber": true,
       "commitmentNo": null,
       "diavgeiaADA": null,
-      "aaht": ".",
+      "aaht": "1007.F00145.0001",
       "budget": null,
-      "contractBudget": 5000,
+      "contractBudget": 6000,
       "bidsSubmitted": null,
       "maxBidsSubmitted": 1,
       "numberOfSections": 1,
@@ -46,27 +46,30 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL",
-            "value": "ΕΛΛΑΔΑ"
+            "key": "EL422",
+            "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
           }
         }
       ],
       "approvedRequestsList": [],
       "organization": {
-        "key": "100034350",
-        "value": "ΑΝΕΞΑΡΤΗΤΟΣ ΔΙΑΧΕΙΡΙΣΤΗΣ ΜΕΤΑΦΟΡΑΣ ΗΛΕΚΤΡΙΚΗΣ ΕΝΕΡΓΕΙΑΣ ΑΔΜΗΕ ΑΕ"
+        "key": "50351",
+        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ (Δ.Ε.Υ.Α.) ΜΥΚΟΝΟΥ"
       },
       "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
+        "key": "4",
+        "value": "Ανταγωνιστικός διάλογος"
       },
-      "awardProcedure": null,
+      "awardProcedure": {
+        "key": "53",
+        "value": "Συντρέχουν ειδικές περιστάσεις σχετικά με το αντικείμενο της σύμβασης"
+      },
       "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
+        "key": "EL422",
+        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
       },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "12132",
+      "nutsCity": "MYKONOS",
+      "nutsPostalCode": "84600",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -74,8 +77,8 @@
       "centralizedMarkets": [
         {
           "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
+            "key": "1",
+            "value": "Συμφωνία-πλαίσιο"
           }
         }
       ],
@@ -84,11 +87,11 @@
         "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
       },
       "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
+        "key": "14",
+        "value": "Τεχνικές ή λοιπές συναφείς υπηρεσίες"
       },
       "assignCriteria": {
-        "key": "9",
+        "key": "14",
         "value": "Βάσει τιμής"
       },
       "classificationOfPublicLawOrganization": {
@@ -100,36 +103,36 @@
         "value": "ΝΠΙΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
+        "key": "7",
+        "value": "Στέγαση και υποδομές κοινής ωφέλειας"
       },
-      "contractDuration": 1,
+      "contractDuration": 6,
       "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
+        "key": "4",
+        "value": "Έτη"
       },
       "contractRelatedADA": {
         "number1": null,
         "number2": null,
-        "number3": "ΨΧΠΞ465ΧΙ8-Σ8Ο"
+        "number3": "24REQ015328290"
       },
       "fundingDetails": {
         "publicFundingRef": null,
         "publicFundingRefNum": null,
         "publicFundingRefOps": null,
         "cofundProgramRef": null,
-        "selfFundProgramRef": null,
+        "selfFundProgramRef": "62-04-01",
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "."
+        "regularBudgetFundedProgramRef": null
       },
       "contractingDataDetails": {
         "unitsOperator": {
-          "key": "100034536",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ & ΛΟΓΙΣΤΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+          "key": "81462",
+          "value": "ΔΙΟΙΚΗΤΙΚΗ ΥΠΗΡΕΣΙΑ"
         },
         "signers": {
-          "key": "100075749",
-          "value": "ΠΡΟΚΟΠΗΣ ΜΑΥΡΩΝΑΣ - Διευθυντής"
+          "key": "100091847",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΠΟΛΙΤΗΣ - Αναπληρωτής Γενικός Διευθυντής"
         },
         "contractingMembersDataList": [
           {
@@ -137,14 +140,14 @@
               "key": "GR",
               "value": "Ελλάδα"
             },
-            "vatNumber": "094116611",
+            "vatNumber": "801714402",
             "greekVatNumber": true,
-            "name": "\"ALPHA REAL ESTATE  SERVICES Α.Ε\""
+            "name": "ΑΝΝΑΝΑΖ ΜΟΝ ΙΚΕ"
           }
         ]
       },
-      "totalCostWithVAT": 6200.0,
-      "totalCostWithoutVAT": 5000.0,
+      "totalCostWithVAT": 89280.0,
+      "totalCostWithoutVAT": 72000.0,
       "objectDetailsList": [
         {
           "quantity": 1,
@@ -152,17 +155,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 5000,
+          "costWithoutVAT": 72000,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Στο πλαίσιο της κατάρτισης των χρηματοοικονομικών καταστάσεων του ΑΔΜΗΕ της 31.12.2025 κατά ΔΠΧΑ, απαιτείται η επανεκτίμηση σε εύλογη αξία των ακινήτων της εταιρείας με χρήση γραφείων και συγκεκριμένα των ακινήτων επί της Δυρραχίου 89 στην Αθήνα και επί της Κωνσταντινουπόλεως 1 στο Περιστέρι Αττικής.",
+          "shortDescription": "Το αντικείμενο της Σύμβασης αφορά την στέγαση των υπηρεσίων της ΔΕΥΑΜ",
           "cpvs": [
             {
-              "key": "70000000-1",
-              "value": "Υπηρεσίες που αφορούν τα ακίνητα"
+              "key": "70130000-1",
+              "value": "Υπηρεσίες ενοικίασης ιδιόκτητων ακινήτων"
             }
           ],
           "greenContracts": {
@@ -177,10 +180,10 @@
           },
           "addressForDelivery": null,
           "postalCode": null,
-          "city": "ΑΘΗΝΑ",
+          "city": "ΜΥΚΟΝΟΣ",
           "streetNumber": null,
           "budgetCode": null,
-          "requestRefNo": "26AWRD018470926"
+          "requestRefNo": null
         }
       ],
       "additionalContractTypes": null,
@@ -189,10 +192,210 @@
       "nextRefNo": null,
       "nextExtended": null,
       "nextModified": null,
-      "auctionRefNo": "26AWRD018470926",
+      "auctionRefNo": null,
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "70000000"
+        "70130000"
+      ],
+      "cpv_divisions": [
+        "70"
+      ],
+      "all_domains": [
+        "Real Estate"
+      ],
+      "primary_domain": "Real Estate"
+    },
+    {
+      "title": "Τροποποίηση σύμβασης μίσθωσης ακινήτου.",
+      "referenceNumber": "26SYMV018479275",
+      "prevReferenceNo": "20SYMV007256127",
+      "noticeReferenceNumber": null,
+      "submissionDate": "2026-02-13T12:49:24.172",
+      "lastUpdateDate": null,
+      "contractSignedDate": "2020-02-13",
+      "startDate": "2026-02-23",
+      "noEndDate": false,
+      "endDate": "2031-02-23",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "decisionRelatedAda": null,
+      "contractNumber": "-",
+      "authorEmail": "georgopoulos@arcadia.gr",
+      "organizationVatNumber": "998037420",
+      "greekOrganizationVatNumber": true,
+      "commitmentNo": null,
+      "diavgeiaADA": null,
+      "aaht": "1007.910.0001",
+      "budget": null,
+      "contractBudget": 770000,
+      "bidsSubmitted": null,
+      "maxBidsSubmitted": 2,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL651",
+            "value": "Αργολίδα, Αρκαδία"
+          }
+        }
+      ],
+      "approvedRequestsList": [],
+      "organization": {
+        "key": "5012",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ"
+      },
+      "procedureType": {
+        "key": "13",
+        "value": "Διαπραγμάτευση με προηγούμενη προκήρυξη διαγωνισμού (αρ.266 του ν. 4412/2016)"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL651",
+        "value": "Αργολίδα, Αρκαδία"
+      },
+      "nutsCity": "ΤΡΙΠΟΛΗ",
+      "nutsPostalCode": "22131",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "assignCriteria": {
+        "key": "9",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
+      },
+      "contractDuration": 5,
+      "contractDurationUnitOfMeasure": {
+        "key": "4",
+        "value": "Έτη"
+      },
+      "contractRelatedADA": {
+        "number1": null,
+        "number2": null,
+        "number3": "Ψ05Ν7Λ1-ΩΟ9"
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": " 0390.2440101001"
+      },
+      "contractingDataDetails": {
+        "unitsOperator": {
+          "key": "82276",
+          "value": "Δ/ΝΣΗ ΟΙΚΟΝΟΜΙΚΟΥ/ ΤΜΗΜΑ ΠΡΟΜΗΘΕΙΩΝ"
+        },
+        "signers": {
+          "key": "100087252",
+          "value": "ΓΕΩΡΓΙΟΣ ΣΠΙΝΟΣ - ΕΚΤΕΛΕΣΤΙΚΟΣ ΓΡΑΜΜΑΤΕΑΣ"
+        },
+        "contractingMembersDataList": [
+          {
+            "country": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            },
+            "vatNumber": "094047601",
+            "greekVatNumber": true,
+            "name": "ΥΔΡΟΓΕΙΟΣ ΑΝΩΝΥΜΟΣ ΑΣΦΑΛΙΣΤΙΚΗ ΚΑΙ ΑΝΤΑΣΦΑΛΙΣΤΙΚΗ ΕΤΑΙΡΕΙΑ"
+          }
+        ]
+      },
+      "totalCostWithVAT": 770000.0,
+      "totalCostWithoutVAT": 770000.0,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 770000,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Τροποποίηση / παράταση σύμβασης μίσθωσης ακινήτου για τη στέγαση των Υπηρεσιών της Π.Ε. Αρκαδίας της Περιφέρειας Πελοποννήσου με την \"Υδρόγειος ΑΑΑΕ\", κατόπιν δημοπρασίας.",
+          "cpvs": [
+            {
+              "key": "70220000-9",
+              "value": "Υπηρεσίες ενοικίασης ή χρηματοδοτικής μίσθωσης ιδιόκτητων ακινήτων που δεν προορίζονται για κατοίκηση"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "cityOfConstruction": null,
+          "countryOfDelivery": {
+            "key": "GR",
+            "value": "Ελλάδα"
+          },
+          "addressForDelivery": null,
+          "postalCode": null,
+          "city": "ΤΡΙΠΟΛΗ",
+          "streetNumber": null,
+          "budgetCode": "01.390.0813.0001",
+          "requestRefNo": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "requestRefNo": null,
+      "nextRefNo": null,
+      "nextExtended": null,
+      "nextModified": null,
+      "auctionRefNo": null,
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "70220000"
       ],
       "cpv_divisions": [
         "70"

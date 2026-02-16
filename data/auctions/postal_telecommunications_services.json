@@ -3,27 +3,27 @@
   "count": 6,
   "items": [
     {
-      "title": "ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΦΑΚ/ΛΩΝ ΑΛΛ/ΦΙΑΣ ΠΡΟΠΛ.ΤΕΛΟΥΣ ΠΔΑΜΘ ΕΤΟΥΣ 2026",
-      "referenceNumber": "26AWRD018473376",
-      "submissionDate": "2026-02-12T13:12:02.473",
+      "title": "Απόφαση απευθείας ανάθεσης για παροχή διάφορων υπηρεσιών που αφορούν σε διοργάνωση εκδήλωσης.",
+      "referenceNumber": "26AWRD018481531",
+      "submissionDate": "2026-02-13T15:47:11.43",
       "lastUpdateDate": null,
-      "signedDate": "2026-02-12",
+      "signedDate": "2026-02-13",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1032.Ε00445.0002",
+      "aaht": "1000.E00854.0001",
       "authorEmail": null,
-      "organizationVatNumber": "090010376",
+      "organizationVatNumber": "090401013",
       "greekOrganizationVatNumber": true,
-      "budget": 22742.1,
+      "budget": 3255.9,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
       "amendPreviousAuction": false,
-      "numberOfSections": 1,
+      "numberOfSections": 3,
       "assignedContract": {
         "key": "2",
         "value": "Όχι"
@@ -33,17 +33,17 @@
         "value": "Όχι"
       },
       "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
+        "key": "1",
+        "value": "Ναι"
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "72346",
-          "value": "ΠΕΡΙΦΕΡΕΙΑΚΗ ΔΙΕΥΘΥΝΣΗ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ"
+          "key": "100048211",
+          "value": "Α2 ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
         },
         "signers": {
-          "key": "100050782",
-          "value": "ΕΥΣΤΑΘΙΑ ΠΕΠΠΑ - Αναπληρωτής Προϊστάμενος"
+          "key": "134331",
+          "value": "ΝΙΚΟΛΑΟΣ ΣΤΡΟΜΠΛΟΣ - Προϊστάμενος Διεύθυνσης"
         }
       },
       "procedureType": {
@@ -51,12 +51,12 @@
         "value": "Απευθείας ανάθεση"
       },
       "organization": {
-        "key": "99219675",
-        "value": "ΔΗΜΟΣΙΑ ΥΠΗΡΕΣΙΑ ΑΠΑΣΧΟΛΗΣΗΣ"
+        "key": "7839",
+        "value": "ΕΛΛΗΝΙΚΗ ΣΤΑΤΙΣΤΙΚΗ ΑΡΧΗ (ΕΛ.ΣΤΑΤ.)"
       },
       "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
+        "key": "9",
+        "value": "Υπηρεσίες"
       },
       "criteriaCode": {
         "key": "2",
@@ -64,11 +64,11 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL515",
-        "value": "Θάσος, Καβάλα"
+        "key": "EL307",
+        "value": "Πειραιάς, Νήσοι"
       },
-      "nutsCity": "ΚΑΒΑΛΑ",
-      "nutsPostalCode": "65201",
+      "nutsCity": "ΠΕΙΡΑΙΑΣ",
+      "nutsPostalCode": "18510",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -91,14 +91,14 @@
         "value": "Κεντρική Κυβέρνηση"
       },
       "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
+        "key": "13",
+        "value": "Ανεξάρτητη αρχή (με νομική προσωπικότητα)"
       },
       "contractingAuthorityActivity": {
-        "key": "8",
-        "value": "Κοινωνική προστασία"
+        "key": "5",
+        "value": "Οικονομικές και δημοσιονομικές υποθέσεις"
       },
-      "contractDuration": 4,
+      "contractDuration": 1,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -106,12 +106,25 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "094026421",
+            "vatNumber": "094075962",
             "greekVatNumber": true,
-            "name": "ΕΛΛΗΝΙΚΑ ΤΑΧΥΔΡΟΜΙΑ Α.Ε",
+            "name": "ΑΝΩΝΥΜΟΣ ΕΤΑΙΡΕΙΑ ΟΛΥΜΠΙΩΝ ΞΕΝΟΔΟΧΕΙΩΝ Α.Ε.",
             "nutsCode": {
-              "key": "EL303",
-              "value": "Κεντρικός Τομέας Αθηνών"
+              "key": "EL",
+              "value": "ΕΛΛΑΔΑ"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          },
+          {
+            "vatNumber": "801165181",
+            "greekVatNumber": true,
+            "name": "WAVE Ε.Π.Ε.",
+            "nutsCode": {
+              "key": "EL",
+              "value": "ΕΛΛΑΔΑ"
             },
             "installationCountry": {
               "key": "GR",
@@ -120,26 +133,26 @@
           }
         ]
       },
-      "totalCostWithVAT": 28200.2,
-      "totalCostWithoutVAT": 22742.1,
+      "totalCostWithVAT": 3947.75,
+      "totalCostWithoutVAT": 3255.9,
       "objectDetailsList": [
         {
-          "quantity": 1670,
+          "quantity": 1,
           "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 2863.8,
+          "costWithoutVAT": 700,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Ταχυδρομικές υπηρεσίες",
+          "shortDescription": "ΑΠΟΦΑΣΗ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗΣ ΓΙΑ ΤΗΝ ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΕΝΟΙΚΙΑΣΗΣ ΑΙΘΟΥΣΑΣ ΣΥΝΕΔΡΙΑΣΕΩΝ.",
           "cpvs": [
             {
-              "key": "64110000-0",
-              "value": "Ταχυδρομικές υπηρεσίες"
+              "key": "79952000-2",
+              "value": "Υπηρεσίες εκδηλώσεων"
             }
           ],
           "greenContracts": {
@@ -150,22 +163,74 @@
           "budgetCode": null
         },
         {
-          "quantity": 8750,
+          "quantity": 1,
           "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
+            "key": "E48",
+            "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 19878.3,
+          "costWithoutVAT": 814.2,
+          "vat": "13",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΠΟΦΑΣΗ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗΣ ΓΙΑ ΤΗΝ ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΤΡΟΦΟΔΟΣΙΑΣ ΣΥΛΛΟΓΙΚΗΣ ΕΣΤΙΑΣΗΣ (CATERING).",
+          "cpvs": [
+            {
+              "key": "55320000-9",
+              "value": "Υπηρεσίες παροχής γευμάτων"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 429.2,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Υπηρεσίες παράδοσης αλληλογραφίας",
+          "shortDescription": "ΑΠΟΦΑΣΗ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗΣ ΓΙΑ ΤΗΝ ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΤΡΟΦΟΔΟΣΙΑΣ ΣΥΛΛΟΓΙΚΗΣ ΕΣΤΙΑΣΗΣ (CATERING).",
           "cpvs": [
             {
-              "key": "64121100-1",
-              "value": "Υπηρεσίες παράδοσης αλληλογραφίας"
+              "key": "55320000-9",
+              "value": "Υπηρεσίες παροχής γευμάτων"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 1312.5,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΑΠΟΦΑΣΗ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗΣ ΓΙΑ ΤΗΝ ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΤΗΛΕΔΙΑΣΚΕΨΗΣ.",
+          "cpvs": [
+            {
+              "key": "64224000-2",
+              "value": "Υπηρεσίες τηλεδιασκέψεων"
             }
           ],
           "greenContracts": {
@@ -179,40 +244,44 @@
       "additionalContractTypes": null,
       "mixedContract": false,
       "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018449560",
+      "noticeRefNo": "26PROC018396378",
       "amendsAuctionRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "99219675",
-        "64110000",
-        "64121100"
+        "79952000",
+        "55320000",
+        "64224000"
       ],
       "cpv_divisions": [
+        "79",
+        "55",
         "64"
       ],
       "all_domains": [
+        "Business Services (Legal/Marketing/Recruitment/Security/Print)",
+        "Hospitality, Retail & Catering Services",
         "Postal & Telecommunications Services"
       ],
       "primary_domain": "Postal & Telecommunications Services"
     },
     {
-      "title": "Παροχή υπηρεσιών ηλεκτρονικής αποδελτίωσης του τύπου κατά το έτος 2026",
-      "referenceNumber": "26AWRD018472707",
-      "submissionDate": "2026-02-12T12:30:41.02",
+      "title": "Απόφαση κατακύρωσης για Δ22/2025 ΟΑΚ ΑΕ Παροχή υπηρεσιών υβριδικού ταχυδρομείου έτους 2026",
+      "referenceNumber": "26AWRD018480435",
+      "submissionDate": "2026-02-13T13:58:17.69",
       "lastUpdateDate": null,
-      "signedDate": "2026-02-03",
+      "signedDate": "2026-02-13",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1029.Ε00515.0001",
+      "aaht": "1039.E00874.0001",
       "authorEmail": null,
-      "organizationVatNumber": "099765151",
-      "greekOrganizationVatNumber": true,
-      "budget": 2000,
+      "organizationVatNumber": "997321341",
+      "greekOrganizationVatNumber": false,
+      "budget": 53450,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
@@ -232,21 +301,21 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "72181",
-          "value": "ΔΙΟΙΚΗΣΗ"
+          "key": "94539",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΑΧΕΙΡΙΣΗΣ ΣΥΓΚΟΙΝΩΝΙΑΚΩΝ & ΥΔΡΑΥΛΙΚΩΝ ΕΡΓΩΝ"
         },
         "signers": {
-          "key": "100056198",
-          "value": "ΑΝΤΩΝΙΟΣ ΖΑΜΠΕΛΑΣ - Πρόεδρος Δ.Σ."
+          "key": "100058680",
+          "value": "ΑΡΙΣΤΕΙΔΗΣ ΠΑΠΑΔΟΓΙΑΝΝΗΣ - Διευθύνων Σύμβουλος"
         }
       },
       "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
+        "key": "1",
+        "value": "Ανοιχτή διαδικασία"
       },
       "organization": {
-        "key": "50002",
-        "value": "ΕΝΙΑΙΟΣ ΦΟΡΕΑΣ ΕΛΕΓΧΟΥ ΤΡΟΦΙΜΩΝ (Ε.Φ.Ε.Τ. )"
+        "key": "55291",
+        "value": "ΟΡΓΑΝΙΣΜΟΣ ΑΝΑΠΤΥΞΗΣ ΚΡΗΤΗΣ Α.Ε"
       },
       "contractType": {
         "key": "9",
@@ -258,11 +327,11 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL434",
+        "value": "Χανιά"
       },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "11526",
+      "nutsCity": "ΧΑΝΙΑ",
+      "nutsPostalCode": "73100",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -285,14 +354,14 @@
         "value": "Κεντρική Κυβέρνηση"
       },
       "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
+        "key": "10",
+        "value": "ΝΠΙΔ"
       },
       "contractingAuthorityActivity": {
-        "key": "6",
-        "value": "Υγεία"
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
       },
-      "contractDuration": 12,
+      "contractDuration": 11,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -300,12 +369,12 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "997540353",
-            "greekVatNumber": true,
-            "name": "INNEWS ΜΟΝΟΠΡΟΣΩΠΗ ΕΤΑΙΡΕΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+            "vatNumber": "094026421",
+            "greekVatNumber": false,
+            "name": "ΕΛΛΗΝΙΚΑ ΤΑΧΥΔΡΟΜΕΙΑ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
             "nutsCode": {
-              "key": "EL301",
-              "value": "Βόρειος Τομέας Αθηνών"
+              "key": "EL3",
+              "value": "ATTIKΗ"
             },
             "installationCountry": {
               "key": "GR",
@@ -314,8 +383,8 @@
           }
         ]
       },
-      "totalCostWithVAT": 2480.0,
-      "totalCostWithoutVAT": 2000.0,
+      "totalCostWithVAT": 60140.0,
+      "totalCostWithoutVAT": 48500.0,
       "objectDetailsList": [
         {
           "quantity": 1,
@@ -323,17 +392,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 2000,
+          "costWithoutVAT": 48500,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Παροχή υπηρεσιών ηλεκτρονικής αποδελτίωσης του τύπου κατά το έτος 2026",
+          "shortDescription": "Απόφαση κατακύρωσης του αποτελέσματος της υπ’ αριθμ. 15839/28.11.2025 (ΑΔΑΜ: 25PROC018032980, ΑΔΑ: ΡΞΔΝΟΞ5Ψ-ΖΜΗ, Α/Α ΕΣΗΔΗΣ: 386307) Διακήρυξης διενέργειας ηλεκτρονικού διαγωνισμού  κάτω των ορίων με αντικείμενο την «Παροχή υπηρεσιών υβριδικού ταχυδρομείου έτους 2026», (συμπεριλαμβανομένου του ποσού της προαίρεσης).",
           "cpvs": [
             {
-              "key": "64216200-5",
-              "value": "Υπηρεσίες ηλεκτρονικής πληροφόρησης"
+              "key": "64112000-4",
+              "value": "Ταχυδρομικές υπηρεσίες που αφορούν επιστολές"
             }
           ],
           "greenContracts": {
@@ -346,17 +415,13 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "approvedRequestsList": [
-        {
-          "code": "25REQ018045821"
-        }
-      ],
-      "noticeRefNo": null,
+      "approvedRequestsList": [],
+      "noticeRefNo": "25PROC018032980",
       "amendsAuctionRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "64216200"
+        "64112000"
       ],
       "cpv_divisions": [
         "64"
@@ -367,30 +432,30 @@
       "primary_domain": "Postal & Telecommunications Services"
     },
     {
-      "title": "Απευθείας ανάθεση υπηρεσιών για αποστολή λογαριασμών ύδρευσης - αποχέτευσης της Δ.Ε.Υ.Α.Ν.",
-      "referenceNumber": "26AWRD018471675",
-      "submissionDate": "2026-02-12T11:42:07.843",
+      "title": "Αίτημα δαπάνης με αρ. πρ. 128382",
+      "referenceNumber": "26AWRD018480066",
+      "submissionDate": "2026-02-13T13:34:32.096",
       "lastUpdateDate": null,
-      "signedDate": "2026-02-09",
+      "signedDate": "2026-02-13",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1007.F00743.0001",
+      "aaht": "1036.E00346.0001",
       "authorEmail": null,
-      "organizationVatNumber": "997504053",
+      "organizationVatNumber": "099785242",
       "greekOrganizationVatNumber": true,
-      "budget": 5500,
+      "budget": 2981.14,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
       "amendPreviousAuction": false,
       "numberOfSections": 1,
       "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
+        "key": "2",
+        "value": "Όχι"
       },
       "socialContract": {
         "key": "2",
@@ -402,12 +467,12 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "87356",
-          "value": "ΠΡΟΕΔΡΟΣ Δ.Σ."
+          "key": "74837",
+          "value": "ΚΕΝΤΡΙΚΗ ΔΙΕΥΘΥΝΣΗ (Κ.Δ.)"
         },
         "signers": {
-          "key": "120089",
-          "value": "ΣΑΒΒΑΣ ΜΙΧΑΗΛΙΔΗΣ - Πρόεδρος Δ.Σ."
+          "key": "100098083",
+          "value": "Ευάγγελος Μπεκιάρης - Πρόεδρος Δ.Σ."
         }
       },
       "procedureType": {
@@ -415,8 +480,8 @@
         "value": "Απευθείας ανάθεση"
       },
       "organization": {
-        "key": "53282",
-        "value": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΝΕΣΤΟΥ (Δ.Ε.Υ.Α.Ν.)"
+        "key": "99220974",
+        "value": "ΕΘΝ. ΚΕΝΤΡΟ ΕΡΕΥΝΑΣ & ΤΕΧΝΟΛ. ΑΝΑΠΤ. (ΕΚΕΤΑ)"
       },
       "contractType": {
         "key": "9",
@@ -428,11 +493,11 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL515",
-        "value": "Θάσος, Καβάλα"
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
       },
-      "nutsCity": "ΧΡΥΣΟΥΠΟΛΗ",
-      "nutsPostalCode": "64200",
+      "nutsCity": "Θεσσαλονίκη",
+      "nutsPostalCode": "57001",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -446,8 +511,8 @@
         }
       ],
       "legalContext": {
-        "key": "7",
-        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
       },
       "centralizedTypes": null,
       "classificationOfPublicLawOrganization": {
@@ -462,7 +527,7 @@
         "key": "12",
         "value": "Τυχόν άλλη δραστηριότητα"
       },
-      "contractDuration": 12,
+      "contractDuration": 1,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -470,12 +535,12 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "094026421",
+            "vatNumber": "099936189",
             "greekVatNumber": true,
-            "name": "ΕΛΛΗΝΙΚΑ ΤΑΧΥΔΡΟΜΕΙΑ Α.Ε.",
+            "name": "NOVA TELECOMMUNICATIONS & MEDIA ΜΟΝ",
             "nutsCode": {
-              "key": "EL64",
-              "value": "Στερεά Ελλάδα"
+              "key": "EL522",
+              "value": "Θεσσαλονίκη"
             },
             "installationCountry": {
               "key": "GR",
@@ -484,26 +549,26 @@
           }
         ]
       },
-      "totalCostWithVAT": 6138.0,
-      "totalCostWithoutVAT": 4950.0,
+      "totalCostWithVAT": 3696.61,
+      "totalCostWithoutVAT": 2981.14,
       "objectDetailsList": [
         {
-          "quantity": 5500,
+          "quantity": 1,
           "type": {
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 4950,
+          "costWithoutVAT": 2981.14,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": " «Ανάθεση υπηρεσιών για αποστολή λογαριασμών ύδρευσης – αποχέτευσης της Δ.Ε.Υ.Α.Ν.»",
+          "shortDescription": "ΤΗΛΕΦΩΝΙΚΑ ΤΕΛΗ, ΤΗΛΕΦΩΝΙΚΑ ΤΕΛΗ",
           "cpvs": [
             {
-              "key": "64112000-4",
-              "value": "Ταχυδρομικές υπηρεσίες που αφορούν επιστολές"
+              "key": "64210000-1",
+              "value": "Υπηρεσίες τηλεφωνίας και μετάδοσης δεδομένων"
             }
           ],
           "greenContracts": {
@@ -516,182 +581,20 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018400136",
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [
-        "26SYMV018471827"
-      ],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "64112000"
-      ],
-      "cpv_divisions": [
-        "64"
-      ],
-      "all_domains": [
-        "Postal & Telecommunications Services"
-      ],
-      "primary_domain": "Postal & Telecommunications Services"
-    },
-    {
-      "title": "Ανάθεση παροχής υπηρεσιών παραγωγής, εμφακέλωσης και αποστολής εντύπων ταχυπληρωμής καταβολής συνδρο",
-      "referenceNumber": "26AWRD018471540",
-      "submissionDate": "2026-02-12T11:34:39.207",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-09",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1036.F01000.0001",
-      "authorEmail": null,
-      "organizationVatNumber": "090002259",
-      "greekOrganizationVatNumber": true,
-      "budget": 60000,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "77142",
-          "value": "ΔΙΟΙΚΗΤΙΚΗ ΕΠΙΤΡΟΠΗ"
-        },
-        "signers": {
-          "key": "136056",
-          "value": "ΙΩΑΝΝΗΣ ΧΑΤΖΗΘΕΟΔΟΣΙΟΥ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "organization": {
-        "key": "99221005",
-        "value": "ΕΠΑΓΓΕΛΜΑΤΙΚΟ ΕΠΙΜΕΛ. ΑΘΗΝΩΝ"
-      },
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "10679",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
+      "approvedRequestsList": [
         {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
+          "code": "26REQ018479703"
         }
       ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
-      },
-      "contractDuration": 12,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "094026421",
-            "greekVatNumber": true,
-            "name": "ΕΛΛΗΝΙΚΑ ΤΑΧΥΔΡΟΜΕΙΑ||ΕΛΤΑ",
-            "nutsCode": {
-              "key": "EL303",
-              "value": "Κεντρικός Τομέας Αθηνών"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            }
-          }
-        ]
-      },
-      "totalCostWithVAT": 74400.0,
-      "totalCostWithoutVAT": 60000.0,
-      "objectDetailsList": [
-        {
-          "quantity": 0,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 60000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Ανάθεση παροχής υπηρεσιών παραγωγής, εμφακέλωσης και αποστολής εντύπων ταχυπληρωμής καταβολής συνδρομών μελών του Επιμελητηρίου έτους 2026",
-          "cpvs": [
-            {
-              "key": "64112000-4",
-              "value": "Ταχυδρομικές υπηρεσίες που αφορούν επιστολές"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018409827",
+      "noticeRefNo": null,
       "amendsAuctionRefNo": [],
       "contractRefNo": [],
-      "paymentRefNo": [],
+      "paymentRefNo": [
+        "26PAY018481294"
+      ],
       "cpv_codes_extracted": [
-        "99221005",
-        "64112000"
+        "99220974",
+        "64210000"
       ],
       "cpv_divisions": [
         "64"
@@ -702,194 +605,27 @@
       "primary_domain": "Postal & Telecommunications Services"
     },
     {
-      "title": "Ανάθεση υπηρεσιών τηλεφωνικού κέντρου για ένα (1) έτος",
-      "referenceNumber": "26AWRD018471211",
-      "submissionDate": "2026-02-12T11:18:25.269",
+      "title": "ΑΠΟΦΑΣΗ ΔΗΜΟΤΙΚΗΣ ΕΠΙΤΡΟΠΗΣ ΓΙΑ ΤΗΝ  ΟΡΙΣΤΙΚΗ ΚΑΤΑΚΥΡΩΣΗ ΤΑΧΥΔΡΟΜΙΚΑ ΤΕΛΗ  ",
+      "referenceNumber": "26AWRD018479139",
+      "submissionDate": "2026-02-13T12:41:04.735",
       "lastUpdateDate": null,
-      "signedDate": "2026-02-09",
+      "signedDate": "2026-02-12",
       "cancelled": false,
       "cancellationDate": null,
       "cancellationType": null,
       "cancellationReason": null,
       "cancellationADA": null,
       "protocolNumber": null,
-      "aaht": "1036.F01000.0001",
+      "aaht": "1007.Ε84903.0001",
       "authorEmail": null,
-      "organizationVatNumber": "090002259",
-      "greekOrganizationVatNumber": true,
-      "budget": 30000,
-      "auctionAmount": null,
-      "commitmentNo": null,
-      "amendedAuctionADAM": null,
-      "amendPreviousAuction": false,
-      "numberOfSections": 1,
-      "assignedContract": {
-        "key": "1",
-        "value": "Ναι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "77142",
-          "value": "ΔΙΟΙΚΗΤΙΚΗ ΕΠΙΤΡΟΠΗ"
-        },
-        "signers": {
-          "key": "136056",
-          "value": "ΙΩΑΝΝΗΣ ΧΑΤΖΗΘΕΟΔΟΣΙΟΥ - Πρόεδρος Δ.Σ."
-        }
-      },
-      "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
-      },
-      "organization": {
-        "key": "99221005",
-        "value": "ΕΠΑΓΓΕΛΜΑΤΙΚΟ ΕΠΙΜΕΛ. ΑΘΗΝΩΝ"
-      },
-      "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
-      },
-      "criteriaCode": {
-        "key": "2",
-        "value": "Βάσει τιμής"
-      },
-      "awardProcedure": null,
-      "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
-      },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "10679",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "5",
-        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
-      },
-      "centralizedTypes": null,
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "typeOfContractingAuthority": {
-        "key": "9",
-        "value": "ΝΠΔΔ"
-      },
-      "contractingAuthorityActivity": {
-        "key": "1",
-        "value": "Γενικές δημόσιες υπηρεσίες"
-      },
-      "contractDuration": 12,
-      "contractDurationUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "contractingDataDetails": {
-        "contractingMembersDataList": [
-          {
-            "vatNumber": "801486787",
-            "greekVatNumber": true,
-            "name": "DKG TELEPHONE MEDIA SERVICES ΣΥΜΕΩΝΟΓΛΟΥ ΝΙΚΗΤΑΣ ΜΟΝΟΠΡΟΣΩΠΗ Ι Κ Ε",
-            "nutsCode": {
-              "key": "EL303",
-              "value": "Κεντρικός Τομέας Αθηνών"
-            },
-            "installationCountry": {
-              "key": "GR",
-              "value": "Ελλάδα"
-            }
-          }
-        ]
-      },
-      "totalCostWithVAT": 37200.0,
-      "totalCostWithoutVAT": 30000.0,
-      "objectDetailsList": [
-        {
-          "quantity": 0,
-          "type": {
-            "key": "E48",
-            "value": "Υπηρεσία"
-          },
-          "costWithoutVAT": 30000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Ανάθεση υπηρεσιών τηλεφωνικού κέντρου για ένα (1) έτος",
-          "cpvs": [
-            {
-              "key": "64214200-1",
-              "value": "Υπηρεσίες τηλεφωνικού κέντρου"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018430011",
-      "amendsAuctionRefNo": [],
-      "contractRefNo": [],
-      "paymentRefNo": [],
-      "cpv_codes_extracted": [
-        "99221005",
-        "64214200"
-      ],
-      "cpv_divisions": [
-        "64"
-      ],
-      "all_domains": [
-        "Postal & Telecommunications Services"
-      ],
-      "primary_domain": "Postal & Telecommunications Services"
-    },
-    {
-      "title": "Απόφαση Περιφερειάρχη για την ανάθεση της παροχής υπηρεσιών",
-      "referenceNumber": "26AWRD018468658",
-      "submissionDate": "2026-02-12T08:59:14.478",
-      "lastUpdateDate": null,
-      "signedDate": "2026-02-11",
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "protocolNumber": null,
-      "aaht": "1007.904.0001",
-      "authorEmail": null,
-      "organizationVatNumber": "997908822",
+      "organizationVatNumber": "997690910",
       "greekOrganizationVatNumber": false,
-      "budget": 6451.61,
+      "budget": 140032.2,
       "auctionAmount": null,
       "commitmentNo": null,
       "amendedAuctionADAM": null,
       "amendPreviousAuction": false,
-      "numberOfSections": 1,
+      "numberOfSections": 2,
       "assignedContract": {
         "key": "2",
         "value": "Όχι"
@@ -904,25 +640,25 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100101777",
-          "value": "ΔΙΕΥΘΥΝΣΗ ΨΗΦΙΑΚΗΣ ΔΙΑΚΥΒΕΡΝΗΣΗΣ"
+          "key": "80134",
+          "value": "ΤΜΗΜΑ ΠΡΟΜΗΘΕΙΩΝ ΚΑΙ ΔΙΑΧΕΙΡΙΣΗΣ ΥΛΙΚΟΥ"
         },
         "signers": {
-          "key": "111942",
-          "value": "ΑΛΕΞΑΝΔΡΟΣ ΚΑΧΡΙΜΑΝΗΣ - ΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+          "key": "100086425",
+          "value": "ΛΑΜΠΡΙΝΗ ΝΟΥΣΗ - Αντιδήμαρχος"
         }
       },
       "procedureType": {
-        "key": "6",
-        "value": "Απευθείας ανάθεση"
+        "key": "1",
+        "value": "Ανοιχτή διαδικασία"
       },
       "organization": {
-        "key": "5006",
-        "value": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ"
+        "key": "6075",
+        "value": "ΔΗΜΟΣ ΔΙΟΝΥΣΟΥ"
       },
       "contractType": {
-        "key": "9",
-        "value": "Υπηρεσίες"
+        "key": "13",
+        "value": "Προμήθειες"
       },
       "criteriaCode": {
         "key": "2",
@@ -930,11 +666,11 @@
       },
       "awardProcedure": null,
       "nutsCode": {
-        "key": "EL54",
-        "value": "Ήπειρος"
+        "key": "EL305",
+        "value": "Ανατολική Αττική"
       },
-      "nutsCity": "ΙΩΑΝΝΙΝΑ",
-      "nutsPostalCode": "45221",
+      "nutsCity": "ΑΓΙΟΣ ΣΤΕΦΑΝΟΣ ",
+      "nutsPostalCode": "145 65 ",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -964,7 +700,7 @@
         "key": "1",
         "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 12,
+      "contractDuration": 15,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -972,12 +708,25 @@
       "contractingDataDetails": {
         "contractingMembersDataList": [
           {
-            "vatNumber": "105310817",
+            "vatNumber": "094026421",
             "greekVatNumber": false,
-            "name": "ΛΕΤΤΑΣ ΠΕΡΙΚΛΗΣ",
+            "name": "ΕΛΛΗΝΙΚΑ ΤΑΧΥΔΡΟΜΕΙΑ ΕΛΤΑ ",
             "nutsCode": {
-              "key": "EL543",
-              "value": "Ιωάννινα"
+              "key": "EL305",
+              "value": "Ανατολική Αττική"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          },
+          {
+            "vatNumber": "801710034",
+            "greekVatNumber": false,
+            "name": "MBS SOLUTION A.E ",
+            "nutsCode": {
+              "key": "EL305",
+              "value": "Ανατολική Αττική"
             },
             "installationCountry": {
               "key": "GR",
@@ -986,8 +735,210 @@
           }
         ]
       },
-      "totalCostWithVAT": 8000.0,
-      "totalCostWithoutVAT": 6451.61,
+      "totalCostWithVAT": 173639.93,
+      "totalCostWithoutVAT": 140032.2,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "AG-001",
+            "value": "Μελέτη"
+          },
+          "costWithoutVAT": 6123.2,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "H παρούσα μελέτη, αφορά στην προμήθεια ταχυδρομικών υπηρεσιών και αντικείμενων για την αποστολή της αλληλογραφίας του Δήμου Διονύσου. Συγκεκριμένα αναφέρεται στην παροχή υπηρεσιών εκτύπωσης προχωρήσει  ειδοποιητηρίων  Φόρων, Τελών, Προστίμων λογαριασμών ύδρευσης κλπ., την αποστολή αυτών καθώς και την  αποστολή της κοινής αλληλογραφίας.  Η ανάθεση κρίνεται αναγκαία για την εκτύπωση και αποστολή ενδ",
+          "cpvs": [
+            {
+              "key": "64110000-0",
+              "value": "Ταχυδρομικές υπηρεσίες"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        },
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 133909,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΤΑΧΥΔΡΟΜΙΚΑ ΤΕΛΗ ",
+          "cpvs": [
+            {
+              "key": "64110000-0",
+              "value": "Ταχυδρομικές υπηρεσίες"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": [
+        {
+          "additionalContractType": {
+            "key": "3",
+            "value": "Υπηρεσίες"
+          }
+        }
+      ],
+      "mixedContract": true,
+      "approvedRequestsList": [],
+      "noticeRefNo": "25PROC017848811",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "64110000"
+      ],
+      "cpv_divisions": [
+        "64"
+      ],
+      "all_domains": [
+        "Postal & Telecommunications Services"
+      ],
+      "primary_domain": "Postal & Telecommunications Services"
+    },
+    {
+      "title": "Κάλυψη τηλεπικοινωνιακών αναγκών έργων ΣΔΙΤ, Α.Σ.Σ.Κ. και Τηλεματικής, έτους 2026",
+      "referenceNumber": "26AWRD018476408",
+      "submissionDate": "2026-02-13T10:02:36.5",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-11",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1039.E00909.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "094419265",
+      "greekOrganizationVatNumber": true,
+      "budget": 51566,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "73392",
+          "value": "ΟΡΓΑΝΙΣΜΟΣ ΑΣΤΙΚΩΝ ΣΥΓΚΟΙΝΩΝΙΩΝ ΑΘΗΝΩΝ (ΟΑΣΑ)"
+        },
+        "signers": {
+          "key": "100082755",
+          "value": "Χριστόφορος Σαρδελής - Πρόεδρος Δ.Σ."
+        }
+      },
+      "procedureType": {
+        "key": "12",
+        "value": "Διαπραγμάτευση χωρίς προηγούμενη δημοσίευση"
+      },
+      "organization": {
+        "key": "99200191",
+        "value": "ΟΡΓΑΝΙΣΜΟΣ ΑΣΤΙΚΩΝ ΣΥΓΚΟΙΝΩΝΙΩΝ ΑΘΗΝΩΝ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": {
+        "key": "58",
+        "value": "Απουσία ανταγωνισμού για τεχνικούς λόγους"
+      },
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "nutsCity": "ΑΘΗΝΑ",
+      "nutsPostalCode": "10682",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "7",
+        "value": "ν.4412/2016 - Βιβλίο ΙΙ – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "typeOfContractingAuthority": {
+        "key": "10",
+        "value": "ΝΠΙΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "4",
+        "value": "Έτη"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "094349850",
+            "greekVatNumber": true,
+            "name": "VODAFONE-PANAFON",
+            "nutsCode": {
+              "key": "EL301",
+              "value": "Βόρειος Τομέας Αθηνών"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 63941.84,
+      "totalCostWithoutVAT": 51566.0,
       "objectDetailsList": [
         {
           "quantity": 1,
@@ -995,17 +946,17 @@
             "key": "E48",
             "value": "Υπηρεσία"
           },
-          "costWithoutVAT": 6451.61,
+          "costWithoutVAT": 51566,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Απόφαση Περιφερειάρχη για την ανάθεση της παροχής υπηρεσιών βιντεοσκόπησης και αναμετάδοσης των συνεδριάσεων των Συλλογικών οργάνων του Φορέα στο youtube.",
+          "shortDescription": "Ανάθεση υπηρεσιών κάλυψης τηλεπικοινωνιακών αναγκών (ασύρματες και επίγειες συνδέσεις) έργων Α.Σ.Σ.Κ. και Τηλεματικής, διάρκειας ενός (1) έτους",
           "cpvs": [
             {
-              "key": "64228100-1",
-              "value": "Υπηρεσίες μετάδοσης τηλεοπτικών προγραμμάτων"
+              "key": "64200000-8",
+              "value": "Υπηρεσίες τηλεπικοινωνιών"
             }
           ],
           "greenContracts": {
@@ -1019,12 +970,179 @@
       "additionalContractTypes": null,
       "mixedContract": false,
       "approvedRequestsList": [],
-      "noticeRefNo": "26PROC018419628",
+      "noticeRefNo": "25PROC018150380",
       "amendsAuctionRefNo": [],
       "contractRefNo": [],
       "paymentRefNo": [],
       "cpv_codes_extracted": [
-        "64228100"
+        "99200191",
+        "64200000"
+      ],
+      "cpv_divisions": [
+        "64"
+      ],
+      "all_domains": [
+        "Postal & Telecommunications Services"
+      ],
+      "primary_domain": "Postal & Telecommunications Services"
+    },
+    {
+      "title": "Απόφαση Δημάρχου 44/2095/2026 περί κινητής τηλεφωνίας",
+      "referenceNumber": "26AWRD018476176",
+      "submissionDate": "2026-02-13T09:48:17.077",
+      "lastUpdateDate": null,
+      "signedDate": "2026-02-13",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "protocolNumber": null,
+      "aaht": "1007.Ε80713.0001",
+      "authorEmail": null,
+      "organizationVatNumber": "997630623",
+      "greekOrganizationVatNumber": true,
+      "budget": 19509.68,
+      "auctionAmount": null,
+      "commitmentNo": null,
+      "amendedAuctionADAM": null,
+      "amendPreviousAuction": false,
+      "numberOfSections": 1,
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100000817",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ"
+        },
+        "signers": {
+          "key": "100049107",
+          "value": "ΣΤΑΥΡΟΣ ΑΝΑΓΝΩΣΤΟΠΟΥΛΟΣ - Δήμαρχος"
+        }
+      },
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "organization": {
+        "key": "6315",
+        "value": "ΔΗΜΟΣ ΧΑΛΚΗΔΟΝΟΣ"
+      },
+      "contractType": {
+        "key": "9",
+        "value": "Υπηρεσίες"
+      },
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "awardProcedure": null,
+      "nutsCode": {
+        "key": "EL522",
+        "value": "Θεσσαλονίκη"
+      },
+      "nutsCity": "ΚΟΥΦΑΛΙΑ",
+      "nutsPostalCode": "57100",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "centralizedTypes": null,
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "typeOfContractingAuthority": {
+        "key": "9",
+        "value": "ΝΠΔΔ"
+      },
+      "contractingAuthorityActivity": {
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
+      },
+      "contractDuration": 24,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "vatNumber": "094019245",
+            "greekVatNumber": true,
+            "name": "ΟΤΕ ΑΕ",
+            "nutsCode": {
+              "key": "EL304",
+              "value": "Νότιος Τομέας Αθηνών"
+            },
+            "installationCountry": {
+              "key": "GR",
+              "value": "Ελλάδα"
+            }
+          }
+        ]
+      },
+      "totalCostWithVAT": 12696.0,
+      "totalCostWithoutVAT": 10238.71,
+      "objectDetailsList": [
+        {
+          "quantity": 1,
+          "type": {
+            "key": "E48",
+            "value": "Υπηρεσία"
+          },
+          "costWithoutVAT": 10238.71,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Παροχή Υπηρεσιών κινητής τηλεφωνίας ",
+          "cpvs": [
+            {
+              "key": "64212000-5",
+              "value": "Υπηρεσίες κινητής τηλεφωνίας"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "approvedRequestsList": [],
+      "noticeRefNo": "26PROC018440604",
+      "amendsAuctionRefNo": [],
+      "contractRefNo": [],
+      "paymentRefNo": [],
+      "cpv_codes_extracted": [
+        "64212000"
       ],
       "cpv_divisions": [
         "64"

@@ -1,14 +1,14 @@
 {
   "domain": "Security & Defense",
-  "count": 4,
+  "count": 8,
   "items": [
     {
-      "title": "ΔΙΑΚΗΡΥΞΗ ΗΛ/ΚΟΥ ΑΝΟΙΚΤΟΥ ΔΙΑΓΩΝΙΣΜΟΥ ΚΑΤΩ ΟΡΙΩΝ ΠΡΟΜΗΘΕΙΑΣ ΕΞΟΠΛΙΣΜΟΥ",
-      "referenceNumber": "26PROC018473274",
-      "signedDate": "2026-02-12T00:00:00",
+      "title": "Προμήθεια πυροσβεστικής φωλιάς του Πρότυπου ΕΠΑΛ  της Δευτεροβάθμιας Εκπαίδευσης.",
+      "referenceNumber": "26PROC018480890",
+      "signedDate": "2026-02-13T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-27T00:00:00",
-      "submissionDate": "2026-02-12T13:05:24.174",
+      "finalSubmissionDate": "2026-02-20T00:00:00",
+      "submissionDate": "2026-02-13T14:27:54.088",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -20,20 +20,20 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1020.E00670.0001",
-      "biddingWebsite": "https://nepps.eprocurement.gov.gr/",
+      "aaht": "1007.E85801.0001",
+      "biddingWebsite": null,
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
       "budget": null,
       "commitmentNo": null,
       "relatedNoticeADAM": null,
-      "numberOfSections": 2,
+      "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL303",
-        "value": "Κεντρικός Τομέας Αθηνών"
+        "key": "EL422",
+        "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
       },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "11855",
+      "nutsCity": "ΕΡΜΟΥΠΟΛΗ",
+      "nutsPostalCode": "84100",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -52,33 +52,25 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "73234",
-          "value": "ΤΜΗΜΑ ΓΡΑΜΜΑΤΕΙΑΣ ΛΟΓΑΡΙΑΣΜΟΥ ΕΡΕΥΝΑΣ"
+          "key": "100039311",
+          "value": "ΑΥΤΟΤΕΛΕΣ ΤΜΗΜΑ ΥΠΟΣΤΗΡΙΞΗΣ ΝΠΔΔ"
         },
         "signers": {
-          "key": "100078390",
-          "value": "ΘΩΜΑΣ ΜΠΑΡΤΖΑΝΑΣ - Πρόεδρος"
+          "key": "100084092",
+          "value": "ΔΗΜΗΤΡΙΟΣ ΚΟΣΜΑΣ - Αντιδήμαρχος"
         }
       },
       "fundingDetails": {
-        "publicFundingRef": "Ε9867",
-        "publicFundingRefNum": "2025ΣΕ98670012",
-        "publicFundingRefOps": "6038983",
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": null
+        "regularBudgetFundedProgramRef": "070.3120989"
       },
-      "systemicNumbers": [
-        {
-          "systemicNumber": "405022"
-        }
-      ],
-      "approvedRequests": [
-        {
-          "code": "26REQ018467737"
-        }
-      ],
+      "systemicNumbers": [],
+      "approvedRequests": [],
       "contractingAuthorities": [
         {
           "contractingAuthority": {
@@ -90,18 +82,18 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL303",
-            "value": "Κεντρικός Τομέας Αθηνών"
+            "key": "EL422",
+            "value": "Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος"
           }
         }
       ],
       "organization": {
-        "key": "99202112",
-        "value": "ΓΕΩΠΟΝΙΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
+        "key": "6291",
+        "value": "ΔΗΜΟΣ ΣΥΡΟΥ - ΕΡΜΟΥΠΟΛΗΣ"
       },
       "typeOfProcedure": {
-        "key": "1",
-        "value": "Ανοιχτή διαδικασία"
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
       },
       "contractType": {
         "key": "13",
@@ -117,92 +109,55 @@
         }
       ],
       "legalContext": {
-        "key": "4",
-        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
       },
       "conductingProceedings": {
-        "key": "1",
-        "value": "Ηλεκτρονική Διαδικασία"
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
       },
-      "digitalPlatform": {
-        "key": "3",
-        "value": "ΕΣΗΔΗΣ ΠΥ"
-      },
+      "digitalPlatform": null,
       "criteriaCode": {
         "key": "2",
         "value": "Βάσει τιμής"
       },
       "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
+        "key": "2",
+        "value": "ΟΤΑ"
       },
       "noticeType": {
-        "key": "3",
-        "value": "Διακήρυξη"
+        "key": "4",
+        "value": "Πρόσκληση"
       },
       "contractingAuthorityActivity": {
-        "key": "11",
-        "value": "Εκπαίδευση"
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
       },
-      "contractDuration": 6,
+      "contractDuration": 1,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 175460.0,
-      "totalCostWithoutVAT": 141500.0,
+      "totalCostWithVAT": 162.44,
+      "totalCostWithoutVAT": 131.0,
       "objectDetails": [
         {
-          "quantity": 11,
+          "quantity": 1,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 83500,
+          "costWithoutVAT": 131,
           "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "Εργαστηριακός Εξοπλισμός Αναλυτικής Βιολογίας ",
+          "shortDescription": "Προμήθεια πυροσβεστικής φωλιάς του Πρότυπου ΕΠΑΛ  της Δευτεροβάθμιας Εκπαίδευσης.",
           "cpvs": [
             {
-              "key": "38310000-1",
-              "value": "Ζυγοί ακριβείας"
-            },
-            {
-              "key": "38510000-3",
-              "value": "Μικροσκόπια"
-            },
-            {
-              "key": "38651600-9",
-              "value": "Ψηφιακές κάμερες"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        },
-        {
-          "quantity": 3,
-          "type": {
-            "key": "C62",
-            "value": "Τεμάχιο"
-          },
-          "costWithoutVAT": 58000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "Εξοπλισμός Υποβρύχιας Τηλεπισκόπησης και Συλλογής Βιολογικού Υλικού",
-          "cpvs": [
-            {
-              "key": "35512400-0",
-              "value": "Μη επανδρωμένα υποβρύχια οχήματα"
+              "key": "35111000-5",
+              "value": "Πυροσβεστικός εξοπλισμός"
             }
           ],
           "greenContracts": {
@@ -215,7 +170,7 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "offersValidTime": 12,
+      "offersValidTime": 1,
       "offersValidTimeUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -230,218 +185,7 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "99202112",
-        "38310000",
-        "38510000",
-        "38651600",
-        "35512400"
-      ],
-      "cpv_divisions": [
-        "38",
-        "35"
-      ],
-      "all_domains": [
-        "Lab, Optical & Precision Equipment",
-        "Security & Defense"
-      ],
-      "primary_domain": "Security & Defense"
-    },
-    {
-      "title": "ΔΙΑΚ/ΞΗ ΑΝΟΙΧΤΟΥ ΗΛΕΚΤΡ. ΔΙΑΓΩΝΙΣΜΟΥ ΠΡΟΜΗΘΕΙΑΣ ΙΩΔΙΟΥΧΟΥ ΑΡΓΥΡΟΥ ΣΕ ΣΥΣΚΕΥΑΣΙΑ ΩΣ ΥΛ. ΣΠΟΡΑΣ  ΝΕΦΩΝ",
-      "referenceNumber": "26PROC018471578",
-      "signedDate": "2026-02-12T00:00:00",
-      "publishedDate": "2026-02-11T00:00:00",
-      "finalSubmissionDate": "2026-02-25T15:00:00",
-      "submissionDate": "2026-02-12T11:36:42.314",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1029.Ε00517.0001",
-      "biddingWebsite": "https://nepps.eprocurement.gov.gr/",
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 1,
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "11510",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "75238",
-          "value": "ΟΙΚΟΝΟΜΙΚΟΥ"
-        },
-        "signers": {
-          "key": "100055291",
-          "value": "ΑΝΔΡΕΑΣ ΛΥΚΟΥΡΕΝΤΖΟΣ - Πρόεδρος"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "64.90.001"
-      },
-      "systemicNumbers": [
-        {
-          "systemicNumber": "402026"
-        }
-      ],
-      "approvedRequests": [
-        {
-          "code": "26REQ018470482"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "10",
-            "value": "ΝΠΙΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL",
-            "value": "ΕΛΛΑΔΑ"
-          }
-        }
-      ],
-      "organization": {
-        "key": "99200298",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΕΛΛ. ΓΕΩΡΓΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ (ΕΛ.Γ.Α.)"
-      },
-      "typeOfProcedure": {
-        "key": "1",
-        "value": "Ανοιχτή διαδικασία"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "4",
-        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "1",
-        "value": "Ηλεκτρονική Διαδικασία"
-      },
-      "digitalPlatform": {
-        "key": "3",
-        "value": "ΕΣΗΔΗΣ ΠΥ"
-      },
-      "criteriaCode": {
-        "key": "1",
-        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "noticeType": {
-        "key": "3",
-        "value": "Διακήρυξη"
-      },
-      "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
-      },
-      "contractDuration": 50,
-      "contractDurationUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "totalCostWithVAT": 471200.0,
-      "totalCostWithoutVAT": 380000.0,
-      "objectDetails": [
-        {
-          "quantity": 130,
-          "type": {
-            "key": "KGM",
-            "value": "Kg"
-          },
-          "costWithoutVAT": 380000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΔΙΑΚ/ΞΗ ΑΝΟΙΧΤΟΥ ΗΛΕΚΤΡ. ΔΙΑΓΩΝΙΣΜΟΥ ΠΡΟΜΗΘΕΙΑΣ ΙΩΔΙΟΥΧΟΥ ΑΡΓΥΡΟΥ ΣΕ ΣΥΣΚΕΥΑΣΙΑ ΩΣ ΥΛ. ΣΠΟΡΑΣ ΝΕΦΩΝ",
-          "cpvs": [
-            {
-              "key": "35331500-8",
-              "value": "Φυσίγγια"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 12,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "99200298",
-        "35331500"
+        "35111000"
       ],
       "cpv_divisions": [
         "35"
@@ -452,12 +196,12 @@
       "primary_domain": "Security & Defense"
     },
     {
-      "title": "ΠΡΟΚΗΡΥΞΗ ΠΡΟΜΗΘΕΙΑΣ (ΑΓΟΡΑ) ΙΩΔΙΟΥΧΟΥ ΑΡΓΥΡΟΥ, ΣΕ ΣΥΣΚΕΥΑΣΙΑ, ΩΣ ΥΛΙΚΟΥ ΣΠΟΡΑΣ ΤΩΝ ΝΕΦΩΝ",
-      "referenceNumber": "26PROC018471312",
-      "signedDate": "2026-02-11T00:00:00",
+      "title": "ΠΡΟΣΚΛΗΣΗ ΥΠΟΒΟΛΗΣ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΜΑΠ ΓΙΑ ΤΟ ΕΡΓΟ ΤΗΣ ΠΑΛΛΗΝΗΣ",
+      "referenceNumber": "26PROC018480614",
+      "signedDate": "2026-02-13T00:00:00",
       "publishedDate": null,
-      "finalSubmissionDate": "2026-02-25T15:00:00",
-      "submissionDate": "2026-02-12T11:23:26.806",
+      "finalSubmissionDate": "2026-02-20T00:00:00",
+      "submissionDate": "2026-02-13T14:10:29.053",
       "lastUpdateDate": null,
       "cancelled": false,
       "cancellationDate": null,
@@ -469,225 +213,20 @@
       "frameworkAgreementNoticeADAM": null,
       "protocolNumber": null,
       "authorEmail": null,
-      "aaht": "1029.Ε00517.0001",
-      "biddingWebsite": "https://nepps.eprocurement.gov.gr/",
-      "organizationVatNumber": null,
-      "greekOrganizationVatNumber": null,
-      "budget": null,
-      "commitmentNo": null,
-      "relatedNoticeADAM": null,
-      "numberOfSections": 1,
-      "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
-      },
-      "nutsCity": "ΑΘΗΝΑ",
-      "nutsPostalCode": "11510",
-      "nutsCountry": {
-        "key": "GR",
-        "value": "Ελλάδα"
-      },
-      "assignedContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "socialContract": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "centralGovernmentAuthority": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "contractingData": {
-        "unitsOperator": {
-          "key": "75238",
-          "value": "ΟΙΚΟΝΟΜΙΚΟΥ"
-        },
-        "signers": {
-          "key": "100055291",
-          "value": "ΑΝΔΡΕΑΣ ΛΥΚΟΥΡΕΝΤΖΟΣ - Πρόεδρος"
-        }
-      },
-      "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
-        "cofundProgramRef": null,
-        "selfFundProgramRef": null,
-        "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "64.90.001"
-      },
-      "systemicNumbers": [
-        {
-          "systemicNumber": "402026"
-        }
-      ],
-      "approvedRequests": [
-        {
-          "code": "26REQ018470482"
-        }
-      ],
-      "contractingAuthorities": [
-        {
-          "contractingAuthority": {
-            "key": "10",
-            "value": "ΝΠΙΔ"
-          }
-        }
-      ],
-      "nutsCodes": [
-        {
-          "nutsCode": {
-            "key": "EL",
-            "value": "ΕΛΛΑΔΑ"
-          }
-        }
-      ],
-      "organization": {
-        "key": "99200298",
-        "value": "ΟΡΓΑΝΙΣΜΟΣ ΕΛΛ. ΓΕΩΡΓΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ (ΕΛ.Γ.Α.)"
-      },
-      "typeOfProcedure": {
-        "key": "1",
-        "value": "Ανοιχτή διαδικασία"
-      },
-      "contractType": {
-        "key": "13",
-        "value": "Προμήθειες"
-      },
-      "awardProcedure": null,
-      "centralizedMarkets": [
-        {
-          "centralizedMarket": {
-            "key": "8",
-            "value": "Δεν χρησιμοποιείται"
-          }
-        }
-      ],
-      "legalContext": {
-        "key": "4",
-        "value": "ν.4412/2016 - Βιβλίο Ι – άνω των ορίων"
-      },
-      "conductingProceedings": {
-        "key": "1",
-        "value": "Ηλεκτρονική Διαδικασία"
-      },
-      "digitalPlatform": {
-        "key": "3",
-        "value": "ΕΣΗΔΗΣ ΠΥ"
-      },
-      "criteriaCode": {
-        "key": "1",
-        "value": "Βάσει κόστους – βέλτιστη σχέση ποιότητας – τιμής"
-      },
-      "classificationOfPublicLawOrganization": {
-        "key": "4",
-        "value": "Εκτός Γενικής Κυβέρνησης"
-      },
-      "noticeType": {
-        "key": "2",
-        "value": "Προκήρυξη"
-      },
-      "contractingAuthorityActivity": {
-        "key": "12",
-        "value": "Τυχόν άλλη δραστηριότητα"
-      },
-      "contractDuration": 50,
-      "contractDurationUnitOfMeasure": {
-        "key": "1",
-        "value": "Ημέρες"
-      },
-      "totalCostWithVAT": 471200.0,
-      "totalCostWithoutVAT": 380000.0,
-      "objectDetails": [
-        {
-          "quantity": 130,
-          "type": {
-            "key": "KGM",
-            "value": "Kg"
-          },
-          "costWithoutVAT": 380000,
-          "vat": "24",
-          "currency": {
-            "key": "EUR",
-            "value": "Ευρώ"
-          },
-          "shortDescription": "ΠΡΟΚΗΡΥΞΗ ΠΡΟΜΗΘΕΙΑΣ (ΑΓΟΡΑ) ΙΩΔΙΟΥΧΟΥ ΑΡΓΥΡΟΥ, ΣΕ ΣΥΣΚΕΥΑΣΙΑ, ΩΣ ΥΛΙΚΟΥ ΣΠΟΡΑΣ ΤΩΝ ΝΕΦΩΝ",
-          "cpvs": [
-            {
-              "key": "35331500-8",
-              "value": "Φυσίγγια"
-            }
-          ],
-          "greenContracts": {
-            "key": "1",
-            "value": "Δεν εμπίπτει στο ΕΣΔ"
-          },
-          "goodServices": null,
-          "budgetCode": null
-        }
-      ],
-      "additionalContractTypes": null,
-      "mixedContract": false,
-      "offersValidTime": 12,
-      "offersValidTimeUnitOfMeasure": {
-        "key": "3",
-        "value": "Μήνες"
-      },
-      "maxNumberOfContractors": null,
-      "optionRight": {
-        "key": "2",
-        "value": "Όχι"
-      },
-      "optionRightDescription": null,
-      "abortReason": null,
-      "auctionRefNo": [],
-      "amendsNoticeRefNo": [],
-      "cpv_codes_extracted": [
-        "99200298",
-        "35331500"
-      ],
-      "cpv_divisions": [
-        "35"
-      ],
-      "all_domains": [
-        "Security & Defense"
-      ],
-      "primary_domain": "Security & Defense"
-    },
-    {
-      "title": "Πρόσκληση εκδήλωσης ενδιαφέροντος για την προμήθεια υλικών που απαιτούνται για την επέκταση δικτύου ",
-      "referenceNumber": "26PROC018468287",
-      "signedDate": "2026-02-10T00:00:00",
-      "publishedDate": null,
-      "finalSubmissionDate": "2026-02-18T00:00:00",
-      "submissionDate": "2026-02-12T08:20:39.528",
-      "lastUpdateDate": null,
-      "cancelled": false,
-      "cancellationDate": null,
-      "cancellationType": null,
-      "cancellationReason": null,
-      "cancellationADA": null,
-      "amendPreviousNotice": false,
-      "amendedNoticeADAM": null,
-      "frameworkAgreementNoticeADAM": null,
-      "protocolNumber": null,
-      "authorEmail": null,
-      "aaht": "1011.2030000000.0024",
+      "aaht": "1022.0000000000.0050",
       "biddingWebsite": null,
       "organizationVatNumber": null,
       "greekOrganizationVatNumber": null,
       "budget": null,
       "commitmentNo": null,
       "relatedNoticeADAM": null,
-      "numberOfSections": 13,
+      "numberOfSections": 1,
       "nutsCode": {
-        "key": "EL",
-        "value": "ΕΛΛΑΔΑ"
+        "key": "EL305",
+        "value": "Ανατολική Αττική"
       },
-      "nutsCity": "ΧΙΟΣ",
-      "nutsPostalCode": "82100",
+      "nutsCity": "ΑΘΗΝΑ",
+      "nutsPostalCode": "11741",
       "nutsCountry": {
         "key": "GR",
         "value": "Ελλάδα"
@@ -706,27 +245,27 @@
       },
       "contractingData": {
         "unitsOperator": {
-          "key": "100039332",
-          "value": "ΓΕΝ/ΝΑΥΤΙΚΟΣ ΣΤΑΘΜΟΣ ΧΙΟΥ"
+          "key": "100003599",
+          "value": "ΕΦΟΡΕΙΑ ΑΡΧΑΙΟΤΗΤΩΝ ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ"
         },
         "signers": {
-          "key": "100044210",
-          "value": "ΗΡΑΚΛΗΣ ΡΕΒΥΝΘΗΣ - Διοικητής"
+          "key": "101462",
+          "value": "ΕΛΕΝΗ ΑΝΔΡΙΚΟΥ - Αναπληρωτής Προϊστάμενος Διεύθυνσης"
         }
       },
       "fundingDetails": {
-        "publicFundingRef": null,
-        "publicFundingRefNum": null,
-        "publicFundingRefOps": null,
+        "publicFundingRef": "3757",
+        "publicFundingRefNum": "2024ΣΕ37570059",
+        "publicFundingRefOps": "6018874",
         "cofundProgramRef": null,
         "selfFundProgramRef": null,
         "espaFundProgramRef": null,
-        "regularBudgetFundedProgramRef": "2410989899"
+        "regularBudgetFundedProgramRef": null
       },
       "systemicNumbers": [],
       "approvedRequests": [
         {
-          "code": "26REQ018436292"
+          "code": "25REQ016667049"
         }
       ],
       "contractingAuthorities": [
@@ -740,18 +279,412 @@
       "nutsCodes": [
         {
           "nutsCode": {
-            "key": "EL413",
-            "value": "Χίος"
+            "key": "EL",
+            "value": "ΕΛΛΑΔΑ"
           }
         }
       ],
       "organization": {
-        "key": "6",
-        "value": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ"
+        "key": "100081912",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΠΟΛΙΤΙΣΜΟΥ"
       },
       "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "10",
+        "value": "Έργα"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
         "key": "1",
-        "value": "Ανοιχτή διαδικασία"
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "10",
+        "value": "Πολιτισμός και θρησκεία"
+      },
+      "contractDuration": 2,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "totalCostWithVAT": 4340.0,
+      "totalCostWithoutVAT": 3500.0,
+      "objectDetails": [
+        {
+          "quantity": 88,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 3500,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΣΚΛΗΣΗ ΥΠΟΒΟΛΗΣ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΜΑΠ ΓΙΑ ΤΟ ΕΡΓΟ ΤΗΣ ΠΑΛΛΗΝΗΣ ΜΕ MIS 6018874 (ΚΑΤΑΣΚΕΥΗ ΔΙΚΤΥΟΥ ΑΠΟΧΕΤΕΥΣΗΣ ΑΚΑΘΑΡΤΩΝ ΥΔΑΤΩΝ ΤΟΥ ΔΗΜΟΥ ΠΑΛΛΗΝΗΣ-Β΄ΦΑΣΗ-2024ΣΕ37570059)",
+          "cpvs": [
+            {
+              "key": "35113400-3",
+              "value": "Ρούχα προστασίας και ασφαλείας"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 2,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "35113400"
+      ],
+      "cpv_divisions": [
+        "35"
+      ],
+      "all_domains": [
+        "Security & Defense"
+      ],
+      "primary_domain": "Security & Defense"
+    },
+    {
+      "title": "ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ/ΕΞΟΠΛΙΣΜΟΥ ΑΣΦΑΛΕΙΑΣ, Μ. ΔΑΦΝΙΟΥ & ΑΡΧ. ΧΩΡΟΥ ΕΛΕΥΣΙΝΑΣ",
+      "referenceNumber": "26PROC018480578",
+      "signedDate": "2026-02-13T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-27T15:00:00",
+      "submissionDate": "2026-02-13T14:07:49.606",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1022.0000000000.0044",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL306",
+        "value": "Δυτική Αττική"
+      },
+      "nutsCity": "ΑΘΗΝΑ",
+      "nutsPostalCode": "10555",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100003600",
+          "value": "ΕΦΟΡΕΙΑ ΑΡΧΑΙΟΤΗΤΩΝ ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ"
+        },
+        "signers": {
+          "key": "106901",
+          "value": "ΧΡΙΣΤΙΝΑ ΜΕΡΚΟΥΡΗ - Προϊστάμενος"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": "213",
+        "publicFundingRefNum": "2025ΝΑ21300000",
+        "publicFundingRefOps": "5222386",
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018363103"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "12",
+            "value": "Κεντρική Διοίκηση"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL306",
+            "value": "Δυτική Αττική"
+          }
+        }
+      ],
+      "organization": {
+        "key": "100081912",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΠΟΛΙΤΙΣΜΟΥ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "10",
+        "value": "Πολιτισμός και θρησκεία"
+      },
+      "contractDuration": 8,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "totalCostWithVAT": 3000.0,
+      "totalCostWithoutVAT": 3000.0,
+      "objectDetails": [
+        {
+          "quantity": 6,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 3000,
+          "vat": "0",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πρόσκληση εκδήλωσης ενδιαφέροντος προμήθειας υλικών/εξοπλισμού ασφάλειας για την αποκατάσταση προβλημάτων λειτουργίας των Κλειστών Κυκλωμάτων Τηλεόρασης της Μονής  Δαφνίου και του Αρχαιολογικού Μουσείου Ελευσίνας, στο πλαίσιο του έργου «Αποκατάσταση βλαβών που προκλήθηκαν από την κακοκαιρία BYRON σε μνημεία, αρχαιολογικούς χώρους και κτήρια αρμοδιότητας της Εφορείας Αρχαιοτήτων Δυτικής Αττικής»",
+          "cpvs": [
+            {
+              "key": "35125000-6",
+              "value": "Σύστημα παρακολούθησης"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 3,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "35125000"
+      ],
+      "cpv_divisions": [
+        "35"
+      ],
+      "all_domains": [
+        "Security & Defense"
+      ],
+      "primary_domain": "Security & Defense"
+    },
+    {
+      "title": "Πρόσκληση Προσφορας",
+      "referenceNumber": "26PROC018479460",
+      "signedDate": "2026-02-13T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-18T10:00:00",
+      "submissionDate": "2026-02-13T13:00:07.035",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1060.201.0100500.0001",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL",
+        "value": "ΕΛΛΑΔΑ"
+      },
+      "nutsCity": "Ελευσίνα",
+      "nutsPostalCode": "19200",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "71662",
+          "value": "1Η ΕΙΔΙΚΗ ΜΟΝΑΔΑ ΑΝΤΙΜΕΤΩΠΙΣΗΣ ΚΑΤΑΣΤΡΟΦΩΝ (Ε.Μ.Α.Κ.)"
+        },
+        "signers": {
+          "key": "100095721",
+          "value": "ΠΑΝΑΓΙΩΤΗΣ ΤΣΙΚΑΣ - Διοικητής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "2410207001"
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018471152"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "12",
+            "value": "Κεντρική Διοίκηση"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL",
+            "value": "ΕΛΛΑΔΑ"
+          }
+        }
+      ],
+      "organization": {
+        "key": "100068650",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΚΛΙΜΑΤΙΚΗΣ ΚΡΙΣΗΣ ΚΑΙ ΠΟΛΙΤΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
       },
       "contractType": {
         "key": "13",
@@ -788,34 +721,34 @@
         "value": "Πρόσκληση"
       },
       "contractingAuthorityActivity": {
-        "key": "2",
-        "value": "Άμυνα"
+        "key": "3",
+        "value": "Δημόσια τάξη και ασφάλεια"
       },
-      "contractDuration": 1,
+      "contractDuration": 9,
       "contractDurationUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
       },
-      "totalCostWithVAT": 5571.54,
-      "totalCostWithoutVAT": 4762.0,
+      "totalCostWithVAT": 18862.88,
+      "totalCostWithoutVAT": 15212.0,
       "objectDetails": [
         {
-          "quantity": 1,
+          "quantity": 44,
           "type": {
             "key": "C62",
             "value": "Τεμάχιο"
           },
-          "costWithoutVAT": 4762,
-          "vat": "17",
+          "costWithoutVAT": 15212,
+          "vat": "24",
           "currency": {
             "key": "EUR",
             "value": "Ευρώ"
           },
-          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΕΠΕΚΤΑΣΗΣ ΜΟΝΙΜΟΥ ΔΙΚΤΥΟΥ ΠΥΡΚΑΓΙΑΣ N.P./R X162D",
+          "shortDescription": "ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΓΙΑ ΤΗΝ ΣΥΝΤΗΡΗΣΗ ΤΩΝ ΑΝΙΧΝΕΥΤΩΝ  ΑΕΡΙΩΝ ΤΗΣ ΟΜΑΔΑΣ ΧΒΡΠ & ΤΑ ΤΗΣ 1ης Ε.Μ.Α.Κ.",
           "cpvs": [
             {
-              "key": "35000000-4",
-              "value": "Εξοπλισμός ασφαλείας και πυρόσβεσης"
+              "key": "35125100-7",
+              "value": "Αισθητήρες"
             }
           ],
           "greenContracts": {
@@ -828,7 +761,7 @@
       ],
       "additionalContractTypes": null,
       "mixedContract": false,
-      "offersValidTime": 6,
+      "offersValidTime": 2,
       "offersValidTimeUnitOfMeasure": {
         "key": "3",
         "value": "Μήνες"
@@ -843,7 +776,7 @@
       "auctionRefNo": [],
       "amendsNoticeRefNo": [],
       "cpv_codes_extracted": [
-        "35000000"
+        "35125100"
       ],
       "cpv_divisions": [
         "35"
@@ -852,6 +785,800 @@
         "Security & Defense"
       ],
       "primary_domain": "Security & Defense"
+    },
+    {
+      "title": "Πρόσκληση εκδήλωσης ενδιαφέροντος για την προμήθεια στολών 8δ",
+      "referenceNumber": "26PROC018479126",
+      "signedDate": "2026-02-13T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-19T10:00:00",
+      "submissionDate": "2026-02-13T12:40:01.485",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1057.2010800900.0001",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "nutsCity": "ΑΘΗΝΑ",
+      "nutsPostalCode": "11522",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "70924",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΑΜΕΣΗΣ ΔΡΑΣΗΣ ΑΤΤΙΚΗΣ"
+        },
+        "signers": {
+          "key": "100074400",
+          "value": "ΓΕΩΡΓΙΟΣ ΜΙΧΑΗΛΙΔΗΣ - Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "2410902001"
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "12",
+            "value": "Κεντρική Διοίκηση"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL303",
+            "value": "Κεντρικός Τομέας Αθηνών"
+          }
+        }
+      ],
+      "organization": {
+        "key": "100054489",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "3",
+        "value": "Δημόσια τάξη και ασφάλεια"
+      },
+      "contractDuration": 70,
+      "contractDurationUnitOfMeasure": {
+        "key": "1",
+        "value": "Ημέρες"
+      },
+      "totalCostWithVAT": 37200.0,
+      "totalCostWithoutVAT": 30000.0,
+      "objectDetails": [
+        {
+          "quantity": 295,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 30000,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Πρόσκληση εκδήλωσης ενδιαφέροντος για την προμήθεια στολών 8δ",
+          "cpvs": [
+            {
+              "key": "35811200-4",
+              "value": "Στολές αστυνομικών"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 70,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "1",
+        "value": "Ημέρες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "35811200"
+      ],
+      "cpv_divisions": [
+        "35"
+      ],
+      "all_domains": [
+        "Security & Defense"
+      ],
+      "primary_domain": "Security & Defense"
+    },
+    {
+      "title": "ΠΡΟΣΚΛΗΣΗ ΕΚΔΗΛΩΣΗΣ ΕΝΔΙΑΦΕΡΟΝΤΟΣ ΥΠΟΒΟΛΗΣ ΠΡΟΣΦΟΡΑΣ ΠΡΟΜΗΘΕΙΑΣ ΕΙΔΩΝ ΑΤΟΜΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ",
+      "referenceNumber": "26PROC018478013",
+      "signedDate": "2026-02-13T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-18T15:00:00",
+      "submissionDate": "2026-02-13T11:34:25.668",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.F00624.0001.",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL611",
+        "value": "Καρδίτσα, Τρίκαλα"
+      },
+      "nutsCity": "ΤΡΙΚΑΛΑ",
+      "nutsPostalCode": "42132",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "100016391",
+          "value": "ΑΣΤΙΚΗ ΑΝΑΠΤΥΞΗ ΔΗΜΟΤΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ"
+        },
+        "signers": {
+          "key": "100071248",
+          "value": "ΓΕΩΡΓΙΟΣ ΖΙΩΓΑΣ - Πρόεδρος Δ.Σ."
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "64.08.03.0000"
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018477904"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "10",
+            "value": "ΝΠΙΔ"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL611",
+            "value": "Καρδίτσα, Τρίκαλα"
+          }
+        }
+      ],
+      "organization": {
+        "key": "51940",
+        "value": "ΑΣΤΙΚΗ ΑΝΑΠΤΥΞΗ ΔΗΜΟΤΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "4",
+        "value": "Εκτός Γενικής Κυβέρνησης"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "12",
+        "value": "Τυχόν άλλη δραστηριότητα"
+      },
+      "contractDuration": 12,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "totalCostWithVAT": 1832.72,
+      "totalCostWithoutVAT": 1478.0,
+      "objectDetails": [
+        {
+          "quantity": 83,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 1478,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "Η ΑΣΤΙΚΗ ΑΝΑΠΤΥΞΗ ΜΟΝΟΜΕΤΟΧΙΚΗ Α.Ε. ΘΑ ΠΡΟΒΕΙ ΣΤΗΝ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗ ΠΡΟΜΗΘΕΙΑΣ ΕΙΔΩΝ ΑΤΟΜΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΤΩΝ ΥΠΑΛΛΗΛΩΝ ΤΗΣ ΕΠΙΧΕΙΡΗΣΗΣ.",
+          "cpvs": [
+            {
+              "key": "35113400-3",
+              "value": "Ρούχα προστασίας και ασφαλείας"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 3,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "35113400"
+      ],
+      "cpv_divisions": [
+        "35"
+      ],
+      "all_domains": [
+        "Security & Defense"
+      ],
+      "primary_domain": "Security & Defense"
+    },
+    {
+      "title": "Πρόσκληση για ρούχα ατομικής προστασίας  της Π.Ε. Τρικάλων",
+      "referenceNumber": "26PROC018477888",
+      "signedDate": "2026-02-13T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-18T09:00:00",
+      "submissionDate": "2026-02-13T11:27:20.005",
+      "lastUpdateDate": "2026-02-13T00:00:00",
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1007.905.0001",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL611",
+        "value": "Καρδίτσα, Τρίκαλα"
+      },
+      "nutsCity": "ΤΡΙΚΑΛΑ",
+      "nutsPostalCode": "42100",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "80683",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΔΙΟΙΚΗΤΙΚΟΥ - ΟΙΚΟΝΟΜΙΚΟΥ ΠΕΡΙΦΕΡΕΙΑΚΗΣ ΕΝΟΤΗΤΑΣ ΤΡΙΚΑΛΩΝ"
+        },
+        "signers": {
+          "key": "100084263",
+          "value": "ΔΗΜΗΤΡΙΟΣ ΚΟΥΡΕΤΑΣ - ΠΕΡΙΦΕΡΕΙΑΡΧΗΣ"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": "2410189"
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [
+        {
+          "code": "26REQ018438573"
+        }
+      ],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "9",
+            "value": "ΝΠΔΔ"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL611",
+            "value": "Καρδίτσα, Τρίκαλα"
+          }
+        }
+      ],
+      "organization": {
+        "key": "5007",
+        "value": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "2",
+        "value": "ΟΤΑ"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "1",
+        "value": "Γενικές δημόσιες υπηρεσίες"
+      },
+      "contractDuration": 11,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "totalCostWithVAT": 3499.9,
+      "totalCostWithoutVAT": 2822.5,
+      "objectDetails": [
+        {
+          "quantity": 10,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 2822.5,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ρούχα ατομικής προστασίας",
+          "cpvs": [
+            {
+              "key": "35113400-3",
+              "value": "Ρούχα προστασίας και ασφαλείας"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 1,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "35113400"
+      ],
+      "cpv_divisions": [
+        "35"
+      ],
+      "all_domains": [
+        "Security & Defense"
+      ],
+      "primary_domain": "Security & Defense"
+    },
+    {
+      "title": "ΠΡΟΣΚΛΗΣΗ ΕΚΔΗΛΩΣΗΣ ΕΝΔΙΑΦΕΡΟΝΤΟΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΤΟΥ ΣΥΣΤΗΜΑΤΟΣ ΚΛΕΙΣΤΟΥ ΚΥΚΛΩΜΑΤΟΣ ΕΓΚΑΤΑΣΤΑΣΕΩΝ",
+      "referenceNumber": "26PROC018477260",
+      "signedDate": "2026-02-13T00:00:00",
+      "publishedDate": null,
+      "finalSubmissionDate": "2026-02-24T10:00:00",
+      "submissionDate": "2026-02-13T10:49:32.531",
+      "lastUpdateDate": null,
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationType": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "amendPreviousNotice": false,
+      "amendedNoticeADAM": null,
+      "frameworkAgreementNoticeADAM": null,
+      "protocolNumber": null,
+      "authorEmail": null,
+      "aaht": "1057.2019900700.0001",
+      "biddingWebsite": null,
+      "organizationVatNumber": null,
+      "greekOrganizationVatNumber": null,
+      "budget": null,
+      "commitmentNo": null,
+      "relatedNoticeADAM": null,
+      "numberOfSections": 1,
+      "nutsCode": {
+        "key": "EL303",
+        "value": "Κεντρικός Τομέας Αθηνών"
+      },
+      "nutsCity": "ΑΘΗΝΑ",
+      "nutsPostalCode": "11854",
+      "nutsCountry": {
+        "key": "GR",
+        "value": "Ελλάδα"
+      },
+      "assignedContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "socialContract": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "centralGovernmentAuthority": {
+        "key": "1",
+        "value": "Ναι"
+      },
+      "contractingData": {
+        "unitsOperator": {
+          "key": "70929",
+          "value": "ΔΙΕΥΘΥΝΣΗ ΥΓΕΙΟΝΟΜΙΚΟΥ / Α.Ε.Α."
+        },
+        "signers": {
+          "key": "100080912",
+          "value": "ΓΕΩΡΓΙΟΣ ΠΟΥΛΙΑΝΟΣ - Διευθυντής"
+        }
+      },
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "450-2699",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "systemicNumbers": [],
+      "approvedRequests": [],
+      "contractingAuthorities": [
+        {
+          "contractingAuthority": {
+            "key": "12",
+            "value": "Κεντρική Διοίκηση"
+          }
+        }
+      ],
+      "nutsCodes": [
+        {
+          "nutsCode": {
+            "key": "EL303",
+            "value": "Κεντρικός Τομέας Αθηνών"
+          }
+        }
+      ],
+      "organization": {
+        "key": "100054489",
+        "value": "ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ"
+      },
+      "typeOfProcedure": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "contractType": {
+        "key": "13",
+        "value": "Προμήθειες"
+      },
+      "awardProcedure": null,
+      "centralizedMarkets": [
+        {
+          "centralizedMarket": {
+            "key": "8",
+            "value": "Δεν χρησιμοποιείται"
+          }
+        }
+      ],
+      "legalContext": {
+        "key": "5",
+        "value": "ν.4412/2016 - Βιβλίο Ι – κάτω των ορίων"
+      },
+      "conductingProceedings": {
+        "key": "2",
+        "value": "Μη ηλεκτρονική διαδικασία"
+      },
+      "digitalPlatform": null,
+      "criteriaCode": {
+        "key": "2",
+        "value": "Βάσει τιμής"
+      },
+      "classificationOfPublicLawOrganization": {
+        "key": "1",
+        "value": "Κεντρική Κυβέρνηση"
+      },
+      "noticeType": {
+        "key": "4",
+        "value": "Πρόσκληση"
+      },
+      "contractingAuthorityActivity": {
+        "key": "3",
+        "value": "Δημόσια τάξη και ασφάλεια"
+      },
+      "contractDuration": 1,
+      "contractDurationUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "totalCostWithVAT": 37000.0,
+      "totalCostWithoutVAT": 29838.71,
+      "objectDetails": [
+        {
+          "quantity": 153,
+          "type": {
+            "key": "C62",
+            "value": "Τεμάχιο"
+          },
+          "costWithoutVAT": 29838.71,
+          "vat": "24",
+          "currency": {
+            "key": "EUR",
+            "value": "Ευρώ"
+          },
+          "shortDescription": "ΠΡΟΣΚΛΗΣΗ ΕΚΔΗΛΩΣΗΣ ΕΝΔΙΑΦΕΡΟΝΤΟΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΤΟΥ ΣΥΣΤΗΜΑΤΟΣ ΚΛΕΙΣΤΟΥ ΚΥΚΛΩΜΑΤΟΣ ΕΓΚΑΤΑΣΤΑΣΕΩΝ (CCTV), ΑΝΑΒΑΘΜΙΣΗ ΠΥΡΑΣΦΑΛΕΙΑΣ ΚΑΙ ΕΓΚΑΤΑΣΤΑΣΗ ΣΥΣΤΗΜΑΤΟΣ ΕΞΟΔΟΥ ΓΙΑ ΑΝΟΙΓΜΑ ΠΟΡΤΑΣ ΠΑΡΚΙΝΓΚ & ΠΟΡΤΑΣ ΤΟΥ ΚΤΙΡΙΟΥ ΕΠΙ ΤΗΣ ΟΔΟΥ ΙΣΧΟΜΑΧΟΥ 1 ",
+          "cpvs": [
+            {
+              "key": "32234000-2",
+              "value": "Κάμερες κλειστού κυκλώματος τηλεόρασης"
+            },
+            {
+              "key": "31625100-4",
+              "value": "Συστήματα πυρανίχνευσης"
+            },
+            {
+              "key": "35111400-9",
+              "value": "Εξοπλισμός πυρασφάλειας"
+            }
+          ],
+          "greenContracts": {
+            "key": "1",
+            "value": "Δεν εμπίπτει στο ΕΣΔ"
+          },
+          "goodServices": null,
+          "budgetCode": null
+        }
+      ],
+      "additionalContractTypes": null,
+      "mixedContract": false,
+      "offersValidTime": 1,
+      "offersValidTimeUnitOfMeasure": {
+        "key": "3",
+        "value": "Μήνες"
+      },
+      "maxNumberOfContractors": null,
+      "optionRight": {
+        "key": "2",
+        "value": "Όχι"
+      },
+      "optionRightDescription": null,
+      "abortReason": null,
+      "auctionRefNo": [],
+      "amendsNoticeRefNo": [],
+      "cpv_codes_extracted": [
+        "32234000",
+        "31625100",
+        "35111400"
+      ],
+      "cpv_divisions": [
+        "32",
+        "31",
+        "35"
+      ],
+      "all_domains": [
+        "Telecom & Electronics",
+        "Electrical Equipment & Lighting",
+        "Security & Defense"
+      ],
+      "primary_domain": "Telecom & Electronics"
     }
   ]
 }
