@@ -1,544 +1,88 @@
 ﻿<!doctype html>
 <html lang="el">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>PublicFlow — Δημόσιες Συμβάσεις & Ευκαιρίες</title>
-  <style>
-    :root{
-      --bg:#0b1020; --panel:#121a33; --text:#e8ecff; --muted:#aeb8e6;
-      --line:#22305f; --accent:#7aa2ff;
-      --good:#3ddc97; --bad:#ff6b6b;
-    }
-    *{box-sizing:border-box}
-    body{
-      margin:0; font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
-      color:var(--text);
-      background:
-        radial-gradient(1200px 700px at 20% -10%, #172558 0%, transparent 60%),
-        radial-gradient(1000px 600px at 120% 0%, #1a2f66 0%, transparent 55%),
-        var(--bg);
-    }
-    .wrap{max-width:1200px;margin:0 auto;padding:20px}
-    header{display:flex;gap:14px;align-items:center;justify-content:space-between;margin-bottom:14px}
-    .brand h1{margin:0;font-size:20px}
-    .sub{color:var(--muted);font-size:13px;margin-top:2px}
-    .pill{
-      padding:8px 10px;border-radius:999px;border:1px solid var(--line);
-      background:rgba(255,255,255,0.03); color:var(--muted); font-size:12px; white-space:nowrap;
-    }
-    .panel{
-      background:rgba(18,26,51,0.88); border:1px solid var(--line); border-radius:16px;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.25);
-    }
-    .controls{display:flex;flex-wrap:wrap;gap:10px;padding:12px;align-items:center;justify-content:space-between}
-    .tabs{display:flex;flex-wrap:wrap;gap:8px}
-    .tab{
-      border:1px solid var(--line); background:rgba(255,255,255,0.04); color:var(--text);
-      padding:8px 12px; border-radius:12px; cursor:pointer; font-weight:700; font-size:13px;
-    }
-    .tab.active{border-color:var(--accent); box-shadow:0 0 0 3px rgba(122,162,255,0.18) inset;}
-    .right{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
-
-    .input{
-      border:1px solid var(--line); background:rgba(255,255,255,0.04); color:var(--text);
-      padding:9px 12px; border-radius:12px; outline:none;
-    }
-    .input{min-width:260px}
-
-    .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:12px;padding:12px}
-    .card{grid-column:span 12;padding:14px;border-radius:14px;border:1px solid var(--line);background:rgba(255,255,255,0.03)}
-    @media (min-width: 860px){ .card{grid-column:span 6;} }
-    @media (min-width: 1120px){ .card{grid-column:span 4;} }
-    .title{margin:0 0 10px 0;font-size:14px;line-height:1.35;font-weight:800}
-
-    .desc{
-      margin:0 0 10px 0;
-      color:var(--muted);
-      font-size:12px;
-      line-height:1.35;
-      display:-webkit-box;
-      -webkit-line-clamp:2;
-      -webkit-box-orient:vertical;
-      overflow:hidden;
-    }
-
-    .meta{display:grid;gap:6px;font-size:12px;color:var(--muted)}
-    .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
-    .k{opacity:.9}
-    .v{color:var(--text);font-weight:750}
-
-    .actions{margin-top:12px;display:flex;gap:10px;flex-wrap:wrap}
-    .btn{
-      display:inline-block;padding:8px 12px;border-radius:12px;border:1px solid var(--line);
-      color:var(--text);text-decoration:none;background:rgba(255,255,255,0.04);font-weight:800;font-size:12px;
-    }
-    .btn:hover{border-color:var(--accent)}
-    .btn.good{border-color:rgba(61,220,151,0.5)}
-    .empty{padding:18px;color:var(--muted);text-align:center;grid-column:1/-1}
-    .mono{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;}
-    .footer{padding:12px 16px;color:var(--muted);font-size:12px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
-
-    /* ---------- Custom dropdown (dark) ---------- */
-    .dd{ position:relative; min-width: 320px; max-width: 520px; }
-    .dd-btn{
-      width:100%;
-      border:1px solid var(--line);
-      background:rgba(255,255,255,0.04);
-      color:var(--text);
-      padding:9px 12px;
-      border-radius:12px;
-      cursor:pointer;
-      font-weight:800;
-      font-size:12px;
-      text-align:left;
-      overflow:hidden;
-      text-overflow:ellipsis;
-      white-space:nowrap;
-    }
-    .dd-menu{
-      position:absolute;
-      top: calc(100% + 8px);
-      left:0;
-      right:0;
-      background:rgba(18,26,51,0.98);
-      border:1px solid var(--line);
-      border-radius:12px;
-      box-shadow: 0 18px 40px rgba(0,0,0,0.35);
-      padding:10px;
-      z-index:9999;
-    }
-    .dd-search{
-      width:100%;
-      border:1px solid var(--line);
-      background:rgba(255,255,255,0.04);
-      color:var(--text);
-      padding:8px 10px;
-      border-radius:10px;
-      outline:none;
-      font-size:12px;
-      margin-bottom:8px;
-    }
-    .dd-list{
-      max-height: 320px;
-      overflow:auto;
-      display:flex;
-      flex-direction:column;
-      gap:6px;
-    }
-    .dd-item{
-      border:1px solid rgba(255,255,255,0.06);
-      background:rgba(255,255,255,0.03);
-      color:var(--text);
-      padding:8px 10px;
-      border-radius:10px;
-      cursor:pointer;
-      font-size:12px;
-      display:flex;
-      justify-content:space-between;
-      gap:10px;
-    }
-    .dd-item:hover{
-      border-color: var(--accent);
-      background:rgba(122,162,255,0.10);
-    }
-    .dd-item .muted{ color:var(--muted); font-weight:750; }
-    .dd-item.active{
-      border-color: var(--accent);
-      box-shadow:0 0 0 3px rgba(122,162,255,0.18) inset;
-    }
-  </style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Publicflow Περιήγηση</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Source+Serif+4:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-  <div class="wrap">
-    <header>
-      <div class="brand">
-        <h1>PublicFlow</h1>
-        <div class="sub">Παρακολούθηση δημοσίων συμβάσεων, αναθέσεων και πληρωμών (ΚΗΜΔΗΣ)</div>
-      </div>
-      <div class="pill" id="statusPill">Φόρτωση…</div>
-    </header>
+  <header class="hero">
+    <div class="hero-inner">
+      <p class="eyebrow">KIMDIS Data Browser</p>
+      <h1>Publicflow Περιήγηση</h1>
+      <p class="hero-sub">Έξυπνη αναζήτηση προμηθειών με φίλτρα ανά τύπο ανάθεσης, στάδιο, τοποθεσία και CPV.</p>
+    </div>
+  </header>
 
-    <section class="panel">
-      <div class="controls">
-        <div class="tabs" id="tabs"></div>
-        <div class="right">
-          <div class="dd" id="bucketDD">
-            <button class="dd-btn" id="bucketBtn" type="button">Επιλογή κατηγορίας…</button>
-            <div class="dd-menu" id="bucketMenu" hidden>
-              <input class="dd-search" id="bucketSearch" placeholder="Φίλτρο κατηγοριών…" />
-              <div class="dd-list" id="bucketList"></div>
-            </div>
-          </div>
+  <main class="layout">
+    <aside class="filters-panel">
+      <h2>Φίλτρα</h2>
 
-          <input id="q" class="input" placeholder="Αναζήτηση τίτλου / αναφοράς / φορέα / περιοχής…" />
-          <span class="pill" id="countPill">0 εγγραφές</span>
-        </div>
-      </div>
+      <label class="field">
+        <span>Αναζήτηση</span>
+        <input id="search" placeholder="Τίτλος, φορέας, κωδικός" />
+      </label>
 
-      <div class="grid" id="grid"></div>
+      <label class="field">
+        <span>Τύπος Ανάθεσης</span>
+        <select id="awardMode">
+          <option value="all">Όλοι οι τύποι ανάθεσης</option>
+          <option value="direct">Απευθείας ανάθεση</option>
+          <option value="competition">Διαγωνισμός</option>
+        </select>
+      </label>
 
-      <div class="footer">
-        <div><span class="k">Δεδομένα:</span> <span class="v mono">/data/&lt;κατηγορία&gt;/&lt;bucket&gt;.json</span></div>
-        <div id="footerInfo"></div>
-      </div>
+      <label class="field">
+        <span>Στάδιο</span>
+        <select id="kind">
+          <option value="all">Όλα τα στάδια</option>
+          <option value="request">Αίτημα</option>
+          <option value="notice">Προκήρυξη</option>
+          <option value="auction">Διαγωνισμός</option>
+          <option value="contract">Σύμβαση</option>
+          <option value="payment">Πληρωμή</option>
+        </select>
+      </label>
+
+      <label class="field">
+        <span>Τοποθεσία (NUTS)</span>
+        <select id="location">
+          <option value="">Όλες οι τοποθεσίες (NUTS)</option>
+        </select>
+      </label>
+
+      <label class="field">
+        <span>Επίπεδο CPV</span>
+        <select id="cpvLevel">
+          <option value="division">Διαίρεση (2)</option>
+          <option value="group">Ομάδα (3)</option>
+          <option value="class">Κλάση (4)</option>
+          <option value="category">Κατηγορία (5)</option>
+          <option value="item">Είδος (8)</option>
+        </select>
+      </label>
+
+      <label class="field">
+        <span>Κατηγορία CPV</span>
+        <select id="cpvCode">
+          <option value="">Όλες οι κατηγορίες</option>
+        </select>
+      </label>
+    </aside>
+
+    <section class="results-panel">
+      <div id="meta" class="meta"></div>
+      <div id="list" class="cards"></div>
+      <div id="moreWrap" class="more-wrap"></div>
     </section>
-  </div>
+  </main>
 
-<script>
-const CATEGORIES = [
-  { key:"requests",  label:"Αιτήματα"  },
-  { key:"notices",   label:"Προκηρύξεις"   },
-  { key:"auctions",  label:"Διαγωνισμοί"  },
-  { key:"contracts", label:"Συμβάσεις" },
-  { key:"payments",  label:"Πληρωμές"  },
-];
-
-/* Domain label translations (bucket labels in dropdown) */
-const DOMAIN_LABEL_GR = {
-  "Architecture, Engineering & Inspection": "Αρχιτεκτονική, Μηχανικοί & Επιθεωρήσεις",
-  "Food & Catering": "Τρόφιμα & Εστίαση",
-  "IT Services": "Υπηρεσίες Πληροφορικής",
-  "Transport & Vehicles": "Μεταφορές & Οχήματα",
-  "Office & Computing (Non-Software)": "Γραφειακός Εξοπλισμός & Υπολογιστές",
-  "Furniture & Cleaning Products": "Έπιπλα & Προϊόντα Καθαρισμού",
-  "Construction Materials & Structures": "Δομικά Υλικά & Κατασκευές",
-  "Community & Personal Services": "Κοινωνικές & Προσωπικές Υπηρεσίες",
-  "Chemicals": "Χημικά",
-  "Recreation, Culture & Sports Services": "Πολιτισμός, Αθλητισμός & Ψυχαγωγία",
-  "Postal & Telecommunications Services": "Ταχυδρομικές & Τηλεπικοινωνίες",
-  "Health & Social Work Services": "Υγεία & Κοινωνική Μέριμνα",
-  "Electrical Equipment & Lighting": "Ηλεκτρολογικός Εξοπλισμός & Φωτισμός",
-  "Industrial Machinery": "Βιομηχανικά Μηχανήματα",
-  "Telecom & Electronics": "Τηλεπικοινωνίες & Ηλεκτρονικά",
-  "Agriculture & Forestry": "Γεωργία & Δασοκομία",
-  "Printing & Publishing": "Εκτυπώσεις & Εκδόσεις",
-  "Software & Information Systems": "Λογισμικό & Πληροφοριακά Συστήματα",
-  "Clothing & PPE": "Ένδυση & ΜΑΠ",
-  "Security & Defense": "Ασφάλεια & Άμυνα",
-  "Agriculture/Forestry/Landscaping Services": "Υπηρεσίες Γεωργίας/Δασών/Πρασίνου",
-  "Financial & Insurance Services": "Χρηματοοικονομικά & Ασφάλειες",
-  "Lab, Optical & Precision Equipment": "Εργαστηριακός/Οπτικός/Ακριβείας Εξοπλισμός",
-  "Hospitality, Retail & Catering Services": "Φιλοξενία & Λιανικό Εμπόριο",
-  "Transport Support & Travel": "Υποστήριξη Μεταφορών & Ταξίδια",
-  "Installation Services (Non-Software)": "Υπηρεσίες Εγκατάστασης",
-  "Metals & Mining": "Μέταλλα & Εξορύξεις",
-  "Real Estate": "Ακίνητα",
-  "Sports, Toys & Recreation Goods": "Αθλητικά/Παιχνίδια/Ψυχαγωγία",
-  "R&D & Related Consulting": "Έρευνα & Ανάπτυξη (R&D)",
-  "Public Admin, Defence & Social Security": "Δημόσια Διοίκηση & Κοινωνική Ασφάλιση",
-  "Textiles, Plastics & Rubber": "Υφάσματα/Πλαστικά/Καουτσούκ",
-  "Education & Training": "Εκπαίδευση & Κατάρτιση",
-  "Construction & Quarrying Machinery": "Μηχανήματα Κατασκευών",
-  "Water": "Ύδρευση",
-  "Oil & Gas Industr": "Πετρέλαιο & Φυσικό Αέριο",
-
-  /* from your screenshot */
-  "Medical & Pharma": "Ιατρικά & Φαρμακευτικά",
-  "Business Services (Legal/Marketing/Recruitment/Security/Print)": "Επιχειρηματικές Υπηρεσίες (Νομικά/Μάρκετινγκ/Στελέχωση/Ασφάλεια/Εκτυπώσεις)",
-  "Repair & Maintenance": "Επισκευές & Συντήρηση",
-  "Construction & Works": "Κατασκευές & Τεχνικά Έργα",
-  "Energy & Fuels": "Ενέργεια & Καύσιμα",
-};
-
-function toGreekLabel(label){
-  return DOMAIN_LABEL_GR[label] || label;
-}
-
-const KHMDHS_BASE = "https://cerpp.eprocurement.gov.gr/khmdhs-opendata";
-function attachmentUrl(categoryKey, referenceNumber){
-  const map = { requests:"request", notices:"notice", auctions:"auction", contracts:"contract", payments:"payment" };
-  const resource = map[categoryKey];
-  if (!resource || !referenceNumber) return null;
-  return `${KHMDHS_BASE}/${resource}/attachment/${encodeURIComponent(referenceNumber)}`;
-}
-
-const elTabs = document.getElementById("tabs");
-const elGrid = document.getElementById("grid");
-const elQ = document.getElementById("q");
-const elStatus = document.getElementById("statusPill");
-const elCount = document.getElementById("countPill");
-const elFooter = document.getElementById("footerInfo");
-
-const elBucketDD = document.getElementById("bucketDD");
-const elBucketBtn = document.getElementById("bucketBtn");
-const elBucketMenu = document.getElementById("bucketMenu");
-const elBucketSearch = document.getElementById("bucketSearch");
-const elBucketList = document.getElementById("bucketList");
-
-const state = { cat:"requests", bucketFile:null, items:[], filtered:[], manifest:null };
-
-function escapeHtml(s){
-  return String(s ?? "")
-    .replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;")
-    .replaceAll('"',"&quot;").replaceAll("'","&#039;");
-}
-
-async function fetchJson(url){
-  const r = await fetch(url, { cache:"no-store" });
-  if (!r.ok) throw new Error(`HTTP ${r.status} για ${url}`);
-  return await r.json();
-}
-
-function setStatus(ok, txt){
-  elStatus.textContent = txt;
-  elStatus.style.borderColor = ok ? "rgba(61,220,151,0.45)" : "rgba(255,107,107,0.45)";
-}
-
-function renderTabs(){
-  elTabs.innerHTML = "";
-  for (const c of CATEGORIES){
-    const b = document.createElement("button");
-    b.className = "tab" + (state.cat === c.key ? " active" : "");
-    b.textContent = c.label;
-    b.onclick = () => {
-      state.cat = c.key;
-      state.bucketFile = null;
-      updateHash();
-      loadCategory();
-    };
-    elTabs.appendChild(b);
-  }
-}
-
-function updateHash(){
-  const cat = encodeURIComponent(state.cat);
-  if (state.bucketFile) {
-    history.replaceState(null, "", `#${cat}::${encodeURIComponent(state.bucketFile)}`);
-  } else {
-    history.replaceState(null, "", `#${cat}`);
-  }
-}
-
-function parseHash(){
-  const h = (location.hash || "").replace(/^#/, "");
-  if (!h) return;
-  const parts = h.split("::").map(decodeURIComponent);
-  if (parts[0]) state.cat = parts[0];
-  state.bucketFile = parts[1] || null;
-}
-
-function organizationName(item){
-  return item.organization?.value || item.contractingData?.unitsOperator?.value || "";
-}
-
-function getShortDescription(item){
-  return item.objectDetails?.[0]?.shortDescription || item.shortDescription || item.description || "";
-}
-
-function getLocation(item){
-  return item.nutsCode?.value || item.placeOfPerformance?.value || item.placeOfPerformance || "";
-}
-
-function getContractType(item){
-  const v =
-    item.contractTypes?.[0]?.contractType?.value ||
-    item.contractType?.value ||
-    item.contractType ||
-    "";
-  return v || null;
-}
-
-function formatMoneyEUR(n){
-  const num = Number(n);
-  if (!Number.isFinite(num)) return null;
-  return "€" + num.toLocaleString(undefined, { maximumFractionDigits: 2 });
-}
-
-function getAmountWithVat(item){
-  const direct = item.totalCostWithVAT ?? item.totalCost ?? item.totalAmountWithVat ?? null;
-  const fm = formatMoneyEUR(direct);
-  if (fm) return fm;
-
-  const candidates = [
-    item.amount, item.totalAmount, item.totalValue, item.value, item.contractValue,
-    item.contractingData?.totalAmount, item.contractingData?.totalValue,
-    item.contractingData?.awardValue, item.contractingData?.price,
-    item.financialData?.amount, item.financialData?.totalAmount,
-    item.paymentAmount, item.payableAmount,
-    item.budget?.amount, item.budget?.value,
-    item.award?.amount, item.award?.value,
-    item.objectDetails?.[0]?.estimatedValueWithVat,
-    item.objectDetails?.[0]?.estimatedValue,
-    item.objectDetails?.[0]?.value
-  ];
-
-  let v = candidates.find(x => x !== undefined && x !== null && x !== "");
-  if (v === undefined) return null;
-
-  let currency = item.currency || item.financialData?.currency || item.budget?.currency || item.contractingData?.currency;
-
-  if (typeof v === "object" && v !== null) {
-    currency = v.currency || currency;
-    v = v.amount ?? v.value ?? v.total ?? v.net ?? v.gross ?? null;
-  }
-  if (v === null || v === undefined || v === "") return null;
-
-  const num = Number(String(v).replace(",", "."));
-  const pretty = Number.isFinite(num) ? num.toLocaleString(undefined, { maximumFractionDigits: 2 }) : String(v);
-
-  if (!currency || currency === "EUR" || currency === "€") return "€" + pretty;
-  return `${pretty} ${currency}`;
-}
-
-function applyFilter(){
-  const q = (elQ.value || "").trim().toLowerCase();
-  if (!q) state.filtered = state.items.slice();
-  else {
-    state.filtered = state.items.filter(item => {
-      const parts = [
-        item.title,
-        item.referenceNumber,
-        item.protocolNumber,
-        organizationName(item),
-        getLocation(item),
-        getShortDescription(item),
-        getContractType(item),
-      ].filter(Boolean).map(x => String(x).toLowerCase());
-      return parts.some(p => p.includes(q));
-    });
-  }
-  elCount.textContent = `${state.filtered.length} εγγραφές`;
-  renderGrid();
-}
-
-function renderGrid(){
-  elGrid.innerHTML = "";
-  if (!state.filtered.length){
-    elGrid.innerHTML = `<div class="empty">Δεν βρέθηκαν εγγραφές.</div>`;
-    return;
-  }
-
-  for (const item of state.filtered){
-    const ref = item.referenceNumber || "";
-    const title = item.title || "(χωρίς τίτλο)";
-    const org = organizationName(item);
-    const submitted = item.submissionDate || "";
-    const amountVat = getAmountWithVat(item);
-    const desc = getShortDescription(item);
-    const type = getContractType(item);
-    const loc = getLocation(item);
-
-    const aUrl = attachmentUrl(state.cat, ref);
-    const aBtn = aUrl ? `<a class="btn good" href="${aUrl}" target="_blank" rel="noopener">📄 Άνοιγμα αρχείου (ΚΗΜΔΗΣ)</a>` : "";
-
-    const card = document.createElement("div");
-    card.className = "card";
-    card.innerHTML = `
-      <div class="title">${escapeHtml(title)}</div>
-      ${desc ? `<div class="desc">${escapeHtml(desc)}</div>` : ""}
-      <div class="meta">
-        ${amountVat ? `<div class="row"><span class="k">Ποσό (με ΦΠΑ):</span> <span class="v mono">${escapeHtml(amountVat)}</span></div>` : ""}
-        ${type ? `<div class="row"><span class="k">Τύπος:</span> <span class="v">${escapeHtml(type)}</span></div>` : ""}
-        ${loc ? `<div class="row"><span class="k">Περιοχή:</span> <span class="v">${escapeHtml(loc)}</span></div>` : ""}
-        ${submitted ? `<div class="row"><span class="k">Υποβλήθηκε:</span> <span class="v mono">${escapeHtml(submitted)}</span></div>` : ""}
-        ${org ? `<div class="row"><span class="k">Φορέας:</span> <span class="v">${escapeHtml(org)}</span></div>` : ""}
-        <div class="row"><span class="k">Αναφορά:</span> <span class="v mono">${escapeHtml(ref)}</span></div>
-      </div>
-      <div class="actions">${aBtn}</div>
-    `;
-    elGrid.appendChild(card);
-  }
-}
-
-/* ---------- Custom dropdown behavior ---------- */
-function openBucketMenu(){
-  elBucketMenu.hidden = false;
-  elBucketSearch.value = "";
-  elBucketSearch.focus();
-  renderBucketList();
-}
-function closeBucketMenu(){ elBucketMenu.hidden = true; }
-function toggleBucketMenu(){ elBucketMenu.hidden ? openBucketMenu() : closeBucketMenu(); }
-
-document.addEventListener("click", (e) => { if (!elBucketDD.contains(e.target)) closeBucketMenu(); });
-elBucketBtn.addEventListener("click", (e) => { e.preventDefault(); e.stopPropagation(); toggleBucketMenu(); });
-elBucketSearch.addEventListener("input", renderBucketList);
-
-function renderBuckets(){
-  const buckets = state.manifest?.buckets || [];
-  if (!state.bucketFile && buckets.length) state.bucketFile = buckets[0].file;
-
-  const current = buckets.find(b => b.file === state.bucketFile) || buckets[0];
-  elBucketBtn.textContent = current ? `${toGreekLabel(current.label)} — ${current.count}` : "Επιλογή κατηγορίας…";
-
-  renderBucketList();
-}
-
-function renderBucketList(){
-  const buckets = state.manifest?.buckets || [];
-  const q = (elBucketSearch.value || "").trim().toLowerCase();
-
-  const filtered = !q ? buckets : buckets.filter(b => {
-    const s = `${toGreekLabel(b.label)} ${b.label} ${b.key} ${b.file}`.toLowerCase();
-    return s.includes(q);
-  });
-
-  elBucketList.innerHTML = "";
-  for (const b of filtered){
-    const div = document.createElement("div");
-    div.className = "dd-item" + (b.file === state.bucketFile ? " active" : "");
-    div.innerHTML = `<span>${escapeHtml(toGreekLabel(b.label))}</span><span class="muted">${b.count}</span>`;
-    div.onclick = () => {
-      state.bucketFile = b.file;
-      updateHash();
-      closeBucketMenu();
-      renderBuckets();
-      loadBucket();
-    };
-    elBucketList.appendChild(div);
-  }
-
-  if (!filtered.length){
-    elBucketList.innerHTML = `<div class="dd-item" style="cursor:default;opacity:.8">Δεν υπάρχουν κατηγορίες.</div>`;
-  }
-}
-
-async function loadBucket(){
-  if (!state.bucketFile && state.manifest?.buckets?.length){
-    state.bucketFile = state.manifest.buckets[0].file;
-    updateHash();
-  }
-  const url = `data/${state.cat}/${state.bucketFile}`;
-  setStatus(true, "Φόρτωση…");
-  elFooter.textContent = "";
-  const items = await fetchJson(url);
-
-  state.items = Array.isArray(items) ? items : (items.items || items.data || items.content || []);
-  state.filtered = state.items.slice();
-
-  elFooter.textContent = `${state.manifest?.generatedAt ? "generatedAt: " + state.manifest.generatedAt + " • " : ""}file: ${url}`;
-  setStatus(true, `Φορτώθηκε: ${state.cat}`);
-  applyFilter();
-}
-
-async function loadCategory(){
-  renderTabs();
-  setStatus(true, "Φόρτωση καταλόγου…");
-  try {
-    state.manifest = await fetchJson(`data/${state.cat}/index.json`);
-    renderBuckets();
-    await loadBucket();
-  } catch (e){
-    console.error(e);
-    setStatus(false, "Αποτυχία φόρτωσης");
-    elGrid.innerHTML = `<div class="empty">
-      <div style="font-weight:800;margin-bottom:6px;">Δεν ήταν δυνατή η φόρτωση για "${escapeHtml(state.cat)}".</div>
-      <div class="mono">${escapeHtml(e.message || String(e))}</div>
-    </div>`;
-    elCount.textContent = "0 εγγραφές";
-  }
-}
-
-elQ.addEventListener("input", applyFilter);
-window.addEventListener("hashchange", () => { state.bucketFile=null; parseHash(); loadCategory(); });
-
-parseHash();
-loadCategory();
-</script>
-
-<script data-goatcounter="https://caboum94.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
-<noscript><img src="https://caboum94.goatcounter.com/count?p=/noscript"></noscript>
+  <script src="./app.js?v=20260221-6"></script>
 </body>
 </html>
+
+
