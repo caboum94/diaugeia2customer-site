@@ -1,4 +1,13 @@
-﻿const state = { records: [], nodes: [], filtered: [], visibleCount: 200, locations: [] };
+﻿const state = {
+  records: [],
+  nodes: [],
+  filtered: [],
+  visibleCount: 200,
+  locations: [],
+  cpvPath: [],
+  cpvNodesByCode: new Map(),
+  cpvChildrenByParent: new Map(),
+};
 
 const KIND_LABELS = {
   request: 'Αίτημα',
@@ -15,8 +24,10 @@ const els = {
   awardMode: document.getElementById('awardMode'),
   kind: document.getElementById('kind'),
   location: document.getElementById('location'),
-  cpvLevel: document.getElementById('cpvLevel'),
   cpvCode: document.getElementById('cpvCode'),
+  cpvTop: document.getElementById('cpvTop'),
+  cpvBack: document.getElementById('cpvBack'),
+  cpvPath: document.getElementById('cpvPath'),
   list: document.getElementById('list'),
   meta: document.getElementById('meta'),
   moreWrap: document.getElementById('moreWrap'),
@@ -41,19 +52,59 @@ function classifyAwardMode(r) {
   return 'competition';
 }
 
-function cpvPrefix(cpv, level) {
-  if (level === 'division') return cpv.cpv_division || '';
-  if (level === 'group') return cpv.cpv_group || '';
-  if (level === 'class') return cpv.cpv_class || '';
-  if (level === 'category') return cpv.cpv_category || '';
-  return cpv.cpv_item || '';
+function buildCpvTree() {
+  state.cpvNodesByCode.clear();
+  state.cpvChildrenByParent.clear();
+
+  for (const n of state.nodes) {
+    const code = String(n.code || '').trim();
+    if (!code) continue;
+    state.cpvNodesByCode.set(code, n);
+
+    const parent = String(n.parent_code || '').trim();
+    if (!state.cpvChildrenByParent.has(parent)) {
+      state.cpvChildrenByParent.set(parent, []);
+    }
+    state.cpvChildrenByParent.get(parent).push(n);
+  }
+
+  for (const [parent, children] of state.cpvChildrenByParent.entries()) {
+    children.sort((a, b) => String(a.code).localeCompare(String(b.code)));
+    state.cpvChildrenByParent.set(parent, children);
+  }
+}
+
+function nextLevel(currentLevel) {
+  if (currentLevel === 2) return 3;
+  if (currentLevel === 3) return 4;
+  if (currentLevel === 4) return 5;
+  if (currentLevel === 5) return 8;
+  return null;
+}
+
+function renderCpvPath() {
+  if (!state.cpvPath.length) {
+    els.cpvPath.textContent = 'CPV: Root';
+    return;
+  }
+  const parts = state.cpvPath.map(n => `${n.code}`);
+  els.cpvPath.textContent = `CPV: ${parts.join(' > ')}`;
 }
 
 function rebuildCpvOptions() {
-  const level = els.cpvLevel.value;
-  const len = level === 'division' ? 2 : level === 'group' ? 3 : level === 'class' ? 4 : level === 'category' ? 5 : 8;
-  const nodes = state.nodes.filter(n => n.level === len).sort((a, b) => a.code.localeCompare(b.code));
-  els.cpvCode.innerHTML = '<option value="">Όλες οι κατηγορίες</option>' + nodes.map(n => `<option value="${n.code}">${n.code} - ${n.label || ''}</option>`).join('');
+  const current = state.cpvPath.length ? state.cpvPath[state.cpvPath.length - 1] : null;
+  const parentCode = current ? String(current.code) : '';
+  const targetLevel = current ? nextLevel(Number(current.level)) : 2;
+
+  const children = (state.cpvChildrenByParent.get(parentCode) || []).filter(n => Number(n.level) === targetLevel);
+  els.cpvCode.innerHTML = '<option value="">Επέλεξε υποκατηγορία</option>' +
+    children.map(n => `<option value="${n.code}">${n.code} - ${n.label || ''}</option>`).join('');
+
+  els.cpvBack.disabled = state.cpvPath.length === 0;
+  els.cpvTop.disabled = state.cpvPath.length === 0;
+  els.cpvCode.disabled = children.length === 0;
+
+  renderCpvPath();
 }
 
 function rebuildLocationOptions() {
@@ -99,13 +150,27 @@ function cardHtml(r) {
   </article>`;
 }
 
+function recordMatchesCpvNode(record, node) {
+  if (!node) return true;
+  if (!Array.isArray(record.cpvs) || record.cpvs.length === 0) return false;
+
+  const code = String(node.code || '');
+  const level = Number(node.level || 0);
+
+  if (level === 2) return record.cpvs.some(c => (c.cpv_division || '') === code);
+  if (level === 3) return record.cpvs.some(c => (c.cpv_group || '') === code);
+  if (level === 4) return record.cpvs.some(c => (c.cpv_class || '') === code);
+  if (level === 5) return record.cpvs.some(c => (c.cpv_category || '') === code);
+  if (level === 8) return record.cpvs.some(c => String(c.cpv_item || '').startsWith(code));
+  return false;
+}
+
 function applyFilters() {
   const q = (els.search.value || '').toLowerCase().trim();
   const awardMode = els.awardMode.value;
   const kind = els.kind.value;
   const selectedLocation = (els.location.value || '').trim();
-  const cpvCode = els.cpvCode.value;
-  const level = els.cpvLevel.value;
+  const selectedNode = state.cpvPath.length ? state.cpvPath[state.cpvPath.length - 1] : null;
 
   state.filtered = state.records.filter(r => {
     const recAwardMode = classifyAwardMode(r);
@@ -126,11 +191,7 @@ function applyFilters() {
       if (!blob.includes(q)) return false;
     }
 
-    if (cpvCode) {
-      if (!Array.isArray(r.cpvs) || r.cpvs.length === 0) return false;
-      const ok = r.cpvs.some(c => cpvPrefix(c, level) === cpvCode);
-      if (!ok) return false;
-    }
+    if (!recordMatchesCpvNode(r, selectedNode)) return false;
 
     return true;
   }).sort((a, b) => (b.date || '').localeCompare(a.date || ''));
@@ -174,6 +235,8 @@ async function boot() {
   const records = chunkPayloads.flat();
   state.records = records;
   state.nodes = nodes;
+
+  buildCpvTree();
   rebuildCpvOptions();
   rebuildLocationOptions();
   render();
@@ -183,11 +246,29 @@ els.search.addEventListener('input', render);
 els.awardMode.addEventListener('change', render);
 els.kind.addEventListener('change', render);
 els.location.addEventListener('change', render);
-els.cpvLevel.addEventListener('change', () => { rebuildCpvOptions(); render(); });
-els.cpvCode.addEventListener('change', render);
+els.cpvTop.addEventListener('click', () => {
+  state.cpvPath = [];
+  rebuildCpvOptions();
+  render();
+});
+els.cpvBack.addEventListener('click', () => {
+  if (state.cpvPath.length > 0) {
+    state.cpvPath.pop();
+    rebuildCpvOptions();
+    render();
+  }
+});
+els.cpvCode.addEventListener('change', () => {
+  const code = String(els.cpvCode.value || '').trim();
+  if (!code) return;
+  const node = state.cpvNodesByCode.get(code);
+  if (!node) return;
+  state.cpvPath.push(node);
+  rebuildCpvOptions();
+  render();
+});
 
 boot().catch(err => {
   els.meta.textContent = 'Αποτυχία φόρτωσης δεδομένων. Τρέξε πρώτα το build_web_data.py.';
   console.error(err);
 });
-

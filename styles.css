@@ -96,6 +96,41 @@ h1 {
   margin: 0 0 6px 2px;
 }
 
+.cpv-drill {
+  border: 1px solid #d6e7e2;
+  border-radius: 10px;
+  padding: 8px;
+  background: #fbfefd;
+}
+
+.cpv-actions {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 6px;
+}
+
+.small-btn {
+  border: 1px solid #9dcfc6;
+  background: #ffffff;
+  color: #185c55;
+  border-radius: 8px;
+  padding: 5px 8px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.small-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.cpv-path {
+  font-size: 12px;
+  color: #45635f;
+  margin: 2px 0 8px;
+  word-break: break-all;
+}
+
 input,
 select {
   width: 100%;

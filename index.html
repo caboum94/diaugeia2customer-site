@@ -55,23 +55,17 @@
         </select>
       </label>
 
-      <label class="field">
-        <span>Επίπεδο CPV</span>
-        <select id="cpvLevel">
-          <option value="division">Διαίρεση (2)</option>
-          <option value="group">Ομάδα (3)</option>
-          <option value="class">Κλάση (4)</option>
-          <option value="category">Κατηγορία (5)</option>
-          <option value="item">Είδος (8)</option>
-        </select>
-      </label>
-
-      <label class="field">
-        <span>Κατηγορία CPV</span>
+      <div class="field cpv-drill">
+        <span>Πλοήγηση CPV</span>
+        <div class="cpv-actions">
+          <button id="cpvTop" type="button" class="small-btn">Top</button>
+          <button id="cpvBack" type="button" class="small-btn">Back</button>
+        </div>
+        <div id="cpvPath" class="cpv-path">CPV: Root</div>
         <select id="cpvCode">
-          <option value="">Όλες οι κατηγορίες</option>
+          <option value="">Επέλεξε υποκατηγορία</option>
         </select>
-      </label>
+      </div>
     </aside>
 
     <section class="results-panel">
@@ -81,8 +75,9 @@
     </section>
   </main>
 
-  <script src="./app.js?v=20260221-6"></script>
+  <script src="./app.js?v=20260221-7"></script>
 </body>
 </html>
+
 
 
