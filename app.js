@@ -28,7 +28,7 @@ const els = {
   amountMax: document.getElementById('amountMax'),
   cpvCode: document.getElementById('cpvCode'),
   cpvTop: document.getElementById('cpvTop'),
-  cpvBack: document.getElementById('cpvBack'),
+  cpvUp: document.getElementById('cpvUp'),
   cpvPath: document.getElementById('cpvPath'),
   list: document.getElementById('list'),
   meta: document.getElementById('meta'),
@@ -102,7 +102,7 @@ function rebuildCpvOptions() {
   els.cpvCode.innerHTML = '<option value="">Επέλεξε υποκατηγορία</option>' +
     children.map(n => `<option value="${n.code}">${n.code} - ${n.label || ''}</option>`).join('');
 
-  els.cpvBack.disabled = state.cpvPath.length === 0;
+  els.cpvUp.disabled = state.cpvPath.length === 0;
   els.cpvTop.disabled = state.cpvPath.length === 0;
   els.cpvCode.disabled = children.length === 0;
 
@@ -271,7 +271,7 @@ els.cpvTop.addEventListener('click', () => {
   rebuildCpvOptions();
   render();
 });
-els.cpvBack.addEventListener('click', () => {
+els.cpvUp.addEventListener('click', () => {
   if (state.cpvPath.length > 0) {
     state.cpvPath.pop();
     rebuildCpvOptions();
@@ -292,6 +292,7 @@ boot().catch(err => {
   els.meta.textContent = 'Αποτυχία φόρτωσης δεδομένων. Τρέξε πρώτα το build_web_data.py.';
   console.error(err);
 });
+
 
 
 
