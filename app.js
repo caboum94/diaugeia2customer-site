@@ -24,6 +24,8 @@ const els = {
   awardMode: document.getElementById('awardMode'),
   kind: document.getElementById('kind'),
   location: document.getElementById('location'),
+  amountMin: document.getElementById('amountMin'),
+  amountMax: document.getElementById('amountMax'),
   cpvCode: document.getElementById('cpvCode'),
   cpvTop: document.getElementById('cpvTop'),
   cpvBack: document.getElementById('cpvBack'),
@@ -121,6 +123,14 @@ function formatAmount(v) {
   return Number(v || 0).toLocaleString('el-GR', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
 }
 
+function parseAmountInput(value) {
+  const raw = String(value || '').trim();
+  if (!raw) return null;
+  const normalized = raw.replace(/\./g, '').replace(',', '.');
+  const n = Number(normalized);
+  return Number.isFinite(n) ? n : null;
+}
+
 function cardHtml(r) {
   const stageLabel = KIND_LABELS[r.kind] || r.kind || '-';
   const mode = classifyAwardMode(r);
@@ -171,6 +181,8 @@ function applyFilters() {
   const kind = els.kind.value;
   const selectedLocation = (els.location.value || '').trim();
   const selectedNode = state.cpvPath.length ? state.cpvPath[state.cpvPath.length - 1] : null;
+  const amountMin = parseAmountInput(els.amountMin.value);
+  const amountMax = parseAmountInput(els.amountMax.value);
 
   state.filtered = state.records.filter(r => {
     const recAwardMode = classifyAwardMode(r);
@@ -189,6 +201,12 @@ function applyFilters() {
       const locBlob = r.location && r.location.text ? r.location.text : '';
       const blob = `${r.title || ''} ${r.organization || ''} ${r.referenceNumber || ''} ${r.protocolNumber || ''} ${locBlob}`.toLowerCase();
       if (!blob.includes(q)) return false;
+    }
+
+    if (amountMin !== null || amountMax !== null) {
+      const amount = Number(r.amount_num || 0);
+      if (amountMin !== null && amount < amountMin) return false;
+      if (amountMax !== null && amount > amountMax) return false;
     }
 
     if (!recordMatchesCpvNode(r, selectedNode)) return false;
@@ -246,6 +264,8 @@ els.search.addEventListener('input', render);
 els.awardMode.addEventListener('change', render);
 els.kind.addEventListener('change', render);
 els.location.addEventListener('change', render);
+els.amountMin.addEventListener('input', render);
+els.amountMax.addEventListener('input', render);
 els.cpvTop.addEventListener('click', () => {
   state.cpvPath = [];
   rebuildCpvOptions();
@@ -272,3 +292,6 @@ boot().catch(err => {
   els.meta.textContent = 'Αποτυχία φόρτωσης δεδομένων. Τρέξε πρώτα το build_web_data.py.';
   console.error(err);
 });
+
+
+

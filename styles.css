@@ -88,6 +88,16 @@ h1 {
   margin-bottom: 10px;
 }
 
+.field-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.field.half {
+  margin-bottom: 10px;
+}
+
 .field span {
   display: block;
   font-size: 12px;
@@ -242,4 +252,5 @@ a {
     grid-template-columns: 1fr;
   }
 }
+
 
