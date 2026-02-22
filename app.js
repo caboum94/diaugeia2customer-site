@@ -5,6 +5,7 @@
   visibleCount: 200,
   locations: [],
   cpvSelections: [],
+  cpvOptionLevel: 0,
   cpvNodesByCode: new Map(),
   cpvChildrenByParent: new Map(),
 };
@@ -27,7 +28,7 @@ const els = {
   location: document.getElementById('location'),
   amountMin: document.getElementById('amountMin'),
   amountMax: document.getElementById('amountMax'),
-  cpvCode: document.getElementById('cpvCode'),
+  cpvCodeList: document.getElementById('cpvCodeList'),
   cpvTop: document.getElementById('cpvTop'),
   cpvUp: document.getElementById('cpvUp'),
   cpvPath: document.getElementById('cpvPath'),
@@ -153,18 +154,20 @@ function rebuildCpvOptions() {
   }
   const options = Array.from(byCode.values()).sort((a, b) => String(a.code).localeCompare(String(b.code)));
   const selectedCodes = new Set(((targetIdx >= 0 ? state.cpvSelections[targetIdx] : []) || []).map(n => String(n.code)));
+  state.cpvOptionLevel = targetLevel || 0;
 
-  els.cpvCode.dataset.level = String(targetLevel || '');
-  els.cpvCode.innerHTML = options.map(n => {
-    const code = String(n.code || '');
-    const sel = selectedCodes.has(code) ? ' selected' : '';
-    return `<option value="${code}"${sel}>${code} - ${n.label || ''}</option>`;
-  }).join('');
-  els.cpvCode.size = Math.min(12, Math.max(6, options.length || 6));
+  if (!targetLevel || options.length === 0) {
+    els.cpvCodeList.innerHTML = '<div class="cpv-empty">Δεν υπάρχουν υποκατηγορίες.</div>';
+  } else {
+    els.cpvCodeList.innerHTML = options.map(n => {
+      const code = String(n.code || '');
+      const checked = selectedCodes.has(code) ? ' checked' : '';
+      return `<label class="cpv-item"><input type="checkbox" data-code="${code}"${checked}> <span>${code} - ${n.label || ''}</span></label>`;
+    }).join('');
+  }
 
   els.cpvUp.disabled = deepestIdx < 0;
   els.cpvTop.disabled = deepestIdx < 0;
-  els.cpvCode.disabled = !targetLevel || options.length === 0;
 
   renderCpvPath();
 }
@@ -352,32 +355,26 @@ els.cpvUp.addEventListener('click', () => {
     render();
   }
 });
-els.cpvCode.addEventListener('mousedown', (e) => {
-  // Toggle option selection on simple click so multi-select works without Ctrl/Cmd.
+els.cpvCodeList.addEventListener('change', (e) => {
   const target = e.target;
-  if (!(target instanceof HTMLOptionElement)) return;
-  e.preventDefault();
-  target.selected = !target.selected;
-  const level = Number(els.cpvCode.dataset.level || 0);
-  const codes = Array.from(els.cpvCode.selectedOptions || [])
-    .map(o => String(o.value || '').trim())
-    .filter(Boolean);
-  const nodes = codes
-    .map(code => state.cpvNodesByCode.get(code))
-    .filter(n => n && Number(n.level) === level);
-  setSelectionForLevel(level, nodes);
-  rebuildCpvOptions();
-  render();
-});
-els.cpvCode.addEventListener('change', () => {
-  const level = Number(els.cpvCode.dataset.level || 0);
-  const codes = Array.from(els.cpvCode.selectedOptions || [])
-    .map(o => String(o.value || '').trim())
-    .filter(Boolean);
-  const nodes = codes
-    .map(code => state.cpvNodesByCode.get(code))
-    .filter(n => n && Number(n.level) === level);
-  setSelectionForLevel(level, nodes);
+  if (!(target instanceof HTMLInputElement) || target.type !== 'checkbox') return;
+  const level = Number(state.cpvOptionLevel || 0);
+  if (!level) return;
+
+  const idx = levelIndex(level);
+  const prev = (idx >= 0 ? state.cpvSelections[idx] : []) || [];
+  const byCode = new Map(prev.map(n => [String(n.code || ''), n]));
+  const code = String(target.dataset.code || '').trim();
+  if (!code) return;
+
+  if (target.checked) {
+    const node = state.cpvNodesByCode.get(code);
+    if (node && Number(node.level) === level) byCode.set(code, node);
+  } else {
+    byCode.delete(code);
+  }
+
+  setSelectionForLevel(level, Array.from(byCode.values()));
   rebuildCpvOptions();
   render();
 });

@@ -141,8 +141,38 @@ h1 {
   word-break: break-all;
 }
 
-.cpv-select {
+.cpv-checklist {
   min-height: 180px;
+  max-height: 260px;
+  overflow: auto;
+  border: 1px solid #c8ddd7;
+  border-radius: 10px;
+  background: #f8fcfb;
+  padding: 6px;
+}
+
+.cpv-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  color: #2f4440;
+  padding: 5px 4px;
+  border-radius: 6px;
+}
+
+.cpv-item:hover {
+  background: #eef7f4;
+}
+
+.cpv-item input[type="checkbox"] {
+  margin: 0;
+}
+
+.cpv-empty {
+  font-size: 12px;
+  color: #57706a;
+  padding: 8px 4px;
 }
 
 input,
