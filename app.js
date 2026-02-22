@@ -5,7 +5,7 @@
   visibleCount: 200,
   locations: [],
   cpvSelections: [],
-  cpvOptionLevel: 0,
+  cpvOptionLevel: 2,
   cpvNodesByCode: new Map(),
   cpvChildrenByParent: new Map(),
 };
@@ -31,6 +31,7 @@ const els = {
   cpvCodeList: document.getElementById('cpvCodeList'),
   cpvTop: document.getElementById('cpvTop'),
   cpvUp: document.getElementById('cpvUp'),
+  cpvNext: document.getElementById('cpvNext'),
   cpvPath: document.getElementById('cpvPath'),
   list: document.getElementById('list'),
   meta: document.getElementById('meta'),
@@ -121,7 +122,7 @@ function activeCpvNodes() {
 }
 
 function renderCpvPath() {
-  const parts = [];
+  const parts = [`Select L${state.cpvOptionLevel || 2}`];
   for (let i = 0; i < CPV_LEVELS.length; i += 1) {
     const selected = state.cpvSelections[i] || [];
     if (!selected.length) continue;
@@ -138,12 +139,15 @@ function renderCpvPath() {
 }
 
 function rebuildCpvOptions() {
-  const deepestIdx = deepestSelectionIndex();
-  const parentCodes = deepestIdx < 0
-    ? ['']
-    : (state.cpvSelections[deepestIdx] || []).map(n => String(n.code || '').trim()).filter(Boolean);
-  const targetLevel = deepestIdx < 0 ? 2 : nextLevel(CPV_LEVELS[deepestIdx]);
+  let targetLevel = Number(state.cpvOptionLevel || 2);
+  if (!CPV_LEVELS.includes(targetLevel)) targetLevel = 2;
   const targetIdx = levelIndex(targetLevel);
+
+  let parentCodes = [''];
+  if (targetIdx > 0) {
+    const parentSel = state.cpvSelections[targetIdx - 1] || [];
+    parentCodes = parentSel.map(n => String(n.code || '').trim()).filter(Boolean);
+  }
 
   const byCode = new Map();
   for (const parentCode of parentCodes) {
@@ -166,8 +170,14 @@ function rebuildCpvOptions() {
     }).join('');
   }
 
-  els.cpvUp.disabled = deepestIdx < 0;
-  els.cpvTop.disabled = deepestIdx < 0;
+  const hasAnySelection = deepestSelectionIndex() >= 0;
+  const canGoUp = targetIdx > 0;
+  const canGoNext = targetIdx >= 0 && targetIdx < CPV_LEVELS.length - 1 && ((state.cpvSelections[targetIdx] || []).length > 0);
+  els.cpvUp.disabled = !canGoUp;
+  els.cpvTop.disabled = !hasAnySelection && targetLevel === 2;
+  if (els.cpvNext) {
+    els.cpvNext.disabled = !canGoNext;
+  }
 
   renderCpvPath();
 }
@@ -343,18 +353,31 @@ els.amountMin.addEventListener('input', render);
 els.amountMax.addEventListener('input', render);
 els.cpvTop.addEventListener('click', () => {
   state.cpvSelections = [];
+  state.cpvOptionLevel = 2;
   rebuildCpvOptions();
   render();
 });
 els.cpvUp.addEventListener('click', () => {
-  const idx = deepestSelectionIndex();
-  if (idx >= 0) {
-    state.cpvSelections.length = idx;
-    trimCpvSelections();
+  const idx = levelIndex(state.cpvOptionLevel);
+  if (idx > 0) {
+    state.cpvOptionLevel = CPV_LEVELS[idx - 1];
+  }
+  rebuildCpvOptions();
+  render();
+});
+if (els.cpvNext) {
+  els.cpvNext.addEventListener('click', () => {
+    const idx = levelIndex(state.cpvOptionLevel);
+    if (idx >= 0 && idx < CPV_LEVELS.length - 1) {
+      const currentSel = state.cpvSelections[idx] || [];
+      if (currentSel.length > 0) {
+        state.cpvOptionLevel = CPV_LEVELS[idx + 1];
+      }
+    }
     rebuildCpvOptions();
     render();
-  }
-});
+  });
+}
 els.cpvCodeList.addEventListener('change', (e) => {
   const target = e.target;
   if (!(target instanceof HTMLInputElement) || target.type !== 'checkbox') return;
@@ -375,6 +398,7 @@ els.cpvCodeList.addEventListener('change', (e) => {
   }
 
   setSelectionForLevel(level, Array.from(byCode.values()));
+  state.cpvOptionLevel = level;
   rebuildCpvOptions();
   render();
 });
