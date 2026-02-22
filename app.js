@@ -352,6 +352,23 @@ els.cpvUp.addEventListener('click', () => {
     render();
   }
 });
+els.cpvCode.addEventListener('mousedown', (e) => {
+  // Toggle option selection on simple click so multi-select works without Ctrl/Cmd.
+  const target = e.target;
+  if (!(target instanceof HTMLOptionElement)) return;
+  e.preventDefault();
+  target.selected = !target.selected;
+  const level = Number(els.cpvCode.dataset.level || 0);
+  const codes = Array.from(els.cpvCode.selectedOptions || [])
+    .map(o => String(o.value || '').trim())
+    .filter(Boolean);
+  const nodes = codes
+    .map(code => state.cpvNodesByCode.get(code))
+    .filter(n => n && Number(n.level) === level);
+  setSelectionForLevel(level, nodes);
+  rebuildCpvOptions();
+  render();
+});
 els.cpvCode.addEventListener('change', () => {
   const level = Number(els.cpvCode.dataset.level || 0);
   const codes = Array.from(els.cpvCode.selectedOptions || [])
