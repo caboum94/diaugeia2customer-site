@@ -131,6 +131,13 @@ function parseAmountInput(value) {
   return Number.isFinite(n) ? n : null;
 }
 
+function badgeHtml(r) {
+  const b = String(r.badge || '').trim().toLowerCase();
+  if (b === 'today') return '<span class="badge badge-today">today</span>';
+  if (b === 'new') return '<span class="badge badge-new">new</span>';
+  return '';
+}
+
 function cardHtml(r) {
   const stageLabel = KIND_LABELS[r.kind] || r.kind || '-';
   const mode = classifyAwardMode(r);
@@ -148,7 +155,7 @@ function cardHtml(r) {
 
   return `<article class="card">
     <div class="title">${r.title || '(χωρίς τίτλο)'}</div>
-    <div class="line"><strong>Τύπος ανάθεσης:</strong> ${awardModeLabel} | <strong>Στάδιο:</strong> ${stageLabel} | <strong>Ημ/νία:</strong> ${r.date || '-'}</div>
+    <div class="line"><strong>Τύπος ανάθεσης:</strong> ${awardModeLabel} | <strong>Στάδιο:</strong> ${stageLabel} | <strong>Ημ/νία:</strong> ${r.date || '-'} ${badgeHtml(r)}</div>
     <div class="line"><strong>ΑΔΑΜ/Ref:</strong> ${r.referenceNumber || '-'} | <strong>Πρωτόκολλο:</strong> ${r.protocolNumber || '-'}</div>
     <div class="line"><strong>Φορέας:</strong> ${r.organization || '-'}</div>
     <div class="line"><strong>Τοποθεσία:</strong> ${locText}</div>
