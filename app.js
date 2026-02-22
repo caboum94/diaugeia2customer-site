@@ -4,7 +4,7 @@
   filtered: [],
   visibleCount: 200,
   locations: [],
-  cpvPath: [],
+  cpvSelections: [],
   cpvNodesByCode: new Map(),
   cpvChildrenByParent: new Map(),
 };
@@ -18,6 +18,7 @@ const KIND_LABELS = {
 };
 
 const PAGE_SIZE = 200;
+const CPV_LEVELS = [2, 3, 4, 5, 8];
 
 const els = {
   search: document.getElementById('search'),
@@ -84,27 +85,86 @@ function nextLevel(currentLevel) {
   return null;
 }
 
+function levelIndex(level) {
+  return CPV_LEVELS.indexOf(Number(level || 0));
+}
+
+function trimCpvSelections() {
+  while (state.cpvSelections.length > 0) {
+    const tail = state.cpvSelections[state.cpvSelections.length - 1];
+    if (Array.isArray(tail) && tail.length > 0) break;
+    state.cpvSelections.pop();
+  }
+}
+
+function deepestSelectionIndex() {
+  for (let i = state.cpvSelections.length - 1; i >= 0; i -= 1) {
+    const arr = state.cpvSelections[i];
+    if (Array.isArray(arr) && arr.length > 0) return i;
+  }
+  return -1;
+}
+
+function setSelectionForLevel(level, nodes) {
+  const idx = levelIndex(level);
+  if (idx < 0) return;
+  state.cpvSelections[idx] = Array.isArray(nodes) ? nodes : [];
+  state.cpvSelections.length = idx + 1;
+  trimCpvSelections();
+}
+
+function activeCpvNodes() {
+  const idx = deepestSelectionIndex();
+  if (idx < 0) return [];
+  return state.cpvSelections[idx] || [];
+}
+
 function renderCpvPath() {
-  if (!state.cpvPath.length) {
+  const parts = [];
+  for (let i = 0; i < CPV_LEVELS.length; i += 1) {
+    const selected = state.cpvSelections[i] || [];
+    if (!selected.length) continue;
+    const codes = selected.map(n => n.code).slice(0, 4);
+    const extra = selected.length > 4 ? ` +${selected.length - 4}` : '';
+    parts.push(`L${CPV_LEVELS[i]}: ${codes.join(', ')}${extra}`);
+  }
+
+  if (!parts.length) {
     els.cpvPath.textContent = 'CPV: Root';
     return;
   }
-  const parts = state.cpvPath.map(n => `${n.code}`);
   els.cpvPath.textContent = `CPV: ${parts.join(' > ')}`;
 }
 
 function rebuildCpvOptions() {
-  const current = state.cpvPath.length ? state.cpvPath[state.cpvPath.length - 1] : null;
-  const parentCode = current ? String(current.code) : '';
-  const targetLevel = current ? nextLevel(Number(current.level)) : 2;
+  const deepestIdx = deepestSelectionIndex();
+  const parentCodes = deepestIdx < 0
+    ? ['']
+    : (state.cpvSelections[deepestIdx] || []).map(n => String(n.code || '').trim()).filter(Boolean);
+  const targetLevel = deepestIdx < 0 ? 2 : nextLevel(CPV_LEVELS[deepestIdx]);
+  const targetIdx = levelIndex(targetLevel);
 
-  const children = (state.cpvChildrenByParent.get(parentCode) || []).filter(n => Number(n.level) === targetLevel);
-  els.cpvCode.innerHTML = '<option value="">Επέλεξε υποκατηγορία</option>' +
-    children.map(n => `<option value="${n.code}">${n.code} - ${n.label || ''}</option>`).join('');
+  const byCode = new Map();
+  for (const parentCode of parentCodes) {
+    const children = (state.cpvChildrenByParent.get(parentCode) || []).filter(n => Number(n.level) === targetLevel);
+    for (const n of children) {
+      byCode.set(String(n.code), n);
+    }
+  }
+  const options = Array.from(byCode.values()).sort((a, b) => String(a.code).localeCompare(String(b.code)));
+  const selectedCodes = new Set(((targetIdx >= 0 ? state.cpvSelections[targetIdx] : []) || []).map(n => String(n.code)));
 
-  els.cpvUp.disabled = state.cpvPath.length === 0;
-  els.cpvTop.disabled = state.cpvPath.length === 0;
-  els.cpvCode.disabled = children.length === 0;
+  els.cpvCode.dataset.level = String(targetLevel || '');
+  els.cpvCode.innerHTML = options.map(n => {
+    const code = String(n.code || '');
+    const sel = selectedCodes.has(code) ? ' selected' : '';
+    return `<option value="${code}"${sel}>${code} - ${n.label || ''}</option>`;
+  }).join('');
+  els.cpvCode.size = Math.min(12, Math.max(6, options.length || 6));
+
+  els.cpvUp.disabled = deepestIdx < 0;
+  els.cpvTop.disabled = deepestIdx < 0;
+  els.cpvCode.disabled = !targetLevel || options.length === 0;
 
   renderCpvPath();
 }
@@ -182,12 +242,17 @@ function recordMatchesCpvNode(record, node) {
   return false;
 }
 
+function recordMatchesAnyCpvNode(record, nodes) {
+  if (!Array.isArray(nodes) || nodes.length === 0) return true;
+  return nodes.some(n => recordMatchesCpvNode(record, n));
+}
+
 function applyFilters() {
   const q = (els.search.value || '').toLowerCase().trim();
   const awardMode = els.awardMode.value;
   const kind = els.kind.value;
   const selectedLocation = (els.location.value || '').trim();
-  const selectedNode = state.cpvPath.length ? state.cpvPath[state.cpvPath.length - 1] : null;
+  const selectedNodes = activeCpvNodes();
   const amountMin = parseAmountInput(els.amountMin.value);
   const amountMax = parseAmountInput(els.amountMax.value);
 
@@ -216,7 +281,7 @@ function applyFilters() {
       if (amountMax !== null && amount > amountMax) return false;
     }
 
-    if (!recordMatchesCpvNode(r, selectedNode)) return false;
+    if (!recordMatchesAnyCpvNode(r, selectedNodes)) return false;
 
     return true;
   }).sort((a, b) => (b.date || '').localeCompare(a.date || ''));
@@ -274,23 +339,28 @@ els.location.addEventListener('change', render);
 els.amountMin.addEventListener('input', render);
 els.amountMax.addEventListener('input', render);
 els.cpvTop.addEventListener('click', () => {
-  state.cpvPath = [];
+  state.cpvSelections = [];
   rebuildCpvOptions();
   render();
 });
 els.cpvUp.addEventListener('click', () => {
-  if (state.cpvPath.length > 0) {
-    state.cpvPath.pop();
+  const idx = deepestSelectionIndex();
+  if (idx >= 0) {
+    state.cpvSelections.length = idx;
+    trimCpvSelections();
     rebuildCpvOptions();
     render();
   }
 });
 els.cpvCode.addEventListener('change', () => {
-  const code = String(els.cpvCode.value || '').trim();
-  if (!code) return;
-  const node = state.cpvNodesByCode.get(code);
-  if (!node) return;
-  state.cpvPath.push(node);
+  const level = Number(els.cpvCode.dataset.level || 0);
+  const codes = Array.from(els.cpvCode.selectedOptions || [])
+    .map(o => String(o.value || '').trim())
+    .filter(Boolean);
+  const nodes = codes
+    .map(code => state.cpvNodesByCode.get(code))
+    .filter(n => n && Number(n.level) === level);
+  setSelectionForLevel(level, nodes);
   rebuildCpvOptions();
   render();
 });
