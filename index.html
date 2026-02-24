@@ -1,96 +1,18 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="el">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Publicflow Περιήγηση</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Source+Serif+4:wght@600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./styles.css">
-</head>
-<body>
-  <header class="hero">
-    <div class="hero-inner">
-      <p class="eyebrow">KIMDIS Data Browser</p>
-      <h1>Publicflow Περιήγηση</h1>
-      <p class="hero-sub">Έξυπνη αναζήτηση προμηθειών με φίλτρα ανά τύπο ανάθεσης, στάδιο, τοποθεσία και CPV.</p>
-    </div>
-  </header>
-
-  <main class="layout">
-    <aside class="filters-panel">
-      <h2>Φίλτρα</h2>
-
-      <label class="field">
-        <span>Αναζήτηση</span>
-        <input id="search" placeholder="Τίτλος, φορέας, κωδικός" />
-      </label>
-
-      <label class="field">
-        <span>Τύπος Ανάθεσης</span>
-        <select id="awardMode">
-          <option value="all">Όλοι οι τύποι ανάθεσης</option>
-          <option value="direct">Απευθείας ανάθεση</option>
-          <option value="competition">Διαγωνισμός</option>
-        </select>
-      </label>
-
-      <label class="field">
-        <span>Στάδιο</span>
-        <select id="kind">
-          <option value="all">Όλα τα στάδια</option>
-          <option value="request">Αίτημα</option>
-          <option value="notice">Προκήρυξη</option>
-          <option value="auction">Διαγωνισμός</option>
-          <option value="contract">Σύμβαση</option>
-          <option value="payment">Πληρωμή</option>
-        </select>
-      </label>
-
-      <label class="field">
-        <span>Τοποθεσία (NUTS)</span>
-        <select id="location">
-          <option value="">Όλες οι τοποθεσίες (NUTS)</option>
-        </select>
-      </label>
-
-      <div class="field-row">
-        <label class="field half">
-          <span>Ποσό από (€)</span>
-          <input id="amountMin" inputmode="decimal" placeholder="π.χ. 1000" />
-        </label>
-        <label class="field half">
-          <span>Ποσό έως (€)</span>
-          <input id="amountMax" inputmode="decimal" placeholder="π.χ. 50000" />
-        </label>
-      </div>
-
-      <div class="field cpv-drill">
-        <span>Πλοήγηση CPV</span>
-        <div class="cpv-actions">
-          <button id="cpvTop" type="button" class="small-btn">Top</button>
-          <button id="cpvUp" type="button" class="small-btn">Up</button>
-          <button id="cpvNext" type="button" class="small-btn">Next</button>
-        </div>
-        <div id="cpvPath" class="cpv-path">CPV: Root</div>
-        <div id="cpvCodeList" class="cpv-checklist"></div>
-        <div class="hint">Επίλεξε πολλές κατηγορίες και πάτα Next για υποκατηγορίες.</div>
-      </div>
-    </aside>
-
-    <section class="results-panel">
-      <div id="meta" class="meta"></div>
-      <div id="list" class="cards"></div>
-      <div id="moreWrap" class="more-wrap"></div>
-    </section>
-  </main>
-
-  <script src="./app.js?v=20260222-13"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Source+Serif+4:wght@600;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>Publicflow Περιήγηση</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
 </html>
-
-
-
-
-
