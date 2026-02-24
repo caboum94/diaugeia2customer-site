@@ -211,6 +211,32 @@ function badgeHtml(r) {
   return '';
 }
 
+function assignRecentBadges(records) {
+  const uniqueDates = Array.from(
+    new Set(
+      records
+        .map(r => String(r.date || '').trim())
+        .filter(Boolean),
+    ),
+  ).sort((a, b) => a.localeCompare(b));
+
+  if (!uniqueDates.length) return;
+
+  const latestDate = uniqueDates[uniqueDates.length - 1];
+  const previousDate = uniqueDates.length > 1 ? uniqueDates[uniqueDates.length - 2] : '';
+
+  for (const r of records) {
+    const d = String(r.date || '').trim();
+    if (d === latestDate) {
+      r.badge = 'today';
+    } else if (previousDate && d === previousDate) {
+      r.badge = 'new';
+    } else {
+      r.badge = '';
+    }
+  }
+}
+
 function cardHtml(r) {
   const stageLabel = KIND_LABELS[r.kind] || r.kind || '-';
   const mode = classifyAwardMode(r);
@@ -336,6 +362,7 @@ async function boot() {
   const chunkFiles = Array.isArray(manifest.chunks) ? manifest.chunks.map(c => c.file) : [];
   const chunkPayloads = await Promise.all(chunkFiles.map(f => fetch(f).then(r => r.json())));
   const records = chunkPayloads.flat();
+  assignRecentBadges(records);
   state.records = records;
   state.nodes = nodes;
 
